@@ -48,3 +48,6 @@
     box.addEventListener('input', run);
   }
 })();
+
+// size the Motive Wheel iframe to its content
+addEventListener("message",function(e){var h=e.data&&e.data.dwWheelHeight;if(!h)return;document.querySelectorAll(".wheel-embed").forEach(function(f){if(f.contentWindow===e.source)f.style.height=Math.ceil(h)+"px"})});

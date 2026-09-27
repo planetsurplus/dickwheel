@@ -199,11 +199,15 @@ def sidebar(ed, editions):
 <p class="presumption">Opinion. Kept separate from the record.</p></section>"""
     else:
         com_html = f"""<section class="panel commentary"><p class="label">Commentary</p>
-<p class="placeholder">Commentary column coming soon. Until then, <a href="{BASE}wheel/">spin the Motive Wheel</a> to find out why they really did it.</p></section>"""
+<p class="placeholder">Commentary column coming soon.</p></section>"""
     recent = "".join(
         f'<li><a href="{BASE}{ed_url(x["date"])}">{short_date(x["date"])}</a><span class="n">{len(x["entries"])} entries</span></li>'
         for x in editions[:8])
+    wheel = f"""<section class="panel wheel-panel"><h2>Why'd they do it?</h2>
+<iframe class="wheel-embed" src="{BASE}wheel/?embed=1" title="Motive Wheel: spin for a joke motive" loading="lazy"></iframe>
+<p class="presumption" style="margin-top:8px">Satire. <a href="{BASE}wheel/">Open the full-size wheel →</a></p></section>"""
     return f"""<aside class="side">
+{wheel}
 <section class="panel"><h2>This edition</h2><div class="stats">
 <div><span class="v">{n}</span><span class="l">Entries</span></div>
 <div><span class="v">{fel}</span><span class="l">Felony items</span></div>

@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Why'd They Do It? · Motive Wheel · dickwheel.com</title>
 <meta name="description" content="Spin the wheel for a sarcastic, entirely made-up motive. Satire.">
-<style>*{box-sizing:border-box}body{margin:0}
-.back{position:fixed;top:10px;left:12px;z-index:5;font:600 13px "IBM Plex Mono",ui-monospace,monospace;color:#f2a33a;text-decoration:none;background:#11131ccc;padding:6px 10px;border-radius:6px;border:1px solid #2d3144}
+<style>*{box-sizing:border-box}
+.back{font:600 13px "IBM Plex Mono",ui-monospace,monospace;color:#f2a33a;text-decoration:none;background:#11131ccc;padding:6px 10px;border-radius:6px;border:1px solid #2d3144}
 .back:hover{color:#f5d90a}</style>
 </head>
 <body>
@@ -30,51 +30,43 @@
   --body:"IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
   --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
 }
-html,body{height:100%}
+html,body{min-height:100%}
 body{
-  background:var(--night);
-  color:var(--paper);
-  font-family:var(--body);
-  font-size:16px;
-  display:flex;justify-content:center;align-items:center;
-  padding-inline:16px;padding-block:12px;box-sizing:border-box;
+  background:var(--night);color:var(--paper);font-family:var(--body);font-size:16px;
+  display:flex;flex-direction:column;justify-content:center;align-items:center;gap:10px;
+  padding-inline:16px;padding-block:12px;box-sizing:border-box;margin:0;
 }
 .stage{
-  position:relative;
-  width:min(100%, calc((100svh - 24px) * 9 / 16), 480px);
-  aspect-ratio:9/16;max-width:100%;
-  background:
-    radial-gradient(120% 60% at 50% 38%, #262a3d 0%, var(--night-2) 55%, var(--night) 100%);
-  border:1px solid var(--line);
-  border-radius:18px;
-  overflow:hidden;
+  position:relative;container-type:inline-size;
+  width:min(100%, 460px);
+  background:radial-gradient(120% 60% at 50% 30%, #262a3d 0%, var(--night-2) 55%, var(--night) 100%);
+  border:1px solid var(--line);border-radius:18px;overflow:hidden;
   display:flex;flex-direction:column;align-items:center;
   box-shadow:0 30px 80px -30px #000;
 }
 .tape{
-  width:130%;margin-left:-15%;
+  width:130%;margin-left:-15%;margin-top:4cqi;
   background:var(--tape);color:#111;
-  font-family:var(--display);font-size:clamp(10px,2.6vmin,13px);letter-spacing:.08em;
-  white-space:nowrap;overflow:hidden;padding:5px 0;
-  transform:rotate(-3deg);margin-top:4.5%;
-  box-shadow:0 4px 0 #0006;
+  font-family:var(--display);font-size:max(9px,2.7cqi);letter-spacing:.08em;
+  white-space:nowrap;overflow:hidden;padding:1.1cqi 0;
+  transform:rotate(-3deg);box-shadow:0 4px 0 #0006;
 }
 .tape span{display:inline-block;animation:crawl 22s linear infinite}
 @keyframes crawl{to{transform:translateX(-50%)}}
-header{text-align:center;padding:5% 6% 0;display:grid;gap:4px}
-.eyebrow{font-family:var(--mono);font-size:clamp(10px,2.4vmin,12px);color:var(--sodium);letter-spacing:.14em;text-transform:uppercase}
+header{text-align:center;padding:4cqi 6cqi 0;display:grid;gap:1cqi}
+.eyebrow{font-family:var(--mono);font-size:max(9px,2.5cqi);color:var(--sodium);letter-spacing:.14em;text-transform:uppercase}
 h1{margin:0;font-family:var(--display);font-weight:400;line-height:.95;
-  font-size:clamp(28px,8.6vmin,46px);text-wrap:balance;
-  color:var(--paper);text-shadow:3px 3px 0 var(--siren), 6px 6px 0 #0008}
+  font-size:9.6cqi;text-wrap:balance;
+  color:var(--paper);text-shadow:.6cqi .6cqi 0 var(--siren), 1.2cqi 1.2cqi 0 #0008}
 h1 em{font-style:normal;color:var(--tape)}
 
-.wheelwrap{position:relative;width:86%;aspect-ratio:1;margin-top:5%;flex:none}
+.wheelwrap{position:relative;width:86%;aspect-ratio:1;margin-top:7cqi;flex:none}
 canvas{width:100%;height:100%;display:block;border-radius:50%;
-  box-shadow:0 0 0 6px #0a0b10, 0 0 0 9px var(--sodium), 0 18px 40px -10px #000}
-.pointer{position:absolute;left:50%;top:-4%;width:11%;aspect-ratio:.8;transform:translateX(-50%);
+  box-shadow:0 0 0 1.2cqi #0a0b10, 0 0 0 1.9cqi var(--sodium), 0 18px 40px -10px #000}
+.pointer{position:absolute;left:50%;top:-5%;width:11%;aspect-ratio:.8;transform:translateX(-50%);
   background:var(--paper);clip-path:polygon(0 0,100% 0,50% 100%);filter:drop-shadow(0 3px 0 #000);z-index:2}
-.hub{position:absolute;inset:39%;border-radius:50%;background:var(--night);border:3px solid var(--sodium);
-  display:grid;place-items:center;font-family:var(--display);font-size:clamp(9px,2.3vmin,12px);color:var(--sodium);text-align:center;line-height:1}
+.hub{position:absolute;inset:39%;border-radius:50%;background:var(--night);border:.7cqi solid var(--sodium);
+  display:grid;place-items:center;font-family:var(--display);font-size:2.5cqi;color:var(--sodium);text-align:center;line-height:1}
 .lights{position:absolute;inset:-3%;pointer-events:none}
 .lights i{position:absolute;width:3.2%;aspect-ratio:1;border-radius:50%;background:var(--sodium);opacity:.35;transform:translate(-50%,-50%)}
 .stage.spinning .lights i{animation:blink .5s steps(2) infinite}
@@ -82,38 +74,40 @@ canvas{width:100%;height:100%;display:block;border-radius:50%;
 @keyframes blink{50%{opacity:1;box-shadow:0 0 10px var(--sodium)}}
 
 .report{
-  width:88%;margin-top:6%;flex:1;min-height:0;
+  width:88%;margin-top:8cqi;
   background:var(--paper);color:#16171d;border-radius:4px;
-  padding:3.5% 4.5%;box-sizing:border-box;position:relative;
-  display:flex;flex-direction:column;gap:4px;
-  font-size:clamp(12px,3.1vmin,16px);
+  padding:3.5cqi 4.5cqi;box-sizing:border-box;position:relative;
+  display:flex;flex-direction:column;gap:1cqi;
+  font-size:max(13px,3.5cqi);
 }
 .report .row{display:flex;justify-content:space-between;gap:8px;font-family:var(--mono);font-size:.72em;letter-spacing:.06em;text-transform:uppercase;color:#555a6b;border-bottom:1px dashed #b9b9b2;padding-bottom:3px}
 .report .row b{color:#16171d;font-variant-numeric:tabular-nums}
 .label{font-family:var(--mono);font-size:.72em;letter-spacing:.1em;color:var(--siren);text-transform:uppercase;margin-top:2px}
-.motive{font-family:var(--display);font-size:1.18em;line-height:1.05;text-wrap:balance}
-.roast{margin:0;line-height:1.3;overflow:auto}
-.stamp{position:absolute;right:4%;top:18%;font-family:var(--display);color:var(--siren);border:3px solid var(--siren);
-  padding:2px 8px;transform:rotate(12deg);font-size:.8em;opacity:.85;border-radius:3px;pointer-events:none}
+.motive{font-family:var(--display);font-size:1.18em;line-height:1.05;text-wrap:balance;padding-right:22%}
+.roast{margin:0;line-height:1.35}
+.stamp{position:absolute;right:3%;top:38%;font-family:var(--display);color:var(--siren);border:3px solid var(--siren);
+  padding:2px 6px;transform:rotate(12deg);font-size:.7em;opacity:.8;border-radius:3px;pointer-events:none}
 .stamp.hit{animation:stamp .35s cubic-bezier(.3,1.6,.5,1)}
 @keyframes stamp{from{transform:rotate(12deg) scale(2.4);opacity:0}}
 
-.controls{width:88%;display:flex;gap:8px;margin:4% 0 5%}
+.controls{width:88%;display:flex;gap:8px;margin-top:5cqi}
 button{font:inherit;cursor:pointer;border-radius:6px;border:0}
-#spin{flex:1;font-family:var(--display);font-size:clamp(16px,4.6vmin,22px);padding:.55em;background:var(--siren);color:#fff;
+#spin{flex:1;font-family:var(--display);font-size:max(15px,4.8cqi);padding:.55em;background:var(--siren);color:#fff;
   box-shadow:0 5px 0 #7d141b;transition:transform .08s, box-shadow .08s}
 #spin:active{transform:translateY(4px);box-shadow:0 1px 0 #7d141b}
 #spin:disabled{background:#6b2a30;box-shadow:0 5px 0 #3a1519;cursor:wait}
-#sound{width:3.2em;background:var(--night-2);color:var(--paper);border:1px solid var(--line);font-family:var(--mono);font-size:.8em}
+#sound{width:3.4em;background:var(--night-2);color:var(--paper);border:1px solid var(--line);font-family:var(--mono);font-size:max(11px,2.8cqi)}
 button:focus-visible{outline:3px solid var(--tape);outline-offset:3px}
-.fine{position:absolute;bottom:1.2%;left:0;right:0;text-align:center;font-family:var(--mono);font-size:clamp(8px,2vmin,10px);color:var(--muted);letter-spacing:.06em}
+.fine{width:88%;margin:5cqi 0 4cqi;text-align:center;font-family:var(--mono);font-size:max(9px,2.3cqi);line-height:1.4;color:var(--muted);letter-spacing:.04em}
+
+/* embedded in the dickwheel.com sidebar */
+html.embed body{padding:0;background:transparent;justify-content:flex-start}
+html.embed .stage{width:100%;box-shadow:none}
+html.embed .back{display:none}
 
 @media (prefers-reduced-motion: reduce){
   .tape span,.stage.spinning .lights i,.stamp.hit{animation:none}
 }
-body{flex-direction:column;gap:10px;padding-block:10px 12px!important}
-.stage{width:min(100%, calc((100svh - 64px) * 9 / 16), 480px)!important}
-.back{position:static}
 </style>
 
 <a class="back" href="/">&larr; Back to the record</a>
@@ -211,6 +205,14 @@ let angle = 0, spinning = false, soundOn = true, audio;
 
 function fontReady(){ return document.fonts ? document.fonts.load('600 30px "IBM Plex Sans Condensed"').catch(()=>{}) : Promise.resolve(); }
 
+let _lf=null;
+function labelFont(){
+  if(_lf) return _lf;
+  let fs=34; const f=s=>'700 '+s+'px "IBM Plex Sans Condensed", "Arial Narrow", sans-serif';
+  const widest=()=>{ctx.font=f(fs);return Math.max(...MOTIVES.map(m=>ctx.measureText(m[0].toUpperCase()).width));};
+  while(widest()>R*0.62 && fs>24) fs--;
+  return _lf=f(fs);
+}
 function draw(){
   ctx.clearRect(0,0,cv.width,cv.height);
   ctx.save(); ctx.translate(R,R); ctx.rotate(angle);
@@ -222,10 +224,10 @@ function draw(){
     ctx.strokeStyle = "#0a0b10"; ctx.lineWidth = 4; ctx.stroke();
     ctx.save(); ctx.rotate(a0+SEG/2);
     ctx.fillStyle = INK[ci];
-    ctx.font = '700 29px "IBM Plex Sans Condensed", "Arial Narrow", sans-serif';
     ctx.textAlign="right"; ctx.textBaseline="middle";
     let t = MOTIVES[i][0].toUpperCase();
-    while(ctx.measureText(t).width > R*0.56 && t.length>4) t=t.slice(0,-2)+"…";
+    ctx.font = labelFont();
+    while(ctx.measureText(t).width > R*0.62 && t.length>4) t=t.slice(0,-2)+"…";
     ctx.fillText(t, R-26, 0);
     ctx.restore();
   }
@@ -307,8 +309,15 @@ document.getElementById('sound').addEventListener('click', e=>{
 document.addEventListener('keydown', e=>{ if(e.code==="Space" && document.activeElement.tagName!=="BUTTON"){ e.preventDefault(); spin(); }});
 
 placeLights();
+const EMBED = /[?&]embed\b/.test(location.search);
+if(EMBED){
+  document.documentElement.classList.add('embed');
+  const report = () => { try{ parent.postMessage({dwWheelHeight: document.getElementById('stage').offsetHeight}, '*'); }catch(e){} };
+  new ResizeObserver(report).observe(document.getElementById('stage'));
+  addEventListener('load', report);
+}
 angle = -Math.random()*Math.PI*2; draw();
-fontReady().then(draw);
+fontReady().then(()=>{_lf=null;draw();});
 </script>
 
 </body>
