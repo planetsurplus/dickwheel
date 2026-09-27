@@ -111,6 +111,18 @@ def page(path, title, body, description="", active=""):
   <p>Errors are corrected openly on the <a href="{BASE}corrections/">corrections page</a>. <a href="{BASE}feed.xml">RSS feed</a> · <button class="theme-toggle" type="button">Light / dark</button></p>
 </footer>
 </div>
+<button type="button" class="wheel-fab" aria-haspopup="dialog" aria-controls="wheel-dialog"><svg viewBox="0 0 64 64" aria-hidden="true" class="wheel-ico"><g class="spinner">
+<path d="M32 32 L32 4 A28 28 0 0 1 51.8 12.2Z" fill="#e0303b"/><path d="M32 32 L51.8 12.2 A28 28 0 0 1 60 32Z" fill="#f5d90a"/>
+<path d="M32 32 L60 32 A28 28 0 0 1 51.8 51.8Z" fill="#3a7bff"/><path d="M32 32 L51.8 51.8 A28 28 0 0 1 32 60Z" fill="#1b1e2b"/>
+<path d="M32 32 L32 60 A28 28 0 0 1 12.2 51.8Z" fill="#e0303b"/><path d="M32 32 L12.2 51.8 A28 28 0 0 1 4 32Z" fill="#f5d90a"/>
+<path d="M32 32 L4 32 A28 28 0 0 1 12.2 12.2Z" fill="#3a7bff"/><path d="M32 32 L12.2 12.2 A28 28 0 0 1 32 4Z" fill="#1b1e2b"/></g>
+<circle cx="32" cy="32" r="28" fill="none" stroke="#f2a33a" stroke-width="3"/><circle cx="32" cy="32" r="7" fill="#11131c" stroke="#f2a33a" stroke-width="2.5"/>
+<path d="M25 0 H39 L32 11Z" fill="#ecebe6" stroke="#11131c" stroke-width="1.5"/></svg><span class="wheel-fab-label">Why'd they do it?</span></button>
+<dialog id="wheel-dialog" class="wheel-dialog" aria-label="Motive Wheel">
+<button type="button" class="wheel-close" aria-label="Close the Motive Wheel">&times;</button>
+<iframe class="wheel-embed" data-src="{BASE}wheel/?embed=1" title="Motive Wheel: spin for a joke motive"></iframe>
+<p class="wheel-note">Satire. <a href="{BASE}wheel/">Open the full-size wheel &rarr;</a></p>
+</dialog>
 <script src="{BASE}static/site.js"></script>
 </body>
 </html>"""
@@ -203,11 +215,7 @@ def sidebar(ed, editions):
     recent = "".join(
         f'<li><a href="{BASE}{ed_url(x["date"])}">{short_date(x["date"])}</a><span class="n">{len(x["entries"])} entries</span></li>'
         for x in editions[:8])
-    wheel = f"""<section class="panel wheel-panel"><h2>Why'd they do it?</h2>
-<iframe class="wheel-embed" src="{BASE}wheel/?embed=1" title="Motive Wheel: spin for a joke motive" loading="lazy"></iframe>
-<p class="presumption" style="margin-top:8px">Satire. <a href="{BASE}wheel/">Open the full-size wheel →</a></p></section>"""
     return f"""<aside class="side">
-{wheel}
 <section class="panel"><h2>This edition</h2><div class="stats">
 <div><span class="v">{n}</span><span class="l">Entries</span></div>
 <div><span class="v">{fel}</span><span class="l">Felony items</span></div>

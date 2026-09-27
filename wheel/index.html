@@ -210,7 +210,7 @@ function labelFont(){
   if(_lf) return _lf;
   let fs=34; const f=s=>'700 '+s+'px "IBM Plex Sans Condensed", "Arial Narrow", sans-serif';
   const widest=()=>{ctx.font=f(fs);return Math.max(...MOTIVES.map(m=>ctx.measureText(m[0].toUpperCase()).width));};
-  while(widest()>R*0.62 && fs>24) fs--;
+  while(widest()>R*0.64 && fs>17) fs--;
   return _lf=f(fs);
 }
 function draw(){
@@ -227,7 +227,7 @@ function draw(){
     ctx.textAlign="right"; ctx.textBaseline="middle";
     let t = MOTIVES[i][0].toUpperCase();
     ctx.font = labelFont();
-    while(ctx.measureText(t).width > R*0.62 && t.length>4) t=t.slice(0,-2)+"…";
+    while(ctx.measureText(t).width > R*0.64 && t.length>4) t=t.slice(0,-2)+"…";
     ctx.fillText(t, R-26, 0);
     ctx.restore();
   }

@@ -51,3 +51,11 @@
 
 // size the Motive Wheel iframe to its content
 addEventListener("message",function(e){var h=e.data&&e.data.dwWheelHeight;if(!h)return;document.querySelectorAll(".wheel-embed").forEach(function(f){if(f.contentWindow===e.source)f.style.height=Math.ceil(h)+"px"})});
+
+// Motive Wheel pop-up
+(function(){var fab=document.querySelector(".wheel-fab"),dlg=document.getElementById("wheel-dialog");if(!fab||!dlg)return;
+var fr=dlg.querySelector(".wheel-embed");
+function open(){if(!fr.getAttribute("src"))fr.setAttribute("src",fr.dataset.src);if(dlg.showModal)dlg.showModal();else dlg.setAttribute("open","")}
+function close(){if(dlg.close)dlg.close();else dlg.removeAttribute("open");fab.focus()}
+fab.addEventListener("click",open);dlg.querySelector(".wheel-close").addEventListener("click",close);
+dlg.addEventListener("click",function(e){if(e.target===dlg)close()});})();
