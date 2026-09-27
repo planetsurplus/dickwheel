@@ -94,6 +94,10 @@ def page(path, title, body, description="", active=""):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(full_title)}</title>
 <meta name="description" content="{e(description or 'Daily crime and court record for Fairbanks and Interior Alaska, compiled from primary sources.')}">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/static/icons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/static/icons/apple-touch-icon.png">
+<link rel="manifest" href="/static/site.webmanifest">
 <link rel="canonical" href="{SITE_URL}{BASE}{path}">
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{BASE}feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -282,6 +286,8 @@ def build():
     shutil.copytree(ROOT / "static", OUT / "static")
     if (ROOT / "wheel").exists():
         shutil.copytree(ROOT / "wheel", OUT / "wheel")
+    if (ROOT / "favicon.ico").exists():
+        shutil.copy(ROOT / "favicon.ico", OUT / "favicon.ico")
     if (ROOT / "CNAME").exists():
         shutil.copy(ROOT / "CNAME", OUT / "CNAME")
     (OUT / ".nojekyll").write_text("")
