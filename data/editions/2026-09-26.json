@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-26",
+  "compiled": "05:30 AKDT",
+  "window": "Sep. 24–26, 2026",
+  "summary": "A Fairbanks man indicted Sep. 9 on a felony assault charge was arrested on the warrant Sep. 24. Nineteen city arrests logged at the courthouse block Sep. 21–24 were identified as in-court custody events.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "nelson-indictment",
+      "date": "2026-09-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": ["4FA-26-01446CR"],
+      "title": "Grand jury indictment in Fairbanks weapon assault; warrant served Sep. 24",
+      "body": [
+        "Alfred L. Nelson was indicted Sep. 9 on one count of assault in the second degree, injury with a weapon with intent, a Class B felony, for an Aug. 23 incident in Fairbanks. A warrant issued the same day was served Sep. 24.",
+        "Arraignment is set for Sep. 30 at 1:30 p.m. in Courtroom 402."
+      ],
+      "sources": [{"label": "Alaska CourtView", "url": "https://records.courts.alaska.gov/eaccess/home.page"}]
+    },
+    {
+      "id": "lacey-courthouse",
+      "date": "2026-09-24",
+      "place": "100 block, Lacey Street",
+      "agency": "Fairbanks Police Department",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Courthouse-block arrests identified as in-court custody",
+      "body": [
+        "Nineteen city bulletin arrests logged at noon in the 100 block of Lacey Street between Sep. 21 and 24 correspond to the Rabinowitz Courthouse at 101 Lacey Street. They reflect people taken into custody at hearings, not street arrests."
+      ],
+      "sources": [{"label": "FPD daily bulletin", "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"}]
+    }
+  ],
+  "filings": null,
+  "open_cases": [],
+  "sources": []
+}

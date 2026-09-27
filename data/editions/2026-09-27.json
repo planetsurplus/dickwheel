@@ -1,0 +1,446 @@
+{
+  "date": "2026-09-27",
+  "compiled": "05:40 AKDT",
+  "window": "Sep. 25–27, 2026",
+  "summary": "Burglary charges filed in a Cantwell trespass arrest, four overnight DUI arrests by troopers, two city arrests including a felony assault, and a Delta Junction terroristic-threatening case with hearings set in Fairbanks. The court's dispositions report has not updated since Sep. 21.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "zappone-burglary",
+      "date": "2026-09-25",
+      "place": "Cantwell / Denali National Park",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "felony",
+      "cases": [
+        "4NE-26-00096CR"
+      ],
+      "title": "Felony burglary charges filed after Cantwell trespass arrest",
+      "body": [
+        "Krista Marie Zappone faces six counts, all dated Sep. 25: criminal trespass in the first degree at Denali National Park (Class A misdemeanor); theft in the fourth degree (Class B misdemeanor); two counts of violating conditions of release (Class B misdemeanors); burglary in the first degree, in a dwelling (Class B felony); and burglary in the second degree (Class C felony), all at Cantwell.",
+        "The trooper dispatch posted Sep. 26 listed seven counts with no felony. The court filing adds both burglary charges. Arraignment was held Sep. 26; a preliminary hearing is set for Oct. 6 at 3:15 p.m. in Fairbanks. The same counts also appear in the court's weekly report under 4FA-26-01933CR, which CourtView does not return."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly charges report",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "AST daily dispatch, Sep. 26",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=9/26/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "ast-0927-dui",
+      "date": "2026-09-26",
+      "place": "Fairbanks, Delta Junction",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26096168",
+        "AK26096247",
+        "AK26096280",
+        "AK26095466"
+      ],
+      "title": "Troopers make four DUI arrests overnight, one at .331 breath alcohol",
+      "body": [
+        "Fairbanks, 6:18 p.m.: Anthony Burton was stopped after pulling out of a parking lot at high speed and arrested for DUI. He provided a breath sample of .331, requested an independent blood test, and was remanded to Fairbanks Correctional Center.",
+        "Goldstream Road, 9:22 p.m.: Airion Baumgartner, 25, of Fairbanks, was arrested for DUI and refusal to submit to a breath test after failing to slow when passing troopers on a call. Remanded to FCC.",
+        "Delta Junction, 11:03 p.m.: Sara Parlin, 30, of Delta Junction, was arrested for DUI after a traffic stop and released on her own recognizance.",
+        "Delta Junction, Sep. 24 (posted Sep. 27): Roman Malyk was arrested for DUI and driving with a revoked license following a REDDI report. Court file 4DJ-26-00057CR."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Sep. 27",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=9/27/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "pearl-creek-vandalism",
+      "date": "2026-09-26",
+      "time": "20:10",
+      "place": "Pearl Creek Elementary, Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26096225"
+      ],
+      "title": "Juveniles identified in vehicle damage to Pearl Creek school field",
+      "body": [
+        "Troopers responded to a report of a vehicle doing donuts on the grass field at Pearl Creek Elementary School. The suspects were identified as juveniles. The investigation is ongoing."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Sep. 27",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=9/27/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "ast-0926",
+      "date": "2026-09-26",
+      "place": "Fairbanks, Healy, North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26095923",
+        "AK26095948",
+        "AK26095711",
+        "AK26096041",
+        "AK26095801"
+      ],
+      "title": "Two DUIs, a Parks Highway injury crash and a firearms theft on Sep. 26 dispatch",
+      "body": [
+        "Fairbanks, Sep. 25, 11:05 p.m.: Tariq Eskridge was arrested for DUI and refusal after leaving the Club Soda parking lot without stopping or signaling. Court file 4FA-26-01927CR.",
+        "Fairbanks, Sep. 26, 2:16 a.m.: Kimberly Baird was arrested for DUI after leaving the Red Fox bar parking lot without headlights; breath sample .114. Court file 4FA-26-01930CR.",
+        "Parks Highway Mile 257, Healy, Sep. 25: A semi-truck struck a car stopped partly in the lane while its driver took a photograph. Troopers said the truck driver fell asleep. Both drivers were cited; all passengers were taken to Fairbanks Memorial Hospital with non-life-threatening injuries.",
+        "North Pole: Troopers are investigating a reported violation of an out-of-state domestic violence protective order.",
+        "Goldridge area, Fairbanks: Firearms were reported stolen from a residence. A suspect has been identified and charges are being forwarded to the District Attorney."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Sep. 26",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=9/26/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "fpd-0926",
+      "date": "2026-09-26",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "26002971",
+        "26002968"
+      ],
+      "title": "City police arrest two, one on felony assault charge",
+      "body": [
+        "Dateen Duane Arkell, 42, was arrested at 2:02 p.m. near Clay Street and Second Avenue on a charge recorded by police as assault in the third degree, cause injury with a weapon, a felony. No court file had appeared as of the Sep. 26 court report.",
+        "Donald Dean Pannick, 70, was arrested at 12:54 a.m. in the 1600 block of East Cowles Street on a charge of harassment in the first degree, a misdemeanor."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "fpd-0925",
+      "date": "2026-09-25",
+      "time": "00:01",
+      "place": "500 block, Johansen Expressway",
+      "agency": "Fairbanks Police Department",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "26002963",
+        "4FA-26-01932CR"
+      ],
+      "title": "Theft arrest on Johansen Expressway",
+      "body": [
+        "Vladimir Valentin Kulikovskiy, 39, was arrested on a charge of theft in the fourth degree (under $250), a Class B misdemeanor. The arrest was added to the bulletin two days after the date."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "budnik-docket",
+      "date": "2026-09-20",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4DJ-26-00056CR"
+      ],
+      "title": "Delta Junction terroristic threatening case set for hearings in Fairbanks",
+      "body": [
+        "Pavel Ivanovich Budnik is charged with terroristic threatening in the second degree (Class C felony) and violating conditions of release for a felony (Class A misdemeanor), both dated Sep. 20 at Delta Junction.",
+        "A bail hearing is set for Sep. 30 at 3:30 p.m., with preliminary hearings Oct. 1 and Oct. 8, all at the Fairbanks courthouse."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "mayo-warrant",
+      "date": "2026-09-25",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-01925CR"
+      ],
+      "title": "Warrant requested in domestic violence assault case",
+      "body": [
+        "Matthew Wayland Mayo Sr. is charged with one count of assault in the fourth degree, domestic-violence related, and four counts of assault when a child is present, all Class A misdemeanors dated Sep. 9. A warrant was requested when charges were filed Sep. 25. No hearing is calendared."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dispositions-stale",
+      "date": "2026-09-27",
+      "place": "Statewide",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Court dispositions report has not updated since Sep. 21",
+      "body": [
+        "The Alaska Court System's criminal dispositions report still carries a Sep. 21 update stamp, six days running. Case outcomes after that date are not yet reflected."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System criminal dispositions",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Sep. 20–26, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 61
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 3
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 2
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4NE-26-00096CR",
+        "defendant": "Zappone, Krista Marie",
+        "charges": "Burglary 1 (Class B felony); burglary 2 (Class C felony); criminal trespass 1; theft 4; violating conditions of release ×2",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-01932CR",
+        "defendant": "Kulikovskiy, Vladimir Valentine",
+        "charges": "Theft 4, under $250 (Class B misdemeanor)"
+      },
+      {
+        "case": "4FA-26-01927CR",
+        "defendant": "Eskridge, Tariq",
+        "charges": "Charging document pending (DUI arrest)"
+      },
+      {
+        "case": "4FA-26-01930CR",
+        "defendant": "Baird, Kimberly",
+        "charges": "Charging document pending (DUI arrest)"
+      },
+      {
+        "case": "4FA-26-01929CR",
+        "defendant": "Pannick, Donald",
+        "charges": "Charging document pending (harassment 1 arrest)"
+      },
+      {
+        "case": "4FA-26-01928CR",
+        "defendant": "Rhode, Marion",
+        "charges": "Charging document pending"
+      },
+      {
+        "case": "4FA-26-01931CR",
+        "defendant": "Jobe, Alexis",
+        "charges": "Charging document pending"
+      },
+      {
+        "case": "4FA-26-01934CR",
+        "defendant": "Knezovich, Sean Paul",
+        "charges": "Charging document pending"
+      }
+    ]
+  },
+  "open_cases": [
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping; assault 4; interference with a report of a DV crime. DV flagged.",
+      "next": "Preliminary hearings Oct. 1 and Oct. 12, 3:15 p.m., Courtroom 102",
+      "judge": "Schwalm",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4FA-26-01446CR",
+      "defendant": "Nelson, Alfred L",
+      "level": "Class B felony · indicted",
+      "charges": "Assault 2, injury with a weapon. Indicted Sep. 9; warrant served Sep. 24.",
+      "next": "Arraignment Sep. 30, 1:30 p.m., Courtroom 402",
+      "judge": "Temple",
+      "last_docket": "2026-09-25"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "Class A felony · indicted",
+      "charges": "Misconduct involving a controlled substance 2 (methamphetamine), three counts.",
+      "next": "Superior Court arraignment Sep. 30; omnibus Oct. 1; trial week Oct. 19",
+      "judge": "Peterson",
+      "last_docket": "2026-09-24"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "Class B felony · indicted",
+      "charges": "Misconduct involving a controlled substance 3, two counts. FANT warrant sweep.",
+      "next": "Superior Court arraignment Sep. 30; omnibus Nov. 3; trial week Nov. 16",
+      "judge": "Welch",
+      "last_docket": "2026-09-24"
+    },
+    {
+      "case": "4FA-26-01866CR",
+      "defendant": "Burton, Jerald",
+      "level": "Class B felony",
+      "charges": "Assault 2, injury with a weapon.",
+      "next": "Preliminary hearings Sep. 30 and Oct. 8, 3:15 p.m., Courtroom 102",
+      "judge": "Bennett",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "Class C felony",
+      "charges": "Assault 3; assault 4 ×2; violating conditions of release; unlawful contact. Change of plea hearing Sep. 11 and sentencing hearing Sep. 15 held; outcome not on public record.",
+      "next": "Omnibus Sep. 29, 2:30 p.m., Courtroom 404; trial week Oct. 12",
+      "judge": "Temple",
+      "last_docket": "2026-09-16"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "Convicted",
+      "charges": "Murder 1; murder 2. Convicted May 15, 2026.",
+      "next": "Status hearing Sep. 30; sentencing Nov. 6, 9:00 a.m., Courtroom 402",
+      "judge": "Bennett",
+      "last_docket": "2026-09-09"
+    },
+    {
+      "case": "4DJ-26-00056CR",
+      "defendant": "Budnik, Pavel Ivanovich",
+      "level": "Class C felony",
+      "charges": "Terroristic threatening 2; violating conditions of release.",
+      "next": "Bail hearing Sep. 30; preliminary hearings Oct. 1 and Oct. 8",
+      "judge": "Harbison",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony",
+      "charges": "Tampering with physical evidence.",
+      "next": "Preliminary hearings Oct. 1 and Oct. 13, 3:15 p.m., Courtroom 102",
+      "judge": "Harbison",
+      "last_docket": "2026-09-24"
+    },
+    {
+      "case": "4NE-26-00096CR",
+      "defendant": "Zappone, Krista Marie",
+      "level": "Class B felony",
+      "charges": "Burglary 1; burglary 2; criminal trespass 1; theft 4; violating conditions of release ×2.",
+      "next": "Preliminary hearing Oct. 6, 3:15 p.m., Courtroom 102",
+      "judge": "Peterson",
+      "last_docket": "2026-09-26"
+    },
+    {
+      "case": "4FA-26-01925CR",
+      "defendant": "Mayo Sr, Matthew Wayland",
+      "level": "Misdemeanor · warrant requested",
+      "charges": "Assault 4 (DV); assault when a child is present ×4.",
+      "next": "None calendared",
+      "judge": "Seekins",
+      "last_docket": "2026-09-25"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "Fugitive from justice",
+      "charges": "Arrest prior to requisition, AS 12.70.120. Fort Wainwright.",
+      "next": "Fugitive from justice hearing Oct. 15, 1:30 p.m., Courtroom 102",
+      "judge": "Seekins",
+      "last_docket": "2026-09-19"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AST Daily Dispatch (D Detachment)",
+      "url": "https://dailydispatch.dps.alaska.gov/",
+      "status": "read"
+    },
+    {
+      "name": "FPD Daily Bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin",
+      "status": "read"
+    },
+    {
+      "name": "Alaska Court System — weekly charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf",
+      "status": "read"
+    },
+    {
+      "name": "Alaska Court System — criminal dispositions",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf",
+      "status": "stale",
+      "note": "Last updated Sep. 21"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page",
+      "status": "read"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html",
+      "status": "read",
+      "note": "No new Interior items"
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr",
+      "status": "read",
+      "note": "No new releases since Sep. 22"
+    },
+    {
+      "name": "News-Miner Public Safety Report",
+      "url": "https://www.newsminer.com/news/public_safety_report/",
+      "status": "read"
+    },
+    {
+      "name": "KTVF / Alaska's News Source",
+      "url": "https://www.webcenterfairbanks.com/news/crime/",
+      "status": "read",
+      "note": "Nothing newer than Sep. 22"
+    }
+  ]
+}

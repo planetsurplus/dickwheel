@@ -1,0 +1,41 @@
+name: Pull new editions from Google Drive
+
+on:
+  schedule:
+    - cron: "17 * * * *"     # every hour at :17 (UTC); the 5am AKDT report shows up by ~6:17
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Import from Drive
+        env:
+          DRIVE_FOLDER_ID: ${{ vars.DRIVE_FOLDER_ID || '1id6Rf-BX8sM3JD-wq5oEAoZBoIwsxkXv' }}
+        run: python3 scripts/import_drive.py
+      - name: Check the site still builds
+        run: python3 build.py
+      - id: commit
+        name: Commit if anything changed
+        run: |
+          git add data
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          git -c user.name="dickwheel bot" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "Editions from Drive $(date -u +%F)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+  deploy:
+    needs: sync
+    if: needs.sync.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
