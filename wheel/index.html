@@ -38,7 +38,7 @@ body{
 }
 .stage{
   position:relative;container-type:inline-size;
-  width:min(100%, 460px);
+  width:min(100%, 460px, max(300px, (100svh - 70px) / 2.1));
   background:radial-gradient(120% 60% at 50% 30%, #262a3d 0%, var(--night-2) 55%, var(--night) 100%);
   border:1px solid var(--line);border-radius:18px;overflow:hidden;
   display:flex;flex-direction:column;align-items:center;
