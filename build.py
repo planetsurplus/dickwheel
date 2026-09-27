@@ -100,6 +100,7 @@ def page(path, title, body, description="", active=""):
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Public+Sans:wght@400;600;800&family=Spectral:wght@600&display=swap">
 <link rel="stylesheet" href="{BASE}static/style.css?v={ASSET_V}">
 <script>try{{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t)}}catch(e){{}}</script>
+<script data-goatcounter="https://dickwheel.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </head>
 <body data-base="{BASE}">
 <header class="site-head"><div class="wrap">
