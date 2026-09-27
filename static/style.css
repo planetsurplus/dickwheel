@@ -161,12 +161,13 @@ footer.site-foot p{margin:0 0 8px;max-width:80ch}
 .wb-text{display:grid;gap:4px;flex:1;min-width:0}
 .wb-kicker{font:600 11px var(--f-mono, ui-monospace, monospace);letter-spacing:.14em;text-transform:uppercase;color:#f2a33a}
 .wb-head{font:800 clamp(26px,4.2vw,40px)/1 var(--f-ui);letter-spacing:-.01em;text-transform:uppercase;text-shadow:3px 3px 0 #e0303b}
-.wb-head em{font-style:normal;color:#f5d90a}
+.wb-head em{font-style:normal;color:#f5d90a;white-space:nowrap}
 .wb-sub{font-size:15px;color:#c9cad6;min-height:1.4em;transition:opacity .35s}
 .wb-cta{flex:none;background:#e0303b;color:#fff;font:800 15px var(--f-ui);text-transform:uppercase;letter-spacing:.03em;
   padding:13px 18px;border-radius:8px;box-shadow:0 5px 0 #7d141b;animation:wb-pulse 2.4s ease-in-out infinite;white-space:nowrap}
 @keyframes wb-pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
 @media (max-width:700px){
+  .wb-head{font-size:26px}
   .wb-inner{display:grid;grid-template-columns:auto 1fr;gap:10px 14px;padding:20px 16px}
   .wb-wheel{width:64px;height:64px}
   .wb-cta{grid-column:1/-1;text-align:center}
