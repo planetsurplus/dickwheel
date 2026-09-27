@@ -77,7 +77,7 @@ def write(path, html):
 
 # ---------- page shell ----------
 NAV = [("", "Latest"), ("archive/", "Archive"), ("cases/", "Open cases"), ("search/", "Search"),
-       ("corrections/", "Corrections"), ("about/", "About")]
+       ("corrections/", "Corrections"), ("wheel/", "Motive Wheel"), ("about/", "About")]
 
 
 def page(path, title, body, description="", active=""):
@@ -198,8 +198,8 @@ def sidebar(ed, editions):
 <h3>{e(com.get('title', ''))}</h3>{''.join(f'<p>{e(p)}</p>' for p in com.get('body', []))}
 <p class="presumption">Opinion. Kept separate from the record.</p></section>"""
     else:
-        com_html = """<section class="panel commentary"><p class="label">Commentary</p>
-<p class="placeholder">Commentary column coming soon.</p></section>"""
+        com_html = f"""<section class="panel commentary"><p class="label">Commentary</p>
+<p class="placeholder">Commentary column coming soon. Until then, <a href="{BASE}wheel/">spin the Motive Wheel</a> to find out why they really did it.</p></section>"""
     recent = "".join(
         f'<li><a href="{BASE}{ed_url(x["date"])}">{short_date(x["date"])}</a><span class="n">{len(x["entries"])} entries</span></li>'
         for x in editions[:8])
@@ -257,6 +257,8 @@ def build():
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
+    if (ROOT / "wheel").exists():
+        shutil.copytree(ROOT / "wheel", OUT / "wheel")
     if (ROOT / "CNAME").exists():
         shutil.copy(ROOT / "CNAME", OUT / "CNAME")
     (OUT / ".nojekyll").write_text("")
@@ -337,7 +339,7 @@ def build():
 <description>Daily crime and court record for Fairbanks and Interior Alaska.</description>{''.join(items)}</channel></rss>""")
 
     # sitemap
-    urls = [""] + [ed_url(x["date"]) for x in editions] + ["archive/", "cases/", "corrections/", "about/", "search/"]
+    urls = [""] + [ed_url(x["date"]) for x in editions] + ["archive/", "cases/", "corrections/", "about/", "search/", "wheel/"]
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
                                      "".join(f"<url><loc>{SITE_URL}{BASE}{u}</loc></url>" for u in urls) + "</urlset>")
     print(f"Built {len(editions)} editions, {len(index)} entries -> {OUT}")

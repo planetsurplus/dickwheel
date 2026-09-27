@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Why'd They Do It? · Motive Wheel · dickwheel.com</title>
+<meta name="description" content="Spin the wheel for a sarcastic, entirely made-up motive. Satire.">
+<style>*{box-sizing:border-box}body{margin:0}
+.back{position:fixed;top:10px;left:12px;z-index:5;font:600 13px "IBM Plex Mono",ui-monospace,monospace;color:#f2a33a;text-decoration:none;background:#11131ccc;padding:6px 10px;border-radius:6px;border:1px solid #2d3144}
+.back:hover{color:#f5d90a}</style>
+</head>
+<body>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bungee&family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans+Condensed:wght@400;600;700&display=swap">
+<style>
+:root{
+  color-scheme: dark;
+  --night:#11131c;
+  --night-2:#1b1e2b;
+  --line:#2d3144;
+  --tape:#f5d90a;
+  --siren:#e0303b;
+  --cop:#3a7bff;
+  --sodium:#f2a33a;
+  --paper:#ecebe6;
+  --muted:#9a9db0;
+  --display:"Bungee", "Arial Black", Impact, sans-serif;
+  --body:"IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+html,body{height:100%}
+body{
+  background:var(--night);
+  color:var(--paper);
+  font-family:var(--body);
+  font-size:16px;
+  display:flex;justify-content:center;align-items:center;
+  padding-inline:16px;padding-block:12px;box-sizing:border-box;
+}
+.stage{
+  position:relative;
+  width:min(100%, calc((100svh - 24px) * 9 / 16), 480px);
+  aspect-ratio:9/16;max-width:100%;
+  background:
+    radial-gradient(120% 60% at 50% 38%, #262a3d 0%, var(--night-2) 55%, var(--night) 100%);
+  border:1px solid var(--line);
+  border-radius:18px;
+  overflow:hidden;
+  display:flex;flex-direction:column;align-items:center;
+  box-shadow:0 30px 80px -30px #000;
+}
+.tape{
+  width:130%;margin-left:-15%;
+  background:var(--tape);color:#111;
+  font-family:var(--display);font-size:clamp(10px,2.6vmin,13px);letter-spacing:.08em;
+  white-space:nowrap;overflow:hidden;padding:5px 0;
+  transform:rotate(-3deg);margin-top:4.5%;
+  box-shadow:0 4px 0 #0006;
+}
+.tape span{display:inline-block;animation:crawl 22s linear infinite}
+@keyframes crawl{to{transform:translateX(-50%)}}
+header{text-align:center;padding:5% 6% 0;display:grid;gap:4px}
+.eyebrow{font-family:var(--mono);font-size:clamp(10px,2.4vmin,12px);color:var(--sodium);letter-spacing:.14em;text-transform:uppercase}
+h1{margin:0;font-family:var(--display);font-weight:400;line-height:.95;
+  font-size:clamp(28px,8.6vmin,46px);text-wrap:balance;
+  color:var(--paper);text-shadow:3px 3px 0 var(--siren), 6px 6px 0 #0008}
+h1 em{font-style:normal;color:var(--tape)}
+
+.wheelwrap{position:relative;width:86%;aspect-ratio:1;margin-top:5%;flex:none}
+canvas{width:100%;height:100%;display:block;border-radius:50%;
+  box-shadow:0 0 0 6px #0a0b10, 0 0 0 9px var(--sodium), 0 18px 40px -10px #000}
+.pointer{position:absolute;left:50%;top:-4%;width:11%;aspect-ratio:.8;transform:translateX(-50%);
+  background:var(--paper);clip-path:polygon(0 0,100% 0,50% 100%);filter:drop-shadow(0 3px 0 #000);z-index:2}
+.hub{position:absolute;inset:39%;border-radius:50%;background:var(--night);border:3px solid var(--sodium);
+  display:grid;place-items:center;font-family:var(--display);font-size:clamp(9px,2.3vmin,12px);color:var(--sodium);text-align:center;line-height:1}
+.lights{position:absolute;inset:-3%;pointer-events:none}
+.lights i{position:absolute;width:3.2%;aspect-ratio:1;border-radius:50%;background:var(--sodium);opacity:.35;transform:translate(-50%,-50%)}
+.stage.spinning .lights i{animation:blink .5s steps(2) infinite}
+.lights i:nth-child(odd){animation-delay:.25s!important}
+@keyframes blink{50%{opacity:1;box-shadow:0 0 10px var(--sodium)}}
+
+.report{
+  width:88%;margin-top:6%;flex:1;min-height:0;
+  background:var(--paper);color:#16171d;border-radius:4px;
+  padding:3.5% 4.5%;box-sizing:border-box;position:relative;
+  display:flex;flex-direction:column;gap:4px;
+  font-size:clamp(12px,3.1vmin,16px);
+}
+.report .row{display:flex;justify-content:space-between;gap:8px;font-family:var(--mono);font-size:.72em;letter-spacing:.06em;text-transform:uppercase;color:#555a6b;border-bottom:1px dashed #b9b9b2;padding-bottom:3px}
+.report .row b{color:#16171d;font-variant-numeric:tabular-nums}
+.label{font-family:var(--mono);font-size:.72em;letter-spacing:.1em;color:var(--siren);text-transform:uppercase;margin-top:2px}
+.motive{font-family:var(--display);font-size:1.18em;line-height:1.05;text-wrap:balance}
+.roast{margin:0;line-height:1.3;overflow:auto}
+.stamp{position:absolute;right:4%;top:18%;font-family:var(--display);color:var(--siren);border:3px solid var(--siren);
+  padding:2px 8px;transform:rotate(12deg);font-size:.8em;opacity:.85;border-radius:3px;pointer-events:none}
+.stamp.hit{animation:stamp .35s cubic-bezier(.3,1.6,.5,1)}
+@keyframes stamp{from{transform:rotate(12deg) scale(2.4);opacity:0}}
+
+.controls{width:88%;display:flex;gap:8px;margin:4% 0 5%}
+button{font:inherit;cursor:pointer;border-radius:6px;border:0}
+#spin{flex:1;font-family:var(--display);font-size:clamp(16px,4.6vmin,22px);padding:.55em;background:var(--siren);color:#fff;
+  box-shadow:0 5px 0 #7d141b;transition:transform .08s, box-shadow .08s}
+#spin:active{transform:translateY(4px);box-shadow:0 1px 0 #7d141b}
+#spin:disabled{background:#6b2a30;box-shadow:0 5px 0 #3a1519;cursor:wait}
+#sound{width:3.2em;background:var(--night-2);color:var(--paper);border:1px solid var(--line);font-family:var(--mono);font-size:.8em}
+button:focus-visible{outline:3px solid var(--tape);outline-offset:3px}
+.fine{position:absolute;bottom:1.2%;left:0;right:0;text-align:center;font-family:var(--mono);font-size:clamp(8px,2vmin,10px);color:var(--muted);letter-spacing:.06em}
+
+@media (prefers-reduced-motion: reduce){
+  .tape span,.stage.spinning .lights i,.stamp.hit{animation:none}
+}
+body{flex-direction:column;gap:10px;padding-block:10px 12px!important}
+.stage{width:min(100%, calc((100svh - 64px) * 9 / 16), 480px)!important}
+.back{position:static}
+</style>
+
+<a class="back" href="/">&larr; Back to the record</a>
+<main class="stage" id="stage">
+  <div class="tape" aria-hidden="true"><span>ALLEGEDLY · DO NOT CROSS · ALLEGEDLY · DO NOT CROSS · ALLEGEDLY · DO NOT CROSS · ALLEGEDLY · DO NOT CROSS · ALLEGEDLY · DO NOT CROSS · ALLEGEDLY · DO NOT CROSS · ALLEGEDLY · DO NOT CROSS · ALLEGEDLY · DO NOT CROSS ·&nbsp;</span></div>
+  <header>
+    <div class="eyebrow">dickwheel.com · Motive Division</div>
+    <h1>Why'd They <em>Do It?</em></h1>
+  </header>
+
+  <div class="wheelwrap">
+    <div class="pointer" aria-hidden="true"></div>
+    <div class="lights" id="lights" aria-hidden="true"></div>
+    <canvas id="wheel" width="800" height="800" role="img" aria-label="Spinning wheel of joke crime motives"></canvas>
+    <div class="hub" aria-hidden="true">SPIN<br>TO<br>SOLVE</div>
+  </div>
+
+  <section class="report" aria-live="polite">
+    <div class="row"><span>Case</span><b id="case">DW-26-00000</b></div>
+    <div class="label">Motive (alleged)</div>
+    <div class="motive" id="motive">Awaiting spin</div>
+    <p class="roast" id="roast">Our detectives have no idea. Neither does the suspect. Spin the wheel.</p>
+    <div class="stamp" id="stamp" hidden>SOLVED-ISH</div>
+  </section>
+
+  <div class="controls">
+    <button id="spin" type="button">SPIN IT</button>
+    <button id="sound" type="button" aria-pressed="true" aria-label="Toggle sound">SND</button>
+  </div>
+  <div class="fine">Satire. Not an actual finding. Everyone is presumed innocent, if not smart.</div>
+</main>
+
+<script>
+const MOTIVES = [
+ [
+  "Carhartt confidence",
+  "Zipped up the Carhartt and felt invincible. Carhartt makes no such warranty."
+ ],
+ [
+  "Marketplace deal",
+  "Bought it 'no questions asked.' Should have asked one question. Any question."
+ ],
+ [
+  "Dry cabin rage",
+  "Nine days without a shower. Rage was the only thing in the cabin with running power."
+ ],
+ [
+  "Posted it online",
+  "Committed the crime, then posted it with location on. Detectives thank you for the timestamp."
+ ],
+ [
+  "Missed the Ring cam",
+  "Checked for cops. Did not check for the Ring camera, the trail cam, or the retired neighbor."
+ ],
+ [
+  "Keys were in it",
+  "If it has an engine and the key's in it, apparently that's a loaner program."
+ ],
+ [
+  "Heard the word 'no'",
+  "Couldn't handle 'no' from the cashier. Now gets to go to court"
+ ],
+ [
+  "Ice fog cover",
+  "Figured nobody could see through ice fog. Caught again...."
+ ],
+ [
+  "That's Methed Up",
+  "Was warned that meth was a bad thing. Oh well, here we are."
+ ],
+ [
+  "Recycling!",
+  "The price of copper is so high right now."
+ ],
+ [
+  "Cloak of Invisibility",
+  "Mah black hoodie supposed to conceal my presence. Damn."
+ ],
+ [
+  "I'M Loaded $$$$$$$",
+  "And now I get to give it all to $atterburg. :("
+ ],
+ [
+  "Improper Planning",
+  "Didn't plan on getting caught. Now FCC makes plans for me. Easier I guess."
+ ]
+];
+
+const COLORS = ["#e0303b","#f5d90a","#3a7bff","#1b1e2b"];
+const INK    = ["#ffffff","#111111","#ffffff","#f2a33a"];
+const N = MOTIVES.length, SEG = Math.PI*2/N;
+const cv = document.getElementById('wheel'), ctx = cv.getContext('2d');
+const R = cv.width/2;
+let angle = 0, spinning = false, soundOn = true, audio;
+
+function fontReady(){ return document.fonts ? document.fonts.load('600 30px "IBM Plex Sans Condensed"').catch(()=>{}) : Promise.resolve(); }
+
+function draw(){
+  ctx.clearRect(0,0,cv.width,cv.height);
+  ctx.save(); ctx.translate(R,R); ctx.rotate(angle);
+  for(let i=0;i<N;i++){
+    const a0 = -Math.PI/2 + i*SEG - SEG/2;
+    ctx.beginPath(); ctx.moveTo(0,0); ctx.arc(0,0,R,a0,a0+SEG); ctx.closePath();
+    const ci = (i===N-1 && N%4===1) ? 2 : i%4;
+    ctx.fillStyle = COLORS[ci]; ctx.fill();
+    ctx.strokeStyle = "#0a0b10"; ctx.lineWidth = 4; ctx.stroke();
+    ctx.save(); ctx.rotate(a0+SEG/2);
+    ctx.fillStyle = INK[ci];
+    ctx.font = '700 29px "IBM Plex Sans Condensed", "Arial Narrow", sans-serif';
+    ctx.textAlign="right"; ctx.textBaseline="middle";
+    let t = MOTIVES[i][0].toUpperCase();
+    while(ctx.measureText(t).width > R*0.56 && t.length>4) t=t.slice(0,-2)+"…";
+    ctx.fillText(t, R-26, 0);
+    ctx.restore();
+  }
+  ctx.restore();
+}
+
+function placeLights(){
+  const box = document.getElementById('lights'); const n=24;
+  for(let i=0;i<n;i++){ const a=i/n*Math.PI*2, el=document.createElement('i');
+    el.style.left=(50+50*Math.cos(a))+'%'; el.style.top=(50+50*Math.sin(a))+'%'; box.appendChild(el); }
+}
+
+function tick(){
+  if(!soundOn) return;
+  try{
+    audio = audio || new (window.AudioContext||window.webkitAudioContext)();
+    const o=audio.createOscillator(), g=audio.createGain();
+    o.type="square"; o.frequency.value=1400+Math.random()*200;
+    g.gain.setValueAtTime(.06,audio.currentTime); g.gain.exponentialRampToValueAtTime(.0001,audio.currentTime+.04);
+    o.connect(g).connect(audio.destination); o.start(); o.stop(audio.currentTime+.05);
+  }catch(e){}
+}
+function sting(){
+  if(!soundOn||!audio) return;
+  [[523,0],[659,.12],[392,.24]].forEach(([f,t])=>{
+    const o=audio.createOscillator(), g=audio.createGain(); o.type="sawtooth"; o.frequency.value=f;
+    const s=audio.currentTime+t; g.gain.setValueAtTime(.07,s); g.gain.exponentialRampToValueAtTime(.0001,s+.22);
+    o.connect(g).connect(audio.destination); o.start(s); o.stop(s+.25);
+  });
+}
+
+function indexAt(a){
+  // slice i is centered at angle i*SEG (clockwise from top) before rotation
+  const norm = ((-a % (Math.PI*2)) + Math.PI*2) % (Math.PI*2);
+  return Math.round(norm/SEG) % N;
+}
+
+function spin(){
+  if(spinning) return;
+  spinning = true;
+  const btn=document.getElementById('spin'); btn.disabled=true; btn.textContent="INVESTIGATING…";
+  document.getElementById('stage').classList.add('spinning');
+  document.getElementById('stamp').hidden = true;
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const target = Math.floor(Math.random()*N);
+  const jitter = (Math.random()-.5)*SEG*0.7;
+  const start = angle;
+  const base = -target*SEG + jitter;
+  let end = base; const turns = reduce ? 1 : 6 + Math.floor(Math.random()*3);
+  while(end < start + turns*Math.PI*2) end += Math.PI*2;
+  const dur = reduce ? 900 : 5200 + Math.random()*1200;
+  const t0 = performance.now(); let last = indexAt(start);
+  function frame(now){
+    const p = Math.min(1,(now-t0)/dur);
+    const e = 1 - Math.pow(1-p, 4);
+    angle = start + (end-start)*e;
+    draw();
+    const idx = indexAt(angle); if(idx!==last){ tick(); last=idx; }
+    if(p<1) requestAnimationFrame(frame); else finish(indexAt(angle));
+  }
+  requestAnimationFrame(frame);
+}
+
+function finish(i){
+  spinning=false;
+  const btn=document.getElementById('spin'); btn.disabled=false; btn.textContent="SPIN AGAIN";
+  document.getElementById('stage').classList.remove('spinning');
+  document.getElementById('motive').textContent = MOTIVES[i][0];
+  document.getElementById('roast').textContent = MOTIVES[i][1];
+  document.getElementById('case').textContent = "DW-26-" + String(Math.floor(Math.random()*99999)).padStart(5,"0");
+  const st=document.getElementById('stamp'); st.hidden=false; st.classList.remove('hit'); void st.offsetWidth; st.classList.add('hit');
+  sting();
+}
+
+document.getElementById('spin').addEventListener('click', spin);
+document.getElementById('sound').addEventListener('click', e=>{
+  soundOn=!soundOn; e.currentTarget.setAttribute('aria-pressed', soundOn); e.currentTarget.textContent = soundOn?"SND":"MUTE";
+});
+document.addEventListener('keydown', e=>{ if(e.code==="Space" && document.activeElement.tagName!=="BUTTON"){ e.preventDefault(); spin(); }});
+
+placeLights();
+angle = -Math.random()*Math.PI*2; draw();
+fontReady().then(draw);
+</script>
+
+</body>
+</html>
