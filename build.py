@@ -94,6 +94,15 @@ def page(path, title, body, description="", active=""):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(full_title)}</title>
 <meta name="description" content="{e(description or 'Daily crime and court record for Fairbanks and Interior Alaska, compiled from primary sources.')}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="dickwheel.com">
+<meta property="og:title" content="{e(full_title)}">
+<meta property="og:description" content="{e(description or 'Daily crime and court record for Fairbanks and Interior Alaska, compiled from primary sources.')}">
+<meta property="og:url" content="{SITE_URL}{BASE}{path}">
+<meta property="og:image" content="{SITE_URL}{BASE}static/share/og-default.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Allegedly, these crimes occurred. Fairbanks crime record at dickwheel.com">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/static/icons/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/static/icons/apple-touch-icon.png">
@@ -135,7 +144,7 @@ def page(path, title, body, description="", active=""):
 </div>
 <dialog id="wheel-dialog" class="wheel-dialog" aria-label="Motive Wheel">
 <button type="button" class="wheel-close" aria-label="Close the Motive Wheel">&times;</button>
-<iframe class="wheel-embed" data-src="{BASE}wheel/?embed=1&amp;v={WHEEL_V}" title="Motive Wheel: spin for a joke motive"></iframe>
+<iframe class="wheel-embed" allow="web-share; clipboard-write" data-src="{BASE}wheel/?embed=1&amp;v={WHEEL_V}" title="Motive Wheel: spin for a joke motive"></iframe>
 <p class="wheel-note">Satire. <a href="{BASE}wheel/">Open the full-size wheel &rarr;</a></p>
 </dialog>
 <script src="{BASE}static/site.js?v={ASSET_V}"></script>
@@ -261,6 +270,9 @@ def edition_body(ed, editions, is_home=False):
 <h1 class="page">{'Today in Interior Alaska' if is_home else 'Edition of ' + long_date(ed['date'])}</h1>
 <p class="lede">{e(ed.get('summary', ''))}</p>
 <p class="presumption">Everyone named is arrested or charged, not convicted.</p>
+<div class="share" data-url="{SITE_URL}{BASE}{ed_url(ed['date'])}" data-title="Fairbanks crime record, {long_date(ed['date'])}"><span class="share-label">Share this edition</span>
+<a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u={SITE_URL}{BASE}{ed_url(ed['date'])}" target="_blank" rel="noopener">Facebook</a>
+<button type="button" class="share-btn copy">Copy link</button><button type="button" class="share-btn native" hidden>Share…</button></div>
 <section id="latest"><h2>Entries <span class="count">{len(ed['entries'])} items</span></h2>
 <div class="filters" role="group" aria-label="Filter by category">{filt}</div>
 <div class="entries">{entries}</div></section>

@@ -60,3 +60,10 @@ if(!dlg||!dlg.showModal)return;var fr=dlg.querySelector(".wheel-embed");
 function close(){dlg.close();link.focus()}
 link.addEventListener("click",function(e){if(e.ctrlKey||e.metaKey||e.shiftKey||e.button)return;e.preventDefault();if(!fr.getAttribute("src"))fr.setAttribute("src",fr.dataset.src);dlg.showModal()});
 dlg.querySelector(".wheel-close").addEventListener("click",close);dlg.addEventListener("click",function(e){if(e.target===dlg)close()});})();
+
+// share bar: copy link + native share sheet on phones
+document.querySelectorAll(".share").forEach(function(bar){var url=bar.dataset.url,title=bar.dataset.title;
+var copy=bar.querySelector(".copy"),nat=bar.querySelector(".native");
+if(copy)copy.addEventListener("click",function(){var done=function(){copy.textContent="Copied!";setTimeout(function(){copy.textContent="Copy link"},1800)};
+if(navigator.clipboard)navigator.clipboard.writeText(url).then(done,function(){prompt("Copy this link:",url)});else prompt("Copy this link:",url)});
+if(nat&&navigator.share){nat.hidden=false;nat.addEventListener("click",function(){navigator.share({title:title,url:url}).catch(function(){})})}});
