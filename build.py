@@ -21,6 +21,7 @@ if not BASE.endswith("/"):
     BASE += "/"
 # cache-busting version for static files, so browsers pick up changes right away
 ASSET_V = hashlib.sha1(b"".join((ROOT / "static" / n).read_bytes() for n in ("style.css", "site.js"))).hexdigest()[:8]
+WHEEL_V = hashlib.sha1((ROOT / "wheel" / "index.html").read_bytes()).hexdigest()[:8] if (ROOT / "wheel" / "index.html").exists() else "0"
 
 CATEGORIES = [("all", "All"), ("violent", "Violent"), ("property", "Property"), ("dui", "DUI / traffic"),
               ("drug", "Drugs"), ("court", "Courts"), ("other", "Other")]
@@ -122,7 +123,7 @@ def page(path, title, body, description="", active=""):
 <path d="M25 0 H39 L32 11Z" fill="#ecebe6" stroke="#11131c" stroke-width="1.5"/></svg><span class="wheel-fab-label">Why'd they do it?</span></button>
 <dialog id="wheel-dialog" class="wheel-dialog" aria-label="Motive Wheel">
 <button type="button" class="wheel-close" aria-label="Close the Motive Wheel">&times;</button>
-<iframe class="wheel-embed" data-src="{BASE}wheel/?embed=1" title="Motive Wheel: spin for a joke motive"></iframe>
+<iframe class="wheel-embed" data-src="{BASE}wheel/?embed=1&amp;v={WHEEL_V}" title="Motive Wheel: spin for a joke motive"></iframe>
 <p class="wheel-note">Satire. <a href="{BASE}wheel/">Open the full-size wheel &rarr;</a></p>
 </dialog>
 <script src="{BASE}static/site.js?v={ASSET_V}"></script>
