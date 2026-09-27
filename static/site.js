@@ -52,10 +52,11 @@
 // size the Motive Wheel iframe to its content
 addEventListener("message",function(e){var h=e.data&&e.data.dwWheelHeight;if(!h)return;document.querySelectorAll(".wheel-embed").forEach(function(f){if(f.contentWindow===e.source)f.style.height=Math.ceil(h)+"px"})});
 
-// Motive Wheel pop-up
-(function(){var fab=document.querySelector(".wheel-fab"),dlg=document.getElementById("wheel-dialog");if(!fab||!dlg)return;
-var fr=dlg.querySelector(".wheel-embed");
-function open(){if(!fr.getAttribute("src"))fr.setAttribute("src",fr.dataset.src);if(dlg.showModal)dlg.showModal();else dlg.setAttribute("open","")}
-function close(){if(dlg.close)dlg.close();else dlg.removeAttribute("open");fab.focus()}
-fab.addEventListener("click",open);dlg.querySelector(".wheel-close").addEventListener("click",close);
-dlg.addEventListener("click",function(e){if(e.target===dlg)close()});})();
+// Motive Wheel banner: rotating quips + opens the pop-up (falls back to the /wheel/ page)
+(function(){var link=document.querySelector(".wheel-banner"),dlg=document.getElementById("wheel-dialog");if(!link)return;
+var sub=link.querySelector(".wb-sub"),q=(sub&&sub.dataset.quips||"").split("|").filter(Boolean),i=Math.floor(Math.random()*q.length);
+if(sub&&q.length){sub.textContent=q[i];if(!matchMedia("(prefers-reduced-motion: reduce)").matches)setInterval(function(){sub.style.opacity=0;setTimeout(function(){i=(i+1)%q.length;sub.textContent=q[i];sub.style.opacity=1},350)},4200)}
+if(!dlg||!dlg.showModal)return;var fr=dlg.querySelector(".wheel-embed");
+function close(){dlg.close();link.focus()}
+link.addEventListener("click",function(e){if(e.ctrlKey||e.metaKey||e.shiftKey||e.button)return;e.preventDefault();if(!fr.getAttribute("src"))fr.setAttribute("src",fr.dataset.src);dlg.showModal()});
+dlg.querySelector(".wheel-close").addEventListener("click",close);dlg.addEventListener("click",function(e){if(e.target===dlg)close()});})();

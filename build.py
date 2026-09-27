@@ -108,19 +108,26 @@ def page(path, title, body, description="", active=""):
 </div></header>
 <nav class="top" aria-label="Site"><ul>{nav}</ul></nav>
 <div class="wrap">
+<a class="wheel-banner" href="{BASE}wheel/" aria-haspopup="dialog">
+<span class="wb-tape" aria-hidden="true"></span>
+<span class="wb-inner"><svg viewBox="0 0 64 64" aria-hidden="true" class="wb-wheel"><g class="spinner">
+<path d="M32 32 L32 4 A28 28 0 0 1 51.8 12.2Z" fill="#e0303b"/><path d="M32 32 L51.8 12.2 A28 28 0 0 1 60 32Z" fill="#f5d90a"/>
+<path d="M32 32 L60 32 A28 28 0 0 1 51.8 51.8Z" fill="#3a7bff"/><path d="M32 32 L51.8 51.8 A28 28 0 0 1 32 60Z" fill="#1b1e2b"/>
+<path d="M32 32 L32 60 A28 28 0 0 1 12.2 51.8Z" fill="#e0303b"/><path d="M32 32 L12.2 51.8 A28 28 0 0 1 4 32Z" fill="#f5d90a"/>
+<path d="M32 32 L4 32 A28 28 0 0 1 12.2 12.2Z" fill="#3a7bff"/><path d="M32 32 L12.2 12.2 A28 28 0 0 1 32 4Z" fill="#1b1e2b"/></g>
+<circle cx="32" cy="32" r="28" fill="none" stroke="#f2a33a" stroke-width="3"/><circle cx="32" cy="32" r="7" fill="#11131c" stroke="#f2a33a" stroke-width="2.5"/>
+<path d="M25 0 H39 L32 11Z" fill="#ecebe6" stroke="#11131c" stroke-width="1.5"/></svg>
+<span class="wb-text"><span class="wb-kicker">Detectives stumped? We're not.</span>
+<span class="wb-head">Why'd they <em>do it?</em></span>
+<span class="wb-sub" data-quips="The courts take months. Our wheel takes six seconds.|Forensic science is expensive. Spinning is free.|Solving crimes the Fairbanks way: completely at random.|Motive unclear? Not for long.|Peer-reviewed by nobody. Accurate about as often.|Cheaper than a lawyer and about as helpful.">The courts take months. Our wheel takes six seconds.</span></span>
+<span class="wb-cta">Spin the Motive Wheel <span aria-hidden="true">&rarr;</span></span></span>
+</a>
 {body}
 <footer class="site-foot">
   <p>This site republishes information from public law-enforcement and court records for Fairbanks and roughly 100 miles around it. An arrest or charge is an accusation, not a finding of guilt; everyone named is presumed innocent unless and until proven guilty in court.</p>
   <p>Errors are corrected openly on the <a href="{BASE}corrections/">corrections page</a>. <a href="{BASE}feed.xml">RSS feed</a> · <button class="theme-toggle" type="button">Light / dark</button></p>
 </footer>
 </div>
-<button type="button" class="wheel-fab" aria-haspopup="dialog" aria-controls="wheel-dialog"><svg viewBox="0 0 64 64" aria-hidden="true" class="wheel-ico"><g class="spinner">
-<path d="M32 32 L32 4 A28 28 0 0 1 51.8 12.2Z" fill="#e0303b"/><path d="M32 32 L51.8 12.2 A28 28 0 0 1 60 32Z" fill="#f5d90a"/>
-<path d="M32 32 L60 32 A28 28 0 0 1 51.8 51.8Z" fill="#3a7bff"/><path d="M32 32 L51.8 51.8 A28 28 0 0 1 32 60Z" fill="#1b1e2b"/>
-<path d="M32 32 L32 60 A28 28 0 0 1 12.2 51.8Z" fill="#e0303b"/><path d="M32 32 L12.2 51.8 A28 28 0 0 1 4 32Z" fill="#f5d90a"/>
-<path d="M32 32 L4 32 A28 28 0 0 1 12.2 12.2Z" fill="#3a7bff"/><path d="M32 32 L12.2 12.2 A28 28 0 0 1 32 4Z" fill="#1b1e2b"/></g>
-<circle cx="32" cy="32" r="28" fill="none" stroke="#f2a33a" stroke-width="3"/><circle cx="32" cy="32" r="7" fill="#11131c" stroke="#f2a33a" stroke-width="2.5"/>
-<path d="M25 0 H39 L32 11Z" fill="#ecebe6" stroke="#11131c" stroke-width="1.5"/></svg><span class="wheel-fab-label">Why'd they do it?</span></button>
 <dialog id="wheel-dialog" class="wheel-dialog" aria-label="Motive Wheel">
 <button type="button" class="wheel-close" aria-label="Close the Motive Wheel">&times;</button>
 <iframe class="wheel-embed" data-src="{BASE}wheel/?embed=1&amp;v={WHEEL_V}" title="Motive Wheel: spin for a joke motive"></iframe>

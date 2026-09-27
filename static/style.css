@@ -144,20 +144,37 @@ footer.site-foot p{margin:0 0 8px;max-width:80ch}
 .theme-toggle{font:500 11px var(--f-mono);background:none;border:1px solid var(--rule-hard);color:var(--muted);padding:4px 8px;cursor:pointer;border-radius:2px}
 [hidden]{display:none!important}
 
-/* Motive Wheel: floating button + pop-up */
-.wheel-fab{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:50;
-  display:flex;align-items:center;gap:8px;padding:6px 14px 6px 6px;border:1px solid #2d3144;border-radius:999px;cursor:pointer;
-  background:#11131c;color:#f5d90a;font:600 13px var(--f-mono, ui-monospace, monospace);letter-spacing:.04em;text-transform:uppercase;
-  box-shadow:0 8px 24px -8px #000a}
-.wheel-fab .wheel-ico{width:44px;height:44px;flex:none}
-.wheel-fab .spinner{transform-origin:32px 32px;transition:transform .9s cubic-bezier(.2,.8,.2,1)}
-.wheel-fab:hover .spinner,.wheel-fab:focus-visible .spinner{transform:rotate(225deg)}
-.wheel-fab:focus-visible{outline:3px solid #f5d90a;outline-offset:3px}
-@media (max-width:520px){.wheel-fab{padding:6px}.wheel-fab-label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}}
+/* Motive Wheel: banner + pop-up */
+.wheel-banner{position:relative;display:block;margin-top:22px;border-radius:14px;overflow:hidden;text-decoration:none;color:#ecebe6;
+  background:radial-gradient(120% 180% at 12% 50%, #2a2f47 0%, #161927 55%, #0d0f17 100%);border:1px solid #2d3144;
+  box-shadow:0 14px 34px -18px #000c;transition:transform .15s, box-shadow .15s}
+.wheel-banner:hover{transform:translateY(-2px);box-shadow:0 20px 40px -18px #000}
+.wheel-banner:focus-visible{outline:3px solid #f5d90a;outline-offset:3px}
+.wb-tape{position:absolute;inset:0 0 auto 0;height:9px;background:repeating-linear-gradient(-45deg,#f5d90a 0 14px,#11131c 14px 28px);background-size:40px 40px;animation:wb-crawl 1.2s linear infinite}
+.wheel-banner::after{content:"";position:absolute;inset:auto 0 0 0;height:9px;background:repeating-linear-gradient(-45deg,#f5d90a 0 14px,#11131c 14px 28px);background-size:40px 40px;animation:wb-crawl 1.2s linear infinite reverse}
+@keyframes wb-crawl{to{background-position:40px 0}}
+.wb-inner{display:flex;align-items:center;gap:22px;padding:24px 26px}
+.wb-wheel{width:92px;height:92px;flex:none;filter:drop-shadow(0 6px 10px #000a)}
+.wb-wheel .spinner{transform-origin:32px 32px;animation:wb-spin 6s cubic-bezier(.6,0,.2,1) infinite}
+.wheel-banner:hover .wb-wheel .spinner{animation-duration:1.4s}
+@keyframes wb-spin{to{transform:rotate(360deg)}}
+.wb-text{display:grid;gap:4px;flex:1;min-width:0}
+.wb-kicker{font:600 11px var(--f-mono, ui-monospace, monospace);letter-spacing:.14em;text-transform:uppercase;color:#f2a33a}
+.wb-head{font:800 clamp(26px,4.2vw,40px)/1 var(--f-ui);letter-spacing:-.01em;text-transform:uppercase;text-shadow:3px 3px 0 #e0303b}
+.wb-head em{font-style:normal;color:#f5d90a}
+.wb-sub{font-size:15px;color:#c9cad6;min-height:1.4em;transition:opacity .35s}
+.wb-cta{flex:none;background:#e0303b;color:#fff;font:800 15px var(--f-ui);text-transform:uppercase;letter-spacing:.03em;
+  padding:13px 18px;border-radius:8px;box-shadow:0 5px 0 #7d141b;animation:wb-pulse 2.4s ease-in-out infinite;white-space:nowrap}
+@keyframes wb-pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+@media (max-width:700px){
+  .wb-inner{display:grid;grid-template-columns:auto 1fr;gap:10px 14px;padding:20px 16px}
+  .wb-wheel{width:64px;height:64px}
+  .wb-cta{grid-column:1/-1;text-align:center}
+}
+@media (prefers-reduced-motion:reduce){.wb-tape,.wheel-banner::after,.wb-wheel .spinner,.wb-cta{animation:none}}
 .wheel-dialog{width:min(460px,94vw);max-height:94vh;padding:0;border:0;border-radius:18px;background:#11131c;color:#ecebe6;overflow:auto}
 .wheel-dialog::backdrop{background:#05060acc}
 .wheel-embed{display:block;width:100%;height:600px;border:0}
 .wheel-close{position:absolute;top:8px;right:10px;z-index:2;width:34px;height:34px;border-radius:50%;border:1px solid #2d3144;background:#11131c;color:#ecebe6;font-size:22px;line-height:1;cursor:pointer}
 .wheel-note{margin:0;padding:10px 16px 14px;text-align:center;font:500 12px var(--f-mono, ui-monospace, monospace);color:#9a9db0}
 .wheel-note a{color:#f2a33a}
-@media (prefers-reduced-motion:reduce){.wheel-fab .spinner{transition:none}}
