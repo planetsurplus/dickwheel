@@ -6,7 +6,7 @@ Env:    SITE_URL   full public URL, e.g. https://fairbankscrime.com  (for RSS + 
         BASE_PATH  path prefix, "/" for a custom domain, "/repo-name/" for a GitHub project page
 No third-party packages required.
 """
-import json, os, shutil, sys, datetime as dt
+import json, os, shutil, sys, hashlib, datetime as dt
 from html import escape as e
 from pathlib import Path
 from email.utils import format_datetime
@@ -19,6 +19,8 @@ SITE_URL = os.environ.get("SITE_URL", "https://dickwheel.com").rstrip("/")
 BASE = os.environ.get("BASE_PATH", "/")
 if not BASE.endswith("/"):
     BASE += "/"
+# cache-busting version for static files, so browsers pick up changes right away
+ASSET_V = hashlib.sha1(b"".join((ROOT / "static" / n).read_bytes() for n in ("style.css", "site.js"))).hexdigest()[:8]
 
 CATEGORIES = [("all", "All"), ("violent", "Violent"), ("property", "Property"), ("dui", "DUI / traffic"),
               ("drug", "Drugs"), ("court", "Courts"), ("other", "Other")]
@@ -95,7 +97,7 @@ def page(path, title, body, description="", active=""):
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{BASE}feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Public+Sans:wght@400;600;800&family=Spectral:wght@600&display=swap">
-<link rel="stylesheet" href="{BASE}static/style.css">
+<link rel="stylesheet" href="{BASE}static/style.css?v={ASSET_V}">
 <script>try{{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t)}}catch(e){{}}</script>
 </head>
 <body data-base="{BASE}">
@@ -123,7 +125,7 @@ def page(path, title, body, description="", active=""):
 <iframe class="wheel-embed" data-src="{BASE}wheel/?embed=1" title="Motive Wheel: spin for a joke motive"></iframe>
 <p class="wheel-note">Satire. <a href="{BASE}wheel/">Open the full-size wheel &rarr;</a></p>
 </dialog>
-<script src="{BASE}static/site.js"></script>
+<script src="{BASE}static/site.js?v={ASSET_V}"></script>
 </body>
 </html>"""
 
