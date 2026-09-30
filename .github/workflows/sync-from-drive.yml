@@ -2,7 +2,7 @@ name: Pull new editions from Google Drive
 
 on:
   schedule:
-    - cron: "17 * * * *"     # every hour at :17 (UTC); the 5am AKDT report shows up by ~6:17
+    - cron: "10 * * * *"
   workflow_dispatch:
 
 permissions:
