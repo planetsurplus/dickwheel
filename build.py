@@ -379,20 +379,23 @@ def build():
 <input type="hidden" name="from_name" value="dickwheel.com contact form">
 <input type="hidden" name="subject" value="dickwheel.com: message">
 <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
-<label for="cf-type">What is this about?</label>
-<select id="cf-type" name="topic" required>
-<option value="Correction">Something in an entry is wrong</option>
-<option value="Update: dismissed or acquitted">A case was dismissed or I was acquitted</option>
-<option value="Tip">A tip or a record we missed</option>
-<option value="Other">Something else</option></select>
-<label for="cf-case">Case number or link to the entry <span class="opt">optional</span></label>
-<input id="cf-case" name="case_or_link" type="text" placeholder="e.g. 4FA-26-01446CR" autocomplete="off">
-<label for="cf-msg">Message</label>
-<textarea id="cf-msg" name="message" rows="7" required maxlength="5000"></textarea>
-<label for="cf-name">Your name <span class="opt">optional</span></label>
-<input id="cf-name" name="name" type="text" autocomplete="name">
-<label for="cf-email">Your email <span class="opt">optional, needed if you want a reply</span></label>
-<input id="cf-email" name="email" type="email" autocomplete="email">
+<fieldset class="cf-reasons"><legend>What is this about?</legend>
+<label class="reason"><input type="radio" name="topic" value="Correction" required checked><span class="r-t">Something's wrong</span><span class="r-s">An entry has an error in it</span></label>
+<label class="reason"><input type="radio" name="topic" value="Update: dismissed or acquitted"><span class="r-t">My case was dropped</span><span class="r-s">Dismissed or acquitted, update the entry</span></label>
+<label class="reason hot"><input type="radio" name="topic" value="Hot Tip"><span class="flames" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span><span class="r-t">Hot Tip <span aria-hidden="true">🔥</span></span><span class="r-s">A record we missed, or something brewing</span></label>
+<label class="reason complainer"><input type="radio" name="topic" value="Complaint"><span class="r-t">I am a complainer</span><span class="r-s">Let it all out. We're listening. Mostly.</span></label>
+<label class="reason"><input type="radio" name="topic" value="Other"><span class="r-t">Something else</span><span class="r-s">None of the above</span></label>
+</fieldset>
+<div class="cf-field"><label for="cf-case">Case number or link to the entry <span class="opt">optional</span></label>
+<input id="cf-case" name="case_or_link" type="text" placeholder="e.g. 4FA-26-01446CR" autocomplete="off"></div>
+<div class="cf-field"><label for="cf-msg">Message</label>
+<textarea id="cf-msg" name="message" rows="7" required maxlength="5000" placeholder="What's wrong, and what should it say?"></textarea></div>
+<div class="cf-row">
+<div class="cf-field"><label for="cf-name">Your name <span class="opt">optional</span></label>
+<input id="cf-name" name="name" type="text" autocomplete="name"></div>
+<div class="cf-field"><label for="cf-email">Your email <span class="opt">optional, for a reply</span></label>
+<input id="cf-email" name="email" type="email" autocomplete="email"></div>
+</div>
 <button type="submit" class="cf-send">Send message</button>
 <p class="cf-status" role="status" aria-live="polite"></p>
 </form>
