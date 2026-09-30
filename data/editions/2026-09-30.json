@@ -1,0 +1,803 @@
+{
+  "date": "2026-09-30",
+  "compiled": "03:58 AKDT",
+  "window": "Sep. 27–30, 2026",
+  "summary": "A Fairbanks police bulletin backfill put a robbery with a cutting instrument and an aggravated assault into public view three days after they were reported, part of sixteen events added to five earlier dates. A Fourth Judicial District grand jury indicted two defendants on Sept. 29, raising one count from a Class A misdemeanor to a Class C felony, and prosecutors dropped one of two felony drug counts against a defendant arrested in the Sept. 16 narcotics operation.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "robbery-old-steese",
+      "date": "2026-09-27",
+      "time": "13:46",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "26002980"
+      ],
+      "title": "Robbery with a cutting instrument reported on the Old Steese Highway",
+      "body": [
+        "The Fairbanks Police Department daily bulletin records a robbery involving a cutting instrument in the 900 block of Old Steese Highway between 1:46 and 1:47 p.m. on Sept. 27, case 26002980, reported at 1:47 p.m.",
+        "It is an incident report rather than an arrest. No suspect is named, no charge is recorded, and no court file has been identified. The entry reached public view on Sept. 30, three days after the reported incident; the bulletin had shown no events for Sept. 27 on four earlier readings."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "aggravated-assault-eureka",
+      "date": "2026-09-27",
+      "time": "03:30",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "26002978"
+      ],
+      "title": "Aggravated assault reported on Eureka Avenue",
+      "body": [
+        "The Fairbanks Police Department daily bulletin records an aggravated assault involving hands, feet or fists in the 400 block of Eureka Avenue at 3:30 a.m. on Sept. 27, case 26002978.",
+        "It is an incident report rather than an arrest. No suspect is named, no charge is recorded, and no court file has been identified. Like the robbery reported the same day, the entry reached public view on Sept. 30."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "bulletin-adds-sixteen",
+      "date": "2026-09-30",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "City police bulletin adds sixteen events to five earlier dates",
+      "body": [
+        "The Fairbanks Police Department daily bulletin was read for ten dated days on Sept. 30 with the date header confirmed for each. Five dates returned higher counts than at the previous reading: Sept. 22 rose from one event to two, Sept. 24 from five to six, Sept. 25 from one to seven, Sept. 26 from two to seven, and Sept. 27 from none to three. Sixteen events were added in total, the oldest of them eight days old.",
+        "Among the additions are a robbery with a cutting instrument and an aggravated assault on Sept. 27, a DUI arrest and a theft arrest on Sept. 25, a harassment arrest on Sept. 26, a violation of a domestic violence protective order on Sept. 25, and two arrests at the Rabinowitz Courthouse recorded at noon on out-of-sequence case numbers.",
+        "A count on this bulletin reflects only what had been posted at the time of reading. It is a minimum rather than a total, and counts published for earlier dates may rise."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "grand-jury-two-indictments",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01896CR",
+        "4DJ-26-00056CR"
+      ],
+      "title": "Grand jury indicts two defendants; one count raised from a misdemeanor to a felony",
+      "body": [
+        "A Fourth Judicial District grand jury returned indictments in two cases on Sept. 29, according to the court record. Jurisdiction in both was transferred to Superior Court the same day and both preliminary hearings in each case were vacated.",
+        "In the case against Amanda Elizabeth Moff, one count of tampering with physical evidence to prevent an official proceeding, a Class C felony dated Sept. 22 at Fairbanks, is now recorded as an indicted charge. The count had previously stood on a complaint. A Superior Court arraignment is set for Oct. 7, an omnibus hearing for Dec. 1 and a trial week for Dec. 14.",
+        "In the case against Pavel Ivanovich Budnik, dated Sept. 20 at Delta Junction, the court file records two counts, both now indicted and both Class C felonies. Count one, terroristic threatening in the second degree with fear of serious injury, is unchanged. On count two the file records the original charge as violating a condition of release for a felony, a Class A misdemeanor, and the indicted charge as assault in the third degree, causing fear of injury with a weapon, a Class C felony. A bail hearing is set for Sept. 30, a Superior Court arraignment for Oct. 7, an omnibus hearing for Dec. 1 and a trial week for Dec. 14.",
+        "Both defendants are charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "burks-count-dismissed",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01826CR"
+      ],
+      "title": "Prosecutors drop one of two felony drug counts in narcotics sweep case",
+      "body": [
+        "The court docket in the case against Joshua Jon Burks records a charge dismissed by the prosecutor on Sept. 29, following a notice of dismissal for count two filed on Sept. 25.",
+        "The case charged two counts of misconduct involving a controlled substance in the third degree, manufacture or deliver, both Class B felonies dated Sept. 16 at Fairbanks. The first count carries an indicted charge. A Superior Court arraignment is set for Sept. 30, an omnibus hearing for Nov. 3 and a trial week for Nov. 16. A preliminary hearing previously set for Oct. 7 is recorded as vacated.",
+        "The offense date is that of a multi-agency narcotics warrant operation in Fairbanks that produced ten arrests. Two of those ten are traceable in the court record. Burks is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "north-pole-assault-charged",
+      "date": "2026-09-29",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-01952CR",
+        "AK26096814"
+      ],
+      "title": "North Pole assault charge filed after welfare check arrest",
+      "body": [
+        "A complaint filed on Sept. 29 charges Cheala Taylor Shepherd, 24, of North Pole, with one count of assault in the fourth degree, recklessly injure, a Class A misdemeanor dated Sept. 28 at North Pole. The count is recorded as domestic violence related.",
+        "The charge follows an arrest reported by Alaska State Troopers on Sept. 28 after a welfare check at a North Pole residence concerning reported elder abuse. No court file existed when that arrest was first reported, so no charge class was stated at the time.",
+        "The court record does not describe the incident and does not identify anyone as a victim. The Public Defender Agency was appointed from the bench. Shepherd is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "AST daily dispatch, Sept. 28",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=9/28/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "dv-cases-filed-sept29",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-01955CR",
+        "4FA-26-01957CR",
+        "4FA-26-01965CR"
+      ],
+      "title": "Three more domestic violence cases filed at Fairbanks",
+      "body": [
+        "Three further cases recorded as domestic violence related were filed at Fairbanks on Sept. 29.",
+        "Anya Marie Tumbloo, 36, is charged with one count of criminal trespass in the second degree, upon premises, a Class B misdemeanor dated Sept. 29 at Fairbanks. She was arraigned the same day and counsel was appointed from the bench. A pre-trial conference is set for Nov. 19 and a trial week for Nov. 30. The charge follows a trooper report of an arrest early on Sept. 29 after a caller asked that a person be removed from their property.",
+        "Robin Tanika Patricia Judon, 53, of Fairbanks, is charged with one count of assault in the fourth degree, recklessly injure, a Class A misdemeanor dated Sept. 29 at Fairbanks. She was arraigned the same day and counsel was appointed from the bench. A pre-trial conference is set for Nov. 19 and a trial week for Nov. 30. The charge follows a trooper report of an arrest after a disturbance at a residence.",
+        "Dustin William Olmstead is charged with assault in the fourth degree, recklessly injure, a Class A misdemeanor, and criminal mischief in the fifth degree, damage under $250, a Class B misdemeanor, both dated Sept. 24 at Fairbanks and both recorded as domestic violence related. A summons has been requested and no hearing is calendared. The case appears in no police or trooper report.",
+        "None of the three court records describes the incidents and none identifies anyone as a victim. All three are charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly charges report, run Sept. 29",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "meth-warrant-issued",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "drug",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01949CR"
+      ],
+      "title": "Warrant issued in three-count Fairbanks methamphetamine case",
+      "body": [
+        "The court docket records a warrant issued on Sept. 29 in the case against Vitaliy P Gayvoronskiy, filed the previous day. A warrant had been requested when the complaint was filed.",
+        "The case charges three counts of misconduct involving a controlled substance in the second degree, manufacture or deliver methamphetamine, each a Class A felony, all dated April 27, 2026 at Fairbanks. The court file records no indicted charge on any count, so the case stands on a complaint and has not been heard by a grand jury.",
+        "No hearing has been calendared, no attorney is entered for the defendant, and the public record does not state that an arrest has been made. The charges appeared in no police or trooper report. Gayvoronskiy is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "fant-operation-details",
+      "date": "2026-09-25",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "drug",
+      "severity": "felony",
+      "cases": [],
+      "title": "Details published of Fairbanks narcotics operation that produced ten arrests",
+      "body": [
+        "An account of the Sept. 16 multi-agency narcotics operation in Fairbanks was published by Your Alaska Link on Sept. 25 and updated on Sept. 28. It is the first published account of the operation this record has found.",
+        "The report states that the Fairbanks Areawide Narcotics Team coordinated searches of residences for drugs, guns and the proceeds of drug trafficking; that SWAT teams from Fairbanks and the Mat-Su Valley worked with local, state and federal agencies to execute search warrants at seven residences; that more than 50 people were contacted and ten arrests were made; and that more than a pound of methamphetamine, three guns and more than $18,000 were seized. Troopers are quoted putting the street value of the seized drugs at between $11,200 and $12,800 in the Fairbanks area.",
+        "The report names no defendant and gives no case number. Two of the ten arrests are traceable in the court record: the cases against Joshua Jon Burks and William Bruce Ostlund, both indicted Sept. 24. One of the two felony counts against Burks was dismissed by the prosecution on Sept. 29."
+      ],
+      "sources": [
+        {
+          "label": "Your Alaska Link, Sept. 25, updated Sept. 28",
+          "url": "https://www.youralaskalink.com/news/crime/fairbanks-drug-operation-leads-to-10-arrests-and-seizure-of-meth-guns/article_9e1578e4-5c8a-412c-80ce-295566ab4199.html"
+        }
+      ]
+    },
+    {
+      "id": "harassment-charge-cowles",
+      "date": "2026-09-26",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-01929CR",
+        "26002968"
+      ],
+      "title": "Fairbanks man charged with first-degree harassment",
+      "body": [
+        "A charging document filed on Sept. 27 charges Donald Pannick, 70, with one count of harassment in the first degree, a Class A misdemeanor, at Fairbanks. The count is recorded as not domestic violence related.",
+        "The Fairbanks Police Department daily bulletin records the arrest at the 1600 block of East Cowles Street at 12:54 a.m. on Sept. 26, case 26002968. The bulletin entry reached public view on Sept. 30. He was released under the court's bail schedule and an arraignment is set for Oct. 2.",
+        "The court record does not describe the incident and does not identify anyone else involved. Pannick is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "theft-case-arraigned",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-24-02319CR"
+      ],
+      "title": "Two-year-old theft case reaches arraignment after warrant served",
+      "body": [
+        "An arraignment was held on Sept. 29 in a Fairbanks case charging one count of theft in the fourth degree, less than $250, a Class B misdemeanor dated October 2024. The case was filed in December 2024 and has remained open since.",
+        "Counsel was appointed from the bench and conditions of release were entered. A pre-trial conference is set for Oct. 15 and a trial week for Oct. 26.",
+        "The court record shows sixteen calendared events across twenty-three months, seven of them arraignments, three of which ended with a failure to appear and a warrant, and several pre-trial conferences and trial weeks marked vacated or calendared in error. Warrants were issued in April 2025, May 2025 and April 2026; the last was served on Sept. 28. The defendant, Cheala Taylor Shepherd-Townley, is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "pending-cases-now-charged",
+      "date": "2026-09-30",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [],
+      "title": "Charges now on file in eleven Fairbanks cases the weekly report lists as pending",
+      "body": [
+        "The Alaska Court System's weekly charges report records a case as it stood on the day it was filed and does not revise that line, so a case shown with a charging document pending may since have been charged. Eleven such case numbers were checked in the court's public index on Sept. 30 and all eleven now carry charges.",
+        "Charged with driving under the influence, each a Class A misdemeanor: Zack Williams, Dusty Jordan Reimer, McKennah Jacklynn Knott, Tariq Vldermir Joseph Eskridge, Kimberly Nicole Baird, Alexis Elizabeth Jobe, Mariano Alberto Quinonez Perez, and Douglas Gordon Soles, whose file also carries a count of having an open container of alcohol in a motor vehicle and records a $200 fine and a $20 police training surcharge.",
+        "Nevaeh Lee Young is charged with contributing to the delinquency of a minor, runaway, a Class A misdemeanor. Ethan Fansler is charged with driving with a licence cancelled, suspended or revoked with a prior conviction, a Class A misdemeanor. Christopher Curtis Smith is charged with misconduct involving weapons in the fourth degree, possess while intoxicated, a Class A misdemeanor at North Pole.",
+        "Two further cases were matched to arrests recorded on the city police bulletin. Marion Willard Rhode Jr, 60, is charged with driving under the influence and refusing to submit to a chemical test, both Class A misdemeanors, following an arrest in the 400 block of College Road on Sept. 25. Vladimir Valentine Kulikovskiy, 39, is charged with theft in the fourth degree, less than $250, a Class B misdemeanor, following an arrest in the 500 block of Johansen Expressway on Sept. 25. In each case the age recorded on the bulletin is consistent with the date of birth on the court file.",
+        "Three case numbers remain recorded with no charging document: cases against Jason Westley Price at North Pole, filed Sept. 25, and Austin Rue-Roberts at Fairbanks and Lori Ellen Weaver at North Pole, both filed Sept. 29. Everyone named is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System weekly charges report, run Sept. 29",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "sept29-filings",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [],
+      "title": "Thirteen criminal cases filed at Fairbanks on Tuesday, none carrying a felony count",
+      "body": [
+        "The Alaska Court System's weekly charges report, generated at 9:00 p.m. on Sept. 29, records thirteen Fairbanks filings for that day. No count in any of the thirteen is a felony.",
+        "Four are the domestic violence cases reported separately. Of the rest, Rane Almquist-Corgill is charged with driving under the influence with a breath alcohol content of .08 or over, a Class A misdemeanor at North Pole, together with driving without a valid operator's licence, an infraction, and a minor operating a vehicle after consuming alcohol, recorded as non-criminal. Sanna Hein is charged with driving under the influence and violating conditions of release for a misdemeanor. Tammy Eileen Fleagle is charged with driving with a licence cancelled, suspended or revoked with a prior conviction. Arnold Richard Pitka is charged with theft in the fourth degree and two counts of violating conditions of release.",
+        "Margaretta Marie Kosidowski is charged with driving in violation of an instruction permit. Dillon Eli Miller is charged with two counts of theft in the fourth degree. Charity Elaine Ludvick is charged with leaving the scene of an accident involving vehicle damage. Two further case numbers, against Austin Rue-Roberts and Lori Ellen Weaver, carry no charging document.",
+        "The report also added three cases to earlier filing days: a City of Fairbanks charge of drinking in public against Kelsey Dawn Jackson, dated Aug. 24, added to Friday Sept. 25; a charge of failing to stop for a school bus against Vincent Jean Francois Andre, dated Sept. 14, and a charge under the state's moose hunting season and bag limit rules against Matthew Borst, dated Sept. 5 at Two Rivers, both added to Monday Sept. 28. Everyone named is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly charges report, run Sept. 29",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "court-calendar-week",
+      "date": "2026-09-30",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-24-02118CR",
+        "4FA-26-01446CR",
+        "4FA-26-01644CR"
+      ],
+      "title": "Hearings this week in the Interior's open felony cases",
+      "body": [
+        "A status hearing is set for Sept. 30 in the Fairbanks case against Cedar Mae Sarten, who was convicted in May of two counts of murder in the first degree and one count of murder in the second degree in the death of a child. Sentencing remains set for Nov. 6. The State filed its sentencing memorandum and notice under Criminal Rule 32.1 on Sept. 25.",
+        "Superior Court arraignments are set for Sept. 30 in the cases against Joshua Jon Burks, William Bruce Ostlund and Alfred L Nelson. A bail hearing in the Nelson case, which charges one count of assault in the second degree, a Class B felony recorded as domestic violence related and indicted on Sept. 9, has been set for Oct. 2 following a defense application filed Sept. 28.",
+        "A preliminary hearing is set for Sept. 30 in the case against Jerald Burton, charging one count of assault in the second degree, a Class B felony. A bail hearing is set for Sept. 30 in the Budnik case at Delta Junction.",
+        "In the case against Cody Steven Rudolph-Munro, a bail hearing is set for Oct. 1 and an omnibus hearing for Dec. 10. A trial week of Jan. 4, 2027 now appears on the event list; the trial week of Oct. 12 has been reset. Preliminary hearings are set for Oct. 1 in the North Pole kidnapping case against Dante Nathaniel Larry Claxton, who is charged, not convicted, and in whose case an attorney entered an appearance on Sept. 28."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Sep. 23–29, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 63
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 4
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 2
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-01950CR",
+        "defendant": "Almquist-Corgill, Rane",
+        "charges": "DUI, breath alcohol .08 or over (Class A misdemeanor); driving without a valid operator's licence (infraction); minor operating a vehicle after consuming alcohol (non-criminal). Offenses Sept. 28, North Pole. Arraignment Oct. 6.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01951CR",
+        "defendant": "Rue-Roberts, Austin",
+        "charges": "Charging document pending. Offense Sept. 29, Fairbanks. Follows a trooper DUI arrest reported Sept. 29. Arraignment Oct. 6.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01952CR",
+        "defendant": "Shepherd, Cheala Taylor",
+        "charges": "Assault 4, recklessly injure (Class A misdemeanor), recorded domestic violence related. Offense Sept. 28, North Pole.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01954CR",
+        "defendant": "Weaver, Lori Ellen",
+        "charges": "Charging document pending. Offense Sept. 29, North Pole. Arraignment Oct. 6.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01955CR",
+        "defendant": "Tumbloo, Anya Marie",
+        "charges": "Criminal trespass 2, upon premises (Class B misdemeanor), recorded domestic violence related. Offense Sept. 29, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01956CR",
+        "defendant": "Hein, Sanna",
+        "charges": "DUI (Class A misdemeanor); violating conditions of release for a misdemeanor (Class B misdemeanor). Offenses Sept. 11, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01957CR",
+        "defendant": "Judon, Robin Tanika Patricia",
+        "charges": "Assault 4, recklessly injure (Class A misdemeanor), recorded domestic violence related. Offense Sept. 29, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01958CR",
+        "defendant": "Fleagle, Tammy Eileen",
+        "charges": "Driving with a licence cancelled, suspended or revoked with a prior conviction (Class A misdemeanor). Offense Sept. 3, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01959CR",
+        "defendant": "Pitka, Arnold Richard",
+        "charges": "Theft 4, less than $250; two counts of violating conditions of release for a misdemeanor. Three Class B misdemeanors, offenses Sept. 4, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01962CR",
+        "defendant": "Kosidowski, Margaretta Marie",
+        "charges": "Driving in violation of an instruction permit (misdemeanor, not classified). Offense Sept. 18, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01963CR",
+        "defendant": "Miller, Dillon Eli",
+        "charges": "Two counts of theft 4, less than $250 (Class B misdemeanors). Offenses June 20 and June 24, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01964CR",
+        "defendant": "Ludvick, Charity Elaine",
+        "charges": "Leaving the scene of an accident involving vehicle damage (misdemeanor, not classified). Offense Aug. 31, Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01965CR",
+        "defendant": "Olmstead, Dustin William",
+        "charges": "Assault 4, recklessly injure (Class A misdemeanor); criminal mischief 5, damage under $250 (Class B misdemeanor). Both offenses Sept. 24, Fairbanks, both recorded domestic violence related.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01953CR",
+        "defendant": "Jackson, Kelsey Dawn",
+        "charges": "Drinking in public, Fairbanks General Code 46-80 (misdemeanor, not classified). Offense Aug. 24, Fairbanks. Added to the Friday Sept. 25 filing day in this run; prosecuted by the City of Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01960CR",
+        "defendant": "Jean Francois Andre, Vincent",
+        "charges": "Failing to stop for a school bus (Class B misdemeanor). Offense Sept. 14, Fairbanks. Added to the Monday Sept. 28 filing day in this run.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-01961CR",
+        "defendant": "Borst, Matthew",
+        "charges": "Hunting seasons and bag limits for moose, 5 AAC 85.045(a) (Class A misdemeanor). Offense Sept. 5, Two Rivers. Added to the Monday Sept. 28 filing day in this run.",
+        "felony": false
+      }
+    ]
+  },
+  "open_cases": [
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony · indicted",
+      "charges": "Tampering with physical evidence to prevent an official proceeding, dated Sept. 22 at Fairbanks. Indicted Sept. 29; jurisdiction transferred to Superior Court. Both preliminary hearings vacated.",
+      "next": "Superior Court arraignment Oct. 7, 1:30 p.m., Courtroom 402; omnibus Dec. 1; trial week Dec. 14",
+      "judge": "Harbison",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4DJ-26-00056CR",
+      "defendant": "Budnik, Pavel Ivanovich",
+      "level": "Class C felony x2 · indicted",
+      "charges": "Terroristic threatening 2, fear of serious injury (Class C felony); and, on count two, an original charge of violating a condition of release for a felony (Class A misdemeanor) with an indicted charge of assault 3, cause fear of injury with a weapon (Class C felony). Both dated Sept. 20 at Delta Junction. Indicted Sept. 29; both preliminary hearings vacated.",
+      "next": "Bail hearing Sept. 30, 3:30 p.m., Courtroom 305; Superior Court arraignment Oct. 7; omnibus Dec. 1; trial week Dec. 14",
+      "judge": "Harbison",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "Class B felony · indicted",
+      "charges": "Misconduct involving a controlled substance 3, manufacture or deliver, two counts dated Sept. 16 at Fairbanks. Count one indicted. A charge was dismissed by the prosecutor Sept. 29 following a notice of dismissal for count two filed Sept. 25. The Oct. 7 preliminary hearing is vacated.",
+      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; omnibus Nov. 3; trial week Nov. 16",
+      "judge": "Welch",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01852CR",
+      "defendant": "Waters, Cassandra Mari",
+      "level": "No degree of offense recorded",
+      "charges": "One count with no charging document on file, at Fairbanks. Case filed Sept. 19 and open. Bail recorded at $200. An arraignment was held Sept. 19; an arraignment of Sept. 25 is vacated. The case appears in neither the weekly charges report's current window nor the dispositions report.",
+      "next": "Pre-trial conference Nov. 5, 8:30 a.m., Courtroom 201; trial week Nov. 16",
+      "judge": "Seekins",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4FA-26-01949CR",
+      "defendant": "Gayvoronskiy, Vitaliy P",
+      "level": "Class A felony x3",
+      "charges": "Misconduct involving a controlled substance 2, manufacture or deliver methamphetamine, three counts, all dated April 27, 2026 at Fairbanks. On a complaint; no indictment. Warrant issued Sept. 29. No attorney entered for the defendant; the record does not state that an arrest has been made.",
+      "next": "None calendared",
+      "judge": "Temple",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping, injury or sexual assault, at North Pole; assault 4 and interference with a report of a domestic violence crime, both Class A misdemeanors, at Fairbanks. All three counts dated Sept. 22 and recorded domestic violence related. On a complaint and information; no grand jury indictment.",
+      "next": "Preliminary hearings Oct. 1 and Oct. 12, 3:15 p.m., Courtroom 102",
+      "judge": "Schwalm",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "Convicted",
+      "charges": "Two counts of murder in the first degree and one of murder in the second degree, all indicted. Convicted May 15, 2026. One murder 1 count dismissed by the prosecution June 8, 2026. The State filed its sentencing memorandum and Rule 32.1 notice Sept. 25.",
+      "next": "Status hearing Sept. 30, 2:30 p.m.; sentencing Nov. 6, 9:00 a.m., Courtroom 402",
+      "judge": "Bennett",
+      "last_docket": "2026-09-25"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "Class C felony",
+      "charges": "Six counts dated Aug. 23 at North Pole: assault 3 with a weapon (Class C felony); assault 4 x2; violating conditions of release for a misdemeanor; unlawful contact per court order; violating a condition of release for a felony. Four counts domestic violence related. A change of plea hearing on Sept. 11 and a sentencing hearing on Sept. 15 were held; the outcome is not on the public record. The Sept. 29 omnibus hearing was continued.",
+      "next": "Bail hearing Oct. 1, 3:45 p.m., Courtroom 404; omnibus Dec. 10; trial week Jan. 4, 2027. Oct. 12 trial week reset",
+      "judge": "Temple",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01446CR",
+      "defendant": "Nelson, Alfred L",
+      "level": "Class B felony · indicted",
+      "charges": "Assault 2, injury with a weapon with intent, dated Aug. 23 at Fairbanks. Recorded domestic violence related. Indicted Sept. 9; warrant served Sept. 24. A defense application for a first bail review was filed Sept. 28.",
+      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; bail hearing Oct. 2, 9:30 a.m.",
+      "judge": "Temple",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4FA-26-01946CR",
+      "defendant": "Burdo Jr, William Roger",
+      "level": "Class B felony",
+      "charges": "Assault 2, injury with a weapon with intent (Class B felony), dated Sept. 26; assault 3, cause fear of injury with a weapon (Class C felony); two counts of assault 4; two counts of criminal mischief 5. Six counts at Fairbanks, all recorded domestic violence related. On a complaint; no indictment.",
+      "next": "Preliminary hearings Oct. 8 and Oct. 15, 3:15 p.m., Courtroom 102",
+      "judge": "Welch",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4NE-26-00097CR",
+      "defendant": "Chambers, Jennifer Sara",
+      "level": "Class C felony",
+      "charges": "Assault 3, cause injury with a weapon (Class C felony); DUI; leaving the scene of an accident involving injury or death. Three counts dated Sept. 27 at Nenana. Not domestic violence flagged. On a complaint; no indictment.",
+      "next": "Preliminary hearings Oct. 8 and Oct. 15, 3:15 p.m., Fairbanks courthouse",
+      "judge": "Peterson",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4FA-26-01947CR",
+      "defendant": "Kane, John William",
+      "level": "Class A misdemeanor",
+      "charges": "Misconduct involving weapons 4, possess while intoxicated, dated Sept. 27 at Fairbanks. Recorded as not domestic violence related. The assault count troopers reported does not appear on the file. On a complaint.",
+      "next": "Pre-trial conference Nov. 12, 8:30 a.m.; trial week Nov. 23, Courtroom 202",
+      "judge": "Christian",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01952CR",
+      "defendant": "Shepherd, Cheala Taylor",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure, dated Sept. 28 at North Pole. Recorded domestic violence related. On a complaint. Counsel appointed from the bench. The court record does not describe the incident or identify anyone as a victim.",
+      "next": "Nov. 19",
+      "judge": "Seekins",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-24-02319CR",
+      "defendant": "Shepherd-Townley, Cheala Taylor",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, less than $250, dated October 2024 at Fairbanks. Filed December 2024 and still open. Warrants issued April 2025, May 2025 and April 2026; the last was served Sept. 28. Arraigned Sept. 29 with counsel appointed from the bench.",
+      "next": "Pre-trial conference Oct. 15, 8:30 a.m., Courtroom 202; trial week Oct. 26",
+      "judge": "Bahr",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01955CR",
+      "defendant": "Tumbloo, Anya Marie",
+      "level": "Class B misdemeanor",
+      "charges": "Criminal trespass 2, upon premises, dated Sept. 29 at Fairbanks. Recorded domestic violence related. On a complaint. Arraigned Sept. 29 with counsel appointed from the bench. The court record does not describe the incident or identify anyone as a victim.",
+      "next": "Pre-trial conference Nov. 19, 8:30 a.m., Courtroom 201; trial week Nov. 30",
+      "judge": "Seekins",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01957CR",
+      "defendant": "Judon, Robin Tanika Patricia",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure, dated Sept. 29 at Fairbanks. Recorded domestic violence related. On a complaint. Arraigned Sept. 29 with counsel appointed from the bench. The court record does not describe the incident or identify anyone as a victim.",
+      "next": "Pre-trial conference Nov. 19, 8:30 a.m., Courtroom 201; trial week Nov. 30",
+      "judge": "Seekins",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01965CR",
+      "defendant": "Olmstead, Dustin William",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure (Class A misdemeanor) and criminal mischief 5, damage under $250 (Class B misdemeanor), both dated Sept. 24 at Fairbanks and both recorded domestic violence related. On a complaint; summons requested. The case appears in no police or trooper report.",
+      "next": "None calendared",
+      "judge": "Seekins",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01925CR",
+      "defendant": "Mayo Sr, Matthew Wayland",
+      "level": "Class A misdemeanor · warrant issued",
+      "charges": "Assault 4, recklessly injure, recorded domestic violence related; four counts of assault when a child is present. All five Class A misdemeanors dated Sept. 9 at Fairbanks. Warrant issued Sept. 28. The court record does not describe the incident or identify anyone as a victim.",
+      "next": "None calendared",
+      "judge": "Seekins",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4FA-26-01929CR",
+      "defendant": "Pannick, Donald",
+      "level": "Class A misdemeanor",
+      "charges": "Harassment in the first degree, at Fairbanks. Recorded as not domestic violence related. On a complaint. Released per the court's bail schedule. The court record does not describe the incident or identify anyone else involved.",
+      "next": "Arraignment Oct. 2, 8:30 a.m., Courtroom 102",
+      "judge": "Seekins",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4FA-26-01901CR",
+      "defendant": "Kellogg, Stephen James",
+      "level": "Class A misdemeanor",
+      "charges": "DUI and refusing to submit to a chemical test, both dated Sept. 23 at Fairbanks. Case status reopened; the docket's first entry, dated Sept. 24, reads that a complaint or citation was not filed and the case was closed. Arraigned Sept. 29 with counsel appointed from the bench; the Sept. 28 warrant is recorded as cancelled. The dispositions report still records the case number as closed Sept. 24.",
+      "next": "Pre-trial conference Nov. 5, 8:30 a.m., Courtroom 201; trial week Nov. 16",
+      "judge": "Seekins",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01938CR",
+      "defendant": "Arkell, Dateen Duane",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure, dated Sept. 26 at Fairbanks. Not domestic violence flagged. Police recorded the arrest as a felony assault in the third degree; no felony count is on the file. A separate theft 4 case against the same defendant, 4FA-26-01944CR, was filed Sept. 25.",
+      "next": "Pre-trial conference Nov. 24, 8:30 a.m., Courtroom 201; trial week Dec. 7",
+      "judge": "Bahr",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "Class A felony · indicted",
+      "charges": "Misconduct involving a controlled substance 2, manufacture or deliver methamphetamine, three counts dated April 21, June 24 and July 8, 2026 at Fairbanks. The Oct. 7 preliminary hearing is vacated.",
+      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; omnibus Oct. 1; trial week Oct. 19",
+      "judge": "Peterson",
+      "last_docket": "2026-09-24"
+    },
+    {
+      "case": "4FA-26-01866CR",
+      "defendant": "Burton, Jerald",
+      "level": "Class B felony",
+      "charges": "Assault 2, injury with a weapon with intent, dated Sept. 20 at Fairbanks. Not domestic violence flagged. On a complaint; no indictment. A different person from Anthony Thomas Burton, charged Sept. 27 with DUI.",
+      "next": "Preliminary hearings Sept. 30 and Oct. 8, 3:15 p.m., Courtroom 102",
+      "judge": "Bennett",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4NE-26-00096CR",
+      "defendant": "Zappone, Krista Marie",
+      "level": "Class B felony",
+      "charges": "Burglary 1 in a dwelling (Class B felony); burglary 2 (Class C felony); criminal trespass 1; theft 4; violating conditions of release x2. Six counts dated Sept. 25 at Denali National Park and Cantwell. The arrest report listed seven counts and no felony. An attorney entered an appearance Sept. 29.",
+      "next": "Preliminary hearing Oct. 6, 3:15 p.m., Courtroom 102, Fairbanks",
+      "judge": "Peterson",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "Fugitive from justice",
+      "charges": "Arrest prior to requisition, AS 12.70.120. Offense location Fort Wainwright, dated Sept. 18. No requesting state named; no degree of offense recorded. No attorney of record.",
+      "next": "Fugitive from justice hearing Oct. 15, 1:30 p.m., Courtroom 102",
+      "judge": "Seekins",
+      "last_docket": "2026-09-19"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AST Daily Dispatch (D Detachment)",
+      "url": "https://dailydispatch.dps.alaska.gov/",
+      "status": "read",
+      "note": "Twelve dated pages, Sept. 18-29, with the date header confirmed inside each. Every count unchanged from the previous reading. The Sept. 30 page carries 'No news reported for this date' and renders no dated header at all, so that date could not be confirmed against the document; its count of zero is recorded as a minimum."
+    },
+    {
+      "name": "FPD Daily Bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin",
+      "status": "read",
+      "note": "Ten dated views, Sept. 21-30, date header confirmed on each. Five dates were revised upward and sixteen events added: Sept. 22 from one to two, Sept. 24 from five to six, Sept. 25 from one to seven, Sept. 26 from two to seven, and Sept. 27 from none to three. Sept. 28 holds one; Sept. 29 and Sept. 30 none. Counts on this feed are minimums."
+    },
+    {
+      "name": "Alaska Court System - weekly charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf",
+      "status": "read",
+      "note": "New report: window Sept. 23-29, generated 9:00 p.m. Sept. 29, 68 pages, down from 70. Read for the Fairbanks, Nenana, Healy and Delta Junction prefixes by walking every page. One case was added to the Sept. 25 filing day and two to Sept. 28. Sept. 22 has rolled off the window with ten Fairbanks cases."
+    },
+    {
+      "name": "Alaska Court System - criminal dispositions",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf",
+      "status": "stale",
+      "note": "Unchanged for a third reading: 358 pages, last updated Sept. 28 at 4:00 a.m., window to Sept. 28. The report updates on an irregular cycle; no conclusion follows from it not having changed. Three case numbers it records as closed return no record in the public case index."
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page",
+      "status": "read",
+      "note": "Thirty-one case lookups and five name searches. Charge lists display only five counts per case; further counts must be expanded. A name search with surname and forename resolves case numbers the weekly report prints without charges; the age recorded on a police feed is checked against the date of birth on the file before any match is treated as the same person."
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html",
+      "status": "read",
+      "note": "151 release links on the 2026 index, unchanged. No release published since Sept. 28, a multi-state civil filing. The newest Interior case outcome announced remains a Fairbanks sentencing displayed Sept. 17, thirteen days earlier."
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr",
+      "status": "read",
+      "note": "Twelve releases on the first page, all transcribed, membership unchanged; newest dated Sept. 28 and outside the Interior. No new release in two days. Three attempts from this service's network were refused by its proxy before the page was reached another way; the index's second page is blocked to automated reading."
+    },
+    {
+      "name": "News-Miner Public Safety Report",
+      "url": "https://www.newsminer.com/news/public_safety_report/",
+      "status": "read",
+      "note": "A new edition dated Sept. 29; its first section heading is DUI and the rest is behind the subscriber wall. Twenty-three editions loaded, seventeen of them in September, and every September date shown on the page has a matching link. No Sept. 28 or Sept. 30 column."
+    },
+    {
+      "name": "Your Alaska Link",
+      "url": "https://www.youralaskalink.com/news/crime/",
+      "status": "read",
+      "note": "Published the first account this record has found of the Sept. 16 Fairbanks narcotics operation, dated Sept. 25 and updated Sept. 28. Two earlier editions of this record wrongly gave this outlet's newest Interior crime item as a Sept. 23 death; see corrections."
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/",
+      "status": "read",
+      "note": "Nothing newer than Sept. 22; nothing Interior since Sept. 18."
+    },
+    {
+      "name": "Alaska's News Source",
+      "url": "https://www.alaskasnewssource.com/news/crime/",
+      "status": "read",
+      "note": "Publishing daily again, with two items in the last day, neither Interior. Nothing Interior since Sept. 18."
+    },
+    {
+      "name": "Alaska Public Media",
+      "url": "https://alaskapublic.org/news/public-safety/",
+      "status": "read",
+      "note": "Newest item Sept. 28; nothing Interior on the public safety section."
+    },
+    {
+      "name": "KUAC",
+      "url": "https://fm.kuac.org/",
+      "status": "stale",
+      "note": "A site search returns no Interior crime item newer than a July 20, 2026 report. The crime tag index carries nothing newer than June 26, 2026 and is not used as a freshness signal."
+    },
+    {
+      "name": "Fairbanks Police Department on Facebook",
+      "url": "https://www.facebook.com/Fairbankspd",
+      "status": "read",
+      "note": "A login wall limits the reading to the newest post, dated the evening of Sept. 29, which concerns three officers now working the same shift. It ends a nine-day gap. Nothing readable on the robbery, the aggravated assault or the court filings."
+    },
+    {
+      "name": "News-Miner general local news feed",
+      "url": "https://www.newsminer.com/news/local_news/",
+      "status": "not reached",
+      "note": "Rate-limited. Not used as a signal; the paper's public safety column is read directly instead."
+    },
+    {
+      "name": "Anchorage Daily News - Fairbanks",
+      "url": "https://www.adn.com/section/alaska-news/fairbanks/",
+      "status": "not reached",
+      "note": "Headlines carry no publication dates and cannot be date-checked."
+    },
+    {
+      "name": "State Medical Examiner",
+      "url": "https://health.alaska.gov/dph/MedicalExaminer/Pages/default.aspx",
+      "status": "read",
+      "note": "No findings announced on the Fairbanks shooting deaths this record carries under two dates, Sept. 16 and Sept. 18, or on the Sept. 22 tractor death. Both remain open."
+    }
+  ]
+}
