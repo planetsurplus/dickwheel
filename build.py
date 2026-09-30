@@ -371,7 +371,59 @@ def build():
     write("about/index.html", page("about/", "About", about, active="about/"))
 
     # contact (form posts to Web3Forms; no email address appears on the site)
-    contact = f"""<main style="margin-top:28px" class="prose"><h1 class="page">Contact</h1>
+    contact = f"""<style>
+/* contact form */
+.contact-form{{margin:26px 0 18px;max-width:640px}}
+.cf-reasons{{border:0;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}}
+.cf-reasons legend{{font-weight:600;font-size:14px;color:var(--ink);padding:0;margin-bottom:10px}}
+.reason{{position:relative;display:grid;gap:2px;padding:14px 16px;border:1px solid var(--rule-hard);background:var(--surface);
+  border-radius:4px;cursor:pointer;overflow:hidden;transition:border-color .15s,background .15s}}
+.reason:hover{{border-color:var(--accent)}}
+.reason input{{position:absolute;opacity:0;pointer-events:none}}
+.reason .r-t{{position:relative;z-index:1;font-weight:800;font-size:16px;color:var(--ink)}}
+.reason .r-s{{position:relative;z-index:1;font-size:13px;line-height:1.35;color:var(--muted)}}
+.reason:has(input:checked){{border-color:var(--accent);background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--accent)}}
+.reason:has(input:focus-visible){{outline:2px solid var(--accent);outline-offset:2px}}
+/* Hot Tip: fire along the bottom edge */
+.reason.hot{{padding-bottom:30px;border-color:#e0591f;background:linear-gradient(180deg,var(--surface) 35%,#e0591f22)}}
+.reason.hot .r-t{{background:linear-gradient(90deg,#ff3b1f,#ff9a1f,#ffd23a,#ff9a1f,#ff3b1f);background-size:200% 100%;
+  -webkit-background-clip:text;background-clip:text;color:transparent;animation:hot-shift 2s linear infinite}}
+.reason.hot .r-t span{{color:initial;-webkit-text-fill-color:initial}}
+.reason.hot:has(input:checked){{border-color:#ff7a1f;background:linear-gradient(180deg,#ff7a1f1a 20%,#e0591f44);box-shadow:inset 0 0 0 1px #ff7a1f,0 0 18px -4px #ff5a1f}}
+.flames{{position:absolute;left:0;right:0;bottom:-8px;height:34px;display:flex;justify-content:space-around;pointer-events:none;z-index:0}}
+.flames i{{width:18px;height:26px;align-self:flex-end;border-radius:50% 50% 45% 45%/60% 60% 40% 40%;
+  background:radial-gradient(ellipse at 50% 85%,#fff3b0 0 18%,#ffb62e 34%,#ff5a1f 62%,#ff5a1f00 72%);
+  filter:blur(1.5px);opacity:.75;transform-origin:50% 100%;animation:flicker 1.1s ease-in-out infinite alternate}}
+.flames i:nth-child(2){{height:18px;animation-duration:.8s;animation-delay:-.3s}}
+.flames i:nth-child(3){{height:30px;animation-duration:1.3s;animation-delay:-.6s}}
+.flames i:nth-child(4){{height:17px;animation-duration:.9s;animation-delay:-.1s}}
+.flames i:nth-child(5){{height:24px;animation-duration:1.2s;animation-delay:-.8s}}
+.reason.hot:hover .flames i,.reason.hot:has(input:checked) .flames i{{opacity:1;height:34px}}
+@keyframes flicker{{0%{{transform:scaleY(.8) scaleX(1.05) rotate(-3deg)}}50%{{transform:scaleY(1.1) scaleX(.9) rotate(2deg)}}100%{{transform:scaleY(.9) scaleX(1) rotate(-1deg)}}}}
+@keyframes hot-shift{{to{{background-position:200% 0}}}}
+/* complainer: a little grumble when picked */
+.reason.complainer:has(input:checked){{border-color:var(--caution);background:var(--caution-bg);box-shadow:inset 0 0 0 1px var(--caution)}}
+.reason.complainer:has(input:checked) .r-t{{color:var(--caution);animation:grumble .4s ease-in-out 2}}
+@keyframes grumble{{25%{{transform:translateX(-3px)}}75%{{transform:translateX(3px)}}}}
+@media (prefers-reduced-motion:reduce){{.flames i,.reason.hot .r-t,.reason.complainer .r-t{{animation:none!important}}}}
+.cf-field{{display:grid;gap:6px;margin-top:18px}}
+.cf-field label{{font-weight:600;font-size:14px;color:var(--ink)}}
+.cf-row{{display:grid;grid-template-columns:1fr 1fr;gap:0 16px}}
+@media (max-width:560px){{.cf-row{{grid-template-columns:1fr}}}}
+.contact-form .opt{{font:500 11px var(--f-mono);color:var(--muted);margin-left:6px}}
+.cf-field input,.cf-field textarea{{width:100%;font:16px var(--f-ui);padding:10px 12px;border:1px solid var(--rule-hard);
+  background:var(--surface);color:var(--ink);border-radius:4px}}
+.cf-field textarea{{resize:vertical;line-height:1.5;min-height:150px}}
+.cf-field input:focus-visible,.cf-field textarea:focus-visible{{outline:2px solid var(--accent);outline-offset:1px;border-color:var(--accent)}}
+.contact-form .hp{{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}}
+.cf-send{{margin-top:22px;font:700 15px var(--f-ui);padding:12px 22px;border-radius:4px;border:1px solid var(--accent);
+  background:var(--accent);color:var(--paper);cursor:pointer}}
+.cf-send:hover{{filter:brightness(1.1)}}
+.cf-send:disabled{{opacity:.6;cursor:wait}}
+.cf-status{{margin:10px 0 0;font-size:14px;min-height:1.4em}}
+.cf-status.ok{{color:var(--ok)}}.cf-status.err{{color:var(--felony)}}
+</style>
+<main style="margin-top:28px" class="prose"><h1 class="page">Contact</h1>
 <p class="lede">Report an error, ask for an entry to be updated after a dismissal or acquittal, or send a tip.</p>
 <p class="presumption">For emergencies call 911. Crime reports go to the Fairbanks Police Department or Alaska State Troopers, not here.</p>
 <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
@@ -400,6 +452,25 @@ def build():
 <p class="cf-status" role="status" aria-live="polite"></p>
 </form>
 <p class="presumption">Your message goes to the editor only and is never published. Corrections that result are logged on the <a href="{BASE}corrections/">corrections page</a>.</p>
+<script>
+// contact form: reason-specific prompts, send in place
+(function(){{var f=document.getElementById("contact-form");if(!f||!window.fetch)return;
+var btn=f.querySelector(".cf-send"),st=f.querySelector(".cf-status"),msg=f.querySelector("#cf-msg");
+var hints={{"Correction":"What's wrong, and what should it say?","Update: dismissed or acquitted":"Case number and outcome. We'll check the court record and update the entry.",
+"Hot Tip":"Spill it. What happened, where, and when?","Complaint":"Go ahead. Get it all out. Take your time.","Other":"What's on your mind?"}};
+var sends={{"Hot Tip":"Send it hot","Complaint":"File my complaint"}};
+function sync(){{var t=f.topic.value;msg.placeholder=hints[t]||"";btn.textContent=sends[t]||"Send message"}}
+f.addEventListener("change",function(e){{if(e.target.name==="topic")sync()}});sync();
+f.addEventListener("submit",function(e){{e.preventDefault();var t=f.topic.value;
+f.querySelector('[name="subject"]').value="dickwheel.com: "+t;
+btn.disabled=true;btn.textContent="Sending…";st.className="cf-status";st.textContent="";
+fetch(f.action,{{method:"POST",headers:{{"Accept":"application/json"}},body:new FormData(f)}})
+.then(function(r){{return r.json()}}).then(function(d){{if(!d.success)throw new Error(d.message||"failed");
+f.reset();st.className="cf-status ok";
+st.textContent=t==="Complaint"?"Complaint received and filed. Thank you for your service.":t==="Hot Tip"?"Tip received. Handle with oven mitts.":"Sent. If you left an email, expect a reply within a few days.";}})
+.catch(function(){{st.className="cf-status err";st.textContent="Your message didn't send. Check your connection and try again.";}})
+.finally(function(){{btn.disabled=false;sync()}})}});}})();
+</script>
 </main>"""
     write("contact/index.html", page("contact/", "Contact", contact, "Send a correction, an update request or a tip.", active="contact/"))
 
