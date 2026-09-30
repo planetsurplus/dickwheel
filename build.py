@@ -23,6 +23,9 @@ if not BASE.endswith("/"):
 ASSET_V = hashlib.sha1(b"".join((ROOT / "static" / n).read_bytes() for n in ("style.css", "site.js"))).hexdigest()[:8]
 WHEEL_V = hashlib.sha1((ROOT / "wheel" / "index.html").read_bytes()).hexdigest()[:8] if (ROOT / "wheel" / "index.html").exists() else "0"
 
+# Web3Forms access key for the contact form (public by design; it only lets people send to the site inbox)
+CONTACT_KEY = "edf875db-1170-41eb-b901-452785f210ac"
+
 CATEGORIES = [("all", "All"), ("violent", "Violent"), ("property", "Property"), ("dui", "DUI / traffic"),
               ("drug", "Drugs"), ("court", "Courts"), ("other", "Other")]
 SEVERITY_CHIP = {"felony": ("felony", "Felony"), "misdemeanor": ("misdemeanor", "Misdemeanor")}
@@ -80,7 +83,7 @@ def write(path, html):
 
 # ---------- page shell ----------
 NAV = [("", "Latest"), ("archive/", "Archive"), ("cases/", "Open cases"), ("search/", "Search"),
-       ("corrections/", "Corrections"), ("wheel/", "Motive Wheel"), ("about/", "About")]
+       ("corrections/", "Corrections"), ("wheel/", "Motive Wheel"), ("about/", "About"), ("contact/", "Contact")]
 
 
 def page(path, title, body, description="", active=""):
@@ -139,7 +142,7 @@ def page(path, title, body, description="", active=""):
 {body}
 <footer class="site-foot">
   <p>This site republishes information from public law-enforcement and court records for Fairbanks and roughly 100 miles around it. An arrest or charge is an accusation, not a finding of guilt; everyone named is presumed innocent unless and until proven guilty in court.</p>
-  <p>Errors are corrected openly on the <a href="{BASE}corrections/">corrections page</a>. <a href="{BASE}feed.xml">RSS feed</a> · <button class="theme-toggle" type="button">Light / dark</button></p>
+  <p>Errors are corrected openly on the <a href="{BASE}corrections/">corrections page</a>. <a href="{BASE}contact/">Contact</a> · <a href="{BASE}feed.xml">RSS feed</a> · <button class="theme-toggle" type="button">Light / dark</button></p>
 </footer>
 </div>
 <dialog id="wheel-dialog" class="wheel-dialog" aria-label="Motive Wheel">
@@ -363,9 +366,39 @@ def build():
 <h2>How to read it</h2>
 <p>Police and trooper feeds add entries to past dates, sometimes days later. A count for any day is what had been posted at the time of reading, not a final total. Charge classes come from the court file where one exists; where only an arrest report exists, the charge is given as the arresting agency recorded it.</p>
 <p>An arrest or charge is an accusation. Everyone named is presumed innocent unless and until proven guilty. Dates of birth are not published. Victims are not named. Domestic violence and child-related entries carry only what the court record states.</p>
-<h2>Corrections and removal requests</h2><p>Errors are logged on the <a href="{BASE}corrections/">corrections page</a>. If a case was dismissed or you were acquitted, contact us with the case number and the entry will be updated to reflect the outcome.</p>
+<h2>Corrections and removal requests</h2><p>Errors are logged on the <a href="{BASE}corrections/">corrections page</a>. If a case was dismissed or you were acquitted, <a href="{BASE}contact/">contact us</a> with the case number and the entry will be updated to reflect the outcome.</p>
 </main>"""
     write("about/index.html", page("about/", "About", about, active="about/"))
+
+    # contact (form posts to Web3Forms; no email address appears on the site)
+    contact = f"""<main style="margin-top:28px" class="prose"><h1 class="page">Contact</h1>
+<p class="lede">Report an error, ask for an entry to be updated after a dismissal or acquittal, or send a tip.</p>
+<p class="presumption">For emergencies call 911. Crime reports go to the Fairbanks Police Department or Alaska State Troopers, not here.</p>
+<form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
+<input type="hidden" name="access_key" value="{CONTACT_KEY}">
+<input type="hidden" name="from_name" value="dickwheel.com contact form">
+<input type="hidden" name="subject" value="dickwheel.com: message">
+<input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+<label for="cf-type">What is this about?</label>
+<select id="cf-type" name="topic" required>
+<option value="Correction">Something in an entry is wrong</option>
+<option value="Update: dismissed or acquitted">A case was dismissed or I was acquitted</option>
+<option value="Tip">A tip or a record we missed</option>
+<option value="Other">Something else</option></select>
+<label for="cf-case">Case number or link to the entry <span class="opt">optional</span></label>
+<input id="cf-case" name="case_or_link" type="text" placeholder="e.g. 4FA-26-01446CR" autocomplete="off">
+<label for="cf-msg">Message</label>
+<textarea id="cf-msg" name="message" rows="7" required maxlength="5000"></textarea>
+<label for="cf-name">Your name <span class="opt">optional</span></label>
+<input id="cf-name" name="name" type="text" autocomplete="name">
+<label for="cf-email">Your email <span class="opt">optional, needed if you want a reply</span></label>
+<input id="cf-email" name="email" type="email" autocomplete="email">
+<button type="submit" class="cf-send">Send message</button>
+<p class="cf-status" role="status" aria-live="polite"></p>
+</form>
+<p class="presumption">Your message goes to the editor only and is never published. Corrections that result are logged on the <a href="{BASE}corrections/">corrections page</a>.</p>
+</main>"""
+    write("contact/index.html", page("contact/", "Contact", contact, "Send a correction, an update request or a tip.", active="contact/"))
 
     write("404.html", page("404.html", "Not found", f'<main style="margin-top:28px"><h1 class="page">Page not found</h1><p><a href="{BASE}">Go to the latest edition</a></p></main>'))
 
@@ -380,7 +413,7 @@ def build():
 <description>Daily crime and court record for Fairbanks and Interior Alaska.</description>{''.join(items)}</channel></rss>""")
 
     # sitemap
-    urls = [""] + [ed_url(x["date"]) for x in editions] + ["archive/", "cases/", "corrections/", "about/", "search/", "wheel/"]
+    urls = [""] + [ed_url(x["date"]) for x in editions] + ["archive/", "cases/", "corrections/", "about/", "search/", "wheel/", "contact/"]
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
                                      "".join(f"<url><loc>{SITE_URL}{BASE}{u}</loc></url>" for u in urls) + "</urlset>")
     print(f"Built {len(editions)} editions, {len(index)} entries -> {OUT}")
