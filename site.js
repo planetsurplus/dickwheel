@@ -68,14 +68,20 @@ if(copy)copy.addEventListener("click",function(){var done=function(){copy.textCo
 if(navigator.clipboard)navigator.clipboard.writeText(url).then(done,function(){prompt("Copy this link:",url)});else prompt("Copy this link:",url)});
 if(nat&&navigator.share){nat.hidden=false;nat.addEventListener("click",function(){navigator.share({title:title,url:url}).catch(function(){})})}});
 
-// contact form: send in place, keep the reader on the page
+// contact form: reason-specific prompts, send in place
 (function(){var f=document.getElementById("contact-form");if(!f||!window.fetch)return;
-var btn=f.querySelector(".cf-send"),st=f.querySelector(".cf-status");
-f.addEventListener("submit",function(e){e.preventDefault();
-f.querySelector('[name="subject"]').value="dickwheel.com: "+f.topic.value;
+var btn=f.querySelector(".cf-send"),st=f.querySelector(".cf-status"),msg=f.querySelector("#cf-msg");
+var hints={"Correction":"What's wrong, and what should it say?","Update: dismissed or acquitted":"Case number and outcome. We'll check the court record and update the entry.",
+"Hot Tip":"Spill it. What happened, where, and when?","Complaint":"Go ahead. Get it all out. Take your time.","Other":"What's on your mind?"};
+var sends={"Hot Tip":"Send it hot","Complaint":"File my complaint"};
+function sync(){var t=f.topic.value;msg.placeholder=hints[t]||"";btn.textContent=sends[t]||"Send message"}
+f.addEventListener("change",function(e){if(e.target.name==="topic")sync()});sync();
+f.addEventListener("submit",function(e){e.preventDefault();var t=f.topic.value;
+f.querySelector('[name="subject"]').value="dickwheel.com: "+t;
 btn.disabled=true;btn.textContent="Sending…";st.className="cf-status";st.textContent="";
 fetch(f.action,{method:"POST",headers:{"Accept":"application/json"},body:new FormData(f)})
 .then(function(r){return r.json()}).then(function(d){if(!d.success)throw new Error(d.message||"failed");
-f.reset();st.className="cf-status ok";st.textContent="Sent. Thanks — if you left an email, expect a reply within a few days.";})
+f.reset();st.className="cf-status ok";
+st.textContent=t==="Complaint"?"Complaint received and filed. Thank you for your service.":t==="Hot Tip"?"Tip received. Handle with oven mitts.":"Sent. If you left an email, expect a reply within a few days.";})
 .catch(function(){st.className="cf-status err";st.textContent="Your message didn't send. Check your connection and try again.";})
-.finally(function(){btn.disabled=false;btn.textContent="Send message"})});})();
+.finally(function(){btn.disabled=false;sync()})});})();
