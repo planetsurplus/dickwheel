@@ -1,10 +1,99 @@
 {
   "date": "2026-09-29",
-  "compiled": "03:40 AKDT",
+  "compiled": "03:40 AKDT, rescanned 18:55 AKDT",
   "window": "Sep. 27–29, 2026",
-  "summary": "Three counts of felony methamphetamine manufacture or delivery were filed against a Fairbanks man on Monday, and a warrant was requested. A warrant was also issued in a five-count Fairbanks domestic violence case, and troopers arrested a North Pole woman on an assault charge and a warrant from a 2024 theft case. The state's weekly court filings report added four cases to a filing day three days earlier, and the Fairbanks police bulletin recorded no events for a third consecutive day.",
+  "summary": "Three counts of felony methamphetamine manufacture or delivery were filed against a Fairbanks man on Monday, and a warrant was requested. A warrant was also issued in a five-count Fairbanks domestic violence case, and troopers arrested a North Pole woman on an assault charge and a warrant from a 2024 theft case. On the evening rescan, troopers reported a John Deere tractor stolen from a Chena Pump Road residence and a Fairbanks DUI arrest, the city police bulletin recorded a hit and run on the Old Steese Highway, and an omnibus hearing in a North Pole assault case was continued, with a bail hearing set for Thursday.",
   "commentary": null,
   "entries": [
+    {
+      "id": "tractor-theft-chena-pump",
+      "date": "2026-09-26",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26096045"
+      ],
+      "title": "John Deere tractor stolen from Chena Pump Road residence",
+      "body": [
+        "Alaska State Troopers responded on Sept. 26 to the theft of a John Deere tractor from a residence in the area of Chena Pump Road. The investigation is ongoing.",
+        "The trooper report records no value, no suspect and no arrest. It was posted on Sept. 29, three days after the reported theft."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Sept. 29",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=9/29/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "fairbanks-dui-0929",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "AK26096945"
+      ],
+      "title": "Fairbanks traffic stop ends in DUI arrest",
+      "body": [
+        "Troopers stopped a vehicle in Fairbanks on Sept. 29 for an equipment violation. The driver, Austin Rue-Roberts, 30, of Ambler, was found to be impaired.",
+        "Rue-Roberts was arrested for driving under the influence and for violating an instructional driving permit, and was taken to Fairbanks Correctional Center. No court file exists yet, so no charge class is stated. Rue-Roberts is arrested, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Sept. 29",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=9/29/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "old-steese-hit-and-run",
+      "date": "2026-09-28",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "26002990"
+      ],
+      "title": "Hit and run reported on the Old Steese Highway",
+      "body": [
+        "The Fairbanks police bulletin for Sept. 28 now records one event: a hit and run in the 500 block of Old Steese Highway at about 9:19 a.m., case 26002990. It is an incident report; no suspect is named and no arrest is recorded.",
+        "The bulletin had shown no events for Sept. 28 on three earlier readings. It recorded no events for Sept. 29 when read Tuesday evening."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "rudolph-munro-omnibus-continued",
+      "date": "2026-09-29",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01644CR"
+      ],
+      "title": "Omnibus hearing continued in North Pole assault case; bail hearing set for Oct. 1",
+      "body": [
+        "An omnibus hearing set for Sept. 29 in Superior Court in the case against Cody Steven Rudolph-Munro was continued, according to the court docket. A new omnibus hearing is set for Dec. 10, and the trial week of Oct. 12 has been reset.",
+        "A bail hearing is set for Oct. 1 at 3:45 p.m. before Judge Thomas I. Temple, following a defense application for a first bail review filed Sept. 28.",
+        "The case carries six counts dated Aug. 23 at North Pole, including assault in the third degree with a weapon, a Class C felony. The public record shows a change-of-plea hearing on Sept. 11 and a sentencing hearing on Sept. 15 but does not state their outcome. Rudolph-Munro is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-01644CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "meth-charges-fairbanks",
       "date": "2026-09-28",
@@ -253,9 +342,9 @@
       "category": "other",
       "severity": "other",
       "cases": [],
-      "title": "City police bulletin records no events for a third consecutive day",
+      "title": "City police bulletin quiet for three days, with one late addition",
       "body": [
-        "The Fairbanks Police Department daily bulletin returned no events for Sept. 27, Sept. 28 or Sept. 29 when read early Tuesday, with the date header confirmed on each reading. Sept. 27 has now returned no events on four separate readings and Sept. 28 on three. Counts for Sept. 21 through Sept. 26 were unchanged: 15, one, eight, five, one and two.",
+        "The Fairbanks Police Department daily bulletin returned no events for Sept. 27, Sept. 28 or Sept. 29 when read early Tuesday, with the date header confirmed on each reading. When read again Tuesday evening, Sept. 28 showed one event, the Old Steese Highway hit and run reported above. Counts for Sept. 21 through Sept. 26 were unchanged: 15, one, eight, five, one and two.",
         "A zero on this feed means only that nothing had been posted at the time of reading. The bulletin covers the city of Fairbanks only, never carries death investigations, and does not cover North Pole, Nenana, Healy, Delta Junction or other trooper areas.",
         "The Alaska State Troopers dispatch page for Sept. 28, covering the same region and the surrounding Interior, carried eight items when read Tuesday morning, up from seven the previous evening and two on Monday morning. The addition was the North Pole arrest reported above, posted at 6:41 p.m."
       ],
@@ -429,9 +518,9 @@
       "defendant": "Rudolph-Munro, Cody Steven",
       "level": "Class C felony",
       "charges": "Six counts dated Aug. 23 at North Pole: assault 3 with a weapon (Class C felony); assault 4 x2; violating conditions of release for a misdemeanor; unlawful contact per court order; violating a condition of release for a felony. Four counts domestic violence related. Change of plea hearing Sept. 11 and sentencing hearing Sept. 15 held; outcome not on the public record.",
-      "next": "Omnibus Sept. 29, 2:30 p.m., Courtroom 404; trial week Oct. 12",
+      "next": "Bail hearing Oct. 1, 3:45 p.m., Courtroom 404; omnibus Dec. 10. Sept. 29 omnibus continued; Oct. 12 trial week reset",
       "judge": "Temple",
-      "last_docket": "2026-09-16"
+      "last_docket": "2026-09-29"
     },
     {
       "case": "4FA-26-01446CR",
@@ -520,13 +609,13 @@
       "name": "AST Daily Dispatch (D Detachment)",
       "url": "https://dailydispatch.dps.alaska.gov/",
       "status": "read",
-      "note": "Twelve dated pages, Sept. 18–29, date header confirmed on each. Sept. 28 revised from seven items to eight. Sept. 29 carried no Interior items when read at 3:24 a.m."
+      "note": "Twelve dated pages, Sept. 18–29, date header confirmed on each. Sept. 28 revised from seven items to eight. Sept. 29 carried no Interior items when read at 3:24 a.m. Re-read at 6:52 p.m.: six D Detachment items for Sept. 29."
     },
     {
       "name": "FPD Daily Bulletin",
       "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin",
       "status": "read",
-      "note": "Nine dated views, Sept. 21–29. No events recorded for Sept. 27, 28 or 29; earlier counts unchanged."
+      "note": "Nine dated views, Sept. 21–29. Sept. 28 revised from no events to one on the evening reading; Sept. 29 still none."
     },
     {
       "name": "Alaska Court System — weekly charges filed",
@@ -556,7 +645,7 @@
       "name": "U.S. Attorney, District of Alaska",
       "url": "https://www.justice.gov/usao-ak/pr",
       "status": "read",
-      "note": "Twelve releases on the first page, all transcribed. One new item dated Sept. 28, a sentence for interfering with a flight crew, outside the Interior. Three attempts from this service's network were refused by its proxy before the page was reached another way; the index's second page is blocked to automated reading."
+      "note": "Twelve releases on the first page, all transcribed. One new item dated Sept. 28, a sentence for interfering with a flight crew, outside the Interior. Three attempts from this service's network were refused by its proxy before the page was reached another way; the index's second page is blocked to automated reading. Not reachable on the evening rescan; the morning reading stands."
     },
     {
       "name": "News-Miner Public Safety Report",
