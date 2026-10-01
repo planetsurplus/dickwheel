@@ -1,10 +1,154 @@
 {
   "date": "2026-09-30",
-  "compiled": "03:58 AKDT",
-  "window": "Sep. 27–30, 2026",
-  "summary": "A Fairbanks police bulletin backfill put a robbery with a cutting instrument and an aggravated assault into public view three days after they were reported, part of sixteen events added to five earlier dates. A Fourth Judicial District grand jury indicted two defendants on Sept. 29, raising one count from a Class A misdemeanor to a Class C felony, and prosecutors dropped one of two felony drug counts against a defendant arrested in the Sept. 16 narcotics operation.",
+  "compiled": "17:58 AKDT",
+  "window": "Sep. 18–30, 2026",
+  "summary": "A Fairbanks police bulletin backfill put a robbery with a cutting instrument and an aggravated assault into public view three days after they were reported, part of sixteen events added to five earlier dates. A Fourth Judicial District grand jury indicted two defendants on Sept. 29, raising one count from a Class A misdemeanor to a Class C felony, and prosecutors dropped one of two felony drug counts against a defendant arrested in the Sept. 16 narcotics operation. A federal judgment of more than $1.3 million was recorded in a bribery case over construction contracts at Eielson Air Force Base, inside the coverage area. In a later pass on Sept. 30, four of the records this report is built from could not be reached, so no court case was re-checked after the morning and the results of six hearings set for Sept. 30 and Oct. 1 are unverified.",
   "commentary": null,
   "entries": [
+    {
+      "id": "eielson-bribery-judgment",
+      "date": "2026-09-18",
+      "place": "Eielson Air Force Base",
+      "agency": "U.S. Attorney, District of Alaska",
+      "category": "court",
+      "severity": "felony",
+      "cases": [],
+      "title": "Federal judgment of more than $1.3 million in bribery case over Eielson Air Force Base contracts",
+      "body": [
+        "The U.S. Attorney's office for the District of Alaska announced on Sept. 18 that the United States recovered more than $1.3 million in civil damages and penalties in a False Claims Act action over a bribery scheme affecting construction contracts at Eielson Air Force Base and Joint Base Elmendorf-Richardson.",
+        "According to the release, a former Air Force contracting officer, Brian Lowell Nash II, accepted more than $400,000 in bribes from a contractor, Ryan Dalbec, in exchange for confidential bidding information on $8.25 million in federal contracts. The release states that Nash, Dalbec and Dalbec's wife, Raihana Nadem, were criminally convicted; that Nash was sentenced to 30 months and Dalbec to 42 months; and that treble damages and penalties were entered against them and against the company Best Choice Construction, LLC.",
+        "Eielson Air Force Base is inside the area this report covers. Joint Base Elmendorf-Richardson, at Anchorage, is not. The judgment is the largest public corruption matter recorded inside the coverage area since this report began.",
+        "Two dates attach to this item and both are accurate for the document they belong to: the Department of Justice release carries the dateline Friday, Sept. 18, 2026, and KTVF and Alaska's News Source each published reports on the judgment on Sept. 19."
+      ],
+      "sources": [
+        {
+          "label": "U.S. Attorney, District of Alaska, Sept. 18",
+          "url": "https://www.justice.gov/usao-ak/pr/us-collect-over-13-million-after-judgment-ordered-bribery-case-involving-millions-dow"
+        }
+      ]
+    },
+    {
+      "id": "records-unavailable-sep30",
+      "date": "2026-09-30",
+      "place": "Fairbanks",
+      "agency": "Multiple",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Four primary records could not be reached Wednesday evening",
+      "body": [
+        "Four of the records this report is compiled from were unavailable on the evening of Sept. 30: the Alaska State Troopers daily dispatch, the Fairbanks Police Department daily bulletin, the Alaska CourtView case database, and the Fairbanks Daily News-Miner public safety column.",
+        "As a result there is no count of police or trooper activity for Sept. 30 in this edition beyond what was read that morning, and no open court case was re-checked after the morning pass. Readers should not take the absence of items as an indication that Wednesday was quiet in Fairbanks; the records that would show what happened were not available.",
+        "Two sources were reached in the evening pass: the U.S. Attorney's office for the District of Alaska and the Alaska Department of Law. Local newsrooms were also reviewed. The next edition is expected to restore the daily counts and the court docket checks."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Fairbanks Police Department daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bentley-drive-medical-examiner",
+      "date": "2026-09-30",
+      "time": "21:12",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "other",
+      "cases": [],
+      "title": "Bentley Drive shooting that killed two remains open pending medical examiner findings",
+      "body": [
+        "A police account of the Bentley Drive shooting that killed two people, attributed to Fairbanks Police Deputy Chief Richard Sweet and reported by KTVF, states that officers received a 911 call from a home on Bentley Drive at about 9:12 p.m. from a caller reporting that his friend had shot his girlfriend.",
+        "According to that account, a 22-year-old man was handling a revolver when he pointed it at a 21-year-old woman and fired. Investigators believe the weapon held a single round and do not know whether he was aware it was loaded. A third person at the home tried to stop him from reaching a second firearm and was unsuccessful. After the woman was shot, the man shot himself. The woman died at the scene and the man died of his injuries at Fairbanks Memorial Hospital.",
+        "The report states the case remains open pending a final determination from the state medical examiner's office, including toxicology results and examination of the wounds. No determination has been announced. The names of the two people who died are not published here.",
+        "The calendar date of the shooting has not been established from an official record; the police account gives a time of day but no date, and this report has previously carried the event under two different dates."
+      ],
+      "sources": [
+        {
+          "label": "KTVF, published Sept. 18, 2026",
+          "url": "https://www.webcenterfairbanks.com/2026/09/18/police-fairbanks-man-fatally-shoots-girlfriend-while-playing-with-gun-then-kills-himself/"
+        }
+      ]
+    },
+    {
+      "id": "goldridge-tractor-death",
+      "date": "2026-09-22",
+      "time": "12:53",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26094402"
+      ],
+      "title": "Tractor death on Goldridge Drive confirmed as Sept. 22; no medical examiner finding announced",
+      "body": [
+        "Alaska State Troopers say Daniel Mulford, 53, was killed on Tuesday, Sept. 22 while helping a neighbor dig a hole with a tractor at a Fairbanks residence. Troopers say he became pinned by a part of the tractor and died. Troopers were called at 12:53 p.m. Foul play is not suspected and next of kin have been notified.",
+        "A report by Your Alaska Link places the incident on Goldridge Drive and states that emergency medical personnel pronounced him dead at the scene.",
+        "No finding by the State Medical Examiner's Office has been announced. The trooper dispatch entry recorded that the office requested the body for autopsy and that the investigation remains ongoing."
+      ],
+      "sources": [
+        {
+          "label": "KTVF, Sept. 23, 2026",
+          "url": "https://www.webcenterfairbanks.com/2026/09/23/fairbanks-man-killed-after-tractor-pins-him-down-troopers-say/"
+        },
+        {
+          "label": "Your Alaska Link, Sept. 23, 2026",
+          "url": "https://www.youralaskalink.com/news/local/man-dies-after-becoming-trapped-in-heavy-equipment-in-fairbanks/article_a214ea52-86a9-44b9-935a-b0f18b31fd4a.html"
+        }
+      ]
+    },
+    {
+      "id": "usao-dillingham-embezzlement",
+      "date": "2026-09-29",
+      "place": "Dillingham",
+      "agency": "U.S. Attorney, District of Alaska",
+      "category": "court",
+      "severity": "felony",
+      "cases": [],
+      "title": "Former tribal employee sentenced for embezzlement in southwest Alaska",
+      "body": [
+        "The U.S. Attorney's office for the District of Alaska announced on Sept. 29 that William Corbett, 37, was sentenced to two years and one day in prison with three years of supervised release for embezzling from the Curyung Tribal Council at Dillingham, where he was hired as an accountant and IT specialist in February 2023.",
+        "He was ordered on Sept. 28 to pay $125,834.58 in restitution. The conduct took place between October 2023 and February 2024.",
+        "Dillingham is in the Bristol Bay region of southwest Alaska, well outside the Fairbanks area this report covers. The item is noted here because it is the only movement on the federal prosecutor's index since the previous edition."
+      ],
+      "sources": [
+        {
+          "label": "U.S. Attorney, District of Alaska, Sept. 29",
+          "url": "https://www.justice.gov/usao-ak/pr/former-employee-sentenced-and-ordered-pay-restitution-embezzling-federally-recognized"
+        }
+      ]
+    },
+    {
+      "id": "dept-of-law-no-interior-outcome",
+      "date": "2026-09-30",
+      "place": "Fairbanks",
+      "agency": "Alaska Department of Law",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Thirteen days since the state announced a Fairbanks-area case outcome",
+      "body": [
+        "The Alaska Department of Law has not announced a criminal case outcome from the Fairbanks area since Sept. 17, when it reported a 30-year sentence in a Fairbanks sexual assault case. That is 13 days.",
+        "The department's most recent release, dated Sept. 28, concerns a multi-state civil challenge to firearms purchase waiting periods. The two items before it concern a data breach settlement and vehicle sales restitution.",
+        "The department announces only a portion of the cases the Fairbanks court closes. Court records remain the fuller source for case outcomes."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Department of Law press releases",
+          "url": "https://law.alaska.gov/press/news.html"
+        }
+      ]
+    },
     {
       "id": "robbery-old-steese",
       "date": "2026-09-27",
@@ -340,7 +484,8 @@
         "A status hearing is set for Sept. 30 in the Fairbanks case against Cedar Mae Sarten, who was convicted in May of two counts of murder in the first degree and one count of murder in the second degree in the death of a child. Sentencing remains set for Nov. 6. The State filed its sentencing memorandum and notice under Criminal Rule 32.1 on Sept. 25.",
         "Superior Court arraignments are set for Sept. 30 in the cases against Joshua Jon Burks, William Bruce Ostlund and Alfred L Nelson. A bail hearing in the Nelson case, which charges one count of assault in the second degree, a Class B felony recorded as domestic violence related and indicted on Sept. 9, has been set for Oct. 2 following a defense application filed Sept. 28.",
         "A preliminary hearing is set for Sept. 30 in the case against Jerald Burton, charging one count of assault in the second degree, a Class B felony. A bail hearing is set for Sept. 30 in the Budnik case at Delta Junction.",
-        "In the case against Cody Steven Rudolph-Munro, a bail hearing is set for Oct. 1 and an omnibus hearing for Dec. 10. A trial week of Jan. 4, 2027 now appears on the event list; the trial week of Oct. 12 has been reset. Preliminary hearings are set for Oct. 1 in the North Pole kidnapping case against Dante Nathaniel Larry Claxton, who is charged, not convicted, and in whose case an attorney entered an appearance on Sept. 28."
+        "In the case against Cody Steven Rudolph-Munro, a bail hearing is set for Oct. 1 and an omnibus hearing for Dec. 10. A trial week of Jan. 4, 2027 now appears on the event list; the trial week of Oct. 12 has been reset. Preliminary hearings are set for Oct. 1 in the North Pole kidnapping case against Dante Nathaniel Larry Claxton, who is charged, not convicted, and in whose case an attorney entered an appearance on Sept. 28.",
+        "The results of the hearings set for Sept. 30 and Oct. 1 are unverified: the court's public case index could not be reached in the evening pass on Sept. 30."
       ],
       "sources": [
         {
@@ -352,6 +497,7 @@
   ],
   "filings": {
     "window": "Sep. 23–29, 2026",
+    "note": "Read from the weekly report generated 9:00 p.m. Sept. 29 during the morning pass. The report was not re-read in the evening pass; the copy retrieved then was one weekly run behind and was treated as cached. Counts are minimums, not totals, because the report adds cases to earlier filing days.",
     "courts": [
       {
         "court": "Fairbanks (4FA)",
@@ -484,7 +630,7 @@
       "defendant": "Budnik, Pavel Ivanovich",
       "level": "Class C felony x2 · indicted",
       "charges": "Terroristic threatening 2, fear of serious injury (Class C felony); and, on count two, an original charge of violating a condition of release for a felony (Class A misdemeanor) with an indicted charge of assault 3, cause fear of injury with a weapon (Class C felony). Both dated Sept. 20 at Delta Junction. Indicted Sept. 29; both preliminary hearings vacated.",
-      "next": "Bail hearing Sept. 30, 3:30 p.m., Courtroom 305; Superior Court arraignment Oct. 7; omnibus Dec. 1; trial week Dec. 14",
+      "next": "Bail hearing Sept. 30, 3:30 p.m., Courtroom 305; Superior Court arraignment Oct. 7; omnibus Dec. 1; trial week Dec. 14 — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Harbison",
       "last_docket": "2026-09-29"
     },
@@ -493,7 +639,7 @@
       "defendant": "Burks, Joshua Jon",
       "level": "Class B felony · indicted",
       "charges": "Misconduct involving a controlled substance 3, manufacture or deliver, two counts dated Sept. 16 at Fairbanks. Count one indicted. A charge was dismissed by the prosecutor Sept. 29 following a notice of dismissal for count two filed Sept. 25. The Oct. 7 preliminary hearing is vacated.",
-      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; omnibus Nov. 3; trial week Nov. 16",
+      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; omnibus Nov. 3; trial week Nov. 16 — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Welch",
       "last_docket": "2026-09-29"
     },
@@ -520,7 +666,7 @@
       "defendant": "Claxton, Dante Nathaniel Larry",
       "level": "Unclassified felony",
       "charges": "Kidnapping, injury or sexual assault, at North Pole; assault 4 and interference with a report of a domestic violence crime, both Class A misdemeanors, at Fairbanks. All three counts dated Sept. 22 and recorded domestic violence related. On a complaint and information; no grand jury indictment.",
-      "next": "Preliminary hearings Oct. 1 and Oct. 12, 3:15 p.m., Courtroom 102",
+      "next": "Preliminary hearings Oct. 1 and Oct. 12, 3:15 p.m., Courtroom 102 — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Schwalm",
       "last_docket": "2026-09-28"
     },
@@ -529,7 +675,7 @@
       "defendant": "Sarten, Cedar Mae",
       "level": "Convicted",
       "charges": "Two counts of murder in the first degree and one of murder in the second degree, all indicted. Convicted May 15, 2026. One murder 1 count dismissed by the prosecution June 8, 2026. The State filed its sentencing memorandum and Rule 32.1 notice Sept. 25.",
-      "next": "Status hearing Sept. 30, 2:30 p.m.; sentencing Nov. 6, 9:00 a.m., Courtroom 402",
+      "next": "Status hearing Sept. 30, 2:30 p.m.; sentencing Nov. 6, 9:00 a.m., Courtroom 402 — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Bennett",
       "last_docket": "2026-09-25"
     },
@@ -538,7 +684,7 @@
       "defendant": "Rudolph-Munro, Cody Steven",
       "level": "Class C felony",
       "charges": "Six counts dated Aug. 23 at North Pole: assault 3 with a weapon (Class C felony); assault 4 x2; violating conditions of release for a misdemeanor; unlawful contact per court order; violating a condition of release for a felony. Four counts domestic violence related. A change of plea hearing on Sept. 11 and a sentencing hearing on Sept. 15 were held; the outcome is not on the public record. The Sept. 29 omnibus hearing was continued.",
-      "next": "Bail hearing Oct. 1, 3:45 p.m., Courtroom 404; omnibus Dec. 10; trial week Jan. 4, 2027. Oct. 12 trial week reset",
+      "next": "Bail hearing Oct. 1, 3:45 p.m., Courtroom 404; omnibus Dec. 10; trial week Jan. 4, 2027. Oct. 12 trial week reset — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Temple",
       "last_docket": "2026-09-29"
     },
@@ -547,7 +693,7 @@
       "defendant": "Nelson, Alfred L",
       "level": "Class B felony · indicted",
       "charges": "Assault 2, injury with a weapon with intent, dated Aug. 23 at Fairbanks. Recorded domestic violence related. Indicted Sept. 9; warrant served Sept. 24. A defense application for a first bail review was filed Sept. 28.",
-      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; bail hearing Oct. 2, 9:30 a.m.",
+      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; bail hearing Oct. 2, 9:30 a.m. — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Temple",
       "last_docket": "2026-09-28"
     },
@@ -664,7 +810,7 @@
       "defendant": "Ostlund, William Bruce",
       "level": "Class A felony · indicted",
       "charges": "Misconduct involving a controlled substance 2, manufacture or deliver methamphetamine, three counts dated April 21, June 24 and July 8, 2026 at Fairbanks. The Oct. 7 preliminary hearing is vacated.",
-      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; omnibus Oct. 1; trial week Oct. 19",
+      "next": "Superior Court arraignment Sept. 30, 1:30 p.m., Courtroom 402; omnibus Oct. 1; trial week Oct. 19 — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Peterson",
       "last_docket": "2026-09-24"
     },
@@ -673,7 +819,7 @@
       "defendant": "Burton, Jerald",
       "level": "Class B felony",
       "charges": "Assault 2, injury with a weapon with intent, dated Sept. 20 at Fairbanks. Not domestic violence flagged. On a complaint; no indictment. A different person from Anthony Thomas Burton, charged Sept. 27 with DUI.",
-      "next": "Preliminary hearings Sept. 30 and Oct. 8, 3:15 p.m., Courtroom 102",
+      "next": "Preliminary hearings Sept. 30 and Oct. 8, 3:15 p.m., Courtroom 102 — results of hearings set for Sept. 30 and Oct. 1 are unverified; the case index could not be reached in the evening pass.",
       "judge": "Bennett",
       "last_docket": "2026-09-22"
     },
@@ -698,88 +844,100 @@
   ],
   "sources": [
     {
-      "name": "AST Daily Dispatch (D Detachment)",
-      "url": "https://dailydispatch.dps.alaska.gov/",
-      "status": "read",
-      "note": "Twelve dated pages, Sept. 18-29, with the date header confirmed inside each. Every count unchanged from the previous reading. The Sept. 30 page carries 'No news reported for this date' and renders no dated header at all, so that date could not be confirmed against the document; its count of zero is recorded as a minimum."
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov",
+      "status": "not reached",
+      "note": "Evening pass: network access to the host was denied and the site could not be read by any available method, so no count was taken then. The morning pass read twelve dated pages, Sept. 18-29, with the date header confirmed inside each; every count was unchanged from the previous reading. The Sept. 30 page carried 'No news reported for this date' and rendered no dated header at all, so that date could not be confirmed against the document and its count of zero is a minimum."
     },
     {
-      "name": "FPD Daily Bulletin",
+      "name": "Fairbanks Police Department daily bulletin",
       "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin",
-      "status": "read",
-      "note": "Ten dated views, Sept. 21-30, date header confirmed on each. Five dates were revised upward and sixteen events added: Sept. 22 from one to two, Sept. 24 from five to six, Sept. 25 from one to seven, Sept. 26 from two to seven, and Sept. 27 from none to three. Sept. 28 holds one; Sept. 29 and Sept. 30 none. Counts on this feed are minimums."
-    },
-    {
-      "name": "Alaska Court System - weekly charges filed",
-      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf",
-      "status": "read",
-      "note": "New report: window Sept. 23-29, generated 9:00 p.m. Sept. 29, 68 pages, down from 70. Read for the Fairbanks, Nenana, Healy and Delta Junction prefixes by walking every page. One case was added to the Sept. 25 filing day and two to Sept. 28. Sept. 22 has rolled off the window with ten Fairbanks cases."
-    },
-    {
-      "name": "Alaska Court System - criminal dispositions",
-      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf",
-      "status": "stale",
-      "note": "Unchanged for a third reading: 358 pages, last updated Sept. 28 at 4:00 a.m., window to Sept. 28. The report updates on an irregular cycle; no conclusion follows from it not having changed. Three case numbers it records as closed return no record in the public case index."
+      "status": "not reached",
+      "note": "Evening pass: network access denied, and the bulletin requires a browser to display results. The morning pass read ten dated views, Sept. 21-30, with the date header confirmed on each: five dates were revised upward and sixteen events added. Sept. 28 holds one; Sept. 29 and Sept. 30 none. Counts on this feed are minimums and were not re-tested in the evening."
     },
     {
       "name": "Alaska CourtView",
       "url": "https://records.courts.alaska.gov/eaccess/home.page",
-      "status": "read",
-      "note": "Thirty-one case lookups and five name searches. Charge lists display only five counts per case; further counts must be expanded. A name search with surname and forename resolves case numbers the weekly report prints without charges; the age recorded on a police feed is checked against the date of birth on the file before any match is treated as the same person."
+      "status": "not reached",
+      "note": "Evening pass: network access denied, so no open case was re-checked and the results of six hearings set for Sept. 30 and Oct. 1 are unverified. The morning pass made thirty-one case lookups and five name searches. Charge lists display only five counts per case; further counts must be expanded."
     },
     {
-      "name": "Alaska Department of Law press releases",
-      "url": "https://law.alaska.gov/press/news.html",
-      "status": "read",
-      "note": "151 release links on the 2026 index, unchanged. No release published since Sept. 28, a multi-state civil filing. The newest Interior case outcome announced remains a Fairbanks sentencing displayed Sept. 17, thirteen days earlier."
+      "name": "Alaska Court System — criminal charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf",
+      "status": "stale",
+      "note": "Evening pass: the copy retrieved was one weekly run behind the version read that morning and contained no Fairbanks section, so it was treated as a cached copy and no counts were taken from it. The morning pass read the current report: window Sept. 23-29, generated 9:00 p.m. Sept. 29, 68 pages, walked page by page for the Fairbanks, Nenana, Healy and Delta Junction prefixes."
+    },
+    {
+      "name": "Alaska Court System — criminal cases disposed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf",
+      "status": "stale",
+      "note": "Update stamp of Sept. 28 at 4:00 a.m. confirmed, unchanged for a third reading; 358 pages, window to Sept. 28. In the evening pass the Fairbanks, Nenana, Healy and Delta Junction sections were not readable. The report updates on an irregular cycle and no conclusion follows from it not having changed."
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/",
+      "status": "not reached",
+      "note": "Evening pass: access denied to both the index and the Sept. 29 column. The morning pass found a new edition dated Sept. 29 whose first section heading is DUI, with the remainder behind the subscriber wall."
     },
     {
       "name": "U.S. Attorney, District of Alaska",
       "url": "https://www.justice.gov/usao-ak/pr",
       "status": "read",
-      "note": "Twelve releases on the first page, all transcribed, membership unchanged; newest dated Sept. 28 and outside the Interior. No new release in two days. Three attempts from this service's network were refused by its proxy before the page was reached another way; the index's second page is blocked to automated reading."
+      "note": "Twelve releases on the first page, all transcribed. One new release since the morning pass, dated Sept. 29, concerning a sentencing at Dillingham, outside the coverage area; an Aug. 10 item has rolled off the first page. The release behind the Sept. 18 bribery judgment row was opened and read for the first time this evening; it concerns contracts at Eielson Air Force Base, inside the coverage area. The index's second page is blocked to automated reading."
     },
     {
-      "name": "News-Miner Public Safety Report",
-      "url": "https://www.newsminer.com/news/public_safety_report/",
+      "name": "Alaska Department of Law",
+      "url": "https://law.alaska.gov/press/news.html",
       "status": "read",
-      "note": "A new edition dated Sept. 29; its first section heading is DUI and the rest is behind the subscriber wall. Twenty-three editions loaded, seventeen of them in September, and every September date shown on the page has a matching link. No Sept. 28 or Sept. 30 column."
-    },
-    {
-      "name": "Your Alaska Link",
-      "url": "https://www.youralaskalink.com/news/crime/",
-      "status": "read",
-      "note": "Published the first account this record has found of the Sept. 16 Fairbanks narcotics operation, dated Sept. 25 and updated Sept. 28. Two earlier editions of this record wrongly gave this outlet's newest Interior crime item as a Sept. 23 death; see corrections."
+      "note": "Nothing published since Sept. 28, a multi-state civil filing. Thirteen days since a Fairbanks-area case outcome was announced; the most recent was a Fairbanks sentencing displayed Sept. 17."
     },
     {
       "name": "KTVF / WebCenter Fairbanks",
-      "url": "https://www.webcenterfairbanks.com/news/crime/",
+      "url": "https://www.webcenterfairbanks.com/",
       "status": "read",
-      "note": "Nothing newer than Sept. 22; nothing Interior since Sept. 18."
+      "note": "Published a Fairbanks fatality on Sept. 23 at 12:12 p.m. — the Goldridge Drive tractor death — filed under general news rather than crime. The newest item on the crime index is the Sept. 18 Bentley Drive shooting, whose report states the case is open pending a state medical examiner determination. An earlier edition today gave this outlet's newest Fairbanks-area item as Sept. 18; see corrections."
     },
     {
       "name": "Alaska's News Source",
       "url": "https://www.alaskasnewssource.com/news/crime/",
       "status": "read",
-      "note": "Publishing daily again, with two items in the last day, neither Interior. Nothing Interior since Sept. 18."
+      "note": "Publishing daily, with items dated Sept. 28, 29 and 30. None is from the Fairbanks area; the newest Fairbanks-area item remains Sept. 18."
+    },
+    {
+      "name": "Your Alaska Link",
+      "url": "https://www.youralaskalink.com/news/",
+      "status": "read",
+      "note": "Its Sept. 23 report places the tractor death on Goldridge Drive and states that medical personnel pronounced the man dead at the scene. The Sept. 25 narcotics operation account, updated Sept. 28, is unchanged."
+    },
+    {
+      "name": "State Medical Examiner",
+      "url": "https://health.alaska.gov/dph/MedicalExaminer/Pages/default.aspx",
+      "status": "read",
+      "note": "The office does not publish case findings. No determination has been announced in either open death investigation: the Fairbanks shooting that killed two, or the Sept. 22 tractor death."
     },
     {
       "name": "Alaska Public Media",
       "url": "https://alaskapublic.org/news/public-safety/",
       "status": "read",
-      "note": "Newest item Sept. 28; nothing Interior on the public safety section."
+      "note": "Newest item Sept. 28; nothing from the Fairbanks area on the public safety section."
     },
     {
       "name": "KUAC",
       "url": "https://fm.kuac.org/",
       "status": "stale",
-      "note": "A site search returns no Interior crime item newer than a July 20, 2026 report. The crime tag index carries nothing newer than June 26, 2026 and is not used as a freshness signal."
+      "note": "A site search returns no Fairbanks-area crime item newer than a July 20, 2026 report. The crime tag index carries nothing newer than June 26, 2026 and is not used as a freshness signal."
     },
     {
       "name": "Fairbanks Police Department on Facebook",
       "url": "https://www.facebook.com/Fairbankspd",
       "status": "read",
       "note": "A login wall limits the reading to the newest post, dated the evening of Sept. 29, which concerns three officers now working the same shift. It ends a nine-day gap. Nothing readable on the robbery, the aggravated assault or the court filings."
+    },
+    {
+      "name": "North Pole Police Department",
+      "url": "https://northpolepolice.org/",
+      "status": "read",
+      "note": "The department operates no public incident feed of any kind — no daily bulletin, blotter, arrest log or press page — for a city of about 2,800 with fourteen sworn officers. North Pole cases reach this report only through the trooper dispatch or the court file."
     },
     {
       "name": "News-Miner general local news feed",
@@ -792,12 +950,6 @@
       "url": "https://www.adn.com/section/alaska-news/fairbanks/",
       "status": "not reached",
       "note": "Headlines carry no publication dates and cannot be date-checked."
-    },
-    {
-      "name": "State Medical Examiner",
-      "url": "https://health.alaska.gov/dph/MedicalExaminer/Pages/default.aspx",
-      "status": "read",
-      "note": "No findings announced on the Fairbanks shooting deaths this record carries under two dates, Sept. 16 and Sept. 18, or on the Sept. 22 tractor death. Both remain open."
     }
   ]
 }
