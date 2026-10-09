@@ -2,7 +2,7 @@
   "date": "2026-10-09",
   "compiled": "04:12 AKDT",
   "window": "Oct. 2–9, 2026",
-  "summary": "A dismissal of criminal charges was filed on Thursday, Oct. 8 in 4FA-26-00112CR, the indicted Fairbanks first-degree murder case, three days after a competency stay on it was lifted; the court's public file does not state who filed it, what it reaches or whether the case is at an end, the murder count is still printed with its indicted charge, and no event now stands on the file. A Fourth Judicial District grand jury returned in three cases the same day: a Class B felony count of second-degree assault in a Fairbanks domestic violence case, and six Class A felony methamphetamine counts across two files, one of them against a man the Fairbanks court has had a warrant out for since Sep. 29 with no arrest recorded. The court file in the Oct. 2 sexual abuse conviction now carries the verdicts document, an order of commitment and a March 18, 2027 sentencing date, where on Oct. 8 it carried none of them; that is corrected below. Nine criminal cases were filed in the area on Oct. 8, two of them at Nenana. The filings counts below are the court report's own counts for the week ending Oct. 8. The court opened cases that week which that report does not carry: eight Fairbanks case numbers filed on Oct. 8 against the grand jury itself, 4FA-26-02042CR to 4FA-26-02049CR, appear nowhere in a report run four hours later whose window includes their file date; and a Minor Offense case filed the same day, 4FA-26-05258MO, is in a series the criminal charges report does not carry at all.",
+  "summary": "A dismissal of criminal charges was filed on Thursday, Oct. 8 in 4FA-26-00112CR, the indicted Fairbanks first-degree murder case, three days after a competency stay on it was lifted; the court's public file does not state who filed it, what it reaches or whether the case is at an end, the murder count is still printed with its indicted charge, and no event now stands on the file. A Fourth Judicial District grand jury returned in three cases the same day: a Class B felony count of second-degree assault in a Fairbanks domestic violence case, and six Class A felony methamphetamine counts across two files, one of them against a man the Fairbanks court has had a warrant out for since Sep. 29 with no arrest recorded. The court file in the Oct. 2 sexual abuse conviction now carries the verdicts document, an order of commitment and a March 18, 2027 sentencing date, where on Oct. 8 it carried none of them; that is corrected below. Nine criminal cases were filed in the area on Oct. 8, two of them at Nenana. The filings counts below are the court report's own counts for the week ending Oct. 8. The court opened at least one case that week which that report does not carry: a Minor Offense case filed on Oct. 8, 4FA-26-05258MO, is in a series the criminal charges report does not carry at all.",
   "commentary": null,
   "entries": [
     {
@@ -76,41 +76,6 @@
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
-      "id": "grand-jury-placeholder-case-numbers-oct-8",
-      "date": "2026-10-08",
-      "place": "Fairbanks",
-      "agency": "Alaska Court System",
-      "category": "court",
-      "severity": "other",
-      "cases": [
-        "4FA-26-02042CR",
-        "4FA-26-02043CR",
-        "4FA-26-02044CR",
-        "4FA-26-02045CR",
-        "4FA-26-02046CR",
-        "4FA-26-02047CR",
-        "4FA-26-02048CR",
-        "4FA-26-02049CR"
-      ],
-      "title": "Eight case numbers opened at Fairbanks on Oct. 8 are filed against the grand jury itself",
-      "body": [
-        "Eight criminal case numbers, 4FA-26-02042CR through 4FA-26-02049CR, were opened at the Fairbanks court on Thursday, Oct. 8. Each is printed State of Alaska vs. Grand Jury.",
-        "Each carries case type Criminal, case status Open, a file date of Oct. 8, one count recorded as charging document pending or not filed with no degree of offence, arrest tracking number 111111111, a stage date and date of offence of Oct. 8, an empty offence-location field, no party other than the grand jury and the State of Alaska, and no docket and no event list. The case judge field reads Bennett on two of them, Welch on one, and not assigned on the rest.",
-        "None of the eight appears in the Alaska Court System's weekly criminal charges report, which was run at 9:00 p.m. on Oct. 8 and whose window of Oct. 2 to Oct. 8 includes their file date. The report's Fairbanks section ends at 4FA-26-02041CR.",
-        "The eight files carry no charge, no defendant, no offence location and no docket, and nothing in them states how many matters a grand jury heard. Three of the day's grand jury returns were made on files of their own."
-      ],
-      "sources": [
-        {
-          "label": "Alaska CourtView",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        },
-        {
-          "label": "Alaska Court System, criminal charges filed",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         }
       ]
     },
@@ -1311,8 +1276,7 @@
       "level": "Not stated on the file",
       "charges": "One count recorded as charging document pending or not filed, with no degree of offence, offence-dated Oct. 8 at Fairbanks. No docket rows stand on the file. Police and troopers each record a separate charge against that name that appears on no court file",
       "next": "Arraignment Oct. 13",
-      "judge": "Christian",
-      "last_docket": null
+      "judge": "Christian"
     },
     {
       "case": "4NE-26-00101CR",
