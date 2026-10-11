@@ -291,7 +291,7 @@ def edition_body(ed, editions, is_home=False):
         cases = f'<section id="cases"><h2>Open cases <span class="count">{len(ed["open_cases"])} tracked · re-checked this edition</span></h2>{render_cases(ed["open_cases"], ed["date"])}</section>'
     daynav = f"""<div class="daynav"><span>{f'<a href="{BASE}{ed_url(older)}">← {short_date(older)}</a>' if older else ''}</span>
 <span>{f'<a href="{BASE}{ed_url(newer)}">{short_date(newer)} →</a>' if newer else ''}</span></div>"""
-    main = f"""<main>
+    main = f"""<main data-edition="{ed['date']}"{' data-home="1"' if is_home else ''}>
 <p class="dateline"><b>{long_date(ed['date'])}</b><span>Compiled {e(ed.get('compiled', ''))}</span><span>Covers {e(ed.get('window', ''))}</span></p>
 <h1 class="page">{'Today in Interior Alaska' if is_home else 'Edition of ' + long_date(ed['date'])}</h1>
 <p class="lede">{e(ed.get('summary', ''))}</p>
@@ -332,6 +332,8 @@ def build():
 
     latest = editions[0]
     write("index.html", page("", SITE_NAME, edition_body(latest, editions, is_home=True), latest.get("summary", ""), active=""))
+    # tiny file the pages check (uncached) to notice when a newer edition is out
+    (OUT / "latest.json").write_text(json.dumps({"date": latest["date"], "label": long_date(latest["date"])}))
     for ed in editions:
         write(f"{ed_url(ed['date'])}index.html",
               page(ed_url(ed["date"]), long_date(ed["date"]), edition_body(ed, editions), ed.get("summary", "")))
