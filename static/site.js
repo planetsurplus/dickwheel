@@ -67,3 +67,16 @@ var copy=bar.querySelector(".copy"),nat=bar.querySelector(".native");
 if(copy)copy.addEventListener("click",function(){var done=function(){copy.textContent="Copied!";setTimeout(function(){copy.textContent="Copy link"},1800)};
 if(navigator.clipboard)navigator.clipboard.writeText(url).then(done,function(){prompt("Copy this link:",url)});else prompt("Copy this link:",url)});
 if(nat&&navigator.share){nat.hidden=false;nat.addEventListener("click",function(){navigator.share({title:title,url:url}).catch(function(){})})}});
+
+// Newer-edition check: an open tab, a stale cached page, or an old edition URL
+// (e.g. one the address bar autocompleted) notices when a newer edition is out.
+(function(){var m=document.querySelector("main[data-edition]");if(!m||!window.fetch)return;
+var shown=m.dataset.edition,home=m.dataset.home==="1",base=document.body.dataset.base||"/",bar=null;
+function check(){fetch(base+"latest.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null}).then(function(d){
+if(!d||!d.date||d.date<=shown)return;var url=base+"editions/"+d.date+"/";
+if(home){location.replace(url);return}
+if(bar)return;bar=document.createElement("a");bar.className="newer-bar";bar.href=url;
+bar.innerHTML="<b>Newer edition out:</b> "+String(d.label||d.date).replace(/[<>&]/g,"")+" <span aria-hidden=\"true\">&rarr;</span>";
+m.insertBefore(bar,m.firstChild)}).catch(function(){})}
+check();document.addEventListener("visibilitychange",function(){if(!document.hidden)check()});
+setInterval(function(){if(!document.hidden)check()},15*60*1000);})();
