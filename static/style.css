@@ -1,3 +1,6 @@
+.newer-bar{display:block;margin:0 0 14px;padding:10px 14px;border-radius:8px;background:var(--accent-soft);border:1px solid var(--accent);color:var(--ink);text-decoration:none;font-size:15px}
+.newer-bar b{color:var(--accent)}
+.newer-bar:hover{border-width:2px;padding:9px 13px}
 :root{
   color-scheme:light;
   --paper:#F6F7F9; --surface:#ECEEF2; --surface-2:#E3E7ED;
