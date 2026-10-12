@@ -78,6 +78,12 @@ def is_iso(s):
         return False
 
 
+def court_count(c):
+    """Filing count for one court; the feed has used both "count" and "cases"."""
+    v = c.get("count", c.get("cases", 0))
+    return v if isinstance(v, int) else 0
+
+
 def correction_ref(c):
     ed = c.get("edition")
     if is_iso(ed):
@@ -208,8 +214,8 @@ def render_entry(en, edition_date):
 def render_filings(f):
     if not f:
         return ""
-    rows = "".join(f'<tr><td>{e(c["court"])}</td><td class="num">{c["count"]}</td></tr>' for c in f.get("courts", []))
-    total = sum(c["count"] for c in f.get("courts", []))
+    rows = "".join(f'<tr><td>{e(c["court"])}</td><td class="num">{court_count(c)}</td></tr>' for c in f.get("courts", []))
+    total = sum(court_count(c) for c in f.get("courts", []))
     new = ""
     if f.get("new"):
         fel_chip = '<span class="chip felony">Felony</span> '
@@ -252,7 +258,7 @@ def render_sources(srcs):
 def sidebar(ed, editions):
     n = len(ed["entries"])
     fel = sum(1 for x in ed["entries"] if x.get("severity") == "felony")
-    filings = sum(c["count"] for c in (ed.get("filings") or {}).get("courts", [])) if ed.get("filings") else "—"
+    filings = sum(court_count(c) for c in (ed.get("filings") or {}).get("courts", [])) if ed.get("filings") else "—"
     cases = len(ed.get("open_cases") or []) or "—"
     com = ed.get("commentary")
     if com:
