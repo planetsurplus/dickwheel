@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-10-15",
+    "edition": "2026-10-15",
+    "text": "This edition was compiled by a fallback pass that could not reach any of the primary records this report is built from, and it reports no crime because it could read no record of any. The Alaska State Troopers daily dispatch, the Fairbanks Police Department daily bulletin, both weekly Alaska Court System reports, Alaska CourtView, the U.S. Attorney index, the News-Miner public safety column, PulsePoint and the Fairbanks Police Department Facebook page were all unreadable to it. Nothing in this edition states or implies that nothing happened in the Interior on Oct. 14 or Oct. 15, 2026. No figure from an earlier edition is restated here as a figure for this day."
+  },
+  {
+    "date": "2026-10-15",
+    "edition": "2026-10-15",
+    "text": "The first file published for Oct. 15, 2026 was compiled at 04:05 AKDT by a fallback pass with no access to the primary records, and it reported no crime, no court filings and no open cases for that reason. It was published while the pass that reads the records was still compiling this edition, which read the trooper dispatch, the city police bulletin, both weekly court reports, the public case database, the state law press index, the News-Miner public safety column, three newsroom indexes, PulsePoint and the police Facebook page between 03:18 and 03:42 AKDT. The statements the earlier file made about its own reach were accurate for that pass; its statement that the day's primary records could not be read is superseded by this edition, which replaces it in full. Its corrections are carried forward above and nothing it published is dropped."
+  },
+  {
+    "date": "2026-10-15",
+    "edition": "2026-10-14",
+    "text": "The Oct. 14 edition reported that the Fairbanks Police Department daily bulletin returned no rows for Oct. 12 and for Oct. 13, each a complete calendar day. Both pages have since moved: Oct. 13 returns two rows and Oct. 12 returns one, and the pages for Oct. 9, Oct. 10, Oct. 11 and Oct. 14 all return more rows than they did. The figures were read correctly and the inference drawn from them was wrong. A count of zero on this feed means only that nothing had been posted at the time of reading, on a complete calendar day as much as on an incomplete one."
+  },
+  {
+    "date": "2026-10-15",
+    "edition": "2026-10-14",
+    "text": "The Oct. 14 edition reported that 4FA-26-02024CR remains in the court's criminal dispositions file. It does not appear in that file. A direct probe returns absent and a search for the number across all 237 pages of the file returns no match. The file's footer stamp has been unchanged throughout, so this is not a refresh having removed it. Twelve of the thirteen case numbers the public database denies are in the dispositions file; this one is not."
+  },
+  {
+    "date": "2026-10-15",
+    "edition": "2026-10-14",
+    "text": "The Oct. 14 edition recorded the defendant on 4FA-26-02059CR as Gelden Parrilla, which is how the weekly charges report prints the line. The case record read on Oct. 15 prints the name as Gonzalez, Geldin Luis Parrilla. The case number, arrest tracking number, offence date and judge are the same in both documents. Both spellings are recorded and neither is asserted over the other."
+  },
+  {
     "date": "2026-10-14",
     "edition": "2026-10-13",
     "text": "The Oct. 13 edition reported that no court file carried any of the three offences troopers recorded against the Oct. 12 arrest at Fairbanks under incident AK26101825. A file was opened on Oct. 13, 4FA-26-02078CR, carrying one count of robbery in the first degree armed with a deadly weapon, a Class A felony. The statement was accurate as to the records at the stated time of reading and is answered by the later filing. The file carries one count and not the three offences the arresting agency recorded."
