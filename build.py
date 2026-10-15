@@ -6,7 +6,7 @@ Env:    SITE_URL   full public URL, e.g. https://fairbankscrime.com  (for RSS + 
         BASE_PATH  path prefix, "/" for a custom domain, "/repo-name/" for a GitHub project page
 No third-party packages required.
 """
-import json, os, shutil, sys, hashlib, datetime as dt
+import json, os, re, shutil, sys, hashlib, datetime as dt
 from html import escape as _esc
 
 
@@ -283,6 +283,53 @@ def sidebar(ed, editions):
 </aside>"""
 
 
+_ABBR = {"jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "sept", "oct", "nov", "dec",
+         "a.m", "p.m", "no", "st", "mr", "mrs", "ms", "dr", "jr", "sr", "u.s", "mt", "ave", "rd", "hwy", "vs"}
+
+
+def split_sentences(text):
+    """Split prose into sentences without breaking on 'Oct.', 'p.m.', 'U.S.' and the like."""
+    out, cur = [], []
+    for word in text.split():
+        cur.append(word)
+        if re.search(r"[.!?][\"')\]]*$", word) and word.rstrip(".!?\"')]").lower().rstrip(".") not in _ABBR \
+                and word.rstrip(".").lower() not in _ABBR:
+            out.append(" ".join(cur)); cur = []
+    if cur:
+        out.append(" ".join(cur))
+    return [x for x in out if x]
+
+
+def render_highlights(ed):
+    """Top-of-edition synopsis as a short bullet list.
+    1. ed["highlights"] if the edition supplies them (plain strings);
+    2. otherwise the headlines of the day's most serious entries (felony, then misdemeanor,
+       then other incidents — routine court-report notices are skipped), linked to the entry;
+    3. otherwise the first sentences of ed["summary"]."""
+    items = [(h.strip(), None) for h in (ed.get("highlights") or []) if h and h.strip()]
+    if not items:
+        rank = {"felony": 0, "misdemeanor": 1}
+        pool = [x for x in ed.get("entries", [])
+                if x.get("title") and not (x.get("category") == "court" and x.get("severity") not in rank)]
+        pool.sort(key=lambda x: rank.get(x.get("severity"), 2))           # stable: keeps the day's order within a rank
+        items = [(x["title"].strip(), x.get("id")) for x in pool[:5]]
+    if not items:
+        items = [(t, None) for t in split_sentences((ed.get("summary") or "").strip())[:5]]
+    if not items:
+        return ""
+    lis = "".join(f'<li><a href="#{e(i)}">{e(t)}</a></li>' if i else f"<li>{e(t)}</li>" for t, i in items[:6])
+    return f'<ul class="highlights">{lis}</ul>'
+
+
+def nice_compiled(v):
+    """'2026-10-14T04:04:05-08:00' -> '4:04 a.m. AKDT'; anything else is shown as given."""
+    m = re.match(r"\d{4}-\d{2}-\d{2}T(\d{2}):(\d{2})", v or "")
+    if not m:
+        return v or ""
+    h, mi = int(m.group(1)), m.group(2)
+    return f"{h % 12 or 12}:{mi} {'a.m.' if h < 12 else 'p.m.'} AKDT"
+
+
 def edition_body(ed, editions, is_home=False):
     idx = [x["date"] for x in editions].index(ed["date"])
     newer = editions[idx - 1]["date"] if idx > 0 else None
@@ -298,9 +345,9 @@ def edition_body(ed, editions, is_home=False):
     daynav = f"""<div class="daynav"><span>{f'<a href="{BASE}{ed_url(older)}">← {short_date(older)}</a>' if older else ''}</span>
 <span>{f'<a href="{BASE}{ed_url(newer)}">{short_date(newer)} →</a>' if newer else ''}</span></div>"""
     main = f"""<main data-edition="{ed['date']}"{' data-home="1"' if is_home else ''}>
-<p class="dateline"><b>{long_date(ed['date'])}</b><span>Compiled {e(ed.get('compiled', ''))}</span><span>Covers {e(ed.get('window', ''))}</span></p>
+<p class="dateline"><b>{long_date(ed['date'])}</b><span>Compiled {e(nice_compiled(ed.get('compiled', '')))}</span><span>Covers {e(ed.get('window', ''))}</span></p>
 <h1 class="page">{'Today in Interior Alaska' if is_home else 'Edition of ' + long_date(ed['date'])}</h1>
-<p class="lede">{e(ed.get('summary', ''))}</p>
+{render_highlights(ed)}
 <p class="presumption">Everyone named is arrested or charged, not convicted.</p>
 <div class="share" data-url="{SITE_URL}{BASE}{ed_url(ed['date'])}" data-title="Fairbanks crime record, {long_date(ed['date'])}"><span class="share-label">Share this edition</span>
 <a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u={SITE_URL}{BASE}{ed_url(ed['date'])}" target="_blank" rel="noopener">Facebook</a>

@@ -82,6 +82,13 @@ def main(html=None):
             if {"date", "edition", "text"} <= c.keys() and (c["date"], c["text"]) not in seen:
                 corrections.append(c); seen.add((c["date"], c["text"])); changed.append(f"correction {c['date']}")
         path = ED_DIR / f"{date}.json"
+        if not ed.get("highlights") and path.exists():   # keep highlights added by hand in the repo
+            try:
+                kept = json.loads(path.read_text()).get("highlights")
+                if kept:
+                    ed["highlights"] = kept
+            except Exception:
+                pass
         new = json.dumps(ed, ensure_ascii=False, indent=2) + "\n"
         if not path.exists() or path.read_text() != new:
             path.write_text(new); changed.append(date)
