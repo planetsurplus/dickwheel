@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the dickwheel.com static site from data/editions/*.json.
+"""Build the fairbankscrime.com static site from data/editions/*.json.
 
 Usage:  python3 build.py            -> writes ./public
 Env:    SITE_URL   full public URL, e.g. https://fairbankscrime.com  (for RSS + canonical links)
@@ -19,7 +19,10 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 OUT = ROOT / "public"
 SITE_NAME = "Allegedly, these crimes occurred, but maybe not."
-SITE_URL = os.environ.get("SITE_URL", "https://dickwheel.com").rstrip("/")
+# The CNAME file is the source of truth for the public domain; SITE_URL env is only a fallback.
+_cname = (Path(__file__).parent / "CNAME")
+SITE_URL = ("https://" + _cname.read_text().strip() if _cname.exists() and _cname.read_text().strip()
+            else os.environ.get("SITE_URL", "https://fairbankscrime.com")).rstrip("/")
 BASE = os.environ.get("BASE_PATH", "/")
 if not BASE.endswith("/"):
     BASE += "/"
@@ -127,13 +130,13 @@ def page(path, title, body, description="", active=""):
 <title>{e(full_title)}</title>
 <meta name="description" content="{e(description or 'Daily crime and court record for Fairbanks and Interior Alaska, compiled from primary sources.')}">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="dickwheel.com">
+<meta property="og:site_name" content="fairbankscrime.com">
 <meta property="og:title" content="{e(full_title)}">
 <meta property="og:description" content="{e(description or 'Daily crime and court record for Fairbanks and Interior Alaska, compiled from primary sources.')}">
 <meta property="og:url" content="{SITE_URL}{BASE}{path}">
 <meta property="og:image" content="{SITE_URL}{BASE}static/share/og-default.png">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Allegedly, these crimes occurred. Fairbanks crime record at dickwheel.com">
+<meta property="og:image:alt" content="Allegedly, these crimes occurred. Fairbanks crime record at fairbankscrime.com">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/static/icons/favicon.svg" type="image/svg+xml">
@@ -506,8 +509,8 @@ def build():
 <p class="presumption">For emergencies call 911. Crime reports go to the Fairbanks Police Department or Alaska State Troopers, not here.</p>
 <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
 <input type="hidden" name="access_key" value="{CONTACT_KEY}">
-<input type="hidden" name="from_name" value="dickwheel.com contact form">
-<input type="hidden" name="subject" value="dickwheel.com: message">
+<input type="hidden" name="from_name" value="fairbankscrime.com contact form">
+<input type="hidden" name="subject" value="fairbankscrime.com: message">
 <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
 <fieldset class="cf-reasons"><legend>What is this about?</legend>
 <label class="reason"><input type="radio" name="topic" value="Correction" required checked><span class="r-t">Something's wrong</span><span class="r-s">An entry has an error in it</span></label>
@@ -540,7 +543,7 @@ var sends={{"Hot Tip":"Send it hot","Complaint":"File my complaint"}};
 function sync(){{var t=f.topic.value;msg.placeholder=hints[t]||"";btn.textContent=sends[t]||"Send message"}}
 f.addEventListener("change",function(e){{if(e.target.name==="topic")sync()}});sync();
 f.addEventListener("submit",function(e){{e.preventDefault();var t=f.topic.value;
-f.querySelector('[name="subject"]').value="dickwheel.com: "+t;
+f.querySelector('[name="subject"]').value="fairbankscrime.com: "+t;
 btn.disabled=true;btn.textContent="Sending…";st.className="cf-status";st.textContent="";
 fetch(f.action,{{method:"POST",headers:{{"Accept":"application/json"}},body:new FormData(f)}})
 .then(function(r){{return r.json()}}).then(function(d){{if(!d.success)throw new Error(d.message||"failed");

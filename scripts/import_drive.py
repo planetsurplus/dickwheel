@@ -16,7 +16,7 @@ ED_DIR = ROOT / "data" / "editions"
 CORR = ROOT / "data" / "corrections.json"
 FOLDER = os.environ.get("DRIVE_FOLDER_ID") or sys.exit("DRIVE_FOLDER_ID not set")
 LOOKBACK = int(os.environ.get("LOOKBACK_DAYS", "21"))
-UA = {"User-Agent": "Mozilla/5.0 (dickwheel.com site builder)"}
+UA = {"User-Agent": "Mozilla/5.0 (fairbankscrime.com site builder)"}
 NAME_RE = re.compile(r"^edition-(\d{4}-\d{2}-\d{2})(?:-r(\d+))?\.json$")
 
 
