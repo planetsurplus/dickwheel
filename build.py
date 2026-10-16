@@ -355,6 +355,7 @@ def edition_body(ed, editions, is_home=False):
 <div class="share" data-url="{SITE_URL}{BASE}{ed_url(ed['date'])}" data-title="Fairbanks crime record, {long_date(ed['date'])}"><span class="share-label">Share this edition</span>
 <a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u={SITE_URL}{BASE}{ed_url(ed['date'])}" target="_blank" rel="noopener">Facebook</a>
 <button type="button" class="share-btn copy">Copy link</button><button type="button" class="share-btn native" hidden>Share…</button></div>
+{render_bail(ed)}
 <section id="latest"><h2>Entries <span class="count">{len(ed['entries'])} items</span></h2>
 <div class="filters" role="group" aria-label="Filter by category">{filt}</div>
 <div class="entries">{entries}</div></section>
@@ -366,9 +367,81 @@ def edition_body(ed, editions, is_home=False):
     return f'<div class="layout">{main}{sidebar(ed, editions)}</div>'
 
 
+
+# ---------- Bail-O-Meter ----------
+def load_bail():
+    out = {}
+    d = DATA / "bail"
+    if d.exists():
+        for f in sorted(d.glob("*.json")):
+            try:
+                b = json.loads(f.read_text())
+                out[b["date"]] = b
+            except Exception as err:
+                print(f"WARNING: skipping {f.name}: {err}")
+    return out
+
+
+BAIL = {}
+
+
+def render_bail(ed):
+    """Weekly running tally from CourtView for the cases this site covered (Mon-Sun)."""
+    day = pdate(ed["date"])
+    week_start = day - dt.timedelta(days=day.weekday())
+    cands = [b for k, b in BAIL.items() if week_start.isoformat() <= k <= ed["date"]]
+    final = False
+    if not cands:   # early Monday: show last week's final tab
+        prev = (week_start - dt.timedelta(days=7)).isoformat()
+        cands = [b for k, b in BAIL.items() if prev <= k < week_start.isoformat()]
+        final = True
+        if not cands:
+            return ""
+    b = max(cands, key=lambda x: x["date"])
+    ws = b.get("week_start", week_start.isoformat())
+    c = b.get("counts", {})
+    posted, warr = b.get("posted", 0), b.get("on_warrants", 0)
+    total = posted + warr
+    span = f"{pdate(ws).strftime('%a')}. {short_date(ws)} – {short_date(b['date'])}"
+    buckets = [
+        ("schedule", "Walked out free", "on the court&rsquo;s bail schedule"),
+        ("posted", "Paid to leave", "bail posted"),
+        ("warrant", "Warrant out", "bail set on the warrant"),
+        ("judge", "Judge&rsquo;s call", "terms set in court, amount not online"),
+        ("summons", "Got a summons", "invited, not arrested"),
+        ("none", "No release info yet", "nothing on the docket"),
+        ("sealed", "Sealed", "not public in CourtView"),
+    ]
+    n_all = sum(c.get(k, 0) for k, *_ in buckets) or 1
+    bar = "".join(f'<span class="bk-{k}" style="flex:{c.get(k, 0)}" title="{lab}: {c.get(k, 0)}"></span>' for k, lab, _ in buckets if c.get(k, 0))
+    tiles = "".join(
+        f'<li class="bk-{k}"><span class="v">{c.get(k, 0)}</span><span class="l">{lab}</span><span class="s">{sub}</span></li>'
+        for k, lab, sub in buckets if c.get(k, 0) or k in ("schedule", "posted", "warrant"))
+    return f"""<section class="bail" id="bail-o-meter" aria-label="Bail-O-Meter">
+<div class="bail-head"><span class="bail-kicker">Bail-O-Meter · {'last week&rsquo;s final tab, ' if final else 'week of '}{e(span)}</span>
+<span class="bail-title">If you wanna bail &rsquo;em all out, here&rsquo;s the damage</span></div>
+<div class="bail-total" data-total="{total:.0f}"><span class="bail-dollar">$</span><span class="bail-num">{total:,.0f}</span></div>
+<p class="bail-split">${posted:,.0f} posted to walk out · ${warr:,.0f} set on fresh warrants</p>
+<div class="bail-bar" role="img" aria-label="How the {n_all} cases this {'past ' if final else ''}week left the building">{bar}</div>
+<ul class="bail-tiles">{tiles}</ul>
+<p class="bail-note">Every case this site covered {'that' if final else 'this'} week, looked up in Alaska CourtView. Dollar figures are only what CourtView shows: bonds actually posted and bail written on warrants issued {'that' if final else 'this'} week. Bail a judge sets in court sits in a document that isn&rsquo;t online, so the real bill is higher. Not an invitation. <span class="bail-checked">Checked {e(nice_checked(b))}</span></p>
+</section>"""
+
+
+def nice_checked(b):
+    t = b.get("checked_at", "")
+    try:
+        x = dt.datetime.fromisoformat(t)
+        h = x.strftime("%I:%M").lstrip("0")
+        return f"{x.strftime('%b')}. {x.day}, {h} {'a.m.' if x.hour < 12 else 'p.m.'}"
+    except Exception:
+        return t or b["date"]
+
+
 # ---------- pages ----------
 def build():
     editions = load_editions()
+    BAIL.update(load_bail())
     if not editions:
         sys.exit("ERROR: no editions in data/editions/")
     corrections = json.loads((DATA / "corrections.json").read_text()) if (DATA / "corrections.json").exists() else []
