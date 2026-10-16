@@ -1,0 +1,835 @@
+{
+  "date": "2026-10-16",
+  "compiled": "04:05 AKDT",
+  "window": "03:17 to 03:47 AKDT, Oct. 16, 2026",
+  "summary": "Court records and police feeds for the Fairbanks area, read on the morning of Oct. 16. A fugitive from justice hearing was held in Fairbanks on Oct. 15 for a man arrested at Fort Wainwright in September. The Alaska State Troopers dispatch page for Oct. 15, which carried no items when it was read that morning, now carries six. The court's weekly charges report, covering Oct. 9 to Oct. 15, lists 42 cases filed at Fairbanks, one at Nenana and three at Delta Junction, and no cases at Healy; the word Healy does not appear anywhere in the report. The newest case in that report, 4FA-26-02091CR, is printed in full by the court but does not return a record in the court system's public case database, so the report records a filing the database does not confirm. Eight pending criminal cases filed at the Delta Junction court were identified from the court's own daily calendar and are reported here for the first time. An indicted Class C felony case filed in April, in which a bench warrant was issued on Oct. 6, was reported in the Fairbanks Daily News-Miner and is included. The murder charge in 4FA-26-00112CR was dismissed and the case closed on Oct. 9; two newsrooms reported it on Oct. 15. The open cases section lists the 35 files re-checked in the court database this morning. A further 124 open files were carried forward without being re-checked and are not listed in this edition. One item is withheld pending review. Everyone named here is charged or arrested and not convicted unless an entry says otherwise.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "clarke-hearing-1016",
+      "date": "2026-10-15",
+      "time": "1:30 p.m.",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-01857CR"
+      ],
+      "title": "Fugitive from justice hearing held for Fort Wainwright man",
+      "body": [
+        "A fugitive from justice hearing was held in Fairbanks District Court on Oct. 15 for Brenden James Clarke, who was arrested on Sept. 18 at Fort Wainwright.",
+        "Clarke is charged with one count under AS 12.70.120, arrest prior to requisition, which the court records as fugitive from justice. The charge is the mechanism by which an arrest warrant from another jurisdiction is answered in Alaska; the Fairbanks court file states nothing about what that warrant alleges.",
+        "The Public Defender Agency was appointed to represent him at the hearing. A second fugitive from justice hearing is scheduled for Nov. 17 at 1:30 p.m. in Courtroom 102.",
+        "The case had carried no docket entry between the arraignment on Sept. 19 and the hearing on Oct. 15."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "ast-oct15-1016",
+      "date": "2026-10-15",
+      "place": "Fairbanks, Nenana",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Troopers report six Interior incidents for Oct. 15",
+      "body": [
+        "The Alaska State Troopers daily dispatch page for Oct. 15 carries six D Detachment items. Four were posted to the page in the afternoon and evening of Oct. 15.",
+        "Troopers in Nenana responded about 2:30 p.m. on Oct. 15 to a property near Mile 290 of the Parks Highway for a report of trespassing, and found a rental truck with two occupants on the property. Troopers identified them as J Cobb Whitmore, 47, of Nenana and Michelle Cummings, 41, of Fairbanks. The property was posted with no-trespassing signs and a barrier had been moved to gain access. Troopers forwarded charges of first-degree criminal trespass to the District Attorney's Office. No court case had been filed under either name as of the morning of Oct. 16.",
+        "Troopers received a report on Oct. 9 of an assault in Fairbanks reported after the fact; the caller said she had been assaulted by Jasmine Kignak, 38, of Fairbanks, and had left the residence. Charges were forwarded to the District Attorney's Office. The item was posted to the dispatch page on Oct. 15, six days after the report.",
+        "Troopers received a report on Oct. 14 that Pavel Budnik, 33, had contacted a person he was ordered not to contact, and forwarded charges of unlawful contact and violating conditions of release to the District Attorney's Office for review.",
+        "Troopers responded about 6:36 p.m. on Oct. 15 to Farmers Loop Road and Farmers Loop Extension for a vehicle in a ditch, and arrested Susan Waite, 63, of Fairbanks on a charge of driving under the influence. She was remanded to the Fairbanks Correctional Center. Fairbanks fire and EMS dispatch records show a fire call and two traffic collision calls in the same area between 6:33 and 6:36 p.m.",
+        "A sixth item is a non-criminal disturbance in Fairbanks. A seventh trooper item for Oct. 15, a domestic violence assault at Chalkitsik in which Nathaniel Paul was remanded to the Fairbanks Correctional Center, is outside the Fairbanks area and is noted here only because of the remand."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "perdue-1016",
+      "date": "2026-10-15",
+      "time": "2:37 a.m.",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02091CR"
+      ],
+      "title": "Fairbanks woman charged with assault after Bentley Drive arrest",
+      "body": [
+        "Clara Mona Lee Perdue, 37, was arrested at the 600 block of Bentley Drive in Fairbanks at 2:37 a.m. on Oct. 15 on a charge of assault in the fourth degree, according to the Fairbanks Police Department daily bulletin. The department recorded the case as 26003165.",
+        "The Alaska Court System's weekly charges report lists the case as 4FA-26-02091CR, one count of assault in the fourth degree under AS 11.41.230(a)(1), a Class A misdemeanor, with an offense date of Oct. 15 and an offense location of Fairbanks. The court record marks the charge as domestic violence related.",
+        "The case number does not return a record in Alaska CourtView, the court system's public case database, on searches made on the morning of Oct. 16. The case immediately before it in the series does return a record."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska Court System, criminal charges filed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "kankanton-1016",
+      "date": "2026-10-14",
+      "time": "6:14 p.m.",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02090CR"
+      ],
+      "title": "Assault charge filed a day after Cushman Street arrest",
+      "body": [
+        "Harold Pete Kankanton, 67, was arrested at the 500 block of Cushman Street in Fairbanks at 6:14 p.m. on Oct. 14 on a charge of assault in the fourth degree, according to the Fairbanks Police Department daily bulletin, which recorded the case as 26003163.",
+        "The court file, 4FA-26-02090CR, was opened on Oct. 15 with one count of assault in the fourth degree under AS 11.41.230(a)(1), a Class A misdemeanor, offense date Oct. 14, offense location Fairbanks. The record does not mark the charge as domestic violence related.",
+        "An arraignment was held on Oct. 15 and the Public Defender Agency was appointed from the bench. A pre-trial conference is set for Nov. 24 and a trial week for Dec. 7."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "mccarty-1016",
+      "date": "2026-10-15",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-00771CR"
+      ],
+      "title": "Bench warrant issued in Fairbanks failure to register case",
+      "body": [
+        "Carmen Jared Mccarty, 42, of Fairbanks is charged with one count of failure to register as a sex offender in the first degree under AS 11.56.835(a)(1), a Class C felony, in case 4FA-26-00771CR. The case was filed on April 29 and an indicted charge is recorded on the file.",
+        "At a calendar call on Oct. 6 the court recorded that the defendant failed to appear and that a warrant was to issue. An arraignment was held on Oct. 9. A trial week set for Oct. 19 has been vacated and a calendar call is set for Nov. 17 at 1:30 p.m. before Judge Earl A. Peterson.",
+        "The charge was reported in the Fairbanks Daily News-Miner public safety report of Oct. 15."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Daily News-Miner public safety report",
+          "url": "https://www.newsminer.com/news/public_safety_report/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "davenport-1016",
+      "date": "2026-10-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-00112CR"
+      ],
+      "title": "Murder charge dismissed and case closed after competency finding",
+      "body": [
+        "The single count of murder against Brian Jeffery Davenport in case 4FA-26-00112CR was dismissed and the case closed, according to the court docket.",
+        "The docket records a competency hearing on Oct. 5 at which the court lifted a stay, a dismissal of criminal charges filed on Oct. 8, and an entry on Oct. 9 reading that the charge was dismissed and the defendant found incompetent, followed by the case being closed. The disposition date on the file is Oct. 8.",
+        "The case had been stayed on competency grounds at hearings in April, July and October. Two Fairbanks newsrooms reported the dismissal on Oct. 15. The Alaska Department of Law has not published anything about the case."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "KTVF / WebCenter Fairbanks",
+          "url": "https://www.webcenterfairbanks.com/news/crime/"
+        },
+        {
+          "label": "Alaska's News Source",
+          "url": "https://www.alaskasnewssource.com/news/crime/"
+        }
+      ]
+    },
+    {
+      "id": "delta-eight-1016",
+      "date": "2026-10-16",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4DJ-24-00006CR",
+        "4DJ-25-00014CR",
+        "4DJ-25-00049CR",
+        "4DJ-26-00007CR",
+        "4DJ-26-00022CR",
+        "4DJ-26-00031CR",
+        "4DJ-26-00039CR",
+        "4DJ-26-00045CR"
+      ],
+      "title": "Eight pending Delta Junction criminal cases identified in court records",
+      "body": [
+        "Eight criminal cases filed at the Delta Junction court appeared on the Alaska Court System's Fairbanks daily calendar for Oct. 15 and were read in the court's public case database on Oct. 16. Seven of the eight carry at least one felony count.",
+        "The oldest, 4DJ-24-00006CR, was filed on Feb. 1, 2024 against Andrew Rihel and carries four counts: two unclassified felony counts of sexual abuse of a minor in the first degree under AS 11.41.434(a)(2) and two Class B felony counts of sexual abuse of a minor in the second degree under AS 11.41.436(a)(3). All four counts are marked domestic violence related. A jury trial is scheduled for Nov. 5 at 8:30 a.m. at the Delta Junction Courthouse.",
+        "The others are: 4DJ-26-00022CR, Vasiliy Peter Donets, one Class B felony count of assault in the second degree; 4DJ-26-00007CR, Ruslan Ognevchuk, one Class C felony count of assault in the third degree, marked domestic violence related; 4DJ-26-00039CR, Peter Anthony Schlott, one Class C felony count of assault in the third degree; 4DJ-25-00049CR, Jason David Zigler, two Class C felony counts of felony driving under the influence and felony refusal of a chemical test with two or more prior convictions, and two misdemeanor counts of violating conditions of release; 4DJ-26-00031CR, Brock Dustin Weidner, one Class C felony count of third-degree criminal mischief; 4DJ-25-00014CR, Benjamin H. S. Knix, one Class C felony count of second-degree burglary; and 4DJ-26-00045CR, Martha Gloria Mata, one Class A misdemeanor count of assault in the fourth degree, marked domestic violence related.",
+        "All eight are listed in the open cases section of this edition. Every defendant is charged and not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "filings-week-1016",
+      "date": "2026-10-16",
+      "place": "Fourth Judicial District",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Court filed 46 criminal cases in the Fairbanks area in a week",
+      "body": [
+        "The Alaska Court System's weekly criminal charges report, run at 9 p.m. on Oct. 15 and covering Oct. 9 to Oct. 15, lists 42 cases filed at the Fairbanks court, one at Nenana and three at Delta Junction. There is no Healy section in the report and the word Healy does not appear anywhere in its 61 pages.",
+        "The Nenana case, 4NE-26-00103CR, charges Gregory S Ashley with six counts offense-dated Oct. 9, including three Class C felony counts of assault in the third degree, repeat threat of death or injury, as well as driving under the influence, assault in the fourth degree and driving with a license cancelled, revoked or suspended. All six counts carry an offense location of Fairbanks.",
+        "The three Delta Junction cases are 4DJ-26-00062CR, Pavel Ivanovich Budnik, four counts including assault in the fourth degree marked domestic violence related; 4DJ-26-00063CR, Tracie Davis, one count of permitting an unauthorized person to drive; and 4DJ-26-00064CR, Chad Leo Foreman, filed Oct. 15 with the charging document recorded as pending or not filed.",
+        "Eight case numbers the court opened on Oct. 8 without a defendant or charge, 4FA-26-02042CR through 4FA-26-02049CR, have now passed out of the report's seven-day window without ever being printed with a defendant."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, criminal charges filed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-1016",
+      "date": "2026-10-15",
+      "time": "4:44 p.m.",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "property",
+      "severity": "other",
+      "cases": [],
+      "title": "Felony theft arrest on Johansen Expressway",
+      "body": [
+        "Maya Denise Hernandez-Mullen, 28, was arrested at the 500 block of the Johansen Expressway in Fairbanks at 4:44 p.m. on Oct. 15 on a charge recorded by police as theft in the second degree, value $750 to $24,999, a felony. The department recorded the case as 26003171.",
+        "No court case had been filed under that name as of the morning of Oct. 16, and no charge class is stated here beyond what the police bulletin records."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "moonin-1016",
+      "date": "2026-10-14",
+      "time": "1:38 a.m.",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02084CR"
+      ],
+      "title": "Three charges filed after Airport Way traffic stop",
+      "body": [
+        "Tatiana Jessie Moonin-Theile, 22, was arrested after a traffic stop at Airport Way and Gillam Way about 1:38 a.m. on Oct. 14, according to the Alaska State Troopers daily dispatch, which said the stop was for speeding and became a failure to yield.",
+        "The court file, 4FA-26-02084CR, carries three Class A misdemeanor counts: driving under the influence under AS 28.35.030(a), refusing to submit to a chemical test under AS 28.35.032(a), and failure to stop at the direction of an officer in the second degree under AS 28.35.182(b). All three carry an offense location of Fairbanks.",
+        "An arraignment is set for Oct. 20."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "folger-1016",
+      "date": "2026-10-15",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-00703CR"
+      ],
+      "title": "Surcharges entered in North Pole assault case after change of plea",
+      "body": [
+        "The docket in case 4FA-26-00703CR, against Kyle Douglas Folger, records a police training surcharge of $100 and an initial state jail surcharge of $50 entered on Oct. 15, following a change of plea hearing held on Oct. 12.",
+        "The file carries three counts, all with an offense location of North Pole and all marked domestic violence related: one Class C felony count of assault in the third degree causing injury with a weapon, and two Class A misdemeanor counts. An omnibus hearing set for Dec. 10 and a trial week set for Jan. 4, 2027 are both vacated."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bail-1016",
+      "date": "2026-10-16",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02063CR",
+        "4FA-26-02011CR"
+      ],
+      "title": "Two bail hearings set in Fairbanks felony cases",
+      "body": [
+        "Two bail hearings are scheduled in Fairbanks Superior Court on Oct. 16. Za'quiohn E'Mar Arazo, charged in 4FA-26-02063CR with one Class C felony count and with five counts marked domestic violence related, has a bail hearing at 9:30 a.m. in Courtroom 404. Bail entries of $2,500 were recorded on the docket on Oct. 15.",
+        "Tal Xavier Baker, charged in 4FA-26-02011CR with one Class C felony count and indicted on Oct. 13, has a bail hearing at 10:30 a.m. in Courtroom 402, with an arraignment set for Oct. 21.",
+        "Neither hearing had been held when this edition was compiled."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dispositions-1016",
+      "date": "2026-10-16",
+      "place": "Fourth Judicial District",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Court's dispositions report unchanged for a fourth day",
+      "body": [
+        "The Alaska Court System's criminal dispositions report, which lists cases closed between Sept. 1 and Oct. 12, carries a footer stamp reading that the data was updated on Oct. 12 at 4 a.m. The stamp has been unchanged on four consecutive daily readings.",
+        "The report runs to 237 pages and contains 182 distinct Fairbanks case numbers, 11 Nenana, six Delta Junction and none from Healy.",
+        "Case 4FA-26-01852CR, which has been open in the court database since Sept. 19 with the charging document recorded as pending or not filed, does not appear in the dispositions report. It has now carried no charging document for 27 days."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, criminal cases disposed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Oct. 9 to Oct. 15, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks",
+        "count": 42
+      },
+      {
+        "court": "Nenana",
+        "count": 1
+      },
+      {
+        "court": "Delta Junction",
+        "count": 3
+      },
+      {
+        "court": "Healy",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-02090CR",
+        "defendant": "Kankanton, Harold Pete",
+        "charges": "One Class A misdemeanor count of assault in the fourth degree.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02091CR",
+        "defendant": "Perdue, Clara Mona Lee",
+        "charges": "One Class A misdemeanor count of assault in the fourth degree, domestic violence related.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02089CR",
+        "defendant": "Martinez, Jason Andrew",
+        "charges": "One Class A misdemeanor count of assault in the fourth degree, domestic violence related. Process issued Oct. 15.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02088CR",
+        "defendant": "Edwards, Jeremy Frank",
+        "charges": "One Class C felony count of failure to stop at the direction of an officer and one Class A misdemeanor count of driving under the influence.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02084CR",
+        "defendant": "Moonin-Theile, Tatiana Jessie",
+        "charges": "Three Class A misdemeanor counts: driving under the influence, refusing a chemical test, failure to stop at the direction of an officer.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02082CR",
+        "defendant": "Jirdon Jr, Eddie Jerome",
+        "charges": "One unclassified misdemeanor count of unlawful discharge of a firearm under Fairbanks city code. Prosecuted by the City of Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02078CR",
+        "defendant": "Schwietert, Daniel Zachary",
+        "charges": "One Class A felony count, on a complaint.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02067CR",
+        "defendant": "James, Ryan Bud",
+        "charges": "One Class B felony count and three Class C felony counts; three counts domestic violence related.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02063CR",
+        "defendant": "Arazo, Za'quiohn E'Mar",
+        "charges": "One Class C felony count; five counts domestic violence related.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02059CR",
+        "defendant": "Gonzalez, Geldin Luis Parrilla",
+        "charges": "One Class A misdemeanor count.",
+        "felony": false
+      },
+      {
+        "case": "4NE-26-00103CR",
+        "defendant": "Ashley, Gregory S",
+        "charges": "Six counts including three Class C felony counts of assault in the third degree; all offense location Fairbanks.",
+        "felony": true
+      },
+      {
+        "case": "4DJ-26-00062CR",
+        "defendant": "Budnik, Pavel Ivanovich",
+        "charges": "Four counts: assault in the fourth degree, domestic violence related; violating a condition of release for a felony; violating conditions of release for a misdemeanor; harassment in the first degree.",
+        "felony": false
+      },
+      {
+        "case": "4DJ-26-00063CR",
+        "defendant": "Davis, Tracie",
+        "charges": "One unclassified misdemeanor count of permitting an unauthorized person to drive.",
+        "felony": false
+      },
+      {
+        "case": "4DJ-26-00064CR",
+        "defendant": "Foreman, Chad Leo",
+        "charges": "One count recorded as charging document pending or not filed.",
+        "felony": false
+      }
+    ]
+  },
+  "open_cases": [
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "Unclassified felony",
+      "charges": "Two counts of murder, unclassified felony; one further unclassified felony count. Indicted.",
+      "next": "Status hearing Nov. 6, 9 a.m.; sentencing Jan. 29, 2027",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-09-30"
+    },
+    {
+      "case": "4FA-24-02136CR",
+      "defendant": "Dittman, Donald D",
+      "level": "Class B felony",
+      "charges": "Two Class B felony counts. Indicted. Convicted on Oct. 5, per the Alaska Department of Law.",
+      "next": "Sentencing Mar. 18, 2027",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-25-02251CR",
+      "defendant": "Popps, Christopher M",
+      "level": "Unclassified felony",
+      "charges": "Two unclassified felony counts and one Class B felony count. Indicted.",
+      "next": "Sentencing Mar. 23, 2027",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "level": "Closed",
+      "charges": "One count of murder, unclassified felony. Charge dismissed Oct. 9 after a finding of incompetence; case closed.",
+      "next": "None",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-00703CR",
+      "defendant": "Folger, Kyle Douglas",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of assault in the third degree and two Class A misdemeanor counts, all North Pole, all domestic violence related. Change of plea Oct. 12.",
+      "next": "None calendared; hearings in December and January vacated",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-00771CR",
+      "defendant": "Mccarty, Carmen Jared",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of failure to register as a sex offender in the first degree. Indicted. Failure to appear recorded Oct. 6.",
+      "next": "Calendar call Nov. 17",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "Class C felony",
+      "charges": "Six counts including two Class C felonies, five marked domestic violence related, all North Pole. Change of plea Oct. 14 recorded as case disposed.",
+      "next": "None; hearings in December and January vacated",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-01786CR",
+      "defendant": "Lincoln, Walter Charlie",
+      "level": "Other",
+      "charges": "Two counts. Not re-checked on Oct. 16.",
+      "next": "Oct. 16",
+      "judge": "Not stated",
+      "last_docket": "2026-09-16"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "Class A felony",
+      "charges": "Three Class A felony counts. Indicted Sept. 24.",
+      "next": "Calendar call Nov. 17; trial week Nov. 30",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-09-30"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "Class B felony",
+      "charges": "Two Class B felony counts. Indicted.",
+      "next": "Omnibus hearing Nov. 3; trial week Nov. 16",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-01852CR",
+      "defendant": "Waters, Cassandra Mari",
+      "level": "Not stated",
+      "charges": "One count recorded as charging document pending or not filed, 27 days after filing.",
+      "next": "Pre-trial conference Nov. 5; trial week Nov. 16",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "Other",
+      "charges": "One count under AS 12.70.120, arrest prior to requisition, recorded as fugitive from justice. Hearing held Oct. 15.",
+      "next": "Fugitive from justice hearing Nov. 17",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "One unclassified felony count of kidnapping and two Class A misdemeanor counts, all domestic violence related. Indicted.",
+      "next": "Calendar call Nov. 17; trial week Nov. 30",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of tampering with physical evidence. Indicted.",
+      "next": "Omnibus hearing Nov. 5; trial week Nov. 23",
+      "judge": "Not assigned",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01946CR",
+      "defendant": "Burdo, Jr, William Roger",
+      "level": "Class B felony",
+      "charges": "Six counts including one Class B felony and one Class C felony, five marked domestic violence related. Indicted.",
+      "next": "Omnibus hearing Nov. 3; trial week Nov. 16",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02010CR",
+      "defendant": "Gonzalez-Mellado, Manuel",
+      "level": "Class C felony",
+      "charges": "One Class C felony count. Indicted Oct. 13.",
+      "next": "Preliminary hearing Oct. 22; arraignment Nov. 4",
+      "judge": "Not stated",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02011CR",
+      "defendant": "Baker, Tal Xavier",
+      "level": "Class C felony",
+      "charges": "One Class C felony count. Indicted Oct. 13.",
+      "next": "Bail hearing Oct. 16; arraignment Oct. 21",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02059CR",
+      "defendant": "Gonzalez, Geldin Luis Parrilla",
+      "level": "Class A misdemeanor",
+      "charges": "One Class A misdemeanor count. Not re-checked on Oct. 16.",
+      "next": "Arraignment Oct. 16",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02063CR",
+      "defendant": "Arazo, Za'quiohn E'Mar",
+      "level": "Class C felony",
+      "charges": "One Class C felony count; five counts marked domestic violence related.",
+      "next": "Bail hearing Oct. 16; preliminary hearing Oct. 20",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02067CR",
+      "defendant": "James, Ryan Bud",
+      "level": "Class B felony",
+      "charges": "One Class B felony count and three Class C felony counts; three marked domestic violence related.",
+      "next": "Preliminary hearings Oct. 21 and Oct. 29",
+      "judge": "Not stated",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02078CR",
+      "defendant": "Schwietert, Daniel Zachary",
+      "level": "Class A felony",
+      "charges": "One Class A felony count, on a complaint.",
+      "next": "Preliminary hearings Oct. 22 and Nov. 2",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02088CR",
+      "defendant": "Edwards, Jeremy Frank",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of failure to stop at the direction of an officer, reckless driving, and one Class A misdemeanor count of driving under the influence.",
+      "next": "Preliminary hearings Oct. 22 and Nov. 3",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02090CR",
+      "defendant": "Kankanton, Harold Pete",
+      "level": "Class A misdemeanor",
+      "charges": "One Class A misdemeanor count of assault in the fourth degree. Arraigned Oct. 15.",
+      "next": "Pre-trial conference Nov. 24; trial week Dec. 7",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4NE-26-00096CR",
+      "defendant": "Zappone, Krista Marie",
+      "level": "Class B felony",
+      "charges": "Six counts including one Class B felony. Indicted. Offenses outside the Fairbanks area; defendant remanded to the Fairbanks jail.",
+      "next": "Calendar call Nov. 17; trial week Nov. 30",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4NE-26-00103CR",
+      "defendant": "Ashley, Gregory S",
+      "level": "Class C felony",
+      "charges": "Six counts including three Class C felony counts of assault in the third degree; all counts offense location Fairbanks.",
+      "next": "Preliminary hearings Oct. 20 and Oct. 29",
+      "judge": "Not stated",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-24-00006CR",
+      "defendant": "Rihel, Andrew",
+      "level": "Unclassified felony",
+      "charges": "Two unclassified felony counts of sexual abuse of a minor in the first degree and two Class B felony counts of sexual abuse of a minor in the second degree, all domestic violence related.",
+      "next": "Jury trial Nov. 5 at the Delta Junction Courthouse",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-08-27"
+    },
+    {
+      "case": "4DJ-25-00014CR",
+      "defendant": "Knix, Benjamin H. S.",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of burglary in the second degree. Omnibus hearing held Oct. 15.",
+      "next": "Calendar call Oct. 20; trial week Nov. 2",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-08-03"
+    },
+    {
+      "case": "4DJ-25-00049CR",
+      "defendant": "Zigler, Jason David",
+      "level": "Class C felony",
+      "charges": "Two Class C felony counts of felony driving under the influence and felony refusal of a chemical test, and two Class A misdemeanor counts of violating a condition of release.",
+      "next": "Trial week Nov. 9; omnibus hearing Jan. 7, 2027",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4DJ-26-00007CR",
+      "defendant": "Ognevchuk, Ruslan",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of assault in the third degree, causing fear of injury with a weapon, domestic violence related.",
+      "next": "Trial week Nov. 2; omnibus hearing Dec. 1",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-08-03"
+    },
+    {
+      "case": "4DJ-26-00022CR",
+      "defendant": "Donets, Vasiliy Peter",
+      "level": "Class B felony",
+      "charges": "One Class B felony count of assault in the second degree, injury with a weapon, with intent.",
+      "next": "Trial week Nov. 2; omnibus hearing Jan. 7, 2027",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4DJ-26-00031CR",
+      "defendant": "Weidner, Brock Dustin",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of criminal mischief in the third degree, damage of $750 or more.",
+      "next": "Trial week Nov. 9; omnibus hearing Dec. 1",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-09-03"
+    },
+    {
+      "case": "4DJ-26-00039CR",
+      "defendant": "Schlott, Peter Anthony",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of assault in the third degree, causing injury with a weapon.",
+      "next": "Trial week Nov. 9; omnibus hearing Jan. 7, 2027",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4DJ-26-00045CR",
+      "defendant": "Mata, Martha Gloria",
+      "level": "Class A misdemeanor",
+      "charges": "One Class A misdemeanor count of assault in the fourth degree, domestic violence related. Pre-trial conference held Oct. 15.",
+      "next": "Trial status Oct. 21; trial week Oct. 26",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00060CR",
+      "defendant": "Dollar, Nicholas Gene",
+      "level": "Class B felony",
+      "charges": "One Class B felony count of arson in the second degree and one Class A misdemeanor count of criminal mischief, both domestic violence related. Indicted.",
+      "next": "Omnibus hearing Nov. 5; trial week Nov. 23",
+      "judge": "Not assigned",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4DJ-26-00064CR",
+      "defendant": "Foreman, Chad Leo",
+      "level": "Not stated",
+      "charges": "One count recorded as charging document pending or not filed. Filed Oct. 15. No docket entries.",
+      "next": "None calendared",
+      "judge": "Young, Yvette",
+      "last_docket": null
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov/"
+    },
+    {
+      "name": "Fairbanks Police Department daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska Court System criminal charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System criminal cases disposed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    },
+    {
+      "name": "Alaska's News Source",
+      "url": "https://www.alaskasnewssource.com/news/crime/"
+    },
+    {
+      "name": "KUAC",
+      "url": "https://fm.kuac.org/law-enforcement"
+    },
+    {
+      "name": "PulsePoint, Fairbanks ECC",
+      "url": "https://web.pulsepoint.org/"
+    }
+  ]
+}
