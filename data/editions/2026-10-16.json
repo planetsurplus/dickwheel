@@ -1,10 +1,162 @@
 {
   "date": "2026-10-16",
-  "compiled": "04:05 AKDT",
-  "window": "03:17 to 03:47 AKDT, Oct. 16, 2026",
-  "summary": "Court records and police feeds for the Fairbanks area, read on the morning of Oct. 16. A fugitive from justice hearing was held in Fairbanks on Oct. 15 for a man arrested at Fort Wainwright in September. The Alaska State Troopers dispatch page for Oct. 15, which carried no items when it was read that morning, now carries six. The court's weekly charges report, covering Oct. 9 to Oct. 15, lists 42 cases filed at Fairbanks, one at Nenana and three at Delta Junction, and no cases at Healy; the word Healy does not appear anywhere in the report. The newest case in that report, 4FA-26-02091CR, is printed in full by the court but does not return a record in the court system's public case database, so the report records a filing the database does not confirm. Eight pending criminal cases filed at the Delta Junction court were identified from the court's own daily calendar and are reported here for the first time. An indicted Class C felony case filed in April, in which a bench warrant was issued on Oct. 6, was reported in the Fairbanks Daily News-Miner and is included. The murder charge in 4FA-26-00112CR was dismissed and the case closed on Oct. 9; two newsrooms reported it on Oct. 15. The open cases section lists the 35 files re-checked in the court database this morning. A further 124 open files were carried forward without being re-checked and are not listed in this edition. One item is withheld pending review. Everyone named here is charged or arrested and not convicted unless an entry says otherwise.",
+  "compiled": "18:00 AKDT",
+  "window": "Oct. 13 to Oct. 16, 2026",
+  "summary": "Court records and police feeds for the Fairbanks area, read on the morning and again on the evening of Oct. 16. The Alaska Court System opened fourteen new criminal cases in the coverage area on Oct. 16, three of them carrying felony counts: a two-count Class C felony assault and failure to stop case, a Class C felony theft charge arising from an arrest the previous afternoon, and a Class C felony criminal mischief charge at North Pole. The court's weekly charges report, covering Oct. 9 to Oct. 15, lists 42 cases filed at Fairbanks, one at Nenana and three at Delta Junction, and no cases at Healy; the filing counts given here are that report's own counts, and the court's case database records a further case filed on Oct. 15, 4FA-26-02095CR, that the report does not print. The newest case in the report, 4FA-26-02091CR, is printed in full by the court but still does not return a record in the public case database. The Alaska State Troopers dispatch page for Oct. 16, which carried no items in the morning, carried three Fairbanks items by the evening, including a domestic violence referral covering Oct. 7 to Oct. 10. The Fairbanks Police Department bulletin added eleven records for Oct. 13 and Oct. 14 during the day and showed no records for Oct. 16. A fugitive from justice hearing was held on Oct. 15 for a man arrested at Fort Wainwright in September; eight pending Delta Junction cases identified from the court's own calendar are reported; and the murder charge in 4FA-26-00112CR was dismissed and the case closed on Oct. 9. The open cases section lists the files re-checked in the court database. A further 124 open files were carried forward without being re-checked and are not listed in this edition. One item is withheld pending review. Everyone named here is charged or arrested and not convicted unless an entry says otherwise.",
   "commentary": null,
   "entries": [
+    {
+      "id": "ast-oct16-1016",
+      "date": "2026-10-16",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Troopers report three Fairbanks incidents for Oct. 16",
+      "body": [
+        "The Alaska State Troopers daily dispatch page for Oct. 16 carried no items when it was read early that morning. By the evening it carried three D Detachment items, posted at 12:28 a.m., 3:23 a.m. and 5:44 a.m.",
+        "Troopers arrested Jeremy Strangfeld, 39, of Fairbanks on Oct. 15 on a charge of driving under the influence and remanded him to the Fairbanks Correctional Center. A court case was filed under his name on Oct. 16 as 4FA-26-02092CR, with the charging document recorded as pending or not filed and an arraignment set for Oct. 23.",
+        "Troopers responded on Oct. 15 to a report of an assault that took place in the Fairbanks Correctional Facility. The dispatch states that the investigation is ongoing. No person is named in the item and no charge is stated.",
+        "Troopers responded to a report of domestic violence involving multiple assaults in Fairbanks between Oct. 7 and Oct. 10. The dispatch states that the person who reported it provided photographs and other evidence to investigators, and that charges have been forwarded to the District Attorney's Office for review. No person is named in the item. A referral is not a charge."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "raymond-1016",
+      "date": "2026-10-16",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02097CR"
+      ],
+      "title": "Two felony counts filed in Fairbanks assault and failure to stop case",
+      "body": [
+        "John Edward Raymond Jr. is charged in case 4FA-26-02097CR with two Class C felony counts, both with an offense date of Oct. 16 and an offense location of Fairbanks.",
+        "The first count is assault in the third degree under AS 11.41.220(a)(5), committing assault in the fourth degree with two or more prior convictions, which the court record marks as domestic violence related. The second is failure to stop at the direction of an officer with reckless driving under AS 28.35.182(a)(1).",
+        "The initial charging document is a Fairbanks Police Department complaint. An arraignment held at 1:30 p.m. on Oct. 16 was continued and a further arraignment is set for Oct. 17 at 1:30 p.m. Preliminary hearings are set for Oct. 26 and Nov. 5. The Public Defender Agency was appointed on Oct. 16. He is charged and not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "frey-1016",
+      "date": "2026-10-14",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02098CR"
+      ],
+      "title": "Felony criminal mischief charge filed over North Pole damage",
+      "body": [
+        "Dominique Dashea Frey is charged in case 4FA-26-02098CR with one count of criminal mischief in the third degree, damage of $750 or more, under AS 11.46.482(a)(1), a Class C felony. The offense location is North Pole and the offense date is Oct. 14. The court record marks the charge as domestic violence related.",
+        "The initial charging document is an Alaska State Troopers complaint, filed Oct. 16. An arraignment was held the same day at 1:30 p.m. and the Public Defender Agency was appointed. Preliminary hearings are set for Oct. 26 and Nov. 5 before Judge Earl A. Peterson.",
+        "The incident does not appear on the Alaska State Troopers daily dispatch page for Oct. 14, Oct. 15 or Oct. 16. The dispatch is a press feed and not a record of filings. The defendant is charged and not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "newfilings-1016",
+      "date": "2026-10-16",
+      "place": "Fairbanks, Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Court opened fourteen new criminal cases in the Fairbanks area on Oct. 16",
+      "body": [
+        "The Alaska Court System opened thirteen criminal cases at the Fairbanks court on Oct. 16, numbered 4FA-26-02092CR through 4FA-26-02104CR apart from 4FA-26-02095CR, which carries a file date of Oct. 15, and one at the Delta Junction court, 4DJ-26-00065CR. Case numbers 4FA-26-02105CR and 4FA-26-02106CR did not return records when the series was checked that evening.",
+        "Three of the new cases carry felony counts and are reported separately in this edition: 4FA-26-02097CR, 4FA-26-02096CR and 4FA-26-02098CR.",
+        "Isaiah Joseph Weeks is charged in 4FA-26-02099CR with six Class A misdemeanor counts, all with an offense date of Sept. 29 and an offense location of Fairbanks: three counts of violating a condition of release for a felony and three counts of unlawful contact in violation of a court order, the latter three marked domestic violence related.",
+        "Four of the new cases were opened with the charging document recorded as pending or not filed: 4FA-26-02092CR against Jeremy Strangfeld, 4FA-26-02093CR against Susan Waite and 4FA-26-02094CR against James Ritchie Hollen, all three with offense dates of Oct. 15 and arraignments set for Oct. 23, and 4FA-26-02100CR against Edward Warner Smagge III, which records no offense date, no offense location and no docket entries.",
+        "The remaining cases are misdemeanors or unclassified offenses: 4FA-26-02101CR, Kaylin Breck Dietzold, one Class A misdemeanor count of driving under the influence with an offense date of Feb. 22, filed nearly eight months later; 4FA-26-02102CR, Richard Simms, driving with a license cancelled, revoked or suspended after a previous conviction and no motor vehicle liability insurance, offense date Oct. 2, summons requested; 4FA-26-02103CR, Matthew Walden, failing as a new owner to secure transfer of registration or title, offense date Oct. 5, arraignment Nov. 6; and 4FA-26-02104CR, Jonathan Arthur Dryver, leaving the scene of an accident involving damage to an unattended vehicle, offense date Sept. 25, arraignment Oct. 27.",
+        "At Delta Junction, 4DJ-26-00065CR charges Jacob Andrew Martin with one unclassified misdemeanor count of permitting an unauthorized person to drive, offense date June 5, offense location Delta Junction, with a summons issued on Oct. 16. The same charge with the same offense date stands in 4DJ-26-00063CR, filed Oct. 12 against a different defendant. Nothing in either court record connects the two cases.",
+        "Everyone named here is charged and not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "city-oct1314-1016",
+      "date": "2026-10-13",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Police bulletin adds eleven records for Oct. 13 and Oct. 14",
+      "body": [
+        "The Fairbanks Police Department daily bulletin page for Oct. 14 carried one record when it was read on the morning of Oct. 16 and eight when it was read again that evening. The page for Oct. 13 went from three records to five over the same period, and the page for Oct. 15 from two to three.",
+        "The records added for Oct. 14 are an incident recorded as a missing person at the 500 block of Cushman Street, case 26003164; an incident recorded as assault at the 500 block of Cushman Street on case 26003163, the same case as an arrest already reported; an incident recorded as driving under the influence at the 2300 block of Lathrop Street, case 26003154; and four arrests on charges recorded by police as theft in the fourth degree, under $250, a misdemeanor: Jordan Henry Williams, 26, on case 25003442; Arnold Richard Pitka, 38, on case 26002633 and again on case 26002752; and Troy Russel Hall, 52, on case 26002793.",
+        "The records added for Oct. 13 are two arrests. Dustin William Olmstead, 47, was arrested on charges recorded by police as assault in the fourth degree and criminal mischief in the fifth degree, both misdemeanors, on case 26002248. Jordan Henry Williams, 26, was arrested on charges recorded by police as robbery in the first degree while armed with a deadly weapon, a felony, with criminal mischief in the fifth degree and reckless endangerment, on case 26002980. The court file on that case, 4FA-26-01987CR, charges robbery in the first degree as a Class A felony.",
+        "All six of the arrests added for Oct. 13 and Oct. 14 are recorded at the 100 block of Lacey Street at twelve noon, on case numbers opened weeks or months earlier. The bulletin states no reason for that. The 100 block of Lacey Street is the block of the Fairbanks Courthouse.",
+        "The bulletin page for Oct. 16 returned no records when it was read at 5:06 p.m. that day. Everyone named is arrested and not convicted, and a charge class recorded by police is not a charge class filed by the court."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "kankanton-column-1016",
+      "date": "2026-10-14",
+      "time": "5:49 p.m.",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02090CR"
+      ],
+      "title": "Newspaper account describes Transit Center dispute behind assault charge",
+      "body": [
+        "The Fairbanks Daily News-Miner public safety report of Oct. 16 describes the incident behind the fourth-degree assault charge against Harold Kankanton, 67, which the court records in case 4FA-26-02090CR.",
+        "Citing court documents, the newspaper reports that a security guard at the Transit Center told Fairbanks Police that Kankanton, who appeared intoxicated, punched him in the chest. The guard said he had escorted Kankanton off a bus after finding him asleep in it, and that Kankanton became angry after being told he could not enter the Transit Center. The newspaper reports that Kankanton first denied striking the guard and then said he had punched him, and that footage corroborated the guard's account.",
+        "The newspaper reports that he was taken to the Fairbanks Correctional Center, that he was arraigned on Oct. 15, that bail was set at $500 and that he may not contact those affected. The court file records one count of assault in the fourth degree under AS 11.41.230(a)(1), a Class A misdemeanor. He is charged and not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Daily News-Miner public safety report",
+          "url": "https://www.newsminer.com/news/public_safety_report/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "clarke-hearing-1016",
       "date": "2026-10-15",
@@ -40,12 +192,12 @@
       "cases": [],
       "title": "Troopers report six Interior incidents for Oct. 15",
       "body": [
-        "The Alaska State Troopers daily dispatch page for Oct. 15 carries six D Detachment items. Four were posted to the page in the afternoon and evening of Oct. 15.",
+        "The Alaska State Troopers daily dispatch page for Oct. 15 carries six D Detachment items. Four were posted to the page in the afternoon and evening of Oct. 15. The page was read again on the evening of Oct. 16 and still carries six.",
         "Troopers in Nenana responded about 2:30 p.m. on Oct. 15 to a property near Mile 290 of the Parks Highway for a report of trespassing, and found a rental truck with two occupants on the property. Troopers identified them as J Cobb Whitmore, 47, of Nenana and Michelle Cummings, 41, of Fairbanks. The property was posted with no-trespassing signs and a barrier had been moved to gain access. Troopers forwarded charges of first-degree criminal trespass to the District Attorney's Office. No court case had been filed under either name as of the morning of Oct. 16.",
         "Troopers received a report on Oct. 9 of an assault in Fairbanks reported after the fact; the caller said she had been assaulted by Jasmine Kignak, 38, of Fairbanks, and had left the residence. Charges were forwarded to the District Attorney's Office. The item was posted to the dispatch page on Oct. 15, six days after the report.",
         "Troopers received a report on Oct. 14 that Pavel Budnik, 33, had contacted a person he was ordered not to contact, and forwarded charges of unlawful contact and violating conditions of release to the District Attorney's Office for review.",
-        "Troopers responded about 6:36 p.m. on Oct. 15 to Farmers Loop Road and Farmers Loop Extension for a vehicle in a ditch, and arrested Susan Waite, 63, of Fairbanks on a charge of driving under the influence. She was remanded to the Fairbanks Correctional Center. Fairbanks fire and EMS dispatch records show a fire call and two traffic collision calls in the same area between 6:33 and 6:36 p.m.",
-        "A sixth item is a non-criminal disturbance in Fairbanks. A seventh trooper item for Oct. 15, a domestic violence assault at Chalkitsik in which Nathaniel Paul was remanded to the Fairbanks Correctional Center, is outside the Fairbanks area and is noted here only because of the remand."
+        "Troopers responded about 6:36 p.m. on Oct. 15 to Farmers Loop Road and Farmers Loop Extension for a vehicle in a ditch, and arrested Susan Waite, 63, of Fairbanks on a charge of driving under the influence. She was remanded to the Fairbanks Correctional Center. Fairbanks fire and EMS dispatch records show a fire call and two traffic collision calls in the same area between 6:33 and 6:36 p.m. A court case was filed under her name on Oct. 16 as 4FA-26-02093CR, with the charging document recorded as pending or not filed and an arraignment set for Oct. 23.",
+        "A sixth item is a non-criminal disturbance in Fairbanks. A seventh trooper item for Oct. 15, a domestic violence assault at Chalkyitsik in which Nathaniel Paul was remanded to the Fairbanks Correctional Center, is outside the Fairbanks area and is noted here only because of the remand."
       ],
       "sources": [
         {
@@ -73,7 +225,7 @@
       "body": [
         "Clara Mona Lee Perdue, 37, was arrested at the 600 block of Bentley Drive in Fairbanks at 2:37 a.m. on Oct. 15 on a charge of assault in the fourth degree, according to the Fairbanks Police Department daily bulletin. The department recorded the case as 26003165.",
         "The Alaska Court System's weekly charges report lists the case as 4FA-26-02091CR, one count of assault in the fourth degree under AS 11.41.230(a)(1), a Class A misdemeanor, with an offense date of Oct. 15 and an offense location of Fairbanks. The court record marks the charge as domestic violence related.",
-        "The case number does not return a record in Alaska CourtView, the court system's public case database, on searches made on the morning of Oct. 16. The case immediately before it in the series does return a record."
+        "The case number does not return a record in Alaska CourtView, the court system's public case database, on searches made on the morning and again on the afternoon of Oct. 16. The case numbers immediately before and after it in the series both return records."
       ],
       "sources": [
         {
@@ -220,7 +372,9 @@
         "The Alaska Court System's weekly criminal charges report, run at 9 p.m. on Oct. 15 and covering Oct. 9 to Oct. 15, lists 42 cases filed at the Fairbanks court, one at Nenana and three at Delta Junction. There is no Healy section in the report and the word Healy does not appear anywhere in its 61 pages.",
         "The Nenana case, 4NE-26-00103CR, charges Gregory S Ashley with six counts offense-dated Oct. 9, including three Class C felony counts of assault in the third degree, repeat threat of death or injury, as well as driving under the influence, assault in the fourth degree and driving with a license cancelled, revoked or suspended. All six counts carry an offense location of Fairbanks.",
         "The three Delta Junction cases are 4DJ-26-00062CR, Pavel Ivanovich Budnik, four counts including assault in the fourth degree marked domestic violence related; 4DJ-26-00063CR, Tracie Davis, one count of permitting an unauthorized person to drive; and 4DJ-26-00064CR, Chad Leo Foreman, filed Oct. 15 with the charging document recorded as pending or not filed.",
-        "Eight case numbers the court opened on Oct. 8 without a defendant or charge, 4FA-26-02042CR through 4FA-26-02049CR, have now passed out of the report's seven-day window without ever being printed with a defendant."
+        "Eight case numbers the court opened on Oct. 8 without a defendant or charge, 4FA-26-02042CR through 4FA-26-02049CR, have now passed out of the report's seven-day window without ever being printed with a defendant.",
+        "The court's public case database records one further case with a file date of Oct. 15, 4FA-26-02095CR, charging Roman Viktorovich Malyk with one count of theft in the fourth degree, less than $250, a Class B misdemeanor, with an offense date of Sept. 21. That case does not appear in the weekly report, whose window closes on Oct. 15 and which was run at 9 p.m. that night. The counts above are the report's own counts.",
+        "The run stamp on the report was unchanged when it was checked again on the afternoon of Oct. 16."
       ],
       "sources": [
         {
@@ -240,12 +394,15 @@
       "place": "Fairbanks",
       "agency": "Fairbanks Police Department",
       "category": "property",
-      "severity": "other",
-      "cases": [],
-      "title": "Felony theft arrest on Johansen Expressway",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02096CR"
+      ],
+      "title": "Felony theft charge filed after Johansen Expressway arrest",
       "body": [
-        "Maya Denise Hernandez-Mullen, 28, was arrested at the 500 block of the Johansen Expressway in Fairbanks at 4:44 p.m. on Oct. 15 on a charge recorded by police as theft in the second degree, value $750 to $24,999, a felony. The department recorded the case as 26003171.",
-        "No court case had been filed under that name as of the morning of Oct. 16, and no charge class is stated here beyond what the police bulletin records."
+        "Maya Denise Hernandez-Mullen, 28, was arrested at the 500 block of the Johansen Expressway in Fairbanks at 4:44 p.m. on Oct. 15 on a charge recorded by police as theft in the second degree, value $750 to $24,999, according to the Fairbanks Police Department daily bulletin. The department recorded the case as 26003171.",
+        "A court case was filed on Oct. 16 as 4FA-26-02096CR, charging one count of theft in the second degree, value $750 to $24,999, under AS 11.46.130(a)(1), a Class C felony, with an offense date of Oct. 15 and an offense location of Fairbanks. The record does not mark the charge as domestic violence related.",
+        "An arraignment was held on Oct. 16 at 1:30 p.m. and the Public Defender Agency was appointed. Preliminary hearings are set for Oct. 26 and Nov. 5 before Judge Amy K. Welch. She is charged and not convicted."
       ],
       "sources": [
         {
@@ -321,9 +478,9 @@
       ],
       "title": "Two bail hearings set in Fairbanks felony cases",
       "body": [
-        "Two bail hearings are scheduled in Fairbanks Superior Court on Oct. 16. Za'quiohn E'Mar Arazo, charged in 4FA-26-02063CR with one Class C felony count and with five counts marked domestic violence related, has a bail hearing at 9:30 a.m. in Courtroom 404. Bail entries of $2,500 were recorded on the docket on Oct. 15.",
-        "Tal Xavier Baker, charged in 4FA-26-02011CR with one Class C felony count and indicted on Oct. 13, has a bail hearing at 10:30 a.m. in Courtroom 402, with an arraignment set for Oct. 21.",
-        "Neither hearing had been held when this edition was compiled."
+        "Two bail hearings were scheduled in Fairbanks Superior Court on Oct. 16. Za'quiohn E'Mar Arazo, charged in 4FA-26-02063CR with one Class C felony count and with five counts marked domestic violence related, had a bail hearing at 9:30 a.m. in Courtroom 404. Bail entries of $2,500 were recorded on the docket on Oct. 15.",
+        "Tal Xavier Baker, charged in 4FA-26-02011CR with one Class C felony count and indicted on Oct. 13, had a bail hearing at 10:30 a.m. in Courtroom 402, with an arraignment set for Oct. 21.",
+        "Neither docket was re-checked after the hearings were scheduled to take place."
       ],
       "sources": [
         {
@@ -340,9 +497,9 @@
       "category": "court",
       "severity": "other",
       "cases": [],
-      "title": "Court's dispositions report unchanged for a fourth day",
+      "title": "Court's dispositions report unchanged for a fifth reading",
       "body": [
-        "The Alaska Court System's criminal dispositions report, which lists cases closed between Sept. 1 and Oct. 12, carries a footer stamp reading that the data was updated on Oct. 12 at 4 a.m. The stamp has been unchanged on four consecutive daily readings.",
+        "The Alaska Court System's criminal dispositions report, which lists cases closed between Sept. 1 and Oct. 12, carries a footer stamp reading that the data was updated on Oct. 12 at 4 a.m. The stamp was unchanged when the report was checked again on the afternoon of Oct. 16, a fifth consecutive reading on the same stamp.",
         "The report runs to 237 pages and contains 182 distinct Fairbanks case numbers, 11 Nenana, six Delta Junction and none from Healy.",
         "Case 4FA-26-01852CR, which has been open in the court database since Sept. 19 with the charging document recorded as pending or not filed, does not appear in the dispositions report. It has now carried no charging document for 27 days."
       ],
@@ -461,6 +618,90 @@
         "case": "4DJ-26-00064CR",
         "defendant": "Foreman, Chad Leo",
         "charges": "One count recorded as charging document pending or not filed.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02095CR",
+        "defendant": "Malyk, Roman Viktorovich",
+        "charges": "One Class B misdemeanor count of theft in the fourth degree, less than $250. File date Oct. 15; not printed in the weekly report.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02092CR",
+        "defendant": "Strangfeld, Jeremy",
+        "charges": "One count recorded as charging document pending or not filed. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02093CR",
+        "defendant": "Waite, Susan LV",
+        "charges": "One count recorded as charging document pending or not filed. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02094CR",
+        "defendant": "Hollen, James Ritchie",
+        "charges": "One count recorded as charging document pending or not filed. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02096CR",
+        "defendant": "Hernandez-Mullen, Maya Denise",
+        "charges": "One Class C felony count of theft in the second degree, value $750 to $24,999. Filed Oct. 16.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02097CR",
+        "defendant": "Raymond Jr, John Edward",
+        "charges": "Two Class C felony counts: assault in the third degree with two or more prior convictions, domestic violence related, and failure to stop at the direction of an officer with reckless driving. Filed Oct. 16.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02098CR",
+        "defendant": "Frey, Dominique Dashea",
+        "charges": "One Class C felony count of criminal mischief in the third degree, damage of $750 or more, domestic violence related; offense location North Pole. Filed Oct. 16.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02099CR",
+        "defendant": "Weeks, Isaiah Joseph",
+        "charges": "Six Class A misdemeanor counts: three of violating a condition of release for a felony and three of unlawful contact in violation of a court order, the latter three domestic violence related. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02100CR",
+        "defendant": "Smagge III, Edward Warner",
+        "charges": "One count recorded as charging document pending or not filed, with no offense date or location. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02101CR",
+        "defendant": "Dietzold, Kaylin Breck",
+        "charges": "One Class A misdemeanor count of driving under the influence, offense date Feb. 22. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02102CR",
+        "defendant": "Simms, Richard",
+        "charges": "One Class A misdemeanor count of driving with a license cancelled, revoked or suspended after a previous conviction, and one unclassified misdemeanor count of no motor vehicle liability insurance. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02103CR",
+        "defendant": "Walden, Matthew",
+        "charges": "One unclassified misdemeanor count of failing as a new owner to secure transfer of registration or title. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02104CR",
+        "defendant": "Dryver, Jonathan Arthur",
+        "charges": "One unclassified misdemeanor count of leaving the scene of an accident involving damage to an unattended vehicle. Filed Oct. 16.",
+        "felony": false
+      },
+      {
+        "case": "4DJ-26-00065CR",
+        "defendant": "Martin, Jacob Andrew",
+        "charges": "One unclassified misdemeanor count of permitting an unauthorized person to drive; offense location Delta Junction. Filed Oct. 16.",
         "felony": false
       }
     ]
@@ -602,6 +843,15 @@
       "last_docket": "2026-10-14"
     },
     {
+      "case": "4FA-26-01987CR",
+      "defendant": "Williams, Jordan Henry",
+      "level": "Class A felony",
+      "charges": "One Class A felony count of robbery in the first degree while armed with a deadly weapon, one Class A misdemeanor count and one Class B misdemeanor count, offense-dated Sept. 27. Police recorded an arrest on the underlying case on Oct. 13.",
+      "next": "Preliminary hearing Oct. 22",
+      "judge": "Not assigned",
+      "last_docket": "2026-10-13"
+    },
+    {
       "case": "4FA-26-02010CR",
       "defendant": "Gonzalez-Mellado, Manuel",
       "level": "Class C felony",
@@ -672,6 +922,42 @@
       "next": "Pre-trial conference Nov. 24; trial week Dec. 7",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02096CR",
+      "defendant": "Hernandez-Mullen, Maya Denise",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of theft in the second degree, value $750 to $24,999. Arraigned Oct. 16.",
+      "next": "Preliminary hearings Oct. 26 and Nov. 5",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02097CR",
+      "defendant": "Raymond Jr, John Edward",
+      "level": "Class C felony",
+      "charges": "Two Class C felony counts: assault in the third degree with two or more prior convictions, domestic violence related, and failure to stop at the direction of an officer with reckless driving.",
+      "next": "Arraignment Oct. 17; preliminary hearings Oct. 26 and Nov. 5",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02098CR",
+      "defendant": "Frey, Dominique Dashea",
+      "level": "Class C felony",
+      "charges": "One Class C felony count of criminal mischief in the third degree, damage of $750 or more, domestic violence related; offense location North Pole. Arraigned Oct. 16.",
+      "next": "Preliminary hearings Oct. 26 and Nov. 5",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02099CR",
+      "defendant": "Weeks, Isaiah Joseph",
+      "level": "Class A misdemeanor",
+      "charges": "Six Class A misdemeanor counts of violating a condition of release for a felony and unlawful contact in violation of a court order; three domestic violence related.",
+      "next": "None calendared",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-16"
     },
     {
       "case": "4NE-26-00096CR",
@@ -780,6 +1066,15 @@
       "next": "None calendared",
       "judge": "Young, Yvette",
       "last_docket": null
+    },
+    {
+      "case": "4DJ-26-00065CR",
+      "defendant": "Martin, Jacob Andrew",
+      "level": "Unclassified misdemeanor",
+      "charges": "One unclassified misdemeanor count of permitting an unauthorized person to drive; offense location Delta Junction. Summons issued Oct. 16.",
+      "next": "None calendared",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-16"
     }
   ],
   "sources": [
