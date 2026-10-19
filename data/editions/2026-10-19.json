@@ -1,0 +1,2023 @@
+{
+  "date": "2026-10-19",
+  "compiled": "2026-10-19T04:03:12-08:00",
+  "window": "2026-10-19 03:22 to 04:00 AKDT",
+  "summary": "Court offices are closed on Monday for the Alaska Day observance, which fell on a Sunday this year, and the Fairbanks court calendar carries one case under a weekend and holiday judge. Neither the Alaska State Troopers daily dispatch nor the Fairbanks Police Department daily bulletin had posted anything for Oct. 19 when they were read shortly before four in the morning, and none of the three preceding days behind either feed had changed. The Alaska Court System's weekly criminal filings report, covering Oct. 12 to Oct. 18, lists 47 cases at Fairbanks, three at Delta Junction and no section for Nenana or Healy; those counts are the report's own, and the report has been short of its own final filing day before. Nothing has been filed at Fairbanks since case 4FA-26-02117CR on Sunday. Nineteen case numbers the court prints or has printed in its own weekly report cannot be found in the public case database, and are listed with no explanation offered. Three records could not be read in full: the United States Attorney's press index refused a direct request and was read indirectly, which confirms only which releases are listed; the Daily News-Miner public safety column for Oct. 18 is behind a subscription wall; and the Fairbanks Police Department's Facebook page is behind a login wall. The open cases listing below carries 184 files, 51 of them with full charge, judge and docket detail and 133 with the summary fields the court's own records provide. A count of zero on any police feed means only that nothing had been posted at the time of reading.",
+  "commentary": "",
+  "entries": [
+    {
+      "id": "2026-10-19-court-holiday",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Court offices closed for the Alaska Day observance; one case on the Fairbanks calendar",
+      "body": [
+        "Alaska Day falls on Oct. 18. Because that date fell on a Sunday this year, the holiday is observed on Monday, Oct. 19, and court offices across the state are closed. The Alaska Court System sets out that rule on its published holiday schedule.",
+        "The Fairbanks daily court calendar for Monday carries one case, listed under a weekend and holiday judge. It is a juvenile detention matter from Bethel rather than a Fourth Judicial District criminal case.",
+        "No new criminal case has been filed at the Fairbanks court since Sunday afternoon, and the next run of the court's weekly criminal filings report is due on Monday night."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System holiday schedule",
+          "url": "https://courts.alaska.gov/main/holidays.htm"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-no-reports-monday",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Fairbanks and the Interior",
+      "agency": "Alaska State Troopers; Fairbanks Police Department",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Neither daily police feed has posted anything for Monday",
+      "body": [
+        "The Alaska State Troopers daily dispatch page for Oct. 19 had published nothing when it was read at 3:52 a.m.: the page carries no date header and serves no detachment sections.",
+        "The Fairbanks Police Department daily bulletin returned no entries for Oct. 19 when it was read at 3:48 a.m., and also returned no entries for Sunday, Oct. 18.",
+        "The three preceding days behind each feed were re-read and none had changed. On the trooper dispatch, D Detachment holds five items for Oct. 18, four for Oct. 17 and three for Oct. 16. On the police bulletin, Oct. 18 holds none, Oct. 17 five and Oct. 16 three.",
+        "Both feeds add entries to days already published, sometimes several days later, so a count of zero means only that nothing had been posted at the time of reading."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Fairbanks Police Department daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-weekly-filings",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Fourth Judicial District",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Weekly criminal filings report: 47 cases at Fairbanks, three at Delta Junction, none at Nenana or Healy",
+      "body": [
+        "The Alaska Court System's weekly report of criminal charges filed, covering Oct. 12 to Oct. 18 and run at 9:01 p.m. on Oct. 18, lists 47 cases filed at the Fairbanks court, three at Delta Junction and no section at all for Nenana or Healy.",
+        "The Fairbanks cases run in an unbroken series from 4FA-26-02071CR to 4FA-26-02117CR. By filing day: six on Monday, five on Tuesday, eight on Wednesday, three on Thursday, twelve on Friday, four on Saturday and nine on Sunday.",
+        "Nenana's nil return is because the report's seven-day window has rolled past the days its most recent cases were filed on, not because nothing has been filed there. The word Healy does not appear anywhere in the 62-page document, for the twenty-third week running.",
+        "The counts above are the report's own. The report has been short of its own final filing day at least once, so they are a minimum for the last day of any window."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System criminal charges filed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-sunday-filings",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Fairbanks and North Pole",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02109CR",
+        "4FA-26-02110CR",
+        "4FA-26-02111CR",
+        "4FA-26-02113CR",
+        "4FA-26-02114CR",
+        "4FA-26-02115CR",
+        "4FA-26-02116CR",
+        "4FA-26-02117CR"
+      ],
+      "title": "Nine Fairbanks cases filed on Sunday now appear in the court's weekly report",
+      "body": [
+        "All nine criminal cases filed at the Fairbanks court on Sunday, Oct. 18 are printed in the weekly report run that night. Charge classes below are those recorded on the court file. Everyone named is charged, not convicted.",
+        "4FA-26-02109CR, Roderick Antoino Hill: two Class C felony counts, felony driving under the influence with two or more prior convictions and felony refusal of a chemical test with two or more prior convictions, both offence-dated Oct. 17 at Fairbanks.",
+        "4FA-26-02110CR and 4FA-26-02111CR, Timothy Leland Phillippe: one Class C felony count of theft in the second degree, value $750 to $24,999, and one Class C felony count of burglary in the second degree, both offence-dated Sept. 1 at Fairbanks.",
+        "4FA-26-02112CR, Helena J Cole: one count recorded as a charging document pending or not filed, with no degree of offence stated and an offence location of North Pole.",
+        "4FA-26-02113CR, Moses Alejandro Luke Gutierrez: two Class A misdemeanour counts, assault in the fourth degree recorded as domestic violence related, and driving under the influence, both offence-dated Oct. 18 at Fairbanks. The report records a blood alcohol content of .067.",
+        "4FA-26-02114CR, Nolan Iver Peterson: two Class C felony counts of theft in the second degree involving an access device or identification document and one Class A misdemeanour count of theft in the third degree of mail, all offence-dated Oct. 17 at Fairbanks.",
+        "4FA-26-02115CR, Christine Marie Guzman: one Class A misdemeanour count of criminal trespass in the first degree and one Class B misdemeanour count of criminal mischief in the fifth degree, both recorded as domestic violence related and offence-dated Oct. 17 at Fairbanks.",
+        "4FA-26-02116CR, Derek Storm Kelly: five counts, all offence-dated Oct. 17 at North Pole - one Class B misdemeanour of criminal trespass in the second degree, three Class A misdemeanour counts of assault in the fourth degree and one Class B misdemeanour of violating conditions of release.",
+        "4FA-26-02117CR, Julia Ann Pitka: six counts offence-dated Oct. 17 at Fairbanks, including one Class B felony of misconduct involving a controlled substance in the third degree, two Class C felony counts of theft in the second degree involving an access device or identification document, a Class A misdemeanour count of theft of mail, a Class A misdemeanour drug possession count and a Class A misdemeanour count of violating a condition of release for a felony."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System criminal charges filed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-cole-location",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02112CR"
+      ],
+      "title": "Court record now gives North Pole as the offence location in a case with no charge filed",
+      "body": [
+        "The weekly criminal filings report records an offence location of North Pole against case 4FA-26-02112CR, Helena J Cole, which was filed on Oct. 18.",
+        "The single count on that file is still recorded as a charging document pending or not filed, with no statute and no degree of offence, so no charge class is stated here. The case is listed as open before judge Seekins with an arraignment set for Oct. 23.",
+        "The trooper dispatch entry behind the arrest records the incident location as Fairbanks. The two records disagree about the place and both are reported here."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System criminal charges filed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-calendar-changes",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-01818CR",
+        "4FA-26-01896CR"
+      ],
+      "title": "A trial week set for Monday was reset, and hearing dates in a tampering case have changed again",
+      "body": [
+        "Case 4FA-26-01818CR, William Bruce Ostlund, carried a scheduled trial week for Oct. 19 in Courtroom 403. That setting is recorded as reset. A bail hearing stands for Oct. 20, a calendar call for Nov. 17 and a trial week for Nov. 30.",
+        "Case 4FA-26-01896CR, Amanda Elizabeth Moff, charged with one Class C felony count of tampering with physical evidence, now records the omnibus hearing of Dec. 1 and the trial week of Dec. 14 as reset, with an omnibus hearing on Nov. 5 and a trial week of Nov. 23 standing in their place. The case judge field reads not assigned. Nothing has been added to the docket on that file since Oct. 7.",
+        "No case on the open list carries a docket entry dated Oct. 19."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-missing-person-found",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Delta Junction",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Delta Junction teenager reported missing on Oct. 16 has been found",
+      "body": [
+        "The Alaska State Troopers reported a 14-year-old Delta Junction resident missing on Oct. 16, after she was discovered missing from her home that morning. Troopers recorded that she appeared to have left intentionally and might be in Fairbanks.",
+        "The dispatch entry has since been updated to record that she has been found. She is a juvenile and is not named here."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-collisions",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Emergency Communications Center",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Two traffic collisions drew fire and medical crews on Sunday, one for more than three hours",
+      "body": [
+        "The Fairbanks Emergency Communications Center dispatch log records a traffic collision at 1012 Gold Mine Trail at 6:49 p.m. on Oct. 18, closed after three hours and twenty-six minutes, with a battalion chief, an engine, a medic unit, a rescue unit and two squads assigned.",
+        "A second traffic collision at Spring Glade Road and Wideview Road at 7:59 a.m. the same day was closed after an hour and twelve minutes, with the same complement of units.",
+        "Neither collision appears in the trooper dispatch, the police bulletin or any court filing read on Oct. 19. This log records fire and medical responses only and carries no police or crime incident type."
+      ],
+      "sources": [
+        {
+          "label": "PulsePoint, Fairbanks ECC",
+          "url": "https://web.pulsepoint.org/"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "2026-10-12 to 2026-10-18",
+    "courts": [
+      {
+        "court": "Fairbanks",
+        "count": 47
+      },
+      {
+        "court": "Delta Junction",
+        "count": 3
+      },
+      {
+        "court": "Nenana",
+        "count": 0
+      },
+      {
+        "court": "Healy",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-02109CR",
+        "defendant": "Hill, Roderick Antoino",
+        "charges": "Felony driving under the influence, two or more priors; felony refusal of a chemical test, two or more priors - both Class C felony",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02110CR",
+        "defendant": "Phillippe, Timothy Leland",
+        "charges": "Theft in the second degree, value $750 to $24,999 - Class C felony",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02111CR",
+        "defendant": "Phillippe, Timothy Leland",
+        "charges": "Burglary in the second degree - Class C felony",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02112CR",
+        "defendant": "Cole, Helena J",
+        "charges": "Charging document pending or not filed; no degree of offence; offence location North Pole",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02113CR",
+        "defendant": "Gutierrez, Moses Alejandro Luke",
+        "charges": "Assault in the fourth degree, domestic violence related; driving under the influence - both Class A misdemeanour",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02114CR",
+        "defendant": "Peterson, Nolan Iver",
+        "charges": "Two counts of theft in the second degree, access device or identification document - Class C felony; theft in the third degree of mail - Class A misdemeanour",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02115CR",
+        "defendant": "Guzman, Christine Marie",
+        "charges": "Criminal trespass in the first degree - Class A misdemeanour; criminal mischief in the fifth degree - Class B misdemeanour; both domestic violence related",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02116CR",
+        "defendant": "Kelly, Derek Storm",
+        "charges": "Criminal trespass in the second degree - Class B misdemeanour; three counts of assault in the fourth degree - Class A misdemeanour; violating conditions of release - Class B misdemeanour; all at North Pole",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02117CR",
+        "defendant": "Pitka, Julia Ann",
+        "charges": "Misconduct involving a controlled substance in the third degree - Class B felony; two counts of theft in the second degree, access device or identification document - Class C felony; theft of mail, drug possession and violating a condition of release for a felony - Class A misdemeanour",
+        "felony": true
+      }
+    ]
+  },
+  "open_cases": [
+    {
+      "case": "4FA-26-02109CR",
+      "defendant": "Hill, Roderick Antoino",
+      "level": "Class C felony",
+      "charges": "Two counts, both Class C Felony, both offence location Fairbanks and both offence-dated Oct. 17, neither DV-flagged.",
+      "next": "Oct. 28",
+      "judge": "Temple, Thomas I",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02110CR",
+      "defendant": "Phillippe, Timothy Leland",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.46.130(a)(1), theft in the second degree — value $750 to $24,999, a Class C Felony.",
+      "next": "Oct. 28",
+      "judge": "Not Assigned (4FA01)",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02111CR",
+      "defendant": "Phillippe, Timothy Leland",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.46.310, burglary in the second degree, a Class C Felony. Offence location Fairbanks, date of offence 09/01/2026.",
+      "next": "Oct. 28",
+      "judge": "Temple, Thomas I",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02112CR",
+      "defendant": "Cole, Helena J",
+      "level": "Not recorded on the file",
+      "charges": "None on the file. No count, no statute, no class, no offence location and no offence date are recorded. Filed Oct. 18, status Open.",
+      "next": "Oct. 23",
+      "judge": "Seekins, Ben A",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02113CR",
+      "defendant": "Gutierrez, Moses Alejandro Luke",
+      "level": "Class A misdemeanour",
+      "charges": "Two counts, both Class A Misdemeanor, both offence location Fairbanks and both offence-dated Oct. 18.",
+      "next": "Dec. 10",
+      "judge": "Seekins, Ben A",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02114CR",
+      "defendant": "Peterson, Nolan Iver",
+      "level": "Class C felony",
+      "charges": "Three counts, all offence location Fairbanks and all offence-dated Oct. 17.",
+      "next": "Oct. 28",
+      "judge": "Not Assigned (4FA01)",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02115CR",
+      "defendant": "Guzman, Christine Marie",
+      "level": "Class A misdemeanour",
+      "charges": "Two counts, both offence location Fairbanks, both offence-dated Oct. 17 and both DV Related: Yes.",
+      "next": "Nov. 24",
+      "judge": "Bahr, Maria P",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02116CR",
+      "defendant": "Kelly, Derek Storm",
+      "level": "Class A misdemeanour",
+      "charges": "Five counts, every one with an offence location of North Pole and every one offence-dated Oct. 17, none DV-flagged.",
+      "next": "Dec. 10",
+      "judge": "Seekins, Ben A",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02117CR",
+      "defendant": "Pitka, Julia Ann",
+      "level": "Class B felony",
+      "charges": "Six counts, all offence location Fairbanks and all offence-dated Oct. 17, none DV-flagged.",
+      "next": "Oct. 28",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02105CR",
+      "defendant": "Standifer, Darius Cyrill",
+      "level": "Class A misdemeanour",
+      "charges": "Three counts, all offence location Fairbanks and all offence-dated Oct. 16.",
+      "next": "Oct. 23",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-17"
+    },
+    {
+      "case": "4FA-26-02107CR",
+      "defendant": "Bedingfield, Landon Zachary",
+      "level": "Class A misdemeanour",
+      "charges": "Two counts, both offence location North Pole, both offence-dated Oct. 17.",
+      "next": "Oct. 23",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-17"
+    },
+    {
+      "case": "4FA-26-02106CR",
+      "defendant": "Sarten, Ishi Santana",
+      "level": "Class B misdemeanour",
+      "charges": "One count, AS 11.46.330(a)(1), criminal trespass in the second degree upon premises, Class B Misdemeanor.",
+      "next": "Oct. 23",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-17"
+    },
+    {
+      "case": "4FA-26-02108CR",
+      "defendant": "Garcia, Gonzalo N",
+      "level": "Class A misdemeanour",
+      "charges": "One count, AS 28.35.030(a), DUI — operate vehicle under the influence of alcohol or drugs, Class A Misdemeanor, recorded BAC .157.",
+      "next": "Oct. 23",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-17"
+    },
+    {
+      "case": "4FA-26-02097CR",
+      "defendant": "Raymond Jr, John Edward",
+      "level": "Class C felony",
+      "charges": "Two counts, both Class C Felony, both offence location Fairbanks and both offence-dated Oct. 16.",
+      "next": "Oct. 26",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02096CR",
+      "defendant": "Hernandez-Mullen, Maya Denise",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.46.130(a)(1), theft in the second degree — value $750 to $24,999, Class C Felony.",
+      "next": "Oct. 26",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02098CR",
+      "defendant": "Frey, Dominique Dashea",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.46.482(a)(1), criminal mischief in the third degree — damage of $750 or more, Class C Felony.",
+      "next": "Oct. 26",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02090CR",
+      "defendant": "Kankanton, Harold Pete",
+      "level": "Class A misdemeanour",
+      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree — recklessly injure, Class A Misdemeanor.",
+      "next": "Nov. 24",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-00771CR",
+      "defendant": "Mccarty, Carmen Jared",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.56.835(a)(1), failure to register as a sex offender in the first degree — repeatedly, Class C Felony.",
+      "next": "Nov. 17",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4DJ-24-00006CR",
+      "defendant": "Rihel, Andrew",
+      "level": "Unclassified felony",
+      "charges": "Four counts, all offence location Delta Junction, all DV Related: two counts under AS 11.41.434(a)(2).",
+      "next": "Nov. 3",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00022CR",
+      "defendant": "Donets, Vasiliy Peter",
+      "level": "Class B felony",
+      "charges": "One count, AS 11.41.210(a)(1), assault in the second degree — injury with a weapon, with intent, Class B Felony.",
+      "next": "Jan. 7, 2027",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00007CR",
+      "defendant": "Ognevchuk, Ruslan",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.41.220(a)(1)(A), assault in the third degree — causing fear of injury with a weapon, Class C Felony.",
+      "next": "Dec. 1",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00039CR",
+      "defendant": "Schlott, Peter Anthony",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.41.220(a)(1)(B), assault in the third degree — causing injury with a weapon, Class C Felony.",
+      "next": "Jan. 7, 2027",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-25-00049CR",
+      "defendant": "Zigler, Jason David",
+      "level": "Class C felony",
+      "charges": "Four counts, all offence location Delta Junction, none DV-flagged: AS 28.35.030(n).",
+      "next": "Jan. 7, 2027",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00031CR",
+      "defendant": "Weidner, Brock Dustin",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.46.482(a)(1), criminal mischief in the third degree — damage of $750 or more, Class C Felony.",
+      "next": "Dec. 1",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-25-00014CR",
+      "defendant": "Knix, Benjamin H. S.",
+      "level": "Class C felony",
+      "charges": "One count, AS 11.46.310, burglary in the second degree, Class C Felony. Offence location Delta Junction. DV Related: No.",
+      "next": "Oct. 20",
+      "judge": "Harbison, Bethany",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00045CR",
+      "defendant": "Mata, Martha Gloria",
+      "level": "Class A misdemeanour",
+      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree — recklessly injure, Class A Misdemeanor.",
+      "next": "Oct. 21",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00064CR",
+      "defendant": "Foreman, Chad Leo",
+      "level": "Not recorded on the file",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offence. Filed Oct. 15, status Open.",
+      "next": "None calendared",
+      "judge": "Young, Yvette",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02088CR",
+      "defendant": "Edwards, Jeremy Frank",
+      "level": "Class C felony",
+      "charges": "Two counts, both offence-dated Oct. 14 at Fairbanks.",
+      "next": "Oct. 22",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-01946CR",
+      "defendant": "Burdo, Jr, William Roger",
+      "level": "Class B felony",
+      "charges": "Five counts served of six stated, every one DV related.",
+      "next": "Nov. 3",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-00703CR",
+      "defendant": "Folger, Kyle Douglas",
+      "level": "Class C felony",
+      "charges": "Three counts, all offence-dated Apr. 20, 2026 at North Pole, all DV related.",
+      "next": "",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "Class C felony",
+      "charges": "Five counts served of six stated.",
+      "next": "",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02078CR",
+      "defendant": "Schwietert, Daniel Zachary",
+      "level": "Class A felony",
+      "charges": "One count: robbery in the first degree, armed with a deadly weapon, AS 11.41.500(a)(1), a Class A felony.",
+      "next": "Oct. 22",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02011CR",
+      "defendant": "Baker, Tal Xavier",
+      "level": "Class C felony",
+      "charges": "One count: felony driving under the influence, two or more priors, AS 28.35.030(n), a Class C felony. Offence Oct. 3 at Fairbanks.",
+      "next": "Dec. 3",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02010CR",
+      "defendant": "Gonzalez-Mellado, Manuel",
+      "level": "Class C felony",
+      "charges": "Failing to stop at the direction of an officer, reckless driving, AS 28.35.182(a)(1), a Class C felony, at North Pole.",
+      "next": "Oct. 22",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "Unclassified felony",
+      "charges": "Murder in the first degree, intent to cause death; murder in the first degree, repeat physical injury to a child.",
+      "next": "Nov. 6",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-09-30"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "level": "Unclassified felony",
+      "charges": "One count, murder in the first degree, intent to cause death, AS 11.41.100(a)(1)(A), offence Jan. 20, 2026.",
+      "next": "",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping, injury or sexual assault, AS 11.41.300(a)(1)(C), an unclassified felony, indicted, at North Pole.",
+      "next": "Nov. 17",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "Class A felony",
+      "charges": "Three counts of misconduct involving a controlled substance in the second degree, manufacture or delivery of methamphetamine.",
+      "next": "Oct. 20",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "Class B felony",
+      "charges": "Two counts of misconduct involving a controlled substance in the third degree, manufacture or delivery, AS 11.71.030(a)(9).",
+      "next": "Nov. 3",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony",
+      "charges": "One count, tampering with physical evidence to prevent a proceeding, AS 11.56.610(a)(4), a Class C felony, indicted.",
+      "next": "Nov. 5",
+      "judge": "Not Assigned (4FA01)",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "Not recorded on the file",
+      "charges": "One count, arrest prior to requisition, AS 12.70.120, recorded as fugitive from justice. Offence Sept. 18 at Fort Wainwright.",
+      "next": "Nov. 17",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-25-02251CR",
+      "defendant": "Popps, Christopher M",
+      "level": "Unclassified felony",
+      "charges": "Four counts: two of murder in the second degree, AS 11.41.110(a)(2) and (a)(1), unclassified felonies.",
+      "next": "Mar. 23, 2027",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-24-02136CR",
+      "defendant": "Dittman, Donald D",
+      "level": "Class B felony",
+      "charges": "Two Class B felony counts, indicted, DV related. The Department of Law announced the conviction.",
+      "next": "Mar. 18, 2027",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4DJ-26-00060CR",
+      "defendant": "Dollar, Nicholas Gene",
+      "level": "Class B felony",
+      "charges": "Arson in the second degree, damage a building with intent, AS 11.46.410, a Class B felony, indicted, DV related.",
+      "next": "Nov. 5",
+      "judge": "Not Assigned (4FA01)",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4NE-26-00096CR",
+      "defendant": "Zappone, Krista Marie",
+      "level": "Class B felony",
+      "charges": "Charge list states six and serves five, numbered 1, 2, 3, 4 and 6 — so the withheld count here is the fifth.",
+      "next": "Oct. 20",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4NE-26-00103CR",
+      "defendant": "Ashley, Gregory S",
+      "level": "Class C felony",
+      "charges": "Six counts, all offence-dated Oct. 9 at Fairbanks: three counts of assault in the third degree, repeat threat of death or injury.",
+      "next": "Oct. 20",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02067CR",
+      "defendant": "James, Ryan Bud",
+      "level": "Class B felony",
+      "charges": "Six counts, all Oct. 10 at Fairbanks: burglary 1 in a dwelling, Class B felony, DV.",
+      "next": "Oct. 21",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02063CR",
+      "defendant": "Arazo, Za’quiohn E’Mar",
+      "level": "Class C felony",
+      "charges": "Five counts, all Oct. 10 at Fairbanks and all DV related: assault 3 cause injury with a weapon, Class C felony.",
+      "next": "Oct. 20",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02059CR",
+      "defendant": "Gonzalez, Geldin Luis Parrilla",
+      "level": "Class A misdemeanour",
+      "charges": "One count: refusal to submit to a chemical test, AS 28.35.032(a), a Class A misdemeanour, stage-dated Oct. 10.",
+      "next": "Dec. 10",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01852CR",
+      "defendant": "Waters, Cassandra Mari",
+      "level": "Not recorded on the file",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offence. Offence and filing Sept. 19 at Fairbanks.",
+      "next": "Nov. 5",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4FA-26-01786CR",
+      "defendant": "Lincoln, Walter Charlie",
+      "level": "Class B misdemeanour",
+      "charges": "Two counts, a Class A and a Class B misdemeanour. Filed Sept. 10.",
+      "next": "Oct. 22",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4DJ-26-00056CR",
+      "defendant": "Budnik, Pavel Ivanovich",
+      "level": "Class C felony",
+      "charges": "Class C Felony; indicted; filed 2026-09-21; reopened.",
+      "next": "2026-11-05",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4DJ-26-00057CR",
+      "defendant": "Malyk, Roman Viktorovich",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-25; open.",
+      "next": "2026-10-20",
+      "judge": "",
+      "last_docket": "2026-10-06"
+    },
+    {
+      "case": "4DJ-26-00058CR",
+      "defendant": "Parlin, Sara Mae",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-27; open.",
+      "next": "2026-11-17",
+      "judge": "",
+      "last_docket": "2026-10-01"
+    },
+    {
+      "case": "4DJ-26-00059CR",
+      "defendant": "Fisher, Matthew J",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Violation; filed 2026-09-30; open.",
+      "next": "2026-11-17",
+      "judge": "",
+      "last_docket": "2026-10-06"
+    },
+    {
+      "case": "4DJ-26-00061CR",
+      "defendant": "Guisasola, Kaleb Christopher",
+      "level": "Class A misdemeanour",
+      "charges": "Violation / Class A Misdemeanor; filed 2026-10-05; open.",
+      "next": "2026-12-15",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00062CR",
+      "defendant": "Budnik, Pavel Ivanovich",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-09; open.",
+      "next": "2026-10-20",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-24-02319CR",
+      "defendant": "Shepherd-Townley, Cheala Taylor",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2024-12-02; open.",
+      "next": "2026-11-17",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-01446CR",
+      "defendant": "Nelson, Alfred L",
+      "level": "Class B felony",
+      "charges": "Class B Felony; indicted; DV related; filed 2026-07-30; open.",
+      "next": "2026-11-05",
+      "judge": "",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4FA-26-01796CR",
+      "defendant": "Sam, Elijay John",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; filed 2026-09-12; open.",
+      "next": "2026-11-05",
+      "judge": "",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01866CR",
+      "defendant": "Burton, Jerald",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-20; reopened.",
+      "next": "2026-11-05",
+      "judge": "",
+      "last_docket": "2026-10-08"
+    },
+    {
+      "case": "4FA-26-01873CR",
+      "defendant": "Sam, Elijay John",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-09-18; open.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-01901CR",
+      "defendant": "Kellogg, Stephen James",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-24; reopened.",
+      "next": "2026-11-05",
+      "judge": "",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01902CR",
+      "defendant": "Lincoln, Walter Charlie",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-09-24; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01916CR",
+      "defendant": "Sam, Elijay John",
+      "level": "Class C felony",
+      "charges": "Class C Felony / misdemeanour not classified; indicted; filed 2026-09-25; open.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-01925CR",
+      "defendant": "Mayo Sr, Matthew Wayland",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-09-25; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4FA-26-01929CR",
+      "defendant": "Pannick, Donald",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-26; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-01937CR",
+      "defendant": "Fansler, Ethan",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-27; open.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4FA-26-01938CR",
+      "defendant": "Arkell, Dateen",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-27; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-01"
+    },
+    {
+      "case": "4FA-26-01944CR",
+      "defendant": "Arkell, Dateen Duane",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-09-25; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01947CR",
+      "defendant": "Kane, John William",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-28; open.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-09-29"
+    },
+    {
+      "case": "4FA-26-01949CR",
+      "defendant": "Gayvoronskiy, Vitaliy P",
+      "level": "Class A felony",
+      "charges": "Class A Felony x3; indicted; filed 2026-09-28; reopened.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-08"
+    },
+    {
+      "case": "4FA-26-01951CR",
+      "defendant": "Rue-Roberts, Austin David John",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-09-29; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01952CR",
+      "defendant": "Shepherd, Cheala Taylor",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-09-29; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-01"
+    },
+    {
+      "case": "4FA-26-01954CR",
+      "defendant": "Weaver, Lori Ellen",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; filed 2026-09-29; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01955CR",
+      "defendant": "Tumbloo, Anya Marie",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; DV related; filed 2026-09-29; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-01"
+    },
+    {
+      "case": "4FA-26-01957CR",
+      "defendant": "Judon, Robin Tanika Patricia",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-09-29; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-02"
+    },
+    {
+      "case": "4FA-26-01965CR",
+      "defendant": "Olmstead, Dustin William",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-09-29; open.",
+      "next": "2026-12-10",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-01967CR",
+      "defendant": "Semaken, Jerome B",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-09-30; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-01979CR",
+      "defendant": "Ward, Annette",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-09-30; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-02"
+    },
+    {
+      "case": "4FA-26-01980CR",
+      "defendant": "Wallace, Madisyn Jane",
+      "level": "Class C felony",
+      "charges": "Class C Felony / Class B Misdemeanor; indicted; filed 2026-09-30; reopened.",
+      "next": "2026-11-05",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01981CR",
+      "defendant": "Judon, Robin",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-09-30; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4FA-26-01982CR",
+      "defendant": "Skulstad, Levi Dylan",
+      "level": "Class C felony",
+      "charges": "Class C Felony / Class A Misdemeanor; DV related; filed 2026-09-30; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-01"
+    },
+    {
+      "case": "4FA-26-01983CR",
+      "defendant": "James, Ryan Bud",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-09-30; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01985CR",
+      "defendant": "Akpik, Ellis Mathew",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-01; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01986CR",
+      "defendant": "Bifelt, Deston Hugh",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-01; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-01987CR",
+      "defendant": "Williams, Jordan Henry",
+      "level": "Class A felony",
+      "charges": "Class A Felony / Class A Misdemeanor / Class B Misdemeanor; filed 2026-10-01; open.",
+      "next": "2026-10-22",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-01988CR",
+      "defendant": "Skulstad, Levi Dylan",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-01; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-01989CR",
+      "defendant": "Middleton, Scotty",
+      "level": "Misdemeanour",
+      "charges": "Misdemeanour not classified; filed 2026-09-28; open.",
+      "next": "2026-10-27",
+      "judge": "",
+      "last_docket": "2026-09-28"
+    },
+    {
+      "case": "4FA-26-01990CR",
+      "defendant": "Nunley, James Arthur",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-01; open.",
+      "next": "2026-10-20",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-01991CR",
+      "defendant": "Nestler, Paris Rayne",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-01992CR",
+      "defendant": "Stacy, Billy Joe",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; closed.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01993CR",
+      "defendant": "Jelinek, Lilyanne Ella",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; filed 2026-10-02; open.",
+      "next": "2026-11-06",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-01994CR",
+      "defendant": "Tirban, Martin Lee",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01995CR",
+      "defendant": "Tubin, Amber Nicole",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; filed 2026-10-02; open.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01996CR",
+      "defendant": "Cosca, Anthony Alan",
+      "level": "Class A felony",
+      "charges": "Class A Felony x3; indicted; filed 2026-10-02; reopened.",
+      "next": "2026-11-05",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-01997CR",
+      "defendant": "Sam, Elijay John",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-01998CR",
+      "defendant": "Sam, Elijay John",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; reopened.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-01999CR",
+      "defendant": "Isberg, William J",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-02"
+    },
+    {
+      "case": "4FA-26-02000CR",
+      "defendant": "Inman, Elaine Traugott",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-02"
+    },
+    {
+      "case": "4FA-26-02001CR",
+      "defendant": "Walters, Dustin Edward",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4FA-26-02002CR",
+      "defendant": "Chace, Jedidiah Caedmon",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-02; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-02003CR",
+      "defendant": "White, Kenneth Tyrell",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-02; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-02"
+    },
+    {
+      "case": "4FA-26-02005CR",
+      "defendant": "Dean, Frank Earle",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4FA-26-02007CR",
+      "defendant": "Hill, Garrett Ryan",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-02; open.",
+      "next": "2026-10-27",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02009CR",
+      "defendant": "Sarten, Ishi Santana",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-03; open.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02012CR",
+      "defendant": "Bell, Nicholas Edward",
+      "level": "Class C felony",
+      "charges": "Class C Felony; DV related; filed 2026-10-03; open.",
+      "next": "2026-10-21",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02014CR",
+      "defendant": "Dennis, Adam Jarrod",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-03; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02015CR",
+      "defendant": "Tritt, Michael Aaron",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor as the court’s weekly report prints it; filed 2026-10-04; the case number does not resolve in the public case database.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02016CR",
+      "defendant": "Baldwin, Thomas Joel",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-04; open.",
+      "next": "2026-12-10",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02017CR",
+      "defendant": "Riva, Sarah Jane",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-04; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02019CR",
+      "defendant": "Dixon, Matthew David",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-04; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02020CR",
+      "defendant": "Dennis, Adam Jarrod",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; DV related; filed 2026-10-04; reopened.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02021CR",
+      "defendant": "Ewen, Daniel Edward",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-02; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4FA-26-02022CR",
+      "defendant": "Wright, Vincent F",
+      "level": "Class B felony",
+      "charges": "Class B Felony / Class A Misdemeanor; DV related; filed 2026-10-05; open.",
+      "next": "2026-10-22",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02023CR",
+      "defendant": "Defoyd, Lisa Lynnette",
+      "level": "Not recorded on the file",
+      "charges": "Fugitive from justice; filed 2026-10-05; open.",
+      "next": "2026-11-04",
+      "judge": "",
+      "last_docket": "2026-10-05"
+    },
+    {
+      "case": "4FA-26-02025CR",
+      "defendant": "Briscoe, Angela Jean",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-06; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02026CR",
+      "defendant": "Eakin, Jess Lee Antonich",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-05; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-06"
+    },
+    {
+      "case": "4FA-26-02027CR",
+      "defendant": "Martin, Wyatt Andrew Mumford",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-05; open.",
+      "next": "2026-10-27",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02029CR",
+      "defendant": "Sarten, Ishi Santana",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-07; reopened.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02030CR",
+      "defendant": "Maple, Thomas Monroe",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-07; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02031CR",
+      "defendant": "Morry, Miranda A",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; filed 2026-10-07; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02032CR",
+      "defendant": "Semaken, Jerome Benjamine",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-07; open.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02033CR",
+      "defendant": "Ahyakak-Clerc, Sebastien Burnell",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / misdemeanour not classified; filed 2026-10-07; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02034CR",
+      "defendant": "Griswold, Arthur Ervin",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-07; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-08"
+    },
+    {
+      "case": "4FA-26-02035CR",
+      "defendant": "James, Ryan Bud",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-08; open.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02036CR",
+      "defendant": "Sarten, Ishi",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-08; open.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02037CR",
+      "defendant": "Eagleshield, Dezmond Carl",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-08; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02038CR",
+      "defendant": "Aceves, Teddy Bernhard",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-08; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02039CR",
+      "defendant": "Perry, Brianna Lee",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-08; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02040CR",
+      "defendant": "Clatterbuck, William Russel",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-08; open.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02041CR",
+      "defendant": "Morin, Kevin Thomas",
+      "level": "Misdemeanour",
+      "charges": "Misdemeanour not classified; filed 2026-10-08; open.",
+      "next": "2026-10-23",
+      "judge": "",
+      "last_docket": "2026-10-08"
+    },
+    {
+      "case": "4FA-26-02050CR",
+      "defendant": "Tonelli, Justin Ray",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-09; open.",
+      "next": "2026-12-10",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02051CR",
+      "defendant": "Lyons, Annie Michelle",
+      "level": "Not recorded on the file",
+      "charges": "No degree of offence No charge as the court’s weekly report prints it; filed 2026-10-09; the case number does not resolve in the public case database.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02052CR",
+      "defendant": "Waxman, Gabriel Tomio Kamuela",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-09; open.",
+      "next": "2026-12-10",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02053CR",
+      "defendant": "Jones, Garet Claude-Jeffery",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-09; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02054CR",
+      "defendant": "Arkell, Dateen Duane",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-09; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02055CR",
+      "defendant": "Phillips, Josephine Alice Marie",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-09; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02056CR",
+      "defendant": "Cobbs, Samuel Joseph",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; filed 2026-10-09; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02057CR",
+      "defendant": "Maxwell, Kyra Alyssa Rae",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-09; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-26-02058CR",
+      "defendant": "Nicolai, James Qugpak John Qau",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-10; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02060CR",
+      "defendant": "Scott, Michael Wiley John",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-10; open.",
+      "next": "2026-12-10",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02061CR",
+      "defendant": "Lincoln, Walter Charlie",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-10; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02062CR",
+      "defendant": "Joseph-Simon, Coty L",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / misdemeanour not classified; filed 2026-10-10; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02064CR",
+      "defendant": "Wright, Donovan Paige",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-10; open.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02065CR",
+      "defendant": "Garlitz, Justin Daniel",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-10; open.",
+      "next": "2026-12-03",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02066CR",
+      "defendant": "Munoz, Lee Alan",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-11; open.",
+      "next": "2026-11-24",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02068CR",
+      "defendant": "Bevard, Robbie Dale",
+      "level": "Class C felony",
+      "charges": "Class C Felony / Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-11; open.",
+      "next": "2026-10-21",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02069CR",
+      "defendant": "Lamoreaux, Michael Devin",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-11; open.",
+      "next": "2026-11-17",
+      "judge": "",
+      "last_docket": "2026-10-11"
+    },
+    {
+      "case": "4FA-26-02070CR",
+      "defendant": "Leitzel, Kimberly Jonette",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-11; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02071CR",
+      "defendant": "Griffin, Dakota Rose",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-12; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02072CR",
+      "defendant": "Sarten, Ishi",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-12; reopened.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02073CR",
+      "defendant": "Haworth, Marshall Jordan Rayden",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-12; open.",
+      "next": "2026-11-19",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02074CR",
+      "defendant": "McDonald Jr, Curtis Ian",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor; DV related; filed 2026-10-12; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02075CR",
+      "defendant": "Mayo, Frederick",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-12; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02076CR",
+      "defendant": "Fields, Terrance",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor; filed 2026-10-12; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-02077CR",
+      "defendant": "Sarten, Ishi Santana",
+      "level": "Not recorded on the file",
+      "charges": "No degree of offence No charge as the court’s weekly report prints it; filed 2026-10-13; the case number does not resolve in the public case database.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02079CR",
+      "defendant": "Taylor, Alicia Marie",
+      "level": "Misdemeanour",
+      "charges": "Misdemeanour not classified x2; filed 2026-10-13; open.",
+      "next": "2026-10-27",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02080CR",
+      "defendant": "Olmstead, Dustin W",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Class B Misdemeanor x2; DV related; filed 2026-10-13; reopened.",
+      "next": "2026-11-12",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02081CR",
+      "defendant": "Werder, Brock Evan",
+      "level": "Not recorded on the file",
+      "charges": "No degree of offence No charge; filed 2026-10-13; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02082CR",
+      "defendant": "Jirdon JR, Eddie Jerome (City of Fairbanks)",
+      "level": "Misdemeanour",
+      "charges": "Misdemeanour not classified City prosecution; filed 2026-10-14; open.",
+      "next": "2026-10-20",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02084CR",
+      "defendant": "Moonin-Theile, Tatiana",
+      "level": "Not recorded on the file",
+      "charges": "No degree of offence No charge; filed 2026-10-14; open.",
+      "next": "2026-10-20",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02085CR",
+      "defendant": "Dewey-Davidson, Shelby Kristine",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-14; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02086CR",
+      "defendant": "Young, Daniel Preston",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-14; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02087CR",
+      "defendant": "Gagnon, Andrew Roland Sam",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor Warrant $5,000; filed 2026-10-14; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02089CR",
+      "defendant": "Martinez, Jason Andrew",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor Warrant requested; DV related; filed 2026-10-14; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02093CR",
+      "defendant": "Waite, Susan La Vern",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor — DUI, BAC .08+ BAC .152; filed 2026-10-16; open.",
+      "next": "2026-10-23",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02094CR",
+      "defendant": "Hollen, James Ritchie",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor — drive with licence cancelled, revoked or suspended, previous conviction; filed 2026-10-16; open.",
+      "next": "2026-10-23",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02095CR",
+      "defendant": "Malyk, Roman Viktorovich",
+      "level": "Class B misdemeanour",
+      "charges": "Class B Misdemeanor — theft in the fourth degree, under $250; filed 2026-10-15; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4FA-26-02099CR",
+      "defendant": "Weeks, Isaiah Joseph",
+      "level": "Class A misdemeanour",
+      "charges": "Five counts, all Class A Misdemeanor — three of violating conditions of release for a felony.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02100CR",
+      "defendant": "Smagge III, Edward Warner",
+      "level": "Not recorded on the file",
+      "charges": "Charging Document Pending or Not Filed, no degree of offence, no offence location, no offence date; filed 2026-10-16; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02101CR",
+      "defendant": "Dietzold, Kaylin Breck",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor — DUI, offence-dated Feb. 22; filed 2026-10-16; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02102CR",
+      "defendant": "Simms, Richard",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / Misdemeanor Not Classified; filed 2026-10-16; open.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02103CR",
+      "defendant": "Walden, Matthew",
+      "level": "Misdemeanour",
+      "charges": "Misdemeanor Not Classified — new owner, secure transfer of registration or title; filed 2026-10-16; open.",
+      "next": "2026-11-06",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02104CR",
+      "defendant": "Dryver, Jonathan Arthur",
+      "level": "Misdemeanour",
+      "charges": "Misdemeanor Not Classified — leave scene of accident, unattended vehicle damage; filed 2026-10-16; open.",
+      "next": "2026-10-27",
+      "judge": "",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FY-26-00022CR",
+      "defendant": "Peter, Benjamin Noah John",
+      "level": "Class B felony",
+      "charges": "Class B Felony; filed 2026-10-08; reopened.",
+      "next": "2026-10-21",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4NE-26-00075CR",
+      "defendant": "Chambers, Jennifer",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor / probation violation; filed 2026-07-27; reopened.",
+      "next": "None calendared",
+      "judge": "",
+      "last_docket": "2026-10-08"
+    },
+    {
+      "case": "4NE-26-00095CR",
+      "defendant": "Hansen, Lillybeth Elyce",
+      "level": "Class C felony",
+      "charges": "Class C Felony / Class A Misdemeanor; indicted; filed 2026-09-25; reopened.",
+      "next": "2026-10-21",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4NE-26-00097CR",
+      "defendant": "Chambers, Jennifer Sara",
+      "level": "Class A felony",
+      "charges": "Class A Felony / Class C Felony / Class A Misdemeanor; indicted; filed 2026-09-28; reopened.",
+      "next": "2026-10-28",
+      "judge": "",
+      "last_docket": "2026-10-08"
+    },
+    {
+      "case": "4NE-26-00098CR",
+      "defendant": "Fansler, Ethan Thomas",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-02; open.",
+      "next": "2026-11-09",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4NE-26-00099CR",
+      "defendant": "Morimoto, Sho",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; DV related; filed 2026-10-04; open.",
+      "next": "2026-11-17",
+      "judge": "",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4NE-26-00101CR",
+      "defendant": "Moses, Russell Louis Newman",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor x4; DV related; filed 2026-10-08; open.",
+      "next": "2026-11-17",
+      "judge": "",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4NE-26-00102CR",
+      "defendant": "Schmidt, Kyle T",
+      "level": "Class A misdemeanour",
+      "charges": "Class A Misdemeanor; filed 2026-10-08; open.",
+      "next": "2026-10-26",
+      "judge": "",
+      "last_docket": "2026-10-08"
+    },
+    {
+      "case": "4TO-26-00075CR",
+      "defendant": "Smith, Thomias Nazhone",
+      "level": "Class B felony",
+      "charges": "Class B Felony / Class C Felony / Class B Misdemeanor; DV related; filed 2026-10-09; reopened.",
+      "next": "2026-10-21",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov/"
+    },
+    {
+      "name": "Fairbanks Police Department daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska Court System - criminal charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System - criminal cases disposed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska Court System - holiday schedule",
+      "url": "https://courts.alaska.gov/main/holidays.htm"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    },
+    {
+      "name": "KUAC",
+      "url": "https://fm.kuac.org/news"
+    },
+    {
+      "name": "Alaska's News Source",
+      "url": "https://www.alaskasnewssource.com/news/crime/"
+    },
+    {
+      "name": "Your Alaska Link",
+      "url": "https://www.youralaskalink.com/news/"
+    },
+    {
+      "name": "PulsePoint, Fairbanks ECC",
+      "url": "https://web.pulsepoint.org/"
+    },
+    {
+      "name": "Fairbanks Police Department on Facebook",
+      "url": "https://www.facebook.com/Fairbankspd"
+    }
+  ]
+}
