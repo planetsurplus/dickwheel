@@ -1,10 +1,46 @@
 {
   "date": "2026-10-18",
-  "compiled": "03:46 AKDT",
+  "compiled": "17:44 AKDT",
   "window": "Oct. 11–18, 2026",
-  "summary": "Troopers arrested two people over a mail theft in Fairbanks on Saturday and said five felony theft counts and a felony drug count had been filed; no court file had been opened on either person by Sunday morning. Fairbanks police recorded four further felony arrests on Saturday — two drink-driving counts against one man and burglary and theft counts against another — and no court file existed on those either. The court filed four new Fairbanks cases on Saturday, including a drink-driving and chemical-test-refusal case at North Pole. The Alaska Court System's weekly report for Oct. 11–17 lists no Nenana cases because the week that held its most recent filing has rolled out of the report's window, and no Healy cases for a twenty-second week.",
+  "summary": "The Alaska Court System opened nine Fairbanks criminal cases on Sunday, 4FA-26-02109CR to 4FA-26-02117CR, and arraigned eight of the nine the same afternoon. Among them are charges against the two people troopers arrested over a Fairbanks mail theft on Saturday: the counts filed differ from those the troopers announced, with two felony theft counts and no drug count against one defendant and six counts including a Class B felony drug count against the other. Court files were also opened on the four felony arrests Fairbanks police recorded on Saturday, two of them for offences dated Sept. 1. Troopers reported four further Interior arrests on Sunday morning, three of which reached the court record the same day. None of the nine Sunday filings appears in the Alaska Court System's weekly report, whose window closes on Oct. 17; the counts in the filings table below are that report's own, for the week to Oct. 17.",
   "commentary": null,
   "entries": [
+    {
+      "id": "sunday-court-filings-oct18",
+      "date": "2026-10-18",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02109CR",
+        "4FA-26-02110CR",
+        "4FA-26-02111CR",
+        "4FA-26-02112CR",
+        "4FA-26-02113CR",
+        "4FA-26-02114CR",
+        "4FA-26-02115CR",
+        "4FA-26-02116CR",
+        "4FA-26-02117CR"
+      ],
+      "title": "Nine Fairbanks criminal cases filed on Sunday, eight of them arraigned the same afternoon",
+      "body": [
+        "The Alaska Court System opened nine Fairbanks criminal case numbers on Oct. 18, running from 4FA-26-02109CR to 4FA-26-02117CR. Eight of the nine record an arraignment held at 1:30 p.m. the same day in Courtroom 102 at the Fairbanks courthouse, before the weekend and holiday judge.",
+        "Six felony counts are among them. Roderick Antoino Hill is charged in 4FA-26-02109CR with felony driving under the influence with two or more prior convictions and felony refusal of a chemical test with two or more prior convictions, each a Class C felony, for offences dated Oct. 17 at Fairbanks. Timothy Leland Phillippe is charged on two separate files: 4FA-26-02110CR, theft in the second degree for a value between $750 and $24,999, a Class C felony, and 4FA-26-02111CR, burglary in the second degree, a Class C felony. Both record an offence date of Sept. 1, 2026 at Fairbanks.",
+        "Moses Alejandro Luke Gutierrez is charged in 4FA-26-02113CR with assault in the fourth degree for recklessly causing injury, which the file flags as domestic violence related, and with driving under the influence, each a Class A misdemeanour, for offences dated Oct. 18 at Fairbanks. A pre-trial conference is set for Dec. 10 and a trial week for Dec. 21.",
+        "The remaining files are set out in the entries below. The weekly report of criminal cases filed, run on the evening of Oct. 17, does not list any of the nine: its window closes on Oct. 17. Every defendant named is charged, not convicted, and every class stated is the one recorded on the court file."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System, criminal cases filed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
     {
       "id": "mail-theft-arrests",
       "date": "2026-10-17",
@@ -14,14 +50,18 @@
       "category": "property",
       "severity": "felony",
       "cases": [
-        "AK26103554"
+        "AK26103554",
+        "4FA-26-02114CR",
+        "4FA-26-02117CR"
       ],
-      "title": "Two arrested over Fairbanks mail theft after troopers recover insurance cheque, licences and credit cards",
+      "title": "Two charged over Fairbanks mail theft after troopers recover insurance cheque, licences and credit cards",
       "body": [
         "Alaska State Troopers investigated a report of mail theft involving a Jeep Grand Cherokee in Fairbanks at about 4:37 p.m. on Oct. 17, according to the trooper daily dispatch.",
         "Troopers contacted the occupants, Julia Pitka, 38, and Nolan Peterson, 37, and recovered stolen mail including an $8,000 life-insurance cheque, multiple driving licences and multiple credit cards, the dispatch states. Drug paraphernalia and controlled substances were also found in the vehicle.",
         "The dispatch states that Nolan Peterson was arrested and charged with one misdemeanour count and five felony counts of theft, and one misdemeanour count of misconduct involving controlled substances. Julia Pitka was arrested and charged as an accessory to the thefts, and additionally charged with felony misconduct involving controlled substances and violation of conditions of release.",
-        "Those charges are as the arresting agency described them. Searches of Alaska CourtView on the morning of Oct. 18 returned no criminal case filed against either person on or after Oct. 17, and the highest Fairbanks case number the court has filed is 4FA-26-02108CR, opened on a different matter. Both are arrested and not convicted."
+        "Court files were opened on both on the afternoon of Oct. 18, and the counts filed differ from those announced. In 4FA-26-02114CR, Nolan Peterson is charged with two counts of theft in the second degree involving an access device or identification document, each a Class C felony, and one count of theft in the third degree of mail, a Class A misdemeanour. No controlled-substance count appears on his file.",
+        "In 4FA-26-02117CR, Julia Pitka is charged with six counts: misconduct involving a controlled substance in the third degree for manufacture or delivery, a Class B felony; misconduct involving a controlled substance in the fifth degree for possession, a Class A misdemeanour; two counts of theft in the second degree involving an access device or identification document, each a Class C felony; theft in the third degree of mail, a Class A misdemeanour; and violating a condition of release for a felony, a Class A misdemeanour. No accessory count is recorded on her file.",
+        "All counts record an offence location of Fairbanks and an offence date of Oct. 17. Both were arraigned at 1:30 p.m. on Oct. 18 and preliminary hearings are set for Oct. 28 and Nov. 5. Both are charged, not convicted."
       ],
       "sources": [
         {
@@ -43,13 +83,14 @@
       "category": "dui",
       "severity": "felony",
       "cases": [
-        "26003188"
+        "26003188",
+        "4FA-26-02109CR"
       ],
-      "title": "Fairbanks man arrested on felony drink-driving and chemical-test refusal charges",
+      "title": "Fairbanks man charged with felony drink-driving and chemical-test refusal",
       "body": [
-        "Roderick Antonio Hill, 63, was arrested at the 700 block of Twenty-Seventh Avenue in Fairbanks at 4:22 p.m. on Oct. 17, according to the Fairbanks Police Department daily bulletin.",
-        "The bulletin records two charges, each described by police as a felony: driving under the influence with two or more prior convictions, and refusal of a chemical test with two or more prior convictions.",
-        "A search of Alaska CourtView on the morning of Oct. 18 returned no records under the name, so no court file states what has been charged or at what class. He is arrested and not convicted."
+        "Roderick Antonio Hill, 63, was arrested at the 700 block of Twenty-Seventh Avenue in Fairbanks at 4:22 p.m. on Oct. 17, according to the Fairbanks Police Department daily bulletin. The bulletin records two charges, each described by police as a felony: driving under the influence with two or more prior convictions, and refusal of a chemical test with two or more prior convictions.",
+        "A court file, 4FA-26-02109CR, was opened on Oct. 18. It records two counts, each a Class C felony: felony driving under the influence with two or more priors, and felony refusal of a chemical test with two or more priors. Both record an offence location of Fairbanks and an offence date of Oct. 17.",
+        "An arraignment was held at 1:30 p.m. on Oct. 18 and counsel was appointed from the bench. Preliminary hearings are set for Oct. 28 and Nov. 5. He is charged, not convicted."
       ],
       "sources": [
         {
@@ -72,18 +113,191 @@
       "severity": "felony",
       "cases": [
         "26002670",
-        "26002672"
+        "26002672",
+        "4FA-26-02110CR",
+        "4FA-26-02111CR"
       ],
-      "title": "Man arrested on burglary and theft charges recorded by police as felonies",
+      "title": "Man charged on two files with burglary and theft, both offences dated to September",
       "body": [
-        "Timothy Leland Phillippe, 33, was arrested on a charge recorded by police as burglary in the second degree, a felony, and on a separate row on a charge recorded as theft in the second degree for a value between $750 and $24,999, also a felony, according to the Fairbanks Police Department daily bulletin.",
-        "Both rows are recorded at the 400 block of Cindy Drive in Fairbanks at 12:01 a.m. on Oct. 17, on two case numbers from a series opened earlier in the year.",
-        "A search of Alaska CourtView on the morning of Oct. 18 returned no records under the name, so no court file states what has been charged or at what class. He is arrested and not convicted."
+        "Timothy Leland Phillippe, 33, was arrested on a charge recorded by police as burglary in the second degree, a felony, and on a separate row on a charge recorded as theft in the second degree for a value between $750 and $24,999, also a felony, according to the Fairbanks Police Department daily bulletin. Both rows are recorded at the 400 block of Cindy Drive in Fairbanks at 12:01 a.m. on Oct. 17, on two case numbers from a series opened earlier in the year.",
+        "Two court files were opened on Oct. 18. In 4FA-26-02111CR he is charged with one count of burglary in the second degree, a Class C felony. In 4FA-26-02110CR he is charged with one count of theft in the second degree for a value between $750 and $24,999, a Class C felony.",
+        "Both files record an offence location of Fairbanks and an offence date of Sept. 1, 2026 — seven weeks before the arrest rows the police bulletin carries. Arraignments in both were held at 1:30 p.m. on Oct. 18 and counsel was appointed from the bench. Preliminary hearings in both are set for Oct. 28 and Nov. 5. He is charged, not convicted."
       ],
       "sources": [
         {
           "label": "FPD daily bulletin, Oct. 17",
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "false-information-arrest-oct18",
+      "date": "2026-10-18",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26103634",
+        "4FA-26-02112CR"
+      ],
+      "title": "Woman arrested after troopers say false statements hindered a stolen-firearms investigation",
+      "body": [
+        "Alaska State Troopers state that Helena Cole was contacted during an investigation into reckless firearm use, during which she attempted to implicate another person in the theft of multiple stolen firearms, according to a trooper daily dispatch entry posted on the morning of Oct. 18.",
+        "The entry states that multiple stolen weapons were recovered at the scene, that her statements hindered the investigation, and that she was arrested, charged with false information and taken to the Fairbanks Correctional Center. The entry gives no date for the incident.",
+        "A court file, 4FA-26-02112CR, was opened on Oct. 18 with an arraignment set for Oct. 23 at 8:30 a.m. The file records no charge, no statute, no class and no offence location, so no charge class is stated here. She is arrested and not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/18/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "chatanika-burglary-arrest-oct18",
+      "date": "2026-10-17",
+      "time": "22:20",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26103610",
+        "4FA-26-02115CR"
+      ],
+      "title": "Trespass and criminal mischief charged after a burglary-in-progress call on Chatanika Drive",
+      "body": [
+        "Alaska State Troopers responded to a residence on Chatanika Drive in Fairbanks at about 10:20 p.m. on Oct. 17 for a report of a burglary in progress, according to the trooper daily dispatch entry posted on Oct. 18.",
+        "The entry states that Christine Guzman trespassed onto the property and attempted to break into the residence by striking a window with a propane tank, and that she was arrested and taken to the Fairbanks Correctional Center.",
+        "A court file, 4FA-26-02115CR, was opened on Oct. 18. It records two counts, both dated Oct. 17 at Fairbanks and both flagged domestic violence related: criminal trespass in the first degree, entering land with intent to commit a crime, a Class A misdemeanour; and criminal mischief in the fifth degree, tampering with property, a Class B misdemeanour. The trooper entry describes the incident as a burglary; the counts filed are trespass and criminal mischief.",
+        "An arraignment was held at 1:30 p.m. on Oct. 18. A pre-trial conference is set for Nov. 24 and a trial week for Dec. 7. She is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/18/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "badger-road-assault-oct18",
+      "date": "2026-10-17",
+      "time": "23:20",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26103626",
+        "4FA-26-02116CR"
+      ],
+      "title": "Five counts charged after assaults at a North Pole business and at the hospital afterwards",
+      "body": [
+        "Alaska State Troopers responded to a business on Badger Road in North Pole at about 11:20 p.m. on Oct. 17 for an assault call, according to the trooper daily dispatch entry posted on Oct. 18.",
+        "The entry states that Derek Kelly trespassed at the business before assaulting two employees on the site, that he was transported to Fairbanks Memorial Hospital where he assaulted a hospital security guard, and that he was taken to the Fairbanks Correctional Center.",
+        "A court file, 4FA-26-02116CR, was opened on Oct. 18. It records five counts, every one with an offence location of North Pole and an offence date of Oct. 17: criminal trespass in the second degree upon premises, a Class B misdemeanour; three counts of assault in the fourth degree for recklessly causing injury, each a Class A misdemeanour; and violating conditions of release for a misdemeanour, a Class B misdemeanour.",
+        "An arraignment was held at 1:30 p.m. on Oct. 18. A pre-trial conference is set for Dec. 10 and a trial week for Dec. 21. He is charged, not convicted. Nobody recorded as a victim is identified."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/18/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "north-pole-dv-dui-oct18",
+      "date": "2026-10-18",
+      "time": "06:37",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26103661"
+      ],
+      "title": "Troopers report a domestic assault and drink-driving arrest at North Pole",
+      "body": [
+        "Alaska State Troopers responded to a residence in North Pole at about 6:37 a.m. on Oct. 18 in reference to a delayed domestic dispute, according to the trooper daily dispatch.",
+        "The entry states that it was determined the suspect had committed domestic assault in the fourth degree and driving under the influence, and that the suspect was transported to the Fairbanks Correctional Center.",
+        "No person is named in the entry and no court case number is given in it. The person arrested is arrested and not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/18/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "raymond-arraignment-held",
+      "date": "2026-10-18",
+      "time": "13:30",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02097CR"
+      ],
+      "title": "Arraignment held at a third setting in two-count felony assault case",
+      "body": [
+        "An arraignment in the case against John Edward Raymond Jr, 36, was held at 1:30 p.m. on Oct. 18 in Courtroom 102 at the Fairbanks courthouse, according to the court record. Arraignments listed for Oct. 16 and Oct. 17 were each continued.",
+        "A temporary order with release conditions and an attorney order was entered after each of the three settings. The Public Defender Agency was appointed on Oct. 16.",
+        "The file records two counts, both Class C felonies dated Oct. 16: assault in the third degree for committing an assault in the fourth degree with two or more prior convictions, which the file flags as domestic violence related, and failure to stop at the direction of an officer with reckless driving. The next event on the file is a preliminary hearing on Oct. 26. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02097CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System, Fairbanks daily public calendar",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/DPCT-4FA.pdf"
+        }
+      ]
+    },
+    {
+      "id": "nenana-warrant-arrest",
+      "date": "2026-10-17",
+      "time": "10:54",
+      "place": "Nenana",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26059142",
+        "4FA-25-02264CR",
+        "4FA-25-00795CR"
+      ],
+      "title": "Nenana woman arrested on two outstanding warrants and held without bail",
+      "body": [
+        "Troopers at Nenana arrested Natasha Grant, 22, of Nenana on two outstanding warrants at about 10:54 a.m. on Oct. 17, according to the trooper daily dispatch. The dispatch states that both warrants were for failure to remand on an original charge of driving under the influence, and that she was taken to the Fairbanks Correctional Center and held without bail.",
+        "The court record carries both warrants, each issued by the Fairbanks court on Jun. 17, 2026, on two separate files. In 4FA-25-02264CR, which is recorded as reopened, the warrant is recorded as no bail, serve now; the file's first count is driving under the influence, a Class A misdemeanour, on which a conviction was entered after a guilty plea in March 2026, and its docket records a petition to revoke probation and the reopening of the case on Sept. 29.",
+        "In 4FA-25-00795CR, a closed file, the warrant is recorded as no bail, remand. That case charged driving under the influence with a blood-alcohol level of .08 per cent or higher, a Class A misdemeanour, on which a conviction was entered after a guilty plea in June 2025; probation was revoked and the case closed in March 2026.",
+        "Neither file records the Oct. 17 arrest and no new charge has been filed. She is arrested and not convicted on the warrants, and remains charged and not convicted on what is open in the earlier case."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 17",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/17/2026+12:00:00+AM"
         },
         {
           "label": "Alaska CourtView",
@@ -179,35 +393,6 @@
       ]
     },
     {
-      "id": "nenana-warrant-arrest",
-      "date": "2026-10-17",
-      "time": "10:54",
-      "place": "Nenana",
-      "agency": "Alaska State Troopers",
-      "category": "other",
-      "severity": "other",
-      "cases": [
-        "AK26059142",
-        "4FA-25-02264CR"
-      ],
-      "title": "Nenana woman arrested on two outstanding warrants and held without bail",
-      "body": [
-        "Troopers at Nenana arrested Natasha Grant, 22, of Nenana on two outstanding warrants at about 10:54 a.m. on Oct. 17, according to the trooper daily dispatch. The dispatch states that both warrants were for failure to remand on an original charge of driving under the influence, and that she was taken to the Fairbanks Correctional Center and held without bail.",
-        "A search of Alaska CourtView returned no criminal case filed on or after Oct. 17. A Fairbanks case, 4FA-25-02264CR, is recorded as reopened and carries five counts, among them one count of assault in the third degree for causing injury with a weapon, a Class C felony, and one count of driving under the influence. Its docket records a petition to revoke probation and the reopening of the case on Sept. 29, and its most recent entry predates the arrest.",
-        "She is arrested and not convicted on the warrants, and remains charged and not convicted on what is open in the earlier case."
-      ],
-      "sources": [
-        {
-          "label": "AST daily dispatch, Oct. 17",
-          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/17/2026+12:00:00+AM"
-        },
-        {
-          "label": "Alaska CourtView",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
       "id": "delta-junction-missing-found",
       "date": "2026-10-17",
       "place": "Delta Junction",
@@ -250,33 +435,6 @@
         {
           "label": "AST daily dispatch, Oct. 18",
           "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/18/2026+12:00:00+AM"
-        }
-      ]
-    },
-    {
-      "id": "raymond-arraignment-continued",
-      "date": "2026-10-17",
-      "place": "Fairbanks",
-      "agency": "Alaska Court System",
-      "category": "court",
-      "severity": "felony",
-      "cases": [
-        "4FA-26-02097CR"
-      ],
-      "title": "Arraignment in two-count felony assault case continued for a second time and set for Sunday",
-      "body": [
-        "An arraignment in the case against John Edward Raymond Jr, 36, has been continued twice and is set for 1:30 p.m. on Oct. 18 in Courtroom 102 at the Fairbanks courthouse, according to the court record and the court's daily public calendar for that day.",
-        "Arraignments listed for Oct. 16 and Oct. 17 were each continued. A temporary order with release conditions and an attorney order was entered after the Oct. 17 setting.",
-        "The file records two counts, both Class C felonies dated Oct. 16: assault in the third degree for committing an assault in the fourth degree with two or more prior convictions, which the file flags as domestic violence related, and failure to stop at the direction of an officer with reckless driving. Preliminary hearings are set for Oct. 26 and Nov. 5. He is charged, not convicted."
-      ],
-      "sources": [
-        {
-          "label": "Alaska CourtView, 4FA-26-02097CR",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        },
-        {
-          "label": "Alaska Court System, Fairbanks daily public calendar",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/DPCT-4FA.pdf"
         }
       ]
     },
@@ -391,7 +549,7 @@
       "cases": [],
       "title": "Weekly court report lists no cases at Nenana or Healy for the week to Oct. 17",
       "body": [
-        "The Alaska Court System's weekly report of criminal cases filed, covering Oct. 11 to Oct. 17 and run on the evening of Oct. 17, lists 43 Fairbanks cases and three Delta Junction cases, and has no section for either Nenana or Healy.",
+        "The Alaska Court System's weekly report of criminal cases filed, covering Oct. 11 to Oct. 17 and run on the evening of Oct. 17, lists 43 Fairbanks cases and three Delta Junction cases, and has no section for either Nenana or Healy. The run stamp and window were re-checked on the evening of Oct. 18 and are unchanged.",
         "Nenana's most recent filing, 4NE-26-00103CR, was made on Oct. 10 and appeared in the previous week's report. Oct. 10 falls outside the current report's window, and nothing has been filed at the Nenana courthouse since.",
         "Healy has had no section in the report for twenty-two consecutive weeks. Both are low-volume courts for which a week with no filings is ordinary."
       ],
@@ -424,6 +582,60 @@
       }
     ],
     "new": [
+      {
+        "case": "4FA-26-02109CR",
+        "defendant": "Hill, Roderick Antoino",
+        "charges": "Felony driving under the influence, two or more priors, and felony refusal of a chemical test, two or more priors, each a Class C felony",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02110CR",
+        "defendant": "Phillippe, Timothy Leland",
+        "charges": "Theft in the second degree, value $750 to $24,999, a Class C felony; offence dated Sept. 1, 2026",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02111CR",
+        "defendant": "Phillippe, Timothy Leland",
+        "charges": "Burglary in the second degree, a Class C felony; offence dated Sept. 1, 2026",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02112CR",
+        "defendant": "Cole, Helena J",
+        "charges": "No charge recorded on the file",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02113CR",
+        "defendant": "Gutierrez, Moses Alejandro Luke",
+        "charges": "Assault in the fourth degree, recklessly injure, domestic violence related, and driving under the influence, each a Class A misdemeanour",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02114CR",
+        "defendant": "Peterson, Nolan Iver",
+        "charges": "Two counts of theft in the second degree, access device or identification document, each a Class C felony; theft in the third degree of mail, a Class A misdemeanour",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02115CR",
+        "defendant": "Guzman, Christine Marie",
+        "charges": "Criminal trespass in the first degree, on land with intent to commit a crime, a Class A misdemeanour, and criminal mischief in the fifth degree, a Class B misdemeanour; both domestic violence related",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02116CR",
+        "defendant": "Kelly, Derek Storm",
+        "charges": "Criminal trespass in the second degree, a Class B misdemeanour; three counts of assault in the fourth degree, recklessly injure, each a Class A misdemeanour; violating conditions of release for a misdemeanour, a Class B misdemeanour; offence location North Pole",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02117CR",
+        "defendant": "Pitka, Julia Ann",
+        "charges": "Misconduct involving a controlled substance in the third degree, manufacture or delivery, a Class B felony; two counts of theft in the second degree, access device or identification document, each a Class C felony; three further misdemeanour counts",
+        "felony": true
+      },
       {
         "case": "4FA-26-02105CR",
         "defendant": "Standifer, Darius Cyrill",
@@ -528,9 +740,9 @@
       "defendant": "Raymond Jr, John Edward",
       "level": "Class C felony (two counts)",
       "charges": "Assault in the third degree, assault 4 with two or more prior convictions, domestic violence related; failure to stop at the direction of an officer with reckless driving",
-      "next": "Arraignment Oct. 18, 2026; preliminary hearings Oct. 26 and Nov. 5",
+      "next": "Preliminary hearings Oct. 26 and Nov. 5, 2026; arraignment held Oct. 18",
       "judge": "Bennett, Brent E",
-      "last_docket": "2026-10-17"
+      "last_docket": "2026-10-18"
     },
     {
       "case": "4FA-26-02096CR",
@@ -639,6 +851,87 @@
       "next": "Arraignment Oct. 23, 2026",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-17"
+    },
+    {
+      "case": "4FA-26-02109CR",
+      "defendant": "Hill, Roderick Antoino",
+      "level": "Class C felony (two counts)",
+      "charges": "Felony driving under the influence, two or more priors; felony refusal of a chemical test, two or more priors",
+      "next": "Preliminary hearings Oct. 28 and Nov. 5, 2026; arraignment held Oct. 18",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02110CR",
+      "defendant": "Phillippe, Timothy Leland",
+      "level": "Class C felony",
+      "charges": "Theft in the second degree, value $750 to $24,999; offence dated Sept. 1, 2026",
+      "next": "Preliminary hearings Oct. 28 and Nov. 5, 2026; arraignment held Oct. 18",
+      "judge": "Not assigned",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02111CR",
+      "defendant": "Phillippe, Timothy Leland",
+      "level": "Class C felony",
+      "charges": "Burglary in the second degree; offence dated Sept. 1, 2026",
+      "next": "Preliminary hearings Oct. 28 and Nov. 5, 2026; arraignment held Oct. 18",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02112CR",
+      "defendant": "Cole, Helena J",
+      "level": "—",
+      "charges": "No charge, statute, class or offence location recorded on the file, and no docket entry",
+      "next": "Arraignment Oct. 23, 2026",
+      "judge": "Seekins, Ben A",
+      "last_docket": null
+    },
+    {
+      "case": "4FA-26-02113CR",
+      "defendant": "Gutierrez, Moses Alejandro Luke",
+      "level": "Class A misdemeanour (two counts)",
+      "charges": "Assault in the fourth degree, recklessly injure, domestic violence related; driving under the influence",
+      "next": "Pre-trial conference Dec. 10, 2026; trial week Dec. 21",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02114CR",
+      "defendant": "Peterson, Nolan Iver",
+      "level": "Class C felony (two counts)",
+      "charges": "Two counts of theft in the second degree, access device or identification document; theft in the third degree of mail, a Class A misdemeanour",
+      "next": "Preliminary hearings Oct. 28 and Nov. 5, 2026; arraignment held Oct. 18",
+      "judge": "Not assigned",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02115CR",
+      "defendant": "Guzman, Christine Marie",
+      "level": "Class A misdemeanour",
+      "charges": "Criminal trespass in the first degree, on land with intent to commit a crime; criminal mischief in the fifth degree, a Class B misdemeanour; both domestic violence related",
+      "next": "Pre-trial conference Nov. 24, 2026; trial week Dec. 7",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02116CR",
+      "defendant": "Kelly, Derek Storm",
+      "level": "Class A misdemeanour (three counts)",
+      "charges": "Three counts of assault in the fourth degree, recklessly injure; criminal trespass in the second degree and violating conditions of release, each a Class B misdemeanour; offence location North Pole",
+      "next": "Pre-trial conference Dec. 10, 2026; trial week Dec. 21",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02117CR",
+      "defendant": "Pitka, Julia Ann",
+      "level": "Class B felony",
+      "charges": "Misconduct involving a controlled substance in the third degree, manufacture or delivery; two counts of theft in the second degree, access device or identification document, each a Class C felony; three further misdemeanour counts",
+      "next": "Preliminary hearings Oct. 28 and Nov. 5, 2026; arraignment held Oct. 18",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-10-18"
     },
     {
       "case": "4NE-26-00103CR",
