@@ -18,8 +18,6 @@ FOLDER = os.environ.get("DRIVE_FOLDER_ID") or sys.exit("DRIVE_FOLDER_ID not set"
 LOOKBACK = int(os.environ.get("LOOKBACK_DAYS", "21"))
 UA = {"User-Agent": "Mozilla/5.0 (fairbankscrime.com site builder)"}
 NAME_RE = re.compile(r"^edition-(\d{4}-\d{2}-\d{2})(?:-r(\d+))?\.json$")
-BAIL_RE = re.compile(r"^bail-(\d{4}-\d{2}-\d{2})(?:-r(\d+))?\.json$")
-BAIL_DIR = ROOT / "data" / "bail"
 
 
 def get(url):
@@ -94,27 +92,6 @@ def main(html=None):
         new = json.dumps(ed, ensure_ascii=False, indent=2) + "\n"
         if not path.exists() or path.read_text() != new:
             path.write_text(new); changed.append(date)
-    # Bail-O-Meter files (one per night, highest rN wins)
-    bbest = {}
-    for fid, title in files:
-        m = BAIL_RE.match(title)
-        if m and m.group(1) >= cutoff:
-            rev = int(m.group(2) or 1)
-            if rev >= bbest.get(m.group(1), (0, ""))[0]:
-                bbest[m.group(1)] = (rev, fid)
-    for date, (rev, fid) in sorted(bbest.items()):
-        try:
-            b = download(fid)
-            if b.get("date") != date or not isinstance(b.get("bonds"), list):
-                raise ValueError("bail file malformed")
-        except Exception as err:
-            errors.append(f"bail {date}: {err}")
-            continue
-        BAIL_DIR.mkdir(parents=True, exist_ok=True)
-        path = BAIL_DIR / f"{date}.json"
-        new = json.dumps(b, ensure_ascii=False, indent=2) + "\n"
-        if not path.exists() or path.read_text() != new:
-            path.write_text(new); changed.append(f"bail {date}")
     if changed:
         corrections.sort(key=lambda c: c["date"], reverse=True)
         CORR.write_text(json.dumps(corrections, ensure_ascii=False, indent=2) + "\n")

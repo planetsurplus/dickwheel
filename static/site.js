@@ -81,8 +81,8 @@ m.insertBefore(bar,m.firstChild)}).catch(function(){})}
 check();document.addEventListener("visibilitychange",function(){if(!document.hidden)check()});
 setInterval(function(){if(!document.hidden)check()},15*60*1000);})();
 
-// Bail-O-Meter: count the total up and slide the gauge in when it scrolls into view
-(function(){var box=document.querySelector(".bail");if(!box)return;var num=box.querySelector(".bail-num"),tot=+box.querySelector(".bail-total").dataset.total||0;
+// Charge-O-Meter: count the total up when it scrolls into view
+(function(){var box=document.querySelector(".charge");if(!box)return;var num=box.querySelector(".charge-num"),tot=+box.querySelector(".charge-total").dataset.total||0;
 if(matchMedia("(prefers-reduced-motion: reduce)").matches||!("IntersectionObserver" in window))return;
 var go=function(){var t0=performance.now(),D=1600;
 (function f(t){var p=Math.min(1,(t-t0)/D),v=Math.round(tot*(1-Math.pow(1-p,3)));num.textContent=v.toLocaleString("en-US");if(p<1)requestAnimationFrame(f)})(t0)};

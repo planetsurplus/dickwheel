@@ -355,7 +355,7 @@ def edition_body(ed, editions, is_home=False):
 <div class="share" data-url="{SITE_URL}{BASE}{ed_url(ed['date'])}" data-title="Fairbanks crime record, {long_date(ed['date'])}"><span class="share-label">Share this edition</span>
 <a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u={SITE_URL}{BASE}{ed_url(ed['date'])}" target="_blank" rel="noopener">Facebook</a>
 <button type="button" class="share-btn copy">Copy link</button><button type="button" class="share-btn native" hidden>Share…</button></div>
-{render_bail(ed)}
+{render_charges(ed)}
 <section id="latest"><h2>Entries <span class="count">{len(ed['entries'])} items</span></h2>
 <div class="filters" role="group" aria-label="Filter by category">{filt}</div>
 <div class="entries">{entries}</div></section>
@@ -368,82 +368,102 @@ def edition_body(ed, editions, is_home=False):
 
 
 
-# ---------- Bail-O-Meter ----------
-def load_bail():
+# ---------- Charge-O-Meter ----------
+# Weekly (Mon-Sun) charge mix, built only from the "filings.new" lists already in the editions.
+# A case counts once, under the first group in this order that its charge text matches.
+CHARGE_GROUPS = [
+    ("pending", "Charge not filed yet", "case opened, charging document pending",
+     r"charging document pending|^no charge recorded|^no charge,|^charge not on file"),
+    ("violent", "Assault &amp; threats", "assault, robbery, harassment, endangerment",
+     r"assault|robbery|murder|homicide|manslaughter|kidnap|sexual|harass|endanger|threat|stalking"),
+    ("drugs", "Drugs", "controlled-substance counts",
+     r"controlled substance|methamphetamine|fentanyl|heroin|cocaine|drug"),
+    ("dui", "Drunk driving", "DUI and test refusals",
+     r"\bdui\b|under the influence|drink-driving|chemical test|breath alcohol|blood alcohol"),
+    ("property", "Theft, burglary &amp; damage", "theft, burglary, trespass, mischief, forgery",
+     r"theft|burglar|trespass|mischief|forg|arson|fraud|shoplift|stolen|vehicle theft"),
+    ("orders", "Broke a court order", "release conditions, no-contact and protective orders",
+     r"conditions? of release|unlawful contact|protective order|court order"),
+    ("driving", "Driving &amp; licence", "suspended licence, leaving the scene, eluding",
+     r"licen[cs]e|permit|registration|leaving the scene|accident|reckless driving|failure to stop|failing to stop|"
+     r"school bus|insurance|unauthori[sz]ed person to drive|operating a vehicle"),
+    ("other", "Everything else", "weapons, game laws, disorderly, unnamed counts",
+     r"."),
+]
+_CG_RE = [(k, re.compile(rx, re.I)) for k, _, _, rx in CHARGE_GROUPS]
+
+
+def charge_group(text):
+    t = (text or "").strip()
+    if not t:
+        return "pending"
+    for k, rx in _CG_RE:
+        if rx.search(t):
+            return k
+    return "other"
+
+
+def week_cases(editions, start, end):
+    """Unique new cases from editions dated start..end (ISO strings); the latest edition's entry wins."""
     out = {}
-    d = DATA / "bail"
-    if d.exists():
-        for f in sorted(d.glob("*.json")):
-            try:
-                b = json.loads(f.read_text())
-                out[b["date"]] = b
-            except Exception as err:
-                print(f"WARNING: skipping {f.name}: {err}")
-    return out
+    for ed in sorted(editions, key=lambda x: x["date"]):
+        if start <= ed["date"] <= end:
+            for c in (ed.get("filings") or {}).get("new") or []:
+                if c.get("case"):
+                    out[c["case"]] = c
+    return list(out.values())
 
 
-BAIL = {}
+EDITIONS_ALL = []
 
 
-def render_bail(ed):
-    """Weekly running tally from CourtView for the cases this site covered (Mon-Sun)."""
+def render_charges(ed):
+    """Charge-O-Meter: what the week's new criminal cases were filed for (Mon-Sun)."""
     day = pdate(ed["date"])
-    week_start = day - dt.timedelta(days=day.weekday())
-    cands = [b for k, b in BAIL.items() if week_start.isoformat() <= k <= ed["date"]]
-    final = False
-    if not cands:   # early Monday: show last week's final tab
-        prev = (week_start - dt.timedelta(days=7)).isoformat()
-        cands = [b for k, b in BAIL.items() if prev <= k < week_start.isoformat()]
-        final = True
-        if not cands:
+    ws = day - dt.timedelta(days=day.weekday())
+    cases = week_cases(EDITIONS_ALL, ws.isoformat(), ed["date"])
+    final, end = False, ed["date"]
+    if not cases:   # nothing yet this week: show last week's final count
+        prev_ws = ws - dt.timedelta(days=7)
+        end = (ws - dt.timedelta(days=1)).isoformat()
+        cases = week_cases(EDITIONS_ALL, prev_ws.isoformat(), end)
+        ws, final = prev_ws, True
+        if not cases:
             return ""
-    b = max(cands, key=lambda x: x["date"])
-    ws = b.get("week_start", week_start.isoformat())
-    c = b.get("counts", {})
-    posted, warr = b.get("posted", 0), b.get("on_warrants", 0)
-    total = posted + warr
-    span = f"{pdate(ws).strftime('%a')}. {short_date(ws)} – {short_date(b['date'])}"
-    buckets = [
-        ("schedule", "Walked out free", "on the court&rsquo;s bail schedule"),
-        ("posted", "Paid to leave", "bail posted"),
-        ("warrant", "Warrant out", "bail set on the warrant"),
-        ("judge", "Judge&rsquo;s call", "terms set in court, amount not online"),
-        ("summons", "Got a summons", "invited, not arrested"),
-        ("none", "No release info yet", "nothing on the docket"),
-        ("sealed", "Sealed", "not public in CourtView"),
-    ]
-    n_all = sum(c.get(k, 0) for k, *_ in buckets) or 1
-    bar = "".join(f'<span class="bk-{k}" style="flex:{c.get(k, 0)}" title="{lab}: {c.get(k, 0)}"></span>' for k, lab, _ in buckets if c.get(k, 0))
+    counts = dict.fromkeys([k for k, *_ in CHARGE_GROUPS], 0)
+    for c in cases:
+        counts[charge_group(c.get("charges"))] += 1
+    n = len(cases)
+    fel = sum(1 for c in cases if c.get("felony") is True)
+    dv = sum(1 for c in cases if re.search(r"domestic violence", c.get("charges") or "", re.I))
+    top_k = max((k for k, *_ in CHARGE_GROUPS if k not in ("pending", "other")), key=lambda k: counts[k])
+    top = next(lab for k, lab, *_ in CHARGE_GROUPS if k == top_k) if counts[top_k] else ""
+    span = f"{ws.strftime('%a')}. {short_date(ws.isoformat())} – {short_date(end)}"
+    shown = CHARGE_GROUPS[1:] + CHARGE_GROUPS[:1]   # "not filed yet" goes last on the card
+    bar = "".join(f'<span class="cg-{k}" style="flex:{counts[k]}" title="{lab}: {counts[k]}"></span>'
+                  for k, lab, *_ in shown if counts[k])
     tiles = "".join(
-        f'<li class="bk-{k}"><span class="v">{c.get(k, 0)}</span><span class="l">{lab}</span><span class="s">{sub}</span></li>'
-        for k, lab, sub in buckets if c.get(k, 0) or k in ("schedule", "posted", "warrant"))
-    return f"""<section class="bail" id="bail-o-meter" aria-label="Bail-O-Meter">
-<div class="bail-head"><span class="bail-kicker">Bail-O-Meter · {'last week&rsquo;s final tab, ' if final else 'week of '}{e(span)}</span>
-<span class="bail-title">If you wanna bail &rsquo;em all out, here&rsquo;s the damage</span></div>
-<div class="bail-total" data-total="{total:.0f}"><span class="bail-dollar">$</span><span class="bail-num">{total:,.0f}</span></div>
-<p class="bail-split">${posted:,.0f} posted to walk out · ${warr:,.0f} set on fresh warrants</p>
-<div class="bail-bar" role="img" aria-label="How the {n_all} cases this {'past ' if final else ''}week left the building">{bar}</div>
-<ul class="bail-tiles">{tiles}</ul>
-<p class="bail-note">Every case this site covered {'that' if final else 'this'} week, looked up in Alaska CourtView. Dollar figures are only what CourtView shows: bonds actually posted and bail written on warrants issued {'that' if final else 'this'} week. Bail a judge sets in court sits in a document that isn&rsquo;t online, so the real bill is higher. Not an invitation. <span class="bail-checked">Checked {e(nice_checked(b))}</span></p>
+        f'<li class="cg-{k}"><span class="v">{counts[k]}</span><span class="l">{lab}</span><span class="s">{sub}</span></li>'
+        for k, lab, sub, _ in shown if counts[k])
+    lead = f"Top of the chart: <b>{top}</b>" if top else ""
+    split = f"{fel} felony case{'s' if fel != 1 else ''} · {n - fel} misdemeanor or not yet classed" + (f" · {dv} flagged domestic violence" if dv else "")
+    return f"""<section class="charge" id="charge-o-meter" aria-label="Charge-O-Meter">
+<div class="charge-head"><span class="charge-kicker">{'Last week&rsquo;s final count, ' if final else 'Week of '}{e(span)}</span>
+<span class="charge-title">Charge-O-Meter</span></div>
+<div class="charge-total" data-total="{n}"><span class="charge-num">{n}</span><span class="charge-unit">new criminal case{'s' if n != 1 else ''}</span></div>
+<p class="charge-split">{split}</p>
+<div class="charge-bar" role="img" aria-label="Charge mix of the {n} new cases">{bar}</div>
+<ul class="charge-tiles">{tiles}</ul>
+<p class="charge-note">{lead + '. ' if lead else ''}Every new criminal case in the court filing reports this site printed {'that' if final else 'this'} week, sorted by its most serious-sounding charge. A case with several charges counts once. Charges are accusations, not convictions.</p>
 </section>"""
-
-
-def nice_checked(b):
-    t = b.get("checked_at", "")
-    try:
-        x = dt.datetime.fromisoformat(t)
-        h = x.strftime("%I:%M").lstrip("0")
-        return f"{x.strftime('%b')}. {x.day}, {h} {'a.m.' if x.hour < 12 else 'p.m.'}"
-    except Exception:
-        return t or b["date"]
 
 
 # ---------- pages ----------
 def build():
     editions = load_editions()
-    BAIL.update(load_bail())
     if not editions:
         sys.exit("ERROR: no editions in data/editions/")
+    EDITIONS_ALL[:] = editions
     corrections = json.loads((DATA / "corrections.json").read_text()) if (DATA / "corrections.json").exists() else []
     corrections.sort(key=lambda c: c["date"], reverse=True)
 
