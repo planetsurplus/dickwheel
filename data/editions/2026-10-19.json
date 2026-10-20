@@ -1,10 +1,117 @@
 {
   "date": "2026-10-19",
-  "compiled": "2026-10-19T04:03:12-08:00",
-  "window": "2026-10-19 03:22 to 04:00 AKDT",
-  "summary": "Court offices are closed on Monday for the Alaska Day observance, which fell on a Sunday this year, and the Fairbanks court calendar carries one case under a weekend and holiday judge. Neither the Alaska State Troopers daily dispatch nor the Fairbanks Police Department daily bulletin had posted anything for Oct. 19 when they were read shortly before four in the morning, and none of the three preceding days behind either feed had changed. The Alaska Court System's weekly criminal filings report, covering Oct. 12 to Oct. 18, lists 47 cases at Fairbanks, three at Delta Junction and no section for Nenana or Healy; those counts are the report's own, and the report has been short of its own final filing day before. Nothing has been filed at Fairbanks since case 4FA-26-02117CR on Sunday. Nineteen case numbers the court prints or has printed in its own weekly report cannot be found in the public case database, and are listed with no explanation offered. Three records could not be read in full: the United States Attorney's press index refused a direct request and was read indirectly, which confirms only which releases are listed; the Daily News-Miner public safety column for Oct. 18 is behind a subscription wall; and the Fairbanks Police Department's Facebook page is behind a login wall. The open cases listing below carries 184 files, 51 of them with full charge, judge and docket detail and 133 with the summary fields the court's own records provide. A count of zero on any police feed means only that nothing had been posted at the time of reading.",
-  "commentary": "",
+  "compiled": "18:35 AKDT",
+  "window": "Oct. 16–19, 2026",
+  "summary": "Two Fairbanks residents, Sasha Hart, 38, and David Hart, 41, were killed in a head-on collision at Mile 115 of the Parks Highway near Trapper Creek on Monday morning; their toddler survived with injuries troopers described as not life-threatening, and the Alaska State Troopers are investigating. Court offices in Alaska were closed on Monday for the Alaska Day observance, which fell on a Sunday this year, and the Fairbanks court calendar carried one case under a weekend and holiday judge. Neither the Alaska State Troopers daily dispatch nor the Fairbanks Police Department daily bulletin had posted anything for Fairbanks or the surrounding Interior for Oct. 19 on either of two readings, in the early morning and again in the late afternoon, and nothing had changed on the three preceding days behind either feed. The Alaska Court System's report of disposed criminal cases was updated early on Monday and now covers closures through Oct. 19; it records 227 closed cases at Fairbanks since Sep. 1, including eleven dismissals and closures dated Oct. 13 to Oct. 15 that had not appeared in this record before, and it gives Oct. 8 as the date a first-degree murder charge at Fairbanks was dismissed after the defendant was found incompetent to stand trial. The court's weekly criminal filings report, covering Oct. 12 to Oct. 18, is unchanged and lists 47 cases at Fairbanks, three at Delta Junction and no section for Nenana or Healy; those counts are the report's own, and the report has been short of its own final filing day before. Nothing has been filed at Fairbanks since case 4FA-26-02117CR on Sunday. Nineteen case numbers the court prints or has printed in its own weekly report still cannot be found in the public case database, and five of them appear in the refreshed report of disposed cases as closed. The open cases listing below carries 184 files. A count of zero on any police feed means only that nothing had been posted at the time of reading.",
+  "commentary": null,
   "entries": [
+    {
+      "id": "parks-highway-fatal",
+      "date": "2026-10-19",
+      "time": "09:06",
+      "place": "Parks Highway Mile 115, Trapper Creek",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Two Fairbanks residents killed in head-on collision on the Parks Highway near Trapper Creek",
+      "body": [
+        "The Alaska State Troopers report that at 9:06 a.m. on Monday, Oct. 19 they received a report of a head-on collision at Mile 115 of the Parks Highway at Trapper Creek. Troopers say a southbound 2018 Subaru Forester driven by Sasha Hart, 38, of Fairbanks crossed the center line and struck a northbound Ford F-250.",
+        "Sasha Hart and her husband, David Hart, 41, also of Fairbanks, were pronounced dead at the scene by emergency medical personnel. Their toddler, who was in the Subaru, was reported to have injuries that were not life-threatening and was taken to an Anchorage hospital. Next of kin have been notified. The child is not named.",
+        "The highway was closed for about five hours with traffic detoured around the scene, and was reported fully reopened at about 3 p.m. The investigation is continuing. Troopers have reported no charges.",
+        "Trapper Creek is roughly 250 road miles south of Fairbanks and outside the area this record normally covers. The collision is reported here because both people who died were Fairbanks residents.",
+        "The incident number recorded by troopers is AK26103883. The dispatch entry's location field reads Seward Highway Mile 115 while the text of the same entry places the collision on the Parks Highway at Trapper Creek; the Parks Highway location is the one given in the broadcast account of the crash."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Oct. 19",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "KTVF / WebCenter Fairbanks, Oct. 19",
+          "url": "https://www.webcenterfairbanks.com/2026/10/19/parks-highway-closed-both-directions-near-trapper-creek/"
+        }
+      ]
+    },
+    {
+      "id": "murder-charge-dismissed-court-record",
+      "date": "2026-10-08",
+      "time": "",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-00112CR"
+      ],
+      "title": "Court record gives Oct. 8 as the date a first-degree murder charge was dismissed on a finding of incompetency",
+      "body": [
+        "The Alaska Court System's report of disposed criminal cases, refreshed on Oct. 19, records case 4FA-26-00112CR, State of Alaska v. Brian Jeffery Davenport, as closed on Oct. 8, 2026.",
+        "The report lists one count, AS 11.41.100(a)(1)(A), murder in the first degree with intent to cause death, charge-dated Jan. 20, 2026, with the disposition recorded as dismissed after the defendant was found incompetent.",
+        "He was charged and the charge was dismissed. A dismissal on a finding that a defendant is not competent to stand trial is neither a conviction nor an acquittal, and the court record states nothing further about the finding or about what follows from it. No victim is named here."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, criminal cases disposed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "dispositions-report-refresh",
+      "date": "2026-10-19",
+      "time": "",
+      "place": "Fourth Judicial District",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02091CR",
+        "4FA-26-02015CR",
+        "4FA-26-02077CR",
+        "4FA-26-02083CR",
+        "4FA-26-02051CR",
+        "4FA-26-02028CR"
+      ],
+      "title": "Court's report of disposed cases now covers closures through Oct. 19 and records a week of Fairbanks dismissals",
+      "body": [
+        "The Alaska Court System's report of disposed criminal cases was updated at 4:01 a.m. on Oct. 19 and now covers cases closed between Sep. 1 and Oct. 19. It records 227 closed cases at Fairbanks, 16 at Nenana, six at Delta Junction and none at Healy.",
+        "Eleven of the Fairbanks closures are dated after Oct. 12 and had not previously appeared in this record. On Oct. 13: case 4FA-26-00205CR, Russell Edward Wivoda; case 4FA-26-02028CR, Donovan Paige Wright, in which a single count of assault in the third degree for causing fear of injury with a weapon was dismissed by the prosecution; and case 4FA-26-02077CR, Ishi Santana Sarten, closed with no charging document filed.",
+        "On Oct. 14: case 4FA-26-00778CR, Cody Steven Rudolph-Munro; case 4FA-26-00941CR, Lyle Gibbons, dismissed in the furtherance of justice; three separate cases against Chelsea Charlie, numbered 4FA-26-01321CR, 4FA-26-01715CR and 4FA-26-01730CR, each dismissed under a plea agreement in another case; and case 4FA-26-02083CR, Ryan Alan Martinez Jr., closed with no charging document filed.",
+        "On Oct. 15: case 4FA-26-02051CR, Annie Michelle Lyons, closed with no charging document filed; and case 4FA-26-02091CR, Clara Mona Lee Perdue, in which a single count of assault in the fourth degree for recklessly causing injury was dismissed for lack of probable cause. Case 4FA-26-02015CR, Michael Aaron Tritt, closed on Oct. 12, records a single count of criminal trespass in the second degree dismissed for lack of probable cause.",
+        "Nenana adds three closures in the same period: cases 4NE-26-00037CR and 4NE-26-00079CR on Oct. 13 and case 4NE-26-00078CR on Oct. 15.",
+        "The newest Fairbanks closure in the report is dated Oct. 15, four days before the report was run, and the newest at Nenana is the same date. Nothing in it is dated Oct. 16 or later at any of the four Interior courts.",
+        "Everyone named in this item was charged and in every case listed the charges were dismissed or the case was closed without a charging document being filed. None of these records states a conviction."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, criminal cases disposed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fort-yukon-arrest",
+      "date": "2026-10-18",
+      "time": "",
+      "place": "Fort Yukon",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "Fort Yukon man arrested on a no-contact violation and taken to the Fairbanks jail",
+      "body": [
+        "The Alaska State Troopers report that on Oct. 18, acting on information received while they were working in Chalkyitsik, troopers went to a home in Fort Yukon where they found Ethan Paul with a person he is under court-ordered conditions not to contact. Troopers say they were invited into the home and witnessed the violation.",
+        "He was arrested and transported to the Fairbanks Correctional Center. The entry, incident number AK26103739, was posted on the morning of Oct. 19. He is charged, not convicted.",
+        "Fort Yukon is outside the area this record normally covers. The item is reported here because the man was taken to the jail at Fairbanks."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Oct. 19",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
     {
       "id": "2026-10-19-court-holiday",
       "date": "2026-10-19",
@@ -42,9 +149,10 @@
       "cases": [],
       "title": "Neither daily police feed has posted anything for Monday",
       "body": [
-        "The Alaska State Troopers daily dispatch page for Oct. 19 had published nothing when it was read at 3:52 a.m.: the page carries no date header and serves no detachment sections.",
-        "The Fairbanks Police Department daily bulletin returned no entries for Oct. 19 when it was read at 3:48 a.m., and also returned no entries for Sunday, Oct. 18.",
-        "The three preceding days behind each feed were re-read and none had changed. On the trooper dispatch, D Detachment holds five items for Oct. 18, four for Oct. 17 and three for Oct. 16. On the police bulletin, Oct. 18 holds none, Oct. 17 five and Oct. 16 three.",
+        "The Alaska State Troopers daily dispatch page for Oct. 19 had published nothing when it was read shortly before four in the morning: the page carried no date header and served no detachment sections. Re-read in the late afternoon, the page carries a dated header for Monday, Oct. 19 and the D Detachment section, which covers Fairbanks and the surrounding Interior, reports no news for the date.",
+        "The Fairbanks Police Department daily bulletin returned no entries for Oct. 19 on both readings, shortly before four in the morning and again in the late afternoon. It also returned no entries for Sunday, Oct. 18 on both.",
+        "The dispatch page for Oct. 19 does carry items in other detachments. Two of them involve the Fairbanks area and are listed separately below: a fatal collision near Trapper Creek in which two Fairbanks residents died, and an arrest at Fort Yukon after which the man was taken to the Fairbanks Correctional Center.",
+        "The three preceding days behind each feed were re-read in the afternoon and none had changed. On the trooper dispatch, D Detachment holds five items for Oct. 18, four for Oct. 17 and three for Oct. 16. On the police bulletin, Oct. 18 holds none, Oct. 17 five and Oct. 16 three.",
         "Both feeds add entries to days already published, sometimes several days later, so a count of zero means only that nothing had been posted at the time of reading."
       ],
       "sources": [
