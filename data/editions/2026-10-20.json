@@ -1,8 +1,8 @@
 {
   "date": "2026-10-20",
-  "compiled": "03:54 AKDT",
+  "compiled": "17:44 AKDT",
   "window": "Oct. 17–20, 2026",
-  "summary": "Two arrests that Fairbanks police recorded on Monday afternoon, a felony vehicle theft charge and a drink-driving charge, appeared on the daily bulletin only after it had twice been published as carrying nothing for the day; neither has a court file yet. The court's weekly filings report, re-run on Monday night, records 41 criminal cases filed at Fairbanks over the week to Oct. 19 and none at all on Monday itself, when court offices were closed for the Alaska Day observance. The Fairbanks court returned to a full calendar of 56 criminal cases on Tuesday. Court files in the Fairbanks mail theft case record fewer and different charges than were reported when the two defendants were arrested.",
+  "summary": "Seven criminal case files at the Fairbanks courthouse that the public case database did not return on Tuesday morning were returning by Tuesday evening, and four of them carry filing dates inside the window of the court's weekly filings report, which was run after they were filed and does not list them. Both of Monday's Fairbanks police arrests are now charged: one on a Class C felony count of vehicle theft, the other on a count for which no charging document has yet been filed. A Fourth District grand jury returned an indictment on a Class C felony assault count and the case has gone to the Superior Court. Three Nenana cases against one defendant were sent for an examination of competency to proceed. A bench warrant was ordered after a defendant failed to appear. Both daily police feeds added entries to dates already published.",
   "commentary": null,
   "entries": [
     {
@@ -14,13 +14,15 @@
       "category": "property",
       "severity": "felony",
       "cases": [
-        "26003209"
+        "26003209",
+        "4FA-26-02123CR"
       ],
       "title": "Fairbanks woman arrested on a felony vehicle theft charge",
       "body": [
         "A 49-year-old Fairbanks woman was arrested on the afternoon of Monday, Oct. 19 at the 700 block of 17th Avenue in Fairbanks, the Fairbanks Police Department daily bulletin records. The bulletin gives the time as 4:48 p.m. and the charge as vehicle theft in the first degree - taking a vehicle, aircraft or watercraft - which it records as a felony.",
-        "No court file has been opened behind the arrest. A search of the public case database returns no 2026 criminal case under the name, so the charge and the felony classification are those recorded by police rather than those filed by a prosecutor. She is arrested, not convicted, and the charge may be amended or not filed at all.",
-        "The arrest did not appear on the bulletin when the same page was read twice on Oct. 19, once in the early morning and once in the late afternoon. It was added afterwards."
+        "A court file has since been opened behind the arrest. Case 4FA-26-02123CR, filed on Oct. 20, charges Pearl Gould with one count of vehicle theft in the first degree, a Class C felony, with an offence location of Fairbanks and an offence date of Oct. 19. She was arraigned on Oct. 20 and preliminary hearings are set for Oct. 29 and Nov. 9. The felony classification police recorded is the classification on the court file. She is charged, not convicted, and the charge may be amended or dismissed as the case proceeds.",
+        "The arrest did not appear on the bulletin when the same page was read twice on Oct. 19, once in the early morning and once in the late afternoon. It was added afterwards.",
+        "The bulletin page for Oct. 19 has since added two further rows, neither of them an arrest. One is a vehicle theft incident recorded under the same case number at the 800 block of Cushman Street between 3:52 p.m. and 3:53 p.m., about fifty-six minutes before the arrest and at a different block. The two rows are recorded as the feed records them and no connection between them is stated."
       ],
       "sources": [
         {
@@ -42,12 +44,12 @@
       "category": "dui",
       "severity": "misdemeanor",
       "cases": [
-        "26003208"
+        "4FA-26-02119CR"
       ],
       "title": "Fairbanks man arrested on a drink-driving charge",
       "body": [
         "A 37-year-old man was arrested at the 400 block of Merhar Avenue in Fairbanks at 3:46 p.m. on Monday, Oct. 19 on a charge of driving under the influence with a blood alcohol content of .08 per cent or more, which the Fairbanks Police Department daily bulletin records as a misdemeanour.",
-        "No court file has been opened behind the arrest, so the charge recorded by police is the only record of it. He is arrested, not convicted.",
+        "A court file has since been opened behind the arrest. Case 4FA-26-02119CR, filed on Oct. 20, records one count against Harding Andy Custer as charging document pending or not filed, with no degree of offence stated, so no charge classification is given here. An arraignment is set for Oct. 27. The file records the offence as dated Oct. 20 and the police bulletin records the arrest at 3:46 p.m. on Oct. 19; both dates are as those records state them and neither is asserted over the other. He is charged, not convicted.",
         "The police bulletin lists arrestees by first name, middle names and then surname. Read in that order the name on this arrest would be taken as a different surname; a search of the court's own party index establishes the surname as Custer."
       ],
       "sources": [
@@ -129,6 +131,7 @@
         "The Alaska Court System's weekly report of criminal charges filed, run at 9:01 p.m. on Oct. 19 and covering Oct. 13 to Oct. 19, records 41 cases filed at the Fairbanks courthouse and two at Delta Junction. It records no cases at Nenana and none at Healy.",
         "The Fairbanks cases run in an unbroken series from 4FA-26-02077CR to 4FA-26-02117CR. By filing day they are: Tuesday five, Wednesday eight, Thursday three, Friday twelve, Saturday four and Sunday nine. The report carries no filings for Monday, Oct. 19 at all. Court offices were closed that day for the Alaska Day observance, which fell on Sunday and was observed on the Monday.",
         "The counts are the report's own for its own window. The report has previously been published without a case that had been filed on the last day of its window, so the figure for the most recent day should be read as a minimum.",
+        "Four cases carrying filing dates inside that window do not appear in the report. Cases 4FA-26-02118CR and 4FA-26-02121CR are filed Oct. 16 and cases 4FA-26-02120CR and 4FA-26-02122CR are filed Oct. 17, all four inside a window running to Oct. 19 in a report run on the evening of Oct. 19. The report's Fairbanks series is printed without a gap, so the four are missing from within it rather than from a day the report leaves out. The report's counts are its own and are a minimum for the whole window.",
         "The two Delta Junction cases are 4DJ-26-00064CR, in which no charging document has yet been filed, and 4DJ-26-00065CR, charging one count of permitting an unauthorised person to drive, an unclassified misdemeanour."
       ],
       "sources": [
@@ -178,6 +181,7 @@
         "Three criminal cases filed at the Nenana court are set for hearings at the Fairbanks courthouse at 11:30 a.m. on Tuesday, Oct. 20, all three against the same defendant, who is appearing from the Fairbanks Correctional Center. Two are motion hearings and one is a bail hearing.",
         "Case 4NE-26-00086CR, filed Sep. 4, charges one count of assault in the fourth degree - recklessly injure, a Class A misdemeanour, flagged as domestic-violence related, with an offence location of Healy and an offence date of Sep. 3. Case 4NE-26-00092CR, filed Sep. 11, charges unlawful contact in breach of a court order, a Class A misdemeanour also flagged as domestic-violence related, and violating conditions of release for a misdemeanour, a Class B misdemeanour, both with an offence location of Fairbanks and an offence date of Sep. 9.",
         "She is charged, not convicted. No victim is identified.",
+        "The hearings were held on Oct. 20. All three files record an order granting a motion on the record, and case 4NE-26-00086CR records an order for an examination of competency to proceed. A competency hearing is set on all three for Nov. 13 at 11 a.m. in Courtroom 402. The day's first setting on all three was a rural calendar call at the Nenana courthouse at 11 a.m., which was continued to Nov. 17.",
         "The weekly filings report records no cases at Healy, and has done so for 24 consecutive weeks. Healy has no criminal court of its own: offences recorded there are charged at Nenana or at Fairbanks, so a count of zero against the Healy court prefix is not a statement about the place."
       ],
       "sources": [
@@ -231,6 +235,131 @@
           "url": "https://web.pulsepoint.org/"
         }
       ]
+    },
+    {
+      "id": "fairbanks-court-files-above-series-oct20",
+      "date": "2026-10-20",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "mixed",
+      "cases": [
+        "4FA-26-02118CR",
+        "4FA-26-02119CR",
+        "4FA-26-02120CR",
+        "4FA-26-02121CR",
+        "4FA-26-02122CR",
+        "4FA-26-02123CR",
+        "4FA-26-02124CR"
+      ],
+      "title": "Seven Fairbanks court files appear above the end of the weekly report, four of them filed inside its window",
+      "body": [
+        "Seven criminal cases at the Fairbanks courthouse carry numbers above 4FA-26-02117CR, the highest number listed in the court's weekly filings report. None of the seven was returned by the public case database when each number was searched individually on the morning of Oct. 20; all seven were returned when the same searches were run that evening.",
+        "Case 4FA-26-02118CR, filed Oct. 16, charges Mayo with one count of theft in the fourth degree, a Class B misdemeanour, offence location Fairbanks, offence date Oct. 6. Case 4FA-26-02121CR, filed Oct. 16, charges Smagge III with one count of assault in the fourth degree, a Class A misdemeanour, offence location Fairbanks, offence date Oct. 3. Case 4FA-26-02122CR, filed Oct. 17, charges Walker with two counts of assault in the fourth degree, both Class A misdemeanours, both with an offence location of North Pole and an offence date of Aug. 31, and both flagged as domestic-violence related. No complainant is identified.",
+        "Case 4FA-26-02120CR, filed Oct. 17, records one count against Newhard as charging document pending or not filed, with the offence location and offence date columns both blank on the file. Case 4FA-26-02124CR, filed Oct. 20, records one count against Keogh the same way, offence-dated Oct. 20. No charge classification is given for either, because the files state none. Cases 4FA-26-02119CR and 4FA-26-02123CR are the two Monday police arrests and are reported separately.",
+        "Four of the seven - 4FA-26-02118CR, 4FA-26-02120CR, 4FA-26-02121CR and 4FA-26-02122CR - carry filing dates of Oct. 16 and Oct. 17, inside the window of the weekly report run at 9:01 p.m. on Oct. 19, and appear nowhere in its 62 pages. Everyone named here is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System, weekly report of criminal charges filed, run 10/19/2026 9:01 pm",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "grand-jury-assault-indictment-oct20",
+      "date": "2026-10-20",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02063CR"
+      ],
+      "title": "Grand jury returns an indictment on a Class C felony assault count",
+      "body": [
+        "A Fourth District grand jury returned an indictment on Oct. 20 in case 4FA-26-02063CR, on one count of assault in the third degree, a Class C felony. The file records the indicted charge with a stage date of Oct. 20, jurisdiction transferred to the Superior Court, and an information adding a misdemeanour count filed the same day. A Superior Court arraignment is set for Nov. 18.",
+        "The file also carries three counts of assault when a child is present. No complainant and no child is identified. An indictment is a charging decision and not a finding of guilt; the defendant is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "court-calendar-results-oct20",
+      "date": "2026-10-20",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "mixed",
+      "cases": [
+        "4FA-26-02082CR",
+        "4FA-26-02084CR"
+      ],
+      "title": "A bench warrant ordered after a failure to appear, and two bail-review applications filed in another case",
+      "body": [
+        "In case 4FA-26-02082CR the docket records that the defendant failed to appear on Oct. 20 and that a warrant is to issue. Hearings that had been set for Nov. 24 and Dec. 7 are both recorded as vacated. A warrant is a court order about attendance and not a finding about the charge.",
+        "In another Fairbanks case an arraignment set for Oct. 20 is recorded as calendared in error and a preliminary hearing as vacated; applications for bail review have been filed by both the defence and the prosecution, and a new arraignment is set for Oct. 28. A bail hearing on a proposed third-party custodian was continued to Oct. 21. In case 4FA-26-02084CR an arraignment was held. A calendar call was held in a further case.",
+        "All of these results were read from each case file's own docket rather than from the daily calendar, which records what is set rather than what happened. Everyone concerned is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "police-feeds-added-entries-oct20",
+      "date": "2026-10-20",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department; Alaska State Troopers",
+      "category": "records",
+      "severity": "none",
+      "cases": [],
+      "title": "Two more dated police pages gain entries, and the trooper page for Tuesday publishes with no Interior news",
+      "body": [
+        "The Fairbanks Police Department daily bulletin page for Oct. 17 returned eight entries on the evening of Oct. 20, having returned five on each of five earlier readings across three days. The three added rows are incidents rather than arrests and name nobody. The page for Oct. 19 returned four entries, having returned two that morning and none on two readings the day before. The pages for Oct. 18 and Oct. 20 each returned none.",
+        "The Alaska State Troopers daily dispatch page for Oct. 20 carries a dated header and all ten detachment and bureau sections on the evening of Oct. 20, and the D Detachment section reports no news for the date. The same page returned the site's empty state that morning, with no date and no detachment section served at all.",
+        "Both feeds add entries to dates already published, in one recorded case eight days later, so a count of zero means only that nothing had been posted at the time of reading."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "traffic-collisions-oct20",
+      "date": "2026-10-20",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Emergency Communications Center",
+      "category": "dispatch",
+      "severity": "none",
+      "cases": [],
+      "title": "Seven traffic collisions on the Fairbanks fire and medical dispatch feed",
+      "body": [
+        "The PulsePoint feed for the Fairbanks Emergency Communications Center listed 43 incidents over roughly the preceding twenty-four hours on the evening of Oct. 20: 28 medical emergencies, seven traffic collisions, four fire alarms, one fire, one outside fire, one public service call and one electrical hazard. The feed covers Fairbanks, North Pole, Fort Wainwright, Eielson, Ester, Salcha and Two Rivers.",
+        "The same rolling window read that morning listed 42 incidents and no traffic collision at all. The two windows overlap, so the two counts are not a day's total. The feed carries no police or crime incident type, no police or court record consulted records any of the collisions, and none is reported here as a crime."
+      ],
+      "sources": [
+        {
+          "label": "PulsePoint, Fairbanks Emergency Communications Center",
+          "url": "https://web.pulsepoint.org/"
+        }
+      ]
     }
   ],
   "filings": {
@@ -255,12 +384,55 @@
     ],
     "new": [
       {
+        "case": "4FA-26-02118CR",
+        "defendant": "Mayo",
+        "charges": "Theft in the fourth degree",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02119CR",
+        "defendant": "Custer, Harding Andy",
+        "charges": "Charging document pending or not filed",
+        "felony": null
+      },
+      {
+        "case": "4FA-26-02120CR",
+        "defendant": "Newhard",
+        "charges": "Charging document pending or not filed",
+        "felony": null
+      },
+      {
+        "case": "4FA-26-02121CR",
+        "defendant": "Smagge III",
+        "charges": "Assault in the fourth degree",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02122CR",
+        "defendant": "Walker",
+        "charges": "Two counts of assault in the fourth degree, both flagged domestic-violence related",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02123CR",
+        "defendant": "Gould, Pearl",
+        "charges": "Vehicle theft in the first degree",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02124CR",
+        "defendant": "Keogh",
+        "charges": "Charging document pending or not filed",
+        "felony": null
+      },
+      {
         "case": "4DJ-26-00065CR",
         "defendant": "Martin, Jacob Andrew",
         "charges": "Permitting an unauthorised person to drive",
         "felony": false
       }
-    ]
+    ],
+    "note": "The counts by court are the report's own for its own window and are a minimum. Four cases filed on Oct. 16 and Oct. 17 are returned by the case database and appear nowhere in the report, inside a Fairbanks series the report prints without a gap."
   },
   "open_cases": [
     {
@@ -601,9 +773,9 @@
       "defendant": "Ostlund, William Bruce",
       "level": "Class A felony",
       "charges": "Three counts of misconduct involving a controlled substance in the second degree, manufacture or delivery of methamphetamine.",
-      "next": "Next hearing Oct. 20, 2026",
+      "next": "Bail hearing Oct. 21, 2026",
       "judge": "Peterson, Earl A",
-      "last_docket": "2026-10-16"
+      "last_docket": "2026-10-20"
     },
     {
       "case": "4FA-26-01826CR",
@@ -664,9 +836,9 @@
       "defendant": "Zappone, Krista Marie",
       "level": "Class B felony",
       "charges": "Charge list states six and serves five, numbered 1, 2, 3, 4 and 6 — so the withheld count here is the fifth.",
-      "next": "Next hearing Oct. 20, 2026",
+      "next": "Competency hearing Nov. 13, 2026",
       "judge": "Peterson, Earl A",
-      "last_docket": "2026-10-16"
+      "last_docket": "2026-10-20"
     },
     {
       "case": "4NE-26-00103CR",
@@ -691,9 +863,9 @@
       "defendant": "Arazo, Za’quiohn E’Mar",
       "level": "Class C felony",
       "charges": "Five counts, all Oct. 10 at Fairbanks and all DV related: assault 3 cause injury with a weapon, Class C felony.",
-      "next": "Next hearing Oct. 20, 2026",
+      "next": "Superior Court arraignment Nov. 18, 2026",
       "judge": "Temple, Thomas I",
-      "last_docket": "2026-10-16"
+      "last_docket": "2026-10-20"
     },
     {
       "case": "4FA-26-02059CR",
@@ -1708,18 +1880,18 @@
       "defendant": "Jirdon JR, Eddie Jerome (City of Fairbanks)",
       "level": "Misdemeanour",
       "charges": "Misdemeanour not classified; city prosecution.",
-      "next": "Next hearing Oct. 20, 2026",
+      "next": "Warrant to issue; settings of Nov. 24 and Dec. 7 vacated",
       "judge": "",
-      "last_docket": "2026-10-14"
+      "last_docket": "2026-10-20"
     },
     {
       "case": "4FA-26-02084CR",
       "defendant": "Moonin-Theile, Tatiana",
       "level": "Not recorded on the file",
       "charges": "No degree of offence; no charge; filed 2026-10-14; open.",
-      "next": "Next hearing Oct. 20, 2026",
+      "next": "Arraignment held Oct. 20, 2026",
       "judge": "",
-      "last_docket": "2026-10-14"
+      "last_docket": "2026-10-20"
     },
     {
       "case": "4FA-26-02085CR",
@@ -1918,6 +2090,69 @@
       "next": "Next hearing Oct. 21, 2026",
       "judge": "",
       "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-02123CR",
+      "defendant": "Gould, Pearl",
+      "level": "Class C felony",
+      "charges": "One count of vehicle theft in the first degree, offence location Fairbanks, offence-dated Oct. 19.",
+      "next": "Preliminary hearing Oct. 29, 2026",
+      "judge": "Not read on this pass",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4FA-26-02119CR",
+      "defendant": "Custer, Harding Andy",
+      "level": "Not recorded on the file",
+      "charges": "One count recorded charging document pending or not filed, no degree of offence stated, offence location Fairbanks, offence-dated Oct. 20.",
+      "next": "Arraignment Oct. 27, 2026",
+      "judge": "Not read on this pass",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4FA-26-02124CR",
+      "defendant": "Keogh",
+      "level": "Not recorded on the file",
+      "charges": "One count recorded charging document pending or not filed, offence-dated Oct. 20.",
+      "next": "Not read on this pass",
+      "judge": "Not read on this pass",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4FA-26-02122CR",
+      "defendant": "Walker",
+      "level": "Class A misdemeanour",
+      "charges": "Two counts of assault in the fourth degree, both offence location North Pole, both offence-dated Aug. 31, both flagged domestic-violence related.",
+      "next": "Not read on this pass",
+      "judge": "Not read on this pass",
+      "last_docket": null
+    },
+    {
+      "case": "4FA-26-02121CR",
+      "defendant": "Smagge III",
+      "level": "Class A misdemeanour",
+      "charges": "One count of assault in the fourth degree, offence location Fairbanks, offence-dated Oct. 3.",
+      "next": "Not read on this pass",
+      "judge": "Not read on this pass",
+      "last_docket": null
+    },
+    {
+      "case": "4FA-26-02118CR",
+      "defendant": "Mayo",
+      "level": "Class B misdemeanour",
+      "charges": "One count of theft in the fourth degree, offence location Fairbanks, offence-dated Oct. 6.",
+      "next": "Not read on this pass",
+      "judge": "Not read on this pass",
+      "last_docket": null
+    },
+    {
+      "case": "4FA-26-02120CR",
+      "defendant": "Newhard",
+      "level": "Not recorded on the file",
+      "charges": "One count recorded charging document pending or not filed; the offence location and offence date columns are blank on the file.",
+      "next": "Not read on this pass",
+      "judge": "Not read on this pass",
+      "last_docket": null
     }
   ],
   "sources": [
