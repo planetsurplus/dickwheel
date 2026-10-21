@@ -1,8 +1,8 @@
 {
   "date": "2026-10-21",
-  "compiled": "04:00 AKDT",
+  "compiled": "07:34 AKDT",
   "window": "Oct. 17–21, 2026",
-  "summary": "The weekly criminal filings report has been re-run and now lists all seven Fairbanks court files that were missing from the previous run; all seven carried numbers above the end of that report's series, which corrects what this record reported on Oct. 20. The new report lists 43 cases filed at Fairbanks between Oct. 14 and Oct. 20 and no filings at all for Monday, Oct. 19, the second consecutive report whose window covers that day and lists nothing. A Nenana case carries an indicted first-degree burglary charge, a Class B felony, and a second Nenana case charges three Class C felony assault counts; both charge lists had to be expanded in the database before the full counts could be read. A North Pole man was arrested on a domestic violence assault charge late on Oct. 20 and no court file exists yet. The weekly dispositions report has not been refreshed since Oct. 19 and its window still reaches only that date, so no closures after Oct. 15 appear in it. The U.S. Attorney's press index for the District of Alaska could not be read: the direct route was refused and the only route that answers has not published anything since Aug. 27.",
+  "summary": "A North Pole man was arrested on a domestic violence assault charge, and three Nenana-filed cases carry felony charges: a first-degree burglary indictment, three third-degree assault counts and a felony DUI. The court's weekly report lists 43 new criminal cases at Fairbanks for Oct. 14–20.",
   "commentary": null,
   "entries": [
     {
@@ -16,11 +16,9 @@
       "cases": [
         "AK26104411"
       ],
-      "title": "North Pole man arrested on a domestic violence assault charge",
+      "title": "Domestic violence assault arrest: Christopher Reynolds",
       "body": [
-        "The Alaska State Troopers report that at about 8:59 p.m. on Tuesday, Oct. 20 they received a report of a domestic violence assault in North Pole, and that Christopher Reynolds, 50, of North Pole, was arrested and taken to the Fairbanks Correctional Center on one charge of domestic violence assault in the fourth degree. The entry was posted at 12:23 a.m. on Oct. 21.",
-        "No court file has been opened in the case. A search of the public case database for filings under that name between Oct. 1 and Oct. 21 returns no records, and no case has been filed at the Fairbanks courthouse above 4FA-26-02124CR. The charge described is the one recorded by police; no charge classification is given here because no court file states one.",
-        "He is arrested, not convicted. No victim is identified."
+        "Christopher Reynolds, 50, of North Pole, was arrested on a charge recorded by troopers as fourth-degree domestic violence assault. North Pole, Oct. 20 at about 8:59 p.m.; Alaska State Troopers. He was taken to the Fairbanks Correctional Center."
       ],
       "sources": [
         {
@@ -34,31 +32,6 @@
       ]
     },
     {
-      "id": "weekly-filings-oct21",
-      "date": "2026-10-21",
-      "place": "Fairbanks",
-      "agency": "Alaska Court System",
-      "category": "court",
-      "severity": "other",
-      "cases": [],
-      "title": "Weekly criminal filings: 43 cases at Fairbanks, and the seven files missing from last week's report now appear in it",
-      "body": [
-        "The Alaska Court System's weekly report of criminal charges filed, run at 9:01 p.m. on Oct. 20 and covering Oct. 14 to Oct. 20, records 43 cases filed at the Fairbanks courthouse and two at Delta Junction. It records no cases at Nenana and none at Healy. The report runs to 68 pages.",
-        "The Fairbanks cases run in an unbroken series from 4FA-26-02082CR to 4FA-26-02124CR. By filing day they are: Wednesday eight, Thursday three, Friday fourteen, Saturday six, Sunday nine and Tuesday three.",
-        "All seven Fairbanks files that the previous report did not list now appear in it: 4FA-26-02118CR and 4FA-26-02121CR under Friday, Oct. 16; 4FA-26-02120CR and 4FA-26-02122CR under Saturday, Oct. 17; and 4FA-26-02119CR, 4FA-26-02123CR and 4FA-26-02124CR under Tuesday, Oct. 20.",
-        "Each of those seven carries a number above 4FA-26-02117CR, which was the highest number the previous report listed, so they were absent from above the end of that report's series rather than from inside it. This record reported the opposite on Oct. 20 and the correction is below. The report's numbering does not follow its filing dates: cases numbered 4FA-26-02118CR and 4FA-26-02121CR were filed on Oct. 16 while cases numbered 4FA-26-02109CR to 4FA-26-02117CR were filed on Oct. 18. A count from this report is a minimum for its whole window and not only for its last day.",
-        "The report carries no filings for Monday, Oct. 19 at all. That is the second consecutive report whose window covers Monday and which lists nothing filed at Fairbanks that day. Court offices were closed on Oct. 19 for the Alaska Day observance.",
-        "The two Delta Junction cases are unchanged: 4DJ-26-00064CR, in which no charging document has yet been filed, and 4DJ-26-00065CR, charging one count of permitting an unauthorised person to drive, an unclassified misdemeanour.",
-        "The offence-location column was read separately across all 68 pages. Fairbanks appears on 53 charge lines, North Pole on 11 and Delta Junction on one. No case filed at any other courthouse in this window records an offence location inside the Fairbanks area."
-      ],
-      "sources": [
-        {
-          "label": "Alaska Court System, criminal charges filed",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
-        }
-      ]
-    },
-    {
       "id": "nenana-burglary-indictment-oct21",
       "date": "2026-10-21",
       "place": "Denali National Park",
@@ -68,13 +41,9 @@
       "cases": [
         "4NE-26-00096CR"
       ],
-      "title": "Nenana case carries an indicted first-degree burglary charge, a Class B felony, for an offence recorded in Denali National Park",
+      "title": "Burglary indictment: Krista Marie Zappone",
       "body": [
-        "Case 4NE-26-00096CR, filed at the Nenana court on Sep. 26, carries six counts against the defendant whose three Nenana cases were reported on Oct. 20. The charge list served by the public case database shows five counts and loads the sixth only on request; all six were read on Oct. 21.",
-        "The counts, all with an offence date of Sep. 25 and none flagged as domestic-violence related, are: burglary in the first degree in a dwelling, a Class B felony, with an offence location recorded as Denali National Park; criminal trespass in the first degree in a dwelling, a Class A misdemeanour, Denali National Park; criminal trespass in the first degree on land with intent to commit a crime, a Class A misdemeanour, Denali National Park; theft in the fourth degree, a Class B misdemeanour, Cantwell; and two counts of violating conditions of release for a misdemeanour, both Class B misdemeanours, both Cantwell.",
-        "The burglary count records an original charge of burglary in the second degree, a Class C felony, and an indicted charge of burglary in the first degree, a Class B felony. An indictment is a charging decision and not a finding.",
-        "A competency hearing is set for Nov. 13 at 11 a.m. in Courtroom 402, a calendar call for Nov. 17 and a trial week for Nov. 30. A motion hearing was held on Oct. 20.",
-        "She is charged, not convicted. No victim is identified. Three of the six counts record an offence location of Cantwell, which is outside the Fairbanks area; the park's entrance sits next to Healy, and the park itself extends far beyond the area this record covers."
+        "Krista Marie Zappone is charged by indictment with first-degree burglary of a dwelling, a Class B felony, plus two counts of first-degree criminal trespass (Class A misdemeanors), fourth-degree theft and two counts of violating release conditions (Class B misdemeanors). Denali National Park and Cantwell, Sep. 25; case filed at Nenana. Case 4NE-26-00096CR; competency hearing Nov. 13."
       ],
       "sources": [
         {
@@ -93,12 +62,9 @@
       "cases": [
         "4NE-26-00103CR"
       ],
-      "title": "Nenana case charges three Class C felony assault counts for an offence recorded at Fairbanks",
+      "title": "Felony assault charges: Gregory S. Ashley",
       "body": [
-        "Case 4NE-26-00103CR, filed at the Nenana court on Oct. 10, charges Ashley with six counts, all with an offence location of Fairbanks and an offence date of Oct. 9, and none flagged as domestic-violence related. The public case database serves five of the six and loads the last on request; all six were read on Oct. 21.",
-        "The counts are three of assault in the third degree - repeat threat of death or injury, each a Class C felony; one of driving under the influence of alcohol or a controlled substance, a Class A misdemeanour; one of assault in the fourth degree - cause fear of injury, a Class A misdemeanour; and one of driving with a licence cancelled, revoked or suspended for a criminal offence, a Class A misdemeanour.",
-        "No indicted charge is recorded against any count, so the case stands on a complaint. An arraignment set for Oct. 20 is recorded as calendared in error and the preliminary hearing for that day as vacated. A new arraignment is set for Oct. 28.",
-        "He is charged, not convicted. No victim is identified."
+        "Gregory S. Ashley is charged with three counts of third-degree assault (repeat threat of death or injury), each a Class C felony, plus driving under the influence, fourth-degree assault and driving with a revoked license, each a Class A misdemeanor. Fairbanks, Oct. 9; case filed at Nenana. Case 4NE-26-00103CR; arraignment Oct. 28."
       ],
       "sources": [
         {
@@ -117,12 +83,9 @@
       "cases": [
         "4NE-26-00095CR"
       ],
-      "title": "Nenana case on an indicted felony drink-driving charge arraigned at Fairbanks",
+      "title": "Felony DUI: Lillybeth Elyce Hansen",
       "body": [
-        "Case 4NE-26-00095CR, filed at the Nenana court on Sep. 25, charges Hansen with felony driving under the influence with two or more prior convictions, a Class C felony, and driving with a licence cancelled, revoked or suspended for a criminal offence, a Class A misdemeanour. Both counts record an offence location of Denali National Park and an offence date of Sep. 24, and neither is flagged as domestic-violence related. An indicted charge is recorded against the felony count.",
-        "An arraignment is set for 1:30 p.m. on Oct. 21 in Courtroom 402 at the Fairbanks courthouse. A bail hearing is set for Oct. 22 at 10:15 a.m. following an application for a first bail review filed by the defence on Oct. 20. A calendar call is set for Nov. 17 and a trial week for Nov. 30.",
-        "An arraignment was held on Sep. 25 and preliminary hearings on Oct. 5 and Oct. 15.",
-        "She is charged, not convicted. The case appears in no weekly filings report this record has read; the Nenana court has had no section in that report for 25 consecutive weeks."
+        "Lillybeth Elyce Hansen is charged by indictment with felony driving under the influence (two or more prior convictions), a Class C felony, and driving with a revoked license, a Class A misdemeanor. Denali National Park, Sep. 24; case filed at Nenana. Case 4NE-26-00095CR; arraignment Oct. 21 at Fairbanks, bail hearing Oct. 22."
       ],
       "sources": [
         {
@@ -136,6 +99,25 @@
       ]
     },
     {
+      "id": "weekly-filings-oct21",
+      "date": "2026-10-21",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [],
+      "title": "Weekly court filings: 43 new criminal cases at Fairbanks",
+      "body": [
+        "The Alaska Court System lists 43 criminal cases filed at Fairbanks and two at Delta Junction from Oct. 14 to Oct. 20, and none at Nenana or Healy. Courts were closed Oct. 19 for Alaska Day."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, criminal charges filed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
       "id": "fairbanks-court-calendar-oct21",
       "date": "2026-10-21",
       "place": "Fairbanks",
@@ -143,13 +125,9 @@
       "category": "court",
       "severity": "other",
       "cases": [],
-      "title": "Sixty-four criminal cases on the Fairbanks court calendar, four of them filed at Delta Junction",
+      "title": "Court calendar: 64 criminal cases at Fairbanks today",
       "body": [
-        "The Fairbanks daily public calendar for Wednesday, Oct. 21, run at 12:02 a.m., lists 64 distinct criminal case numbers over 18 pages. The alphabetical list printed from the same run lists the same 64 numbers.",
-        "Fifty-six were filed at the Fairbanks courthouse, four at Delta Junction, one at Nenana and three at courts outside the Fairbanks area. No case filed at Healy appears.",
-        "The four Delta Junction cases are 4DJ-26-00045CR, a trial status hearing at 10:30 a.m.; 4DJ-26-00053CR and 4DJ-26-00062CR, both against the same defendant, pre-trial conferences at 10:30 a.m.; and 4DJ-26-00054CR, an arraignment at 1:30 p.m.",
-        "Also listed is a bail hearing at 9:15 a.m. in case 4FA-26-01818CR, on a proposed third-party custodian, which was set on Oct. 20 when the hearing scheduled for that day was continued.",
-        "The calendar is run once at midnight and lists what is scheduled rather than what happened. No outcome from today's hearings is reported here."
+        "The Fairbanks court calendar for Oct. 21 lists 64 criminal cases: 56 filed at Fairbanks, four at Delta Junction, one at Nenana and three from courts outside the area."
       ],
       "sources": [
         {
@@ -166,12 +144,9 @@
       "category": "other",
       "severity": "other",
       "cases": [],
-      "title": "Fire crews called to a downtown Fairbanks building fire and to eight traffic collisions",
+      "title": "Building fire: 330 Third Avenue, Fairbanks",
       "body": [
-        "The Fairbanks Emergency Communications Center dispatch feed records 44 incidents over roughly the 24 hours to 3:44 a.m. on Oct. 21, of which eight were traffic collisions and two were fires.",
-        "A fire at 330 Third Avenue, Suite 315, in Fairbanks was dispatched at 11:08 p.m. on Oct. 20 and closed after one hour and two minutes. A second fire, at Chena Hot Springs Road and Roberts Roost Road, was closed after one minute. An elevator rescue at 1850 Hoselton Road was closed after 13 minutes.",
-        "The collisions included two at Lakloey Drive and Badger Road within four minutes of each other, two on the Alaska Route 2 corridor, and one each at the Richardson Highway ramp from the Mitchell Expressway, at Twenty-Second Avenue and Lathrop Street, at Seventh Avenue and Barnette Street, and one still active at milepost 400 of the Elliott Highway.",
-        "The feed carries no police or crime incident type and nothing here is reported as a crime. No police, trooper or court record read on Oct. 21 refers to any of these calls. Medical calls on the feed are not reported."
+        "Fire crews were dispatched to a fire at 330 Third Avenue, Fairbanks, at 11:08 p.m. on Oct. 20; the call closed after about an hour. Crews also answered eight traffic collisions over the same 24 hours. Fairbanks Emergency Communications Center."
       ],
       "sources": [
         {
@@ -206,43 +181,43 @@
       {
         "case": "4FA-26-02118CR",
         "defendant": "Mayo",
-        "charges": "Theft in the fourth degree, a Class B misdemeanour; offence location Fairbanks, offence date Oct. 6",
+        "charges": "Theft in the fourth degree, a Class B misdemeanor; offense location Fairbanks, offense date Oct. 6",
         "felony": false
       },
       {
         "case": "4FA-26-02119CR",
         "defendant": "Custer",
-        "charges": "One count recorded as charging document pending or not filed, no degree of offence stated; offence location Fairbanks",
+        "charges": "One count recorded as charging document pending or not filed, no degree of offense stated; offense location Fairbanks",
         "felony": false
       },
       {
         "case": "4FA-26-02120CR",
         "defendant": "Newhard",
-        "charges": "One count recorded as charging document pending or not filed; offence location and offence date both blank on the file",
+        "charges": "One count recorded as charging document pending or not filed; offense location and offense date both blank on the file",
         "felony": false
       },
       {
         "case": "4FA-26-02121CR",
         "defendant": "Smagge III",
-        "charges": "Assault in the fourth degree, a Class A misdemeanour; offence location Fairbanks, offence date Oct. 3",
+        "charges": "Assault in the fourth degree, a Class A misdemeanor; offense location Fairbanks, offense date Oct. 3",
         "felony": false
       },
       {
         "case": "4FA-26-02122CR",
         "defendant": "Walker",
-        "charges": "Two counts of assault in the fourth degree, both Class A misdemeanours, both flagged as domestic-violence related; offence location North Pole, offence date Aug. 31",
+        "charges": "Two counts of assault in the fourth degree, both Class A misdemeanors, both flagged as domestic-violence related; offense location North Pole, offense date Aug. 31",
         "felony": false
       },
       {
         "case": "4FA-26-02123CR",
         "defendant": "Gould",
-        "charges": "Vehicle theft in the first degree, a Class C felony; offence location Fairbanks, offence date Oct. 19",
+        "charges": "Vehicle theft in the first degree, a Class C felony; offense location Fairbanks, offense date Oct. 19",
         "felony": true
       },
       {
         "case": "4FA-26-02124CR",
         "defendant": "Keogh",
-        "charges": "One count recorded as charging document pending or not filed, no degree of offence stated; offence date Oct. 20",
+        "charges": "One count recorded as charging document pending or not filed, no degree of offense stated; offense date Oct. 20",
         "felony": false
       }
     ]
@@ -252,7 +227,7 @@
       "case": "4DJ-24-00006CR",
       "defendant": "Rihel, Andrew",
       "level": "Unclassified Felony",
-      "charges": "Four counts, all offence location Delta Junction",
+      "charges": "Four counts, all offense location Delta Junction",
       "next": "2026-11-03",
       "judge": "Bennett, Brent E",
       "last_docket": "2026-10-15"
@@ -270,7 +245,7 @@
       "case": "4DJ-25-00049CR",
       "defendant": "Zigler, Jason David",
       "level": "Class C Felony",
-      "charges": "Four counts, all offence location Delta Junction, none DV-flagged: AS 28.35.030(n)",
+      "charges": "Four counts, all offense location Delta Junction, none DV-flagged: AS 28.35.030(n)",
       "next": "2027-01-07",
       "judge": "Harbison, Bethany",
       "last_docket": "2026-10-15"
@@ -387,7 +362,7 @@
       "case": "4DJ-26-00064CR",
       "defendant": "Foreman, Chad Leo",
       "level": "",
-      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offence. Filed Oct",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offense. Filed Oct",
       "next": "",
       "judge": "Young, Yvette",
       "last_docket": null
@@ -441,7 +416,7 @@
       "case": "4FA-26-00703CR",
       "defendant": "Folger, Kyle Douglas",
       "level": "Class C Felony",
-      "charges": "Three counts, all offence-dated Apr. 20, 2026 at North Pole, all DV related",
+      "charges": "Three counts, all offense-dated Apr. 20, 2026 at North Pole, all DV related",
       "next": "",
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-15"
@@ -468,7 +443,7 @@
       "case": "4FA-26-01644CR",
       "defendant": "Rudolph-Munro, Cody Steven",
       "level": "Class A Misdemeanor",
-      "charges": "Five counts served of six stated, offences Aug. 23 at North Pole",
+      "charges": "Five counts served of six stated, offenses Aug. 23 at North Pole",
       "next": "",
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-14"
@@ -477,7 +452,7 @@
       "case": "4FA-26-01786CR",
       "defendant": "Lincoln, Walter Charlie",
       "level": "Class B Misdemeanor",
-      "charges": "Two counts, a Class A and a Class B misdemeanour. Filed Sept. 10.",
+      "charges": "Two counts, a Class A and a Class B misdemeanor. Filed Sept. 10.",
       "next": "2026-10-22",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-20"
@@ -513,7 +488,7 @@
       "case": "4FA-26-01852CR",
       "defendant": "Waters, Cassandra Mari",
       "level": "",
-      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offence",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offense",
       "next": "2026-11-05",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-09-22"
@@ -585,7 +560,7 @@
       "case": "4FA-26-01916CR",
       "defendant": "Sam, Elijay John",
       "level": "Class C Felony",
-      "charges": "Class C Felony / misdemeanour not classified Indicted Felony",
+      "charges": "Class C Felony / misdemeanor not classified Indicted Felony",
       "next": "2026-12-03",
       "judge": "",
       "last_docket": "2026-10-15"
@@ -810,7 +785,7 @@
       "case": "4FA-26-01989CR",
       "defendant": "Middleton, Scotty",
       "level": "",
-      "charges": "Misdemeanour not classified",
+      "charges": "Misdemeanor not classified",
       "next": "2026-10-27",
       "judge": "",
       "last_docket": "2026-09-28"
@@ -1143,7 +1118,7 @@
       "case": "4FA-26-02033CR",
       "defendant": "Ahyakak-Clerc, Sebastien Burnell",
       "level": "Class A Misdemeanor",
-      "charges": "Class A Misdemeanor / misdemeanour not classified",
+      "charges": "Class A Misdemeanor / misdemeanor not classified",
       "next": "2026-11-24",
       "judge": "",
       "last_docket": "2026-10-16"
@@ -1215,7 +1190,7 @@
       "case": "4FA-26-02041CR",
       "defendant": "Morin, Kevin Thomas",
       "level": "",
-      "charges": "Misdemeanour not classified",
+      "charges": "Misdemeanor not classified",
       "next": "2026-10-23",
       "judge": "",
       "last_docket": "2026-10-08"
@@ -1233,7 +1208,7 @@
       "case": "4FA-26-02051CR",
       "defendant": "Lyons, Annie Michelle",
       "level": "",
-      "charges": "No degree of offence No charge",
+      "charges": "No degree of offense No charge",
       "next": "",
       "judge": "",
       "last_docket": null
@@ -1305,7 +1280,7 @@
       "case": "4FA-26-02059CR",
       "defendant": "Gonzalez, Geldin Luis Parrilla",
       "level": "Class A Misdemeanor",
-      "charges": "One count: refusal to submit to a chemical test, AS 28.35.032(a), a Class A misdemeanour",
+      "charges": "One count: refusal to submit to a chemical test, AS 28.35.032(a), a Class A misdemeanor",
       "next": "2026-12-10",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-16"
@@ -1332,7 +1307,7 @@
       "case": "4FA-26-02062CR",
       "defendant": "Joseph-Simon, Coty L",
       "level": "Class A Misdemeanor",
-      "charges": "Class A Misdemeanor / misdemeanour not classified",
+      "charges": "Class A Misdemeanor / misdemeanor not classified",
       "next": "2026-11-24",
       "judge": "",
       "last_docket": "2026-10-15"
@@ -1467,7 +1442,7 @@
       "case": "4FA-26-02077CR",
       "defendant": "Sarten, Ishi Santana",
       "level": "",
-      "charges": "No degree of offence No charge",
+      "charges": "No degree of offense No charge",
       "next": "",
       "judge": "",
       "last_docket": null
@@ -1485,7 +1460,7 @@
       "case": "4FA-26-02079CR",
       "defendant": "Taylor, Alicia Marie",
       "level": "",
-      "charges": "Misdemeanour not classified x2",
+      "charges": "Misdemeanor not classified x2",
       "next": "2026-10-27",
       "judge": "",
       "last_docket": "2026-10-15"
@@ -1503,7 +1478,7 @@
       "case": "4FA-26-02081CR",
       "defendant": "Werder, Brock Evan",
       "level": "",
-      "charges": "No degree of offence No charge",
+      "charges": "No degree of offense No charge",
       "next": "",
       "judge": "",
       "last_docket": "2026-10-15"
@@ -1512,7 +1487,7 @@
       "case": "4FA-26-02082CR",
       "defendant": "Jirdon JR, Eddie Jerome (City of Fairbanks)",
       "level": "",
-      "charges": "Misdemeanour not classified City prosecution",
+      "charges": "Misdemeanor not classified City prosecution",
       "next": "",
       "judge": "",
       "last_docket": "2026-10-20"
@@ -1521,7 +1496,7 @@
       "case": "4FA-26-02084CR",
       "defendant": "Moonin-Theile, Tatiana",
       "level": "",
-      "charges": "No degree of offence No charge",
+      "charges": "No degree of offense No charge",
       "next": "2026-11-24",
       "judge": "",
       "last_docket": "2026-10-20"
@@ -1557,7 +1532,7 @@
       "case": "4FA-26-02088CR",
       "defendant": "Edwards, Jeremy Frank",
       "level": "Class C Felony",
-      "charges": "Two counts, both offence-dated Oct. 14 at Fairbanks",
+      "charges": "Two counts, both offense-dated Oct. 14 at Fairbanks",
       "next": "2026-10-22",
       "judge": "Schwalm, Kirk F",
       "last_docket": "2026-10-15"
@@ -1593,7 +1568,7 @@
       "case": "4FA-26-02094CR",
       "defendant": "Hollen, James Ritchie",
       "level": "Class A Misdemeanor",
-      "charges": "Class A Misdemeanor — drive with licence cancelled, revoked or suspended, previous conviction",
+      "charges": "Class A Misdemeanor — drive with license cancelled, revoked or suspended, previous conviction",
       "next": "2026-10-23",
       "judge": "",
       "last_docket": "2026-10-16"
@@ -1620,7 +1595,7 @@
       "case": "4FA-26-02097CR",
       "defendant": "Raymond Jr, John Edward",
       "level": "Class C Felony",
-      "charges": "Two counts, both Class C Felony, both offence location Fairbanks and both offence-dated Oct",
+      "charges": "Two counts, both Class C Felony, both offense location Fairbanks and both offense-dated Oct",
       "next": "2026-10-26",
       "judge": "Bennett, Brent E",
       "last_docket": "2026-10-19"
@@ -1647,7 +1622,7 @@
       "case": "4FA-26-02100CR",
       "defendant": "Smagge III, Edward Warner",
       "level": "",
-      "charges": "Charging Document Pending or Not Filed, no degree of offence, no offence location",
+      "charges": "Charging Document Pending or Not Filed, no degree of offense, no offense location",
       "next": "",
       "judge": "",
       "last_docket": null
@@ -1656,7 +1631,7 @@
       "case": "4FA-26-02101CR",
       "defendant": "Dietzold, Kaylin Breck",
       "level": "Class A Misdemeanor",
-      "charges": "Class A Misdemeanor — DUI, offence-dated Feb. 22",
+      "charges": "Class A Misdemeanor — DUI, offense-dated Feb. 22",
       "next": "",
       "judge": "",
       "last_docket": "2026-10-16"
@@ -1692,7 +1667,7 @@
       "case": "4FA-26-02105CR",
       "defendant": "Standifer, Darius Cyrill",
       "level": "Class A Misdemeanor",
-      "charges": "Three counts, all offence location Fairbanks and all offence-dated Oct. 16",
+      "charges": "Three counts, all offense location Fairbanks and all offense-dated Oct. 16",
       "next": "2026-10-23",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-20"
@@ -1710,7 +1685,7 @@
       "case": "4FA-26-02107CR",
       "defendant": "Bedingfield, Landon Zachary",
       "level": "Class A Misdemeanor",
-      "charges": "Two counts, both offence location North Pole, both offence-dated Oct. 17",
+      "charges": "Two counts, both offense location North Pole, both offense-dated Oct. 17",
       "next": "2026-10-23",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-20"
@@ -1728,7 +1703,7 @@
       "case": "4FA-26-02109CR",
       "defendant": "Hill, Roderick Antoino",
       "level": "Class C Felony",
-      "charges": "Two counts, both Class C Felony, both offence location Fairbanks and both offence-dated Oct",
+      "charges": "Two counts, both Class C Felony, both offense location Fairbanks and both offense-dated Oct",
       "next": "2026-10-28",
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-18"
@@ -1764,7 +1739,7 @@
       "case": "4FA-26-02113CR",
       "defendant": "Gutierrez, Moses Alejandro Luke",
       "level": "Class A Misdemeanor",
-      "charges": "Two counts, both Class A Misdemeanor, both offence location Fairbanks and both offence-dated",
+      "charges": "Two counts, both Class A Misdemeanor, both offense location Fairbanks and both offense-dated",
       "next": "2026-12-10",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-20"
@@ -1773,7 +1748,7 @@
       "case": "4FA-26-02114CR",
       "defendant": "Peterson, Nolan Iver",
       "level": "Class C Felony",
-      "charges": "Three counts, all offence location Fairbanks and all offence-dated Oct. 17",
+      "charges": "Three counts, all offense location Fairbanks and all offense-dated Oct. 17",
       "next": "2026-10-28",
       "judge": "Not Assigned (4FA01)",
       "last_docket": "2026-10-18"
@@ -1782,7 +1757,7 @@
       "case": "4FA-26-02115CR",
       "defendant": "Guzman, Christine Marie",
       "level": "Class A Misdemeanor",
-      "charges": "Two counts, both offence location Fairbanks, both offence-dated Oct",
+      "charges": "Two counts, both offense location Fairbanks, both offense-dated Oct",
       "next": "2026-11-24",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-20"
@@ -1791,7 +1766,7 @@
       "case": "4FA-26-02116CR",
       "defendant": "Kelly, Derek Storm",
       "level": "Class B Misdemeanor",
-      "charges": "Five counts, every one with an offence location of North Pole and every one offence-dated Oct",
+      "charges": "Five counts, every one with an offense location of North Pole and every one offense-dated Oct",
       "next": "2026-12-10",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-20"
@@ -1800,7 +1775,7 @@
       "case": "4FA-26-02117CR",
       "defendant": "Pitka, Julia Ann",
       "level": "Class B Felony",
-      "charges": "Six counts, all offence location Fairbanks and all offence-dated Oct. 17, none DV-flagged. AS",
+      "charges": "Six counts, all offense location Fairbanks and all offense-dated Oct. 17, none DV-flagged. AS",
       "next": "2026-10-28",
       "judge": "Schwalm, Kirk F",
       "last_docket": "2026-10-18"
@@ -1809,7 +1784,7 @@
       "case": "4FA-26-02118CR",
       "defendant": "Mayo",
       "level": "Class B Misdemeanor",
-      "charges": "One count of theft in the fourth degree, a Class B Misdemeanour, offence location Fairbanks",
+      "charges": "One count of theft in the fourth degree, a Class B Misdemeanor, offense location Fairbanks",
       "next": "",
       "judge": "",
       "last_docket": "2026-10-16"
@@ -1836,7 +1811,7 @@
       "case": "4FA-26-02121CR",
       "defendant": "Smagge III",
       "level": "Class A Misdemeanor",
-      "charges": "One count of assault in the fourth degree, a Class A Misdemeanour, offence location Fairbanks",
+      "charges": "One count of assault in the fourth degree, a Class A Misdemeanor, offense location Fairbanks",
       "next": "",
       "judge": "",
       "last_docket": "2026-10-16"
@@ -1845,7 +1820,7 @@
       "case": "4FA-26-02122CR",
       "defendant": "Walker",
       "level": "Class A Misdemeanor",
-      "charges": "Two counts of assault in the fourth degree, both Class A Misdemeanours",
+      "charges": "Two counts of assault in the fourth degree, both Class A Misdemeanors",
       "next": "",
       "judge": "",
       "last_docket": "2026-10-17"
@@ -1854,7 +1829,7 @@
       "case": "4FA-26-02123CR",
       "defendant": "Gould, Pearl",
       "level": "Class C Felony",
-      "charges": "One count of vehicle theft in the first degree, a Class C Felony, offence location Fairbanks",
+      "charges": "One count of vehicle theft in the first degree, a Class C Felony, offense location Fairbanks",
       "next": "2026-10-29",
       "judge": "",
       "last_docket": "2026-10-20"
@@ -1899,7 +1874,7 @@
       "case": "4NE-26-00092CR",
       "defendant": "Zappone, Krista Marie",
       "level": "Class A Misdemeanor",
-      "charges": "Two counts, both offence location Fairbanks and both offence-dated Sep. 9",
+      "charges": "Two counts, both offense location Fairbanks and both offense-dated Sep. 9",
       "next": "2026-11-13",
       "judge": "Huisingh, Raechyl D",
       "last_docket": "2026-10-20"
@@ -1908,7 +1883,7 @@
       "case": "4NE-26-00095CR",
       "defendant": "Hansen, Lillybeth Elyce",
       "level": "Class C Felony",
-      "charges": "Two counts, both offence location Denali National Park, both offence-dated Sep",
+      "charges": "Two counts, both offense location Denali National Park, both offense-dated Sep",
       "next": "2026-10-21",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-20"
@@ -1917,7 +1892,7 @@
       "case": "4NE-26-00096CR",
       "defendant": "Zappone, Krista Marie",
       "level": "Class B Felony",
-      "charges": "Six counts, all offence-dated Sep. 25: burglary 1 in a dwelling, a Class B Felony, indicted",
+      "charges": "Six counts, all offense-dated Sep. 25: burglary 1 in a dwelling, a Class B Felony, indicted",
       "next": "2026-11-13",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-20"
@@ -1971,7 +1946,7 @@
       "case": "4NE-26-00103CR",
       "defendant": "Ashley, Gregory S",
       "level": "Class C Felony",
-      "charges": "Six counts, all offence-dated Oct. 9 at Fairbanks: three counts of assault in the third",
+      "charges": "Six counts, all offense-dated Oct. 9 at Fairbanks: three counts of assault in the third",
       "next": "2026-10-28",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-20"
