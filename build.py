@@ -206,7 +206,7 @@ def render_entry(en, edition_date):
     srcs = en.get("sources", [])
     src_html = ""
     if srcs:
-        links = " · ".join(f'<a href="{e(s["url"])}" rel="noopener">{e(s["label"])}</a>' if s.get("url") else e(s["label"]) for s in srcs)
+        links = " · ".join(f'<a href="{e(s["url"])}" rel="noopener">{e(s.get("label") or s.get("name") or s["url"])}</a>' if s.get("url") else e(s.get("label") or s.get("name")) for s in srcs)
         src_html = f'<p class="src">Source: {links}</p>'
     return f"""<article class="entry" id="{e(en['id'])}" data-cat="{e(en.get('category', 'other'))}">
 <div class="gutter">{''.join(gutter)}</div>
@@ -223,8 +223,8 @@ def render_filings(f):
     if f.get("new"):
         fel_chip = '<span class="chip felony">Felony</span> '
         nrows = "".join(
-            f'<tr><td class="case">{e(n["case"])}</td><td>{e(n["defendant"])}</td><td>'
-            f'{fel_chip if n.get("felony") else ""}{e(n["charges"])}</td></tr>'
+            f'<tr><td class="case">{e(n.get("case"))}</td><td>{e(n.get("defendant"))}</td><td>'
+            f'{fel_chip if n.get("felony") else ""}{e(n.get("charges"))}</td></tr>'
             for n in f["new"])
         new = f'<div class="tw"><table><thead><tr><th>Case</th><th>Defendant</th><th>Charges as filed</th></tr></thead><tbody>{nrows}</tbody></table></div>'
     return f"""<section id="filings"><h2>Court filings <span class="count">{e(f.get('window', ''))} · {total} cases</span></h2>
@@ -235,14 +235,14 @@ def render_filings(f):
 def render_cases(cases, ref_date):
     cards = []
     for c in cases:
-        ds = days_since(c.get("last_docket", ""), ref_date)
+        ds = days_since(c.get("last_docket") or "", ref_date)
         last = f'{short_date(c["last_docket"])} ({ds} day{"s" if ds != 1 else ""} ago)' if ds is not None else e(c.get("last_docket") or "—")
-        lvl = c.get("level", "")
+        lvl = c.get("level") or ""
         chip_cls = "felony" if "felony" in lvl.lower() else ""
-        cards.append(f"""<article class="card" id="{e(c['case'])}"><span class="case">{e(c['case'])}</span>
-<span class="who">{e(c['defendant'])}</span>{f'<div class="chips"><span class="chip {chip_cls}">{e(lvl)}</span></div>' if lvl else ''}
-<p>{e(c.get('charges', ''))}</p>
-<dl class="kv"><dt>Next</dt><dd>{e(c.get('next', '—'))}</dd><dt>Judge</dt><dd>{e(c.get('judge', '—'))}</dd><dt>Last docket</dt><dd>{last}</dd></dl></article>""")
+        cards.append(f"""<article class="card" id="{e(c.get('case'))}"><span class="case">{e(c.get('case'))}</span>
+<span class="who">{e(c.get('defendant'))}</span>{f'<div class="chips"><span class="chip {chip_cls}">{e(lvl)}</span></div>' if lvl else ''}
+<p>{e(c.get('charges') or '')}</p>
+<dl class="kv"><dt>Next</dt><dd>{e(c.get('next') or '—')}</dd><dt>Judge</dt><dd>{e(c.get('judge') or '—')}</dd><dt>Last docket</dt><dd>{last}</dd></dl></article>""")
     return f'<div class="cases">{"".join(cards)}</div>'
 
 
@@ -252,7 +252,7 @@ def render_sources(srcs):
     rows = []
     for s in srcs:
         cls, label = SOURCE_CHIP.get(s.get("status", "read"), ("", s.get("status", "")))
-        rows.append(f'<tr><td><a href="{e(s["url"])}" rel="noopener">{e(s["name"])}</a></td>'
+        rows.append(f'<tr><td><a href="{e(s.get("url") or "#")}" rel="noopener">{e(s.get("name") or s.get("label"))}</a></td>'
                     f'<td><span class="chip {cls}">{label}</span></td><td>{e(s.get("note", ""))}</td></tr>')
     return f"""<section id="sources"><h2>Sources checked <span class="count">{len(srcs)} sources</span></h2>
 <div class="tw"><table><thead><tr><th>Source</th><th>Status</th><th>Note</th></tr></thead><tbody>{''.join(rows)}</tbody></table></div></section>"""
