@@ -1,33 +1,211 @@
 {
   "date": "2026-10-22",
-  "compiled": "03:50 AKDT",
-  "window": "Oct. 18–22, 2026",
-  "summary": "A Fairbanks woman was charged with a Class A felony drug offense, a grand jury indicted a man on four felonies over an incident at Anderson, and a court file was opened on the North Pole domestic violence assault arrest reported on Oct. 21. The court's weekly report lists 44 new criminal cases at Fairbanks for Oct. 15 to Oct. 21 and none for Monday, Oct. 19, when court offices were closed. A 2024 Nenana case charging sexual abuse of a minor is set for a hearing on Oct. 22. The U.S. Attorney's press index for the District of Alaska could not be read directly and the only route that answers has not been updated since Aug. 27, so no federal cases are included in this edition.",
+  "compiled": "17:18 AKDT",
+  "window": "Oct. 18-22, 2026",
+  "summary": "A Fairbanks woman was charged with five domestic violence counts, four of them assault when a child was present, and was arraigned the same day. Three people arrested by Fairbanks police on Oct. 21 - on charges of driving under the influence and, in two separate cases, second-degree criminal trespass - now have court files, and a man was charged with felony failure to stop for a police officer over an Oct. 14 incident. A Fairbanks man was arrested on a warrant in an existing fourth-degree assault case, and troopers reported seizing 25 grams of fentanyl in the investigation behind this week's Class A felony drug charge. The filing counts below are the court's own weekly report figures for Oct. 15 to Oct. 21; at least one Fairbanks case filed inside that window, 4FA-26-02137CR, does not appear in that report. The U.S. Attorney's press index for the District of Alaska could not be read, so no federal cases are included in this edition.",
   "commentary": null,
   "entries": [
     {
-      "id": "carroll-mics2-oct21",
+      "id": "holmberg-dv-assault-oct22",
+      "date": "2026-10-22",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02138CR"
+      ],
+      "title": "Domestic violence assault charges: Debrah Sarah Erma Holmberg",
+      "body": [
+        "Debrah Sarah Erma Holmberg was charged with fourth-degree assault, recklessly causing injury, and with four counts of assault when a child is present, each a Class A misdemeanor and each flagged in the court record as domestic violence. The offenses are recorded at Fairbanks on Oct. 22.",
+        "Case 4FA-26-02138CR. She was arraigned Oct. 22, a public defender was appointed, and a pre-trial conference is set for Dec. 10 with a trial week of Dec. 21."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "kardanoff-dui-oct21",
       "date": "2026-10-21",
+      "time": "15:40",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02134CR",
+        "26003225"
+      ],
+      "title": "DUI arrest: Linda Kay Kardanoff",
+      "body": [
+        "Linda Kay Kardanoff, 63, was arrested on a charge of driving under the influence with a blood alcohol level of .08 percent or more, recorded by police as a misdemeanor. 1400 block of South Cushman Street, Fairbanks, Oct. 21 at 3:40 p.m.; Fairbanks Police.",
+        "Case 4FA-26-02134CR; arraignment Oct. 27. The court file does not yet state a charge class."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin, Oct. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "schoenheit-trespass-oct21",
+      "date": "2026-10-21",
+      "time": "22:24",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02135CR",
+        "26003229"
+      ],
+      "title": "Criminal trespass arrest: Steven Matthew Schoenheit",
+      "body": [
+        "Steven Matthew Schoenheit, 68, was arrested on a charge of second-degree criminal trespass upon premises, a Class B misdemeanor. 500 block of Twelfth Avenue, Fairbanks, Oct. 21 at 10:24 p.m.; Fairbanks Police.",
+        "Case 4FA-26-02135CR; arraignment Oct. 27."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin, Oct. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "malone-trespass-oct21",
+      "date": "2026-10-21",
+      "time": "21:52",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02136CR",
+        "26003228"
+      ],
+      "title": "Criminal trespass arrest: Samuel Jasiel Benjamin Malone",
+      "body": [
+        "Samuel Jasiel Benjamin Malone, 30, was arrested on a charge of second-degree criminal trespass upon premises, recorded by police as a misdemeanor. 2300 block of South Cushman Street, Fairbanks, Oct. 21 at 9:52 p.m.; Fairbanks Police.",
+        "Case 4FA-26-02136CR; arraignment Oct. 27. The court file does not yet state a charge class."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin, Oct. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "richards-hlashweova-flee-oct14",
+      "date": "2026-10-14",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02139CR"
+      ],
+      "title": "Felony failure to stop charge: Juan Francisco Richards Hlashweova",
+      "body": [
+        "Juan Francisco Richards Hlashweova was charged with failure to stop at the direction of a peace officer in the course of reckless driving, a Class C felony, and with reckless driving. The offenses are recorded at Fairbanks on Oct. 14.",
+        "Case 4FA-26-02139CR, filed Oct. 22. No hearing date appears on the file."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "james-fire-device-oct07",
+      "date": "2026-10-07",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02137CR"
+      ],
+      "title": "Criminal mischief charge: Ryan Bud James",
+      "body": [
+        "Ryan Bud James was charged with fourth-degree criminal mischief, tampering with a fire protection device, a Class A misdemeanor. The offense is recorded at Fairbanks on Oct. 7.",
+        "Case 4FA-26-02137CR, filed Oct. 16. A summons was issued to the Alaska State Troopers at Fairbanks on Oct. 22."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "fbks-assault-oct21",
+      "date": "2026-10-21",
+      "time": "12:02",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "26003221"
+      ],
+      "title": "Assault reported on Twenty-Fifth Avenue",
+      "body": [
+        "Fairbanks police logged an assault at the 700 block of Twenty-Fifth Avenue on Oct. 21 at 12:02 p.m., reported at 12:47 p.m. Case 26003221. No arrest is recorded."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin, Oct. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "carroll-mics2-oct20",
+      "date": "2026-10-20",
       "place": "Fairbanks",
       "agency": "Alaska Court System",
       "category": "drug",
       "severity": "felony",
       "cases": [
-        "4FA-26-02128CR"
+        "4FA-26-02128CR",
+        "AK26103902"
       ],
       "title": "Felony drug charge: Rayann Marlisa Carroll",
       "body": [
-        "Rayann Marlisa Carroll was charged with second-degree misconduct involving a controlled substance, manufacture or delivery of a schedule IA substance, a Class A felony. The offense is recorded at Fairbanks on Oct. 20.",
+        "Rayann Marlisa Carroll, 35, of Fairbanks, was charged with second-degree misconduct involving a controlled substance, manufacture or delivery of a schedule IA substance, a Class A felony. The offense is recorded at Fairbanks on Oct. 20.",
+        "Troopers state that investigators identified a package shipped to a Fairbanks residence on Oct. 14, obtained a search warrant and found 25 grams of fentanyl, which they valued at about $25,000, and that she was contacted and arrested on Oct. 20 by the Fairbanks Areawide Narcotics Team and the Fairbanks Criminal Suppression Unit.",
         "Case 4FA-26-02128CR. She was arraigned Oct. 21 and a preliminary hearing is set for Oct. 29."
       ],
       "sources": [
         {
-          "label": "Alaska Court System, criminal cases filed, Oct. 15-21",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+          "label": "Alaska State Troopers daily dispatch, Oct. 21",
+          "url": "https://dailydispatch.dps.alaska.gov/"
         },
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System, criminal cases filed, Oct. 15-21",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         }
       ]
     },
@@ -56,6 +234,54 @@
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "smagge-warrant-oct21",
+      "date": "2026-10-21",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26104586",
+        "4FA-26-02121CR"
+      ],
+      "title": "Warrant arrest in assault case: Edward Smagge III",
+      "body": [
+        "Edward Smagge III, 51, of Fairbanks, was arrested on a warrant and taken to the Fairbanks Correctional Center. Fairbanks, Oct. 21; Alaska State Troopers, who described the warrant as being for fourth-degree domestic assault.",
+        "The warrant was issued on Oct. 21 in case 4FA-26-02121CR, filed Oct. 16, which charges one count of fourth-degree assault, recklessly causing injury, a Class A misdemeanor, recorded at Fairbanks on Oct. 3 and not flagged in the court record as domestic violence. The warrant is recorded as served the same day and an arrest bond was posted. Arraignment Oct. 27."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Oct. 21",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "curtis-vcor-oct21",
+      "date": "2026-10-21",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26104748"
+      ],
+      "title": "Violating conditions of release: Noel Curtis",
+      "body": [
+        "Noel Curtis, 34, of Fairbanks, was arrested on a charge recorded by troopers as violating conditions of release, after troopers responding to a reported disturbance found he had been drinking while barred from doing so. Fairbanks, Oct. 21; Alaska State Troopers. He was taken to the Fairbanks Correctional Center."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Oct. 21",
+          "url": "https://dailydispatch.dps.alaska.gov/"
         }
       ]
     },
@@ -94,7 +320,7 @@
       "title": "Sexual abuse of a minor case set for hearing: Joseph Trygve Forness",
       "body": [
         "Joseph Trygve Forness faces three charges at the Nenana court: first-degree sexual abuse of a minor, an unclassified felony; second-degree sexual abuse of a minor, a Class B felony; and distribution of indecent material to a minor, a Class C felony. The offenses are recorded at Nenana in May and June 2018.",
-        "Case 4NE-24-00034CR. An omnibus hearing is set for Oct. 22 and a trial week for Nov. 9."
+        "Case 4NE-24-00034CR. An omnibus hearing was set for Oct. 22 and a trial week for Nov. 9."
       ],
       "sources": [
         {
@@ -108,51 +334,30 @@
       ]
     },
     {
-      "id": "smagge-warrant-oct21",
-      "date": "2026-10-21",
-      "place": "Fairbanks",
-      "agency": "Alaska State Troopers",
-      "category": "violent",
-      "severity": "other",
+      "id": "hansen-felony-dui-oct22",
+      "date": "2026-10-22",
+      "place": "Denali National Park",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "felony",
       "cases": [
-        "AK26104586"
+        "4NE-26-00095CR"
       ],
-      "title": "Warrant arrest: Edward Smagge III",
+      "title": "Felony DUI case: Lillybeth Elyce Hansen",
       "body": [
-        "Edward Smagge III, 51, of Fairbanks, was arrested on an outstanding warrant for fourth-degree domestic assault. Fairbanks, Oct. 21; Alaska State Troopers. He was taken to the Fairbanks Correctional Center.",
-        "No court file has been opened under a new case number."
+        "Lillybeth Elyce Hansen is charged with felony driving under the influence with two or more prior convictions, a Class C felony on an indictment, and with driving with a revoked license, a Class A misdemeanor. Both offenses are recorded in Denali National Park on Sep. 24.",
+        "Case 4NE-26-00095CR, filed at the Nenana court. She was arraigned Oct. 21; a bail hearing was set for Oct. 22 and a trial week for Nov. 30."
       ],
       "sources": [
         {
-          "label": "Alaska State Troopers daily dispatch, Oct. 21",
-          "url": "https://dailydispatch.dps.alaska.gov/"
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
     {
-      "id": "curtis-vcor-oct21",
-      "date": "2026-10-21",
-      "place": "Fairbanks",
-      "agency": "Alaska State Troopers",
-      "category": "other",
-      "severity": "other",
-      "cases": [
-        "AK26104748"
-      ],
-      "title": "Violating conditions of release: Noel Curtis",
-      "body": [
-        "Noel Curtis, 34, of Fairbanks, was arrested on a charge recorded by troopers as violating conditions of release, after troopers responding to a reported disturbance found he had been drinking while barred from doing so. Fairbanks, Oct. 21; Alaska State Troopers. He was taken to the Fairbanks Correctional Center."
-      ],
-      "sources": [
-        {
-          "label": "Alaska State Troopers daily dispatch, Oct. 21",
-          "url": "https://dailydispatch.dps.alaska.gov/"
-        }
-      ]
-    },
-    {
-      "id": "ward-dv-order-oct20",
-      "date": "2026-10-20",
+      "id": "ward-dv-order-oct05",
+      "date": "2026-10-05",
       "place": "Fairbanks",
       "agency": "Alaska Court System",
       "category": "court",
@@ -173,30 +378,8 @@
       ]
     },
     {
-      "id": "hansen-felony-dui-oct22",
-      "date": "2026-10-22",
-      "place": "Denali National Park",
-      "agency": "Alaska Court System",
-      "category": "dui",
-      "severity": "felony",
-      "cases": [
-        "4NE-26-00095CR"
-      ],
-      "title": "Felony DUI case: Lillybeth Elyce Hansen",
-      "body": [
-        "Lillybeth Elyce Hansen is charged with felony driving under the influence with two or more prior convictions, a Class C felony on an indictment, and with driving with a revoked license, a Class A misdemeanor. Both offenses are recorded in Denali National Park on Sep. 24.",
-        "Case 4NE-26-00095CR, filed at the Nenana court. She was arraigned Oct. 21; a bail hearing is set for Oct. 22 and a trial week for Nov. 30."
-      ],
-      "sources": [
-        {
-          "label": "Alaska CourtView",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
-      "id": "johnston-conley-drug-oct20",
-      "date": "2026-10-20",
+      "id": "johnston-conley-drug-sep16",
+      "date": "2026-09-16",
       "place": "Fairbanks",
       "agency": "Alaska Court System",
       "category": "drug",
@@ -261,8 +444,8 @@
       ]
     },
     {
-      "id": "peter-horace-theft-oct21",
-      "date": "2026-10-21",
+      "id": "peter-horace-theft-dec24",
+      "date": "2025-12-24",
       "place": "Fairbanks",
       "agency": "Alaska Court System",
       "category": "property",
@@ -283,8 +466,8 @@
       ]
     },
     {
-      "id": "foreman-wanton-waste-oct21",
-      "date": "2026-10-21",
+      "id": "foreman-wanton-waste-sep19",
+      "date": "2026-09-19",
       "place": "Fairbanks",
       "agency": "Alaska Court System",
       "category": "other",
@@ -358,18 +541,23 @@
       "title": "Court reports 44 new criminal cases at Fairbanks for Oct. 15-21",
       "body": [
         "The Alaska Court System's weekly report of criminal cases filed lists 44 new cases at the Fairbanks court for Oct. 15 to Oct. 21 and two at Delta Junction, with none at Nenana or Healy. One of the Fairbanks cases carries a Class A felony drug charge.",
-        "The report lists no cases filed at Fairbanks on Monday, Oct. 19, when court offices were closed for the Alaska Day observance. It is the third consecutive weekly report whose window covers that day and lists nothing for it."
+        "The report lists no cases filed at Fairbanks on Monday, Oct. 19, when court offices were closed for the Alaska Day observance. It is the third consecutive weekly report whose window covers that day and lists nothing for it.",
+        "At least one Fairbanks case filed inside that window does not appear in the report: case 4FA-26-02137CR, filed Oct. 16."
       ],
       "sources": [
         {
           "label": "Alaska Court System, criminal cases filed, run Oct. 21",
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     }
   ],
   "filings": {
-    "window": "Oct. 15–21, 2026",
+    "window": "Oct. 15-21, 2026",
     "courts": [
       {
         "court": "Fairbanks (4FA)",
@@ -537,6 +725,24 @@
       "last_docket": "2026-10-20"
     },
     {
+      "case": "4FA-26-02117CR",
+      "defendant": "Pitka, Julia Ann",
+      "level": "Class B felony",
+      "charges": "Third-degree misconduct involving a controlled substance, two counts of second-degree theft of an access device, third-degree theft of mail, drug possession and violating conditions of release",
+      "next": "Preliminary hearing Oct. 28",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-10-18"
+    },
+    {
+      "case": "4FA-26-02125CR",
+      "defendant": "Ward, Marcus Anthony",
+      "level": "Class A misdemeanor",
+      "charges": "Violating a domestic violence protective order and two counts of violating conditions of release",
+      "next": "Pre-trial conference Dec. 24",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-21"
+    },
+    {
       "case": "4FA-26-02128CR",
       "defendant": "Carroll, Rayann Marlisa",
       "level": "Class A felony",
@@ -555,22 +761,76 @@
       "last_docket": "2026-10-21"
     },
     {
-      "case": "4FA-26-02125CR",
-      "defendant": "Ward, Marcus Anthony",
-      "level": "Class A misdemeanor",
-      "charges": "Violating a domestic violence protective order and two counts of violating conditions of release",
-      "next": "Pre-trial conference Dec. 24",
+      "case": "4FA-26-02100CR",
+      "defendant": "Smagge III, Edward Warner",
+      "level": "Not stated",
+      "charges": "No charging document on file",
+      "next": "None set",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-10-21"
+      "last_docket": null
     },
     {
-      "case": "4FA-26-02117CR",
-      "defendant": "Pitka, Julia Ann",
-      "level": "Class B felony",
-      "charges": "Third-degree misconduct involving a controlled substance, two counts of second-degree theft of an access device, third-degree theft of mail, drug possession and violating conditions of release",
-      "next": "Preliminary hearing Oct. 28",
-      "judge": "Schwalm, Kirk F",
-      "last_docket": "2026-10-18"
+      "case": "4FA-26-02121CR",
+      "defendant": "Smagge III, Edward Warner",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree assault, recklessly causing injury; offense recorded at Fairbanks. A warrant issued Oct. 21 was served the same day",
+      "next": "Arraignment Oct. 27",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02134CR",
+      "defendant": "Kardanoff, Linda",
+      "level": "Not stated",
+      "charges": "No charging document on file; arrest recorded by police as driving under the influence",
+      "next": "Arraignment Oct. 27",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02135CR",
+      "defendant": "Schoenheit, Steven Matthew",
+      "level": "Class B misdemeanor",
+      "charges": "Second-degree criminal trespass upon premises",
+      "next": "Arraignment Oct. 27",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02136CR",
+      "defendant": "Malone, Samuel Jasiel Benjamin",
+      "level": "Not stated",
+      "charges": "No charging document on file; arrest recorded by police as second-degree criminal trespass",
+      "next": "Arraignment Oct. 27",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02137CR",
+      "defendant": "James, Ryan Bud",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree criminal mischief, tampering with a fire protection device",
+      "next": "None set; summons issued Oct. 22",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02138CR",
+      "defendant": "Holmberg, Debrah Sarah Erma",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree assault and four counts of assault when a child is present; all five flagged as domestic violence",
+      "next": "Pre-trial conference Dec. 10; trial week Dec. 21",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02139CR",
+      "defendant": "Richards Hlashweova, Juan Francisco",
+      "level": "Class C felony",
+      "charges": "Failure to stop at the direction of a peace officer in the course of reckless driving, and reckless driving",
+      "next": "None set",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-22"
     },
     {
       "case": "4NE-26-00103CR",
