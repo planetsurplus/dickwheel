@@ -10,6 +10,8 @@
   --felony:#A02B23; --felony-bg:#F6E4E2;
   --caution:#8A5A00; --caution-bg:#F7EDDA;
   --ok:#2E6647; --ok-bg:#E1EDE6;
+  --stamp:#2F4A7A; --stamp-faint:#2F4A7A33;
+  --stamp-pm:#8A4B22; --stamp-pm-faint:#8A4B2233;
   --f-mark:"Spectral",Georgia,serif;
   --f-ui:"Public Sans","Helvetica Neue",Arial,sans-serif;
   --f-mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
@@ -23,6 +25,8 @@
   --felony:#E08A82; --felony-bg:#2C1A18;
   --caution:#D6A44F; --caution-bg:#2B2213;
   --ok:#7FC2A0; --ok-bg:#15271F;
+  --stamp:#8FB0E6; --stamp-faint:#8FB0E64D;
+  --stamp-pm:#D9A273; --stamp-pm-faint:#D9A2734D;
 }}
 :root[data-theme="dark"]{
   color-scheme:dark;
@@ -33,6 +37,8 @@
   --felony:#E08A82; --felony-bg:#2C1A18;
   --caution:#D6A44F; --caution-bg:#2B2213;
   --ok:#7FC2A0; --ok-bg:#15271F;
+  --stamp:#8FB0E6; --stamp-faint:#8FB0E64D;
+  --stamp-pm:#D9A273; --stamp-pm-faint:#D9A2734D;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -62,6 +68,20 @@ main{min-width:0}
 h1.page{font-family:var(--f-ui);font-weight:800;font-size:clamp(24px,3.6vw,32px);line-height:1.2;margin:0 0 12px;letter-spacing:-.01em}
 .lede{font-size:17px;color:var(--ink-soft);margin:0 0 8px;max-width:68ch}
 .presumption{font-size:13px;color:var(--muted);margin:0 0 20px}
+
+/* faux rubber stamp - morning / evening edition */
+.ed-stamp{margin:0 0 8px;text-align:right;line-height:1}
+.ed-stamp span{display:inline-block;transform:rotate(-3.5deg);
+  font-family:var(--f-mono);font-size:13px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--stamp);border:2.5px solid var(--stamp);border-radius:3px;padding:7px 14px 6px;
+  box-shadow:inset 0 0 0 1.5px var(--paper),inset 0 0 0 3.5px var(--stamp-faint);
+  opacity:.84;mix-blend-mode:multiply}
+.ed-stamp[data-phase="evening"] span{color:var(--stamp-pm);border-color:var(--stamp-pm);
+  box-shadow:inset 0 0 0 1.5px var(--paper),inset 0 0 0 3.5px var(--stamp-pm-faint);
+  transform:rotate(2.5deg)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .ed-stamp span{mix-blend-mode:screen;opacity:.92}}
+:root[data-theme="dark"] .ed-stamp span{mix-blend-mode:screen;opacity:.92}
+@media (max-width:600px){.ed-stamp span{font-size:11.5px;letter-spacing:.14em;padding:6px 11px 5px}}
 .daynav{display:flex;justify-content:space-between;gap:12px;font-family:var(--f-mono);font-size:12px;margin:18px 0 0;padding:12px 0;border-top:1px solid var(--rule)}
 
 h2{font-weight:800;font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin:40px 0 0;padding-bottom:9px;

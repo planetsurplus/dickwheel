@@ -333,6 +333,29 @@ def nice_compiled(v):
     return f"{h % 12 or 12}:{mi} {'a.m.' if h < 12 else 'p.m.'} AKDT"
 
 
+def edition_phase(ed):
+    """'Morning Edition' when the edition was compiled before noon AKDT, else
+    'Evening Edition'. Reads the edition's own 'compiled' stamp, which the passes
+    write in several shapes: '2026-10-19T04:03:12-08:00', '04:00 AKDT',
+    '17:18 AKDT', '4:04 p.m. AKDT'. Falls back to Morning when it cannot be read,
+    since the daily pass runs before four in the morning."""
+    v = (ed.get("compiled") or "").strip()
+    m = re.search(r"(?:T|^|\s)(\d{1,2}):(\d{2})", v)
+    if not m:
+        return "Morning Edition"
+    h = int(m.group(1)) % 24
+    ampm = re.search(r"\b([ap])\.?\s?m\.?", v, re.I)
+    if ampm:
+        h = h % 12 + (12 if ampm.group(1).lower() == "p" else 0)
+    return "Morning Edition" if h < 12 else "Evening Edition"
+
+
+def render_stamp(ed):
+    phase = edition_phase(ed)
+    slug = "evening" if phase.startswith("Evening") else "morning"
+    return f'<p class="ed-stamp" data-phase="{slug}"><span>{phase}</span></p>'
+
+
 def edition_body(ed, editions, is_home=False):
     idx = [x["date"] for x in editions].index(ed["date"])
     newer = editions[idx - 1]["date"] if idx > 0 else None
@@ -348,6 +371,7 @@ def edition_body(ed, editions, is_home=False):
     daynav = f"""<div class="daynav"><span>{f'<a href="{BASE}{ed_url(older)}">← {short_date(older)}</a>' if older else ''}</span>
 <span>{f'<a href="{BASE}{ed_url(newer)}">{short_date(newer)} →</a>' if newer else ''}</span></div>"""
     main = f"""<main data-edition="{ed['date']}"{' data-home="1"' if is_home else ''}>
+{render_stamp(ed)}
 <p class="dateline"><b>{long_date(ed['date'])}</b><span>Compiled {e(nice_compiled(ed.get('compiled', '')))}</span><span>Covers {e(ed.get('window', ''))}</span></p>
 <h1 class="page">{'Today in Interior Alaska' if is_home else 'Edition of ' + long_date(ed['date'])}</h1>
 {render_highlights(ed)}
