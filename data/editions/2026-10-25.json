@@ -1,0 +1,422 @@
+{
+  "date": "2026-10-25",
+  "compiled": "03:41 AKDT",
+  "window": "Oct. 23–25, 2026",
+  "summary": "Alaska State Troopers say two shipping containers were broken into at a Fairbanks property on Oct. 24 and that a snow machine, a pickup truck and a camper were stolen, with about $50,000 of property recovered the same day after a search warrant. Three arrests were added to the Fairbanks police log for Oct. 24: an assault arrest on Peger Road, a theft arrest on Merhar Avenue and a driving arrest at Market Street. A man arrested after a reported disturbance in Tanana was charged at the Nenana court with two Class B felonies. The Alaska Court System's weekly charges report, covering Oct. 18 to Oct. 24, lists 42 new criminal cases at the Fairbanks courthouse, one at Nenana and none at Healy or Delta Junction; those are the report's own counts for its own window. Two court cases opened on Oct. 24 behind a traffic stop near Healy are minor offense cases, which that report does not cover.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "fairbanks-burglary-vehicle-theft-1024",
+      "date": "2026-10-24",
+      "time": "14:49",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26105510"
+      ],
+      "title": "Burglary and vehicle thefts at a Fairbanks property",
+      "body": [
+        "Alaska State Troopers say they responded to a Fairbanks residence at 2:49 p.m. on Oct. 24 for a reported burglary and vehicle thefts, that two shipping containers were broken into and numerous items taken, and that a snow machine, a pickup truck and a camper were also stolen from the property. Troopers put the estimated value of the stolen items at $50,000.",
+        "Troopers say the stolen camper was located at another residence in Fairbanks, that a search warrant was executed, and that the snow machine, the pickup truck, the camper and the majority of the items taken from the containers were recovered. No arrest is announced in the trooper release and nobody is named in it. Trooper case AK26105510; the investigation is recorded as ongoing."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 24",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "harpe-healy-traffic-1024",
+      "date": "2026-10-24",
+      "time": "17:06",
+      "place": "Healy",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "4NE-26-01618MO",
+        "4NE-26-01619MO",
+        "AK26105531"
+      ],
+      "title": "Driving while license suspended: Quinton Harpe",
+      "body": [
+        "Quinton Harpe, 34, of Wasilla was issued summonses for driving while his license was suspended and for driving without insurance, troopers say. Driving while license suspended covers operating a vehicle after the state has withdrawn the driver's license.",
+        "Troopers say they stopped him near Healy at 5:06 p.m. on Oct. 24 for a moving violation, and that he was instructed to find a licensed driver to assist him and parked his vehicle. No arrest was made.",
+        "Two minor offense cases were opened at the Nenana court the same day: 4NE-26-01618MO and 4NE-26-01619MO. Trooper case AK26105531."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 24",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "joseph-tanana-assault-1024",
+      "date": "2026-10-24",
+      "place": "Tanana",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4NE-26-00104CR",
+        "AK26105369"
+      ],
+      "title": "Assault and burglary charges: Aaron Sam Joseph",
+      "body": [
+        "Aaron Sam Joseph, 52, is charged with second-degree assault — causing injury with a weapon, with intent — a Class B felony, punishable by up to 10 years; first-degree burglary in a dwelling, entering a home unlawfully to commit a crime, also a Class B felony punishable by up to 10 years; third-degree assault committed with two or more prior convictions, a Class C felony punishable by up to five years, recorded as domestic violence; and fourth-degree criminal mischief, property damage of $250 to $749, a Class A misdemeanor.",
+        "Troopers say they received a report of a disturbance in Tanana at about 9:13 a.m. on Oct. 23 and arrested him. Tanana is about 130 miles west of Fairbanks. The case was filed at the Nenana court on Oct. 24 and he was arraigned the same day at the Fairbanks courthouse.",
+        "Case 4NE-26-00104CR; preliminary hearings Nov. 3 and Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly charges report",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "AST daily dispatch, Oct. 23",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "mekiana-assault-arrest-1024",
+      "date": "2026-10-24",
+      "time": "06:05",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02155CR",
+        "26003256"
+      ],
+      "title": "Assault arrest: Judy Elizabeth Mekiana",
+      "body": [
+        "Judy Elizabeth Mekiana, 31, was arrested on charges of fourth-degree assault, recklessly causing injury, and fifth-degree criminal mischief, damage under $250, both recorded by police as misdemeanors.",
+        "1600 block of Peger Road, Fairbanks, Oct. 24 at 6:05 a.m.; Fairbanks Police. Case 4FA-26-02155CR; police case 26003256."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "frasure-theft-arrest-1024",
+      "date": "2026-10-24",
+      "time": "19:15",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003264"
+      ],
+      "title": "Theft arrest: William Howard Frasure",
+      "body": [
+        "William Howard Frasure, 36, was arrested on charges of fourth-degree theft, value under $250, and violating a condition of release, both recorded by police as misdemeanors. Fourth-degree theft covers taking property worth less than $250.",
+        "400 block of Merhar Avenue, Fairbanks, Oct. 24 at 7:15 p.m.; Fairbanks Police. Police case 26003264."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "druck-permit-arrest-1024",
+      "date": "2026-10-24",
+      "time": "00:18",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003254"
+      ],
+      "title": "Driving arrest: Brooklyn Agnes Jo Druck",
+      "body": [
+        "Brooklyn Agnes Jo Druck, 18, was arrested on a charge of driving in violation of an instruction permit, recorded by police as a misdemeanor. The charge covers driving outside the conditions a learner's permit allows.",
+        "1400 block of Market Street at Airport Way, Fairbanks, Oct. 24 at 12:18 a.m.; Fairbanks Police. Police case 26003254."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "fulton-fugitive-hearing-1024",
+      "date": "2026-10-24",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02145CR",
+        "AK26105097"
+      ],
+      "title": "Fugitive from justice case set for hearing: Makalyn Jade Fulton",
+      "body": [
+        "Makalyn Jade Fulton, 27, of Texas is charged as a fugitive from justice, a charge used when a person is arrested in Alaska on another state's warrant before extradition papers arrive. The court record carries no degree of offense for it.",
+        "Troopers say they executed an extraditable warrant in Fairbanks at about 5:24 p.m. on Oct. 22 and took her into custody without incident, and that she was transported to the Fairbanks Correctional Center to await extradition.",
+        "She was arraigned on Oct. 24 after an Oct. 23 arraignment was continued, and the court entered a temporary order the same day. Case 4FA-26-02145CR; fugitive from justice hearing Nov. 20."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "AST daily dispatch, Oct. 22",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Oct. 18–24, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 42
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 1
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4NE-26-00104CR",
+        "defendant": "Joseph, Aaron Sam",
+        "charges": "Second-degree assault and first-degree burglary, both Class B felonies; third-degree assault, Class C felony, domestic violence; fourth-degree criminal mischief, Class A misdemeanor. Offense location Tanana.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02155CR",
+        "defendant": "Mekiana, Judy Elizabeth",
+        "charges": "Filed Oct. 24 at Fairbanks; the police record lists fourth-degree assault and fifth-degree criminal mischief as misdemeanors.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02154CR",
+        "defendant": "Ballargeon, Francis Valma",
+        "charges": "Fourth-degree assault, Class A misdemeanor, and fifth-degree criminal mischief, Class B misdemeanor, both recorded as domestic violence. Offense location North Pole.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02153CR",
+        "defendant": "Wallace, Madisyn Jane",
+        "charges": "Fourth-degree assault, Class A misdemeanor. Offense location Fairbanks.",
+        "felony": false
+      }
+    ]
+  },
+  "open_cases": [
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "Unclassified felony",
+      "charges": "Convicted of murder in the death of her five-year-old son",
+      "next": "Status hearing Nov. 6; sentencing Jan. 29, 2027",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-09-30"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "level": "Unclassified felony",
+      "charges": "First-degree murder charge dismissed after the defendant was found incompetent to stand trial; case closed",
+      "next": "None",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "Felony",
+      "charges": "Case disposed on a change of plea; scheduled omnibus and trial week both vacated",
+      "next": "None",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "Class B felony",
+      "charges": "Two Class B felony counts, count one indicted",
+      "next": "Nov. 3",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-10-13"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "Felony",
+      "charges": "Controlled substance counts from a drug-enforcement sweep",
+      "next": "Nov. 17",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-10-21"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping",
+      "next": "Nov. 17",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "Fugitive from justice",
+      "charges": "Arrest before requisition",
+      "next": "Nov. 17",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony",
+      "charges": "Tampering",
+      "next": "Nov. 5",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-02078CR",
+      "defendant": "Schwietert, Daniel Zachary",
+      "level": "Class A felony",
+      "charges": "First-degree robbery, taking property by force while armed with a deadly weapon",
+      "next": "Oct. 28",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02067CR",
+      "defendant": "James, Ryan Bud",
+      "level": "Class C felony",
+      "charges": "First-degree vehicle theft, third-degree criminal mischief and third-degree assault, each a Class C felony, after a Class B felony burglary count was dismissed on Oct. 23",
+      "next": "Superior Court arraignment Oct. 28; trial week Nov. 23",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-23"
+    },
+    {
+      "case": "4FA-26-02128CR",
+      "defendant": "Carroll, Rayann Marlisa",
+      "level": "Class A felony",
+      "charges": "Second-degree misconduct involving a controlled substance, manufacture or delivery",
+      "next": "Preliminary hearings Oct. 29 and Nov. 10",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02148CR",
+      "defendant": "Drayton, Paidan Brentley",
+      "level": "Class B felony",
+      "charges": "First-degree burglary in a dwelling, recorded as domestic violence, with first-degree criminal trespass and violating conditions of release",
+      "next": "Nov. 2",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-23"
+    },
+    {
+      "case": "4FA-26-02117CR",
+      "defendant": "Pitka, Julia Ann",
+      "level": "Class B felony",
+      "charges": "Third-degree misconduct involving a controlled substance, manufacture or delivery, with theft and other counts",
+      "next": "Nov. 5",
+      "judge": "Schwalm",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4NE-26-00104CR",
+      "defendant": "Joseph, Aaron Sam",
+      "level": "Class B felony",
+      "charges": "Second-degree assault and first-degree burglary, both Class B felonies; third-degree assault, Class C felony, recorded as domestic violence; fourth-degree criminal mischief",
+      "next": "Preliminary hearings Nov. 3 and Nov. 12",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-24"
+    },
+    {
+      "case": "4FA-26-02145CR",
+      "defendant": "Fulton, Makalyn Jade",
+      "level": "Fugitive from justice",
+      "charges": "Arrest before requisition",
+      "next": "Fugitive from justice hearing Nov. 20",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-24"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov"
+    },
+    {
+      "name": "Fairbanks Police Department daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska Court System — criminal cases filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System — criminal cases disposed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    },
+    {
+      "name": "Your Alaska Link",
+      "url": "https://www.youralaskalink.com/news/"
+    }
+  ]
+}
