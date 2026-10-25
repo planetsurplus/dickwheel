@@ -1,10 +1,76 @@
 {
   "date": "2026-10-24",
-  "compiled": "03:57 AKDT",
-  "window": "Oct. 17–24, 2026",
-  "summary": "Prosecutors dismissed a Class B felony burglary charge against a Fairbanks man on Oct. 23, two days after a grand jury returned a lesser vehicle theft count in its place. Grand juries indicted four other Fairbanks-area defendants on Oct. 22 and Oct. 23, all on Class C felonies. The Alaska Court System's weekly charges report, covering Oct. 17 to Oct. 23, lists 42 new criminal cases at the Fairbanks courthouse and none at Nenana, Healy or Delta Junction; three cases filed Oct. 16 fall outside that window and are not in its counts.",
+  "compiled": "19:02 AKDT",
+  "window": "Oct. 17-24, 2026",
+  "summary": "Alaska State Troopers arrested a person at North Pole on Oct. 24 on domestic violence charges of fourth-degree assault and fifth-degree criminal mischief and a charge of resisting arrest. Six new criminal cases were entered at the Fairbanks courthouse during the day, two of them carrying charges and both arraigned the same day: Francis Valma Ballargeon on two domestic violence counts recorded at North Pole, and Madisyn Jane Wallace on a fourth-degree assault count recorded at Fairbanks. Earlier in the week prosecutors dismissed a Class B felony burglary charge against a Fairbanks man, two days after a grand jury returned a lesser vehicle theft count in its place, and grand juries indicted four other Fairbanks-area defendants on Class C felonies. The Alaska Court System's weekly charges report, covering Oct. 17 to Oct. 23, lists 42 new criminal cases at the Fairbanks courthouse and none at Nenana, Healy or Delta Junction; the counts below are that report's own counts for its own window, and three cases filed Oct. 16 fall outside it.",
   "commentary": null,
   "entries": [
+    {
+      "id": "north-pole-assault-1024",
+      "date": "2026-10-24",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26105462"
+      ],
+      "title": "Assault arrest at North Pole",
+      "body": [
+        "Alaska State Troopers arrested a person at North Pole on Oct. 24 on one charge of fourth-degree assault and one charge of fifth-degree criminal mischief, both recorded as domestic violence, and one charge of resisting arrest. Fourth-degree assault covers causing or threatening injury to another person.",
+        "Troopers say they responded to an open 911 call in the area of Harley Trail and that an investigation showed an assault had taken place. The person arrested was remanded to the Fairbanks Correctional Facility. Trooper case AK26105462; the case is recorded as ongoing."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 24",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "ballargeon-north-pole-dv",
+      "date": "2026-10-24",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02154CR"
+      ],
+      "title": "Domestic violence assault charge: Francis Valma Ballargeon",
+      "body": [
+        "Francis Valma Ballargeon was charged with fourth-degree assault, recklessly causing injury, a Class A misdemeanor, and fifth-degree criminal mischief, damage under $250, a Class B misdemeanor. Both counts are recorded as domestic violence. North Pole, Oct. 24; the case was filed at the Fairbanks courthouse.",
+        "He was arraigned the same day and released on conditions. Case 4FA-26-02154CR; pre-trial conference Nov. 19, trial week Nov. 30."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "wallace-assault-charge",
+      "date": "2026-10-24",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02153CR"
+      ],
+      "title": "Assault charge: Madisyn Jane Wallace",
+      "body": [
+        "Madisyn Jane Wallace was charged with fourth-degree assault, recklessly causing injury, a Class A misdemeanor. Fairbanks, Oct. 15; the case was filed Oct. 22.",
+        "She was arraigned on Oct. 24. Case 4FA-26-02153CR; pre-trial conference Dec. 24, trial week Jan. 4, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "james-burglary-count-dismissed",
       "date": "2026-10-23",
@@ -17,8 +83,8 @@
       ],
       "title": "Burglary charge dismissed: Ryan Bud James",
       "body": [
-        "Prosecutors dismissed a first-degree burglary charge against Ryan Bud James on Oct. 23. The charge, a Class B felony flagged as domestic violence, came from an Oct. 10 incident in Fairbanks; a grand jury had returned a Class C felony vehicle theft count against the same charge two days earlier.",
-        "Four counts remain, among them first-degree vehicle theft, third-degree criminal mischief and third-degree assault. Case 4FA-26-02067CR; arraignment in Superior Court Oct. 28, trial week Nov. 23."
+        "Prosecutors dismissed a first-degree burglary charge against Ryan Bud James on Oct. 23. The charge, entering or remaining unlawfully in a dwelling to commit a crime, was a Class B felony and was flagged as domestic violence. A grand jury had returned a lesser count, first-degree vehicle theft, against the same charge two days earlier.",
+        "Four counts remain, among them first-degree vehicle theft, third-degree criminal mischief and third-degree assault, each a Class C felony. The offenses are recorded at Fairbanks on Oct. 10. Case 4FA-26-02067CR; arraignment in Superior Court Oct. 28, trial week Nov. 23."
       ],
       "sources": [
         {
@@ -42,7 +108,7 @@
       "title": "DUI arrest: Darin Ryan Cleveland",
       "body": [
         "Darin Ryan Cleveland, 40, was arrested on charges of driving under the influence and refusing to submit to a chemical test, recorded by police as misdemeanors. 1700 block of West Cowles Street, Fairbanks, Oct. 23 at 4:33 a.m.; Fairbanks Police.",
-        "Case 4FA-26-02143CR; arraignment Oct. 30."
+        "Refusing to submit to a chemical test covers declining a breath or blood test after a lawful arrest. Case 4FA-26-02143CR; arraignment Oct. 30."
       ],
       "sources": [
         {
@@ -67,13 +133,17 @@
       ],
       "title": "Indicted: Jeremy Frank Edwards",
       "body": [
-        "A grand jury indicted Jeremy Frank Edwards on Oct. 22. The file charges failing to stop at the direction of a peace officer while driving recklessly, a Class C felony, and driving under the influence, from an Oct. 14 incident in Fairbanks.",
+        "A grand jury indicted Jeremy Frank Edwards on Oct. 22. He is charged with failing to stop at the direction of a peace officer while driving recklessly, a Class C felony punishable by up to five years, and with driving under the influence. The offenses are recorded at Fairbanks on Oct. 14.",
         "Case 4FA-26-02088CR; arraignment in Superior Court Oct. 28."
       ],
       "sources": [
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System weekly charges report",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         }
       ]
     },
@@ -89,8 +159,8 @@
       ],
       "title": "Indicted: Maya Denise Hernandez-Mullen",
       "body": [
-        "A grand jury indicted Maya Denise Hernandez-Mullen on Oct. 22 on one count of second-degree theft, value $750 to $24,999, a Class C felony, from an Oct. 15 incident in Fairbanks.",
-        "Case 4FA-26-02096CR; arraignment in Superior Court Oct. 28."
+        "A grand jury indicted Maya Denise Hernandez-Mullen on Oct. 22 on one count of second-degree theft, taking property worth $750 to $24,999, a Class C felony punishable by up to five years. The offense is recorded at Fairbanks on Oct. 15.",
+        "Case 4FA-26-02096CR; arraignment in Superior Court Oct. 28. A second case against her, 4FA-26-02144CR, was entered Oct. 22 on offenses dated Sep. 19."
       ],
       "sources": [
         {
@@ -111,7 +181,7 @@
       ],
       "title": "Indicted: John Edward Raymond Jr.",
       "body": [
-        "A grand jury indicted John Edward Raymond Jr. on Oct. 22 on two Class C felony counts, the first third-degree assault with two or more prior convictions, from an Oct. 16 incident in Fairbanks.",
+        "A grand jury indicted John Edward Raymond Jr. on Oct. 22 on two Class C felony counts, each punishable by up to five years. The first is third-degree assault, which here covers a fourth-degree assault committed after two or more prior convictions. The offenses are recorded at Fairbanks on Oct. 16.",
         "Case 4FA-26-02097CR; arraignment in Superior Court Oct. 28."
       ],
       "sources": [
@@ -133,7 +203,7 @@
       ],
       "title": "Indicted: Dominique Dashea Frey",
       "body": [
-        "An indictment against Dominique Dashea Frey was filed in Superior Court on Oct. 23, on one count of third-degree criminal mischief, damage of $750 or more, a Class C felony flagged as domestic violence. The offense is recorded at North Pole on Oct. 14.",
+        "An indictment against Dominique Dashea Frey was filed in Superior Court on Oct. 23, on one count of third-degree criminal mischief, damaging another person's property by $750 or more, a Class C felony punishable by up to five years. The offense is recorded at North Pole on Oct. 14 and is flagged as domestic violence.",
         "Case 4FA-26-02098CR; arraignment Oct. 26."
       ],
       "sources": [
@@ -190,7 +260,7 @@
     }
   ],
   "filings": {
-    "window": "Oct. 17–23, 2026",
+    "window": "Oct. 17-23, 2026",
     "courts": [
       {
         "court": "Fairbanks (4FA)",
@@ -283,7 +353,7 @@
       "case": "4FA-26-02128CR",
       "defendant": "Carroll, Rayann Marlisa",
       "level": "Class A felony",
-      "charges": "One count of misconduct involving a controlled substance in the second degree — manufacture or delivery of a schedule IA substance...",
+      "charges": "One count of misconduct involving a controlled substance in the second degree - manufacture or...",
       "next": "2026-10-29",
       "judge": "Bennett, Brent E",
       "last_docket": "2026-10-22"
@@ -292,7 +362,7 @@
       "case": "4FA-26-02129CR",
       "defendant": "Reynolds, Christopher Lee",
       "level": "Class A misdemeanor",
-      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree — recklessly injure, a Class A Misdemeanor.",
+      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree - recklessly injure, a Class A...",
       "next": "2026-12-24",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-22"
@@ -301,8 +371,8 @@
       "case": "4NE-24-00034CR",
       "defendant": "Forness, Joseph Trygve",
       "level": "Unclassified felony",
-      "charges": "Three counts, all offense location Nenana, all recorded DV Related: Yes. Sexual abuse of a minor in the first degree, AS 11.41.",
-      "next": "2026-11-04",
+      "charges": "Three counts, all offense location Nenana, all recorded DV Related: Yes. Sexual abuse of a...",
+      "next": null,
       "judge": "Schwalm, Kirk F",
       "last_docket": "2026-09-09"
     },
@@ -310,8 +380,8 @@
       "case": "4FA-26-02125CR",
       "defendant": "Ward, Marcus Anthony",
       "level": "Class A misdemeanor",
-      "charges": "Three counts, all offense location Fairbanks, all offense-dated Oct. 5. Violating a domestic violence protective order, AS 11.56.",
-      "next": "2026-10-26",
+      "charges": "Three counts, all offense location Fairbanks, all offense-dated Oct. 5. Violating a domestic...",
+      "next": "2026-12-24",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-23"
     },
@@ -319,8 +389,8 @@
       "case": "4NE-26-00095CR",
       "defendant": "Hansen, Lillybeth Elyce",
       "level": "Class C felony, indicted",
-      "charges": "Two counts, both offense location Denali National Park, both offense-dated Sep. 24, neither DV-flagged. AS 28.35.",
-      "next": "2026-10-30",
+      "charges": "Two counts, both offense location Denali National Park, both offense-dated Sep. 24, neither...",
+      "next": null,
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-22"
     },
@@ -328,7 +398,7 @@
       "case": "4NE-26-00086CR",
       "defendant": "Zappone, Krista Marie",
       "level": "Class A misdemeanor",
-      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree — recklessly injure, a Class A Misdemeanor.",
+      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree - recklessly injure, a Class A...",
       "next": "2026-11-13",
       "judge": "Huisingh, Raechyl D",
       "last_docket": "2026-10-20"
@@ -337,7 +407,7 @@
       "case": "4NE-26-00092CR",
       "defendant": "Zappone, Krista Marie",
       "level": "Class A misdemeanor",
-      "charges": "Two counts, both offense location Fairbanks and both offense-dated Sep. 9. AS 11.56.",
+      "charges": "Two counts, both offense location Fairbanks and both offense-dated Sep. 9. AS...",
       "next": "2026-11-13",
       "judge": "Huisingh, Raechyl D",
       "last_docket": "2026-10-20"
@@ -346,8 +416,8 @@
       "case": "4FA-26-02123CR",
       "defendant": "Gould, Pearl",
       "level": "Class C felony",
-      "charges": "One count of vehicle theft in the first degree, a Class C Felony, offense location Fairbanks, offense-dated Oct.",
-      "next": "2026-10-29",
+      "charges": "One count of vehicle theft in the first degree, a Class C Felony, offense location Fairbanks...",
+      "next": null,
       "judge": null,
       "last_docket": "2026-10-22"
     },
@@ -355,7 +425,7 @@
       "case": "4FA-26-02119CR",
       "defendant": "Custer, Harding Andy",
       "level": "No charging document",
-      "charges": "One count recorded as charging document pending or not filed; no degree of offense, so no charge class. Fairbanks, offense-dated Oct. 20.",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offense stated and...",
       "next": "2026-10-27",
       "judge": null,
       "last_docket": "2026-10-20"
@@ -363,8 +433,8 @@
     {
       "case": "4FA-26-02122CR",
       "defendant": "Walker",
-      "level": "Class A misdemeanor ×2",
-      "charges": "Two counts of assault in the fourth degree, both Class A Misdemeanors, both offense location North Pole, both offense-dated Aug.",
+      "level": "Class A misdemeanor x2",
+      "charges": "Two counts of assault in the fourth degree, both Class A Misdemeanors, both offense location...",
       "next": null,
       "judge": null,
       "last_docket": "2026-10-22"
@@ -373,8 +443,8 @@
       "case": "4FA-26-02121CR",
       "defendant": "Smagge III",
       "level": "Class A misdemeanor",
-      "charges": "One count of assault in the fourth degree, a Class A Misdemeanor, offense location Fairbanks, offense-dated Oct. 3. File date Oct.",
-      "next": "2026-10-27",
+      "charges": "One count of assault in the fourth degree, a Class A Misdemeanor, offense location Fairbanks...",
+      "next": null,
       "judge": null,
       "last_docket": "2026-10-22"
     },
@@ -382,7 +452,7 @@
       "case": "4FA-26-02118CR",
       "defendant": "Mayo",
       "level": "Class B misdemeanor",
-      "charges": "One count of theft in the fourth degree, a Class B Misdemeanor, offense location Fairbanks, offense-dated Oct. 6. File date Oct.",
+      "charges": "One count of theft in the fourth degree, a Class B Misdemeanor, offense location Fairbanks...",
       "next": null,
       "judge": null,
       "last_docket": "2026-10-22"
@@ -391,7 +461,7 @@
       "case": "4FA-26-02120CR",
       "defendant": "Newhard",
       "level": "No charging document",
-      "charges": "One count recorded Charging Document Pending or Not Filed, no charge class stated.",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no charge class stated. The...",
       "next": null,
       "judge": null,
       "last_docket": "2026-10-22"
@@ -400,7 +470,7 @@
       "case": "4FA-26-02124CR",
       "defendant": "Keogh",
       "level": "No charging document",
-      "charges": "One count recorded Charging Document Pending or Not Filed, no charge class stated, offense-dated Oct. 20. File date Oct.",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no charge class stated...",
       "next": null,
       "judge": null,
       "last_docket": null
@@ -408,9 +478,9 @@
     {
       "case": "4FA-26-02109CR",
       "defendant": "Hill, Roderick Antoino",
-      "level": "Class C felony ×2",
-      "charges": "Two counts, both Class C Felony, both offense location Fairbanks and both offense-dated Oct. 17, neither DV-flagged. AS 28.35.",
-      "next": "2026-10-28",
+      "level": "Class C felony x2",
+      "charges": "Two counts, both Class C Felony, both offense location Fairbanks and both offense-dated Oct....",
+      "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-21"
     },
@@ -418,8 +488,8 @@
       "case": "4FA-26-02110CR",
       "defendant": "Phillippe, Timothy Leland",
       "level": "Class C felony",
-      "charges": "One count, AS 11.46.130(a)(1), theft in the second degree — value $750 to $24,999, a Class C Felony.",
-      "next": "2026-10-28",
+      "charges": "One count, AS 11.46.130(a)(1), theft in the second degree - value $750 to $24,999, a Class C...",
+      "next": null,
       "judge": "Not Assigned (4FA01)",
       "last_docket": "2026-10-21"
     },
@@ -427,8 +497,8 @@
       "case": "4FA-26-02111CR",
       "defendant": "Phillippe, Timothy Leland",
       "level": "Class C felony",
-      "charges": "One count, AS 11.46.310, burglary in the second degree, a Class C Felony. Offense location Fairbanks, offense-dated Sep. 1, 2026.",
-      "next": "2026-10-28",
+      "charges": "One count, AS 11.46.310, burglary in the second degree, a Class C Felony. Offense location...",
+      "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-21"
     },
@@ -436,26 +506,26 @@
       "case": "4FA-26-02112CR",
       "defendant": "Cole, Helena J",
       "level": "No charging document",
-      "charges": "No count, statute, class, offense location or offense date is recorded on the file. Filed Oct. 18.",
-      "next": "2026-12-10",
+      "charges": "None on the file. No count, no statute, no class, no offense location and no offense date are...",
+      "next": null,
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-23"
     },
     {
       "case": "4FA-26-02113CR",
       "defendant": "Gutierrez, Moses Alejandro Luke",
-      "level": "Class A misdemeanor ×2",
-      "charges": "Two counts, both Class A Misdemeanor, both offense location Fairbanks and both offense-dated Oct. 18. AS 11.41.",
-      "next": "2026-12-10",
+      "level": "Class A misdemeanor x2",
+      "charges": "Two counts, both Class A Misdemeanor, both offense location Fairbanks and both offense-dated...",
+      "next": null,
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-23"
     },
     {
       "case": "4FA-26-02114CR",
       "defendant": "Peterson, Nolan Iver",
-      "level": "Class C felony ×2",
-      "charges": "Three counts, all offense location Fairbanks and all offense-dated Oct. 17. Two counts of AS 11.46.",
-      "next": "2026-10-28",
+      "level": "Class C felony x2",
+      "charges": "Three counts, all offense location Fairbanks and all offense-dated Oct. 17. Two counts of AS...",
+      "next": null,
       "judge": "Not Assigned (4FA01)",
       "last_docket": "2026-10-23"
     },
@@ -463,17 +533,17 @@
       "case": "4FA-26-02115CR",
       "defendant": "Guzman, Christine Marie",
       "level": "Class A misdemeanor",
-      "charges": "Two counts, both offense location Fairbanks, both offense-dated Oct. 17 and both DV Related: Yes. AS 11.46.",
-      "next": "2026-11-24",
+      "charges": "Two counts, both offense location Fairbanks, both offense-dated Oct. 17 and both DV Related...",
+      "next": null,
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-20"
     },
     {
       "case": "4FA-26-02116CR",
       "defendant": "Kelly, Derek Storm",
-      "level": "Class A misdemeanor ×3",
-      "charges": "Five counts, every one with an offense location of North Pole and every one offense-dated Oct. 17, none DV-flagged. AS 11.46.",
-      "next": "2026-12-10",
+      "level": "Class A misdemeanor x3",
+      "charges": "Five counts, every one with an offense location of North Pole and every one offense-dated Oct....",
+      "next": null,
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-20"
     },
@@ -481,8 +551,8 @@
       "case": "4FA-26-02117CR",
       "defendant": "Pitka, Julia Ann",
       "level": "Class B felony",
-      "charges": "Six counts, all offense location Fairbanks and all offense-dated Oct. 17, none DV-flagged. AS 11.71.",
-      "next": "2026-11-05",
+      "charges": "Six counts, all offense location Fairbanks and all offense-dated Oct. 17, none DV-flagged. AS...",
+      "next": null,
       "judge": "Schwalm, Kirk F",
       "last_docket": "2026-10-22"
     },
@@ -490,8 +560,8 @@
       "case": "4FA-26-02105CR",
       "defendant": "Standifer, Darius Cyrill",
       "level": "Three misdemeanor counts",
-      "charges": "Three counts, all offense location Fairbanks and all offense-dated Oct. 16. Count 1, AS 28.35.",
-      "next": "2026-12-10",
+      "charges": "Three counts, all offense location Fairbanks and all offense-dated Oct. 16. Count 1, AS...",
+      "next": null,
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-23"
     },
@@ -499,7 +569,7 @@
       "case": "4FA-26-02107CR",
       "defendant": "Bedingfield, Landon Zachary",
       "level": "Two Class A misdemeanors",
-      "charges": "Two counts, both offense location North Pole, both offense-dated Oct. 17. Count 1, AS 28.35.",
+      "charges": "Two counts, both offense location North Pole, both offense-dated Oct. 17. Count 1, AS...",
       "next": null,
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-23"
@@ -508,7 +578,7 @@
       "case": "4FA-26-02106CR",
       "defendant": "Sarten, Ishi Santana",
       "level": "Class B misdemeanor",
-      "charges": "One count, AS 11.46.330(a)(1), criminal trespass in the second degree upon premises, Class B Misdemeanor.",
+      "charges": "One count, AS 11.46.330(a)(1), criminal trespass in the second degree upon premises, Class B...",
       "next": null,
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-23"
@@ -517,8 +587,8 @@
       "case": "4FA-26-02108CR",
       "defendant": "Garcia, Gonzalo N",
       "level": "Class A misdemeanor",
-      "charges": "One count, AS 28.35.030(a), DUI — operate vehicle under the influence of alcohol or drugs, Class A Misdemeanor, recorded BAC .157.",
-      "next": "2026-12-24",
+      "charges": "One count, AS 28.35.030(a), DUI - operate vehicle under the influence of alcohol or drugs...",
+      "next": null,
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-23"
     },
@@ -526,8 +596,8 @@
       "case": "4FA-26-02097CR",
       "defendant": "Raymond Jr, John Edward",
       "level": "Two Class C felonies",
-      "charges": "Two counts, both Class C Felony, both offense location Fairbanks and both offense-dated Oct. 16. Count 1, AS 11.41.",
-      "next": "2026-10-28",
+      "charges": "Two counts, both Class C Felony, both offense location Fairbanks and both offense-dated Oct....",
+      "next": null,
       "judge": "Bennett, Brent E",
       "last_docket": "2026-10-22"
     },
@@ -535,8 +605,8 @@
       "case": "4FA-26-02096CR",
       "defendant": "Hernandez-Mullen, Maya Denise",
       "level": "Class C felony",
-      "charges": "One count, AS 11.46.130(a)(1), theft in the second degree — value $750 to $24,999, Class C Felony.",
-      "next": "2026-10-28",
+      "charges": "One count, AS 11.46.130(a)(1), theft in the second degree - value $750 to $24,999, Class C...",
+      "next": "2026-10-26",
       "judge": "Welch, Amy K",
       "last_docket": "2026-10-22"
     },
@@ -544,7 +614,7 @@
       "case": "4FA-26-02098CR",
       "defendant": "Frey, Dominique Dashea",
       "level": "Class C felony",
-      "charges": "One count, AS 11.46.482(a)(1), criminal mischief in the third degree — damage of $750 or more, Class C Felony.",
+      "charges": "One count, AS 11.46.482(a)(1), criminal mischief in the third degree - damage of $750 or more...",
       "next": "2026-10-26",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-23"
@@ -553,7 +623,7 @@
       "case": "4FA-26-02090CR",
       "defendant": "Kankanton, Harold Pete",
       "level": "Class A misdemeanor",
-      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree — recklessly injure, Class A Misdemeanor.",
+      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree - recklessly injure, Class A...",
       "next": "2026-11-24",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-16"
@@ -562,7 +632,7 @@
       "case": "4FA-26-00771CR",
       "defendant": "Mccarty, Carmen Jared",
       "level": "Class C felony",
-      "charges": "One count, AS 11.56.835(a)(1), failure to register as a sex offender in the first degree — repeatedly, Class C Felony.",
+      "charges": "One count, AS 11.56.835(a)(1), failure to register as a sex offender in the first degree...",
       "next": "2026-11-17",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-09"
@@ -570,9 +640,9 @@
     {
       "case": "4DJ-24-00006CR",
       "defendant": "Rihel, Andrew",
-      "level": "Unclassified felony ×2",
-      "charges": "Four counts, all offense location Delta Junction, all DV Related: two counts under AS 11.41.",
-      "next": "2026-11-03",
+      "level": "Unclassified felony x2",
+      "charges": "Four counts, all offense location Delta Junction, all DV Related: two counts under AS...",
+      "next": "2026-11-05",
       "judge": "Bennett, Brent E",
       "last_docket": "2026-10-15"
     },
@@ -580,8 +650,8 @@
       "case": "4DJ-26-00022CR",
       "defendant": "Donets, Vasiliy Peter",
       "level": "Class B felony",
-      "charges": "One count, AS 11.41.210(a)(1), assault in the second degree — injury with a weapon, with intent, Class B Felony.",
-      "next": "2027-01-07",
+      "charges": "One count, AS 11.41.210(a)(1), assault in the second degree - injury with a weapon, with...",
+      "next": "2026-11-02",
       "judge": "Harbison, Bethany",
       "last_docket": "2026-10-15"
     },
@@ -589,8 +659,8 @@
       "case": "4DJ-26-00007CR",
       "defendant": "Ognevchuk, Ruslan",
       "level": "Class C felony",
-      "charges": "One count, AS 11.41.220(a)(1)(A), assault in the third degree — causing fear of injury with a weapon, Class C Felony.",
-      "next": "2026-12-01",
+      "charges": "One count, AS 11.41.220(a)(1)(A), assault in the third degree - causing fear of injury with a...",
+      "next": "2026-11-02",
       "judge": "Harbison, Bethany",
       "last_docket": "2026-10-15"
     },
@@ -598,17 +668,17 @@
       "case": "4DJ-26-00039CR",
       "defendant": "Schlott, Peter Anthony",
       "level": "Class C felony",
-      "charges": "One count, AS 11.41.220(a)(1)(B), assault in the third degree — causing injury with a weapon, Class C Felony.",
-      "next": "2027-01-07",
+      "charges": "One count, AS 11.41.220(a)(1)(B), assault in the third degree - causing injury with a weapon...",
+      "next": "2026-11-09",
       "judge": "Harbison, Bethany",
       "last_docket": "2026-10-15"
     },
     {
       "case": "4DJ-25-00049CR",
       "defendant": "Zigler, Jason David",
-      "level": "Class C felony ×2",
-      "charges": "Four counts, all offense location Delta Junction, none DV-flagged: AS 28.35.",
-      "next": "2027-01-07",
+      "level": "Class C felony x2",
+      "charges": "Four counts, all offense location Delta Junction, none DV-flagged: AS 28.35.030(n), felony...",
+      "next": "2026-11-09",
       "judge": "Harbison, Bethany",
       "last_docket": "2026-10-15"
     },
@@ -616,8 +686,8 @@
       "case": "4DJ-26-00031CR",
       "defendant": "Weidner, Brock Dustin",
       "level": "Class C felony",
-      "charges": "One count, AS 11.46.482(a)(1), criminal mischief in the third degree — damage of $750 or more, Class C Felony.",
-      "next": "2026-12-01",
+      "charges": "One count, AS 11.46.482(a)(1), criminal mischief in the third degree - damage of $750 or more...",
+      "next": "2026-11-09",
       "judge": "Harbison, Bethany",
       "last_docket": "2026-10-17"
     },
@@ -625,8 +695,8 @@
       "case": "4DJ-25-00014CR",
       "defendant": "Knix, Benjamin H. S.",
       "level": "Class C felony",
-      "charges": "One count, AS 11.46.310, burglary in the second degree, Class C Felony. Offense location Delta Junction. DV Related: No.",
-      "next": "2026-11-09",
+      "charges": "One count, AS 11.46.310, burglary in the second degree, Class C Felony. Offense location Delta...",
+      "next": null,
       "judge": "Harbison, Bethany",
       "last_docket": "2026-10-20"
     },
@@ -634,8 +704,8 @@
       "case": "4DJ-26-00045CR",
       "defendant": "Mata, Martha Gloria",
       "level": "Class A misdemeanor",
-      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree — recklessly injure, Class A Misdemeanor.",
-      "next": "2026-11-24",
+      "charges": "One count, AS 11.41.230(a)(1), assault in the fourth degree - recklessly injure, Class A...",
+      "next": null,
       "judge": "Young, Yvette",
       "last_docket": "2026-10-21"
     },
@@ -643,7 +713,7 @@
       "case": "4DJ-26-00064CR",
       "defendant": "Foreman, Chad Leo",
       "level": "No charging document",
-      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offense. Filed Oct. 15, status Open.",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offense. Filed Oct....",
       "next": null,
       "judge": "Young, Yvette",
       "last_docket": null
@@ -652,8 +722,8 @@
       "case": "4FA-26-02088CR",
       "defendant": "Edwards, Jeremy Frank",
       "level": "Class C felony",
-      "charges": "Two counts, both offense-dated Oct. 14 at Fairbanks. Failing to stop at the direction of a peace officer, reckless driving, AS 28.",
-      "next": "2026-10-28",
+      "charges": "Two counts, both offense-dated Oct. 14 at Fairbanks. Failing to stop at the direction of a...",
+      "next": null,
       "judge": "Schwalm, Kirk F",
       "last_docket": "2026-10-22"
     },
@@ -661,7 +731,7 @@
       "case": "4FA-26-01946CR",
       "defendant": "Burdo, Jr, William Roger",
       "level": "Class B felony",
-      "charges": "Five counts served of six stated, every one DV related. Assault 2, injury with a weapon with intent, AS 11.41.",
+      "charges": "Five counts served of six stated, every one DV related. Assault 2, injury with a weapon with...",
       "next": "2026-11-03",
       "judge": "Welch, Amy K",
       "last_docket": "2026-10-14"
@@ -670,7 +740,7 @@
       "case": "4FA-26-00703CR",
       "defendant": "Folger, Kyle Douglas",
       "level": "Class C felony",
-      "charges": "Three counts, all offense-dated Apr. 20, 2026 at North Pole, all DV related. Assault 3, cause injury with a weapon, AS 11.41.",
+      "charges": "Three counts, all offense-dated Apr. 20, 2026 at North Pole, all DV related. Assault 3, cause...",
       "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-15"
@@ -678,8 +748,8 @@
     {
       "case": "4FA-26-01644CR",
       "defendant": "Rudolph-Munro, Cody Steven",
-      "level": "Class C felony ×2",
-      "charges": "Five counts served of six stated, offenses Aug. 23 at North Pole, all DV related: assault 3 cause injury with a weapon and crimina...",
+      "level": "Class C felony x2",
+      "charges": "Five counts served of six stated, offenses Aug. 23 at North Pole, all DV related: assault 3...",
       "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-14"
@@ -688,8 +758,8 @@
       "case": "4FA-26-02078CR",
       "defendant": "Schwietert, Daniel Zachary",
       "level": "Class A felony",
-      "charges": "One count: robbery in the first degree, armed with a deadly weapon, AS 11.41.500(a)(1), a Class A felony. Offense Oct.",
-      "next": "2026-10-28",
+      "charges": "One count: robbery in the first degree, armed with a deadly weapon, AS 11.41.500(a)(1), a...",
+      "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-22"
     },
@@ -697,8 +767,8 @@
       "case": "4FA-26-02011CR",
       "defendant": "Baker, Tal Xavier",
       "level": "Class C felony",
-      "charges": "One count: felony driving under the influence, two or more priors, AS 28.35.030(n), a Class C felony. Offense Oct. 3 at Fairbanks.",
-      "next": "2026-12-03",
+      "charges": "One count: felony driving under the influence, two or more priors, AS 28.35.030(n), a Class C...",
+      "next": null,
       "judge": "Schwalm, Kirk F",
       "last_docket": "2026-10-20"
     },
@@ -706,16 +776,16 @@
       "case": "4FA-26-02010CR",
       "defendant": "Gonzalez-Mellado, Manuel",
       "level": "Class C felony",
-      "charges": "Failing to stop at the direction of an officer, reckless driving, AS 28.35.",
-      "next": "2026-11-04",
+      "charges": "Failing to stop at the direction of an officer, reckless driving, AS 28.35.182(a)(1), a Class...",
+      "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-22"
     },
     {
       "case": "4FA-24-02118CR",
       "defendant": "Sarten, Cedar Mae",
-      "level": "Murder, unclassified felony ×2",
-      "charges": "Murder in the first degree, intent to cause death; murder in the first degree, repeat physical injury to a child; murder in the se...",
+      "level": "Murder, unclassified felony x2",
+      "charges": "Murder in the first degree, intent to cause death; murder in the first degree, repeat physical...",
       "next": "2026-11-06",
       "judge": "Bennett, Brent E",
       "last_docket": "2026-09-30"
@@ -724,7 +794,7 @@
       "case": "4FA-26-00112CR",
       "defendant": "Davenport, Brian Jeffery",
       "level": "Closed",
-      "charges": "One count, murder in the first degree, intent to cause death, AS 11.41.100(a)(1)(A), offense Jan. 20, 2026.",
+      "charges": "One count, murder in the first degree, intent to cause death, AS 11.41.100(a)(1)(A), offense...",
       "next": null,
       "judge": "Bennett, Brent E",
       "last_docket": "2026-10-09"
@@ -733,7 +803,7 @@
       "case": "4FA-26-01890CR",
       "defendant": "Claxton, Dante Nathaniel Larry",
       "level": "Unclassified felony",
-      "charges": "Kidnapping, injury or sexual assault, AS 11.41.300(a)(1)(C), an unclassified felony, indicted, at North Pole; assault 4 recklessly...",
+      "charges": "Kidnapping, injury or sexual assault, AS 11.41.300(a)(1)(C), an unclassified felony, indicted...",
       "next": "2026-11-17",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-09"
@@ -741,8 +811,8 @@
     {
       "case": "4FA-26-01818CR",
       "defendant": "Ostlund, William Bruce",
-      "level": "Class A felony ×3",
-      "charges": "Three counts of misconduct involving a controlled substance in the second degree, manufacture or delivery of methamphetamine, AS 1...",
+      "level": "Class A felony x3",
+      "charges": "Three counts of misconduct involving a controlled substance in the second degree, manufacture...",
       "next": "2026-11-17",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-21"
@@ -750,8 +820,8 @@
     {
       "case": "4FA-26-01826CR",
       "defendant": "Burks, Joshua Jon",
-      "level": "Class B felony ×2",
-      "charges": "Two counts of misconduct involving a controlled substance in the third degree, manufacture or delivery, AS 11.71.",
+      "level": "Class B felony x2",
+      "charges": "Two counts of misconduct involving a controlled substance in the third degree, manufacture or...",
       "next": "2026-11-03",
       "judge": "Welch, Amy K",
       "last_docket": "2026-10-13"
@@ -760,7 +830,7 @@
       "case": "4FA-26-01896CR",
       "defendant": "Moff, Amanda Elizabeth",
       "level": "Class C felony",
-      "charges": "One count, tampering with physical evidence to prevent a proceeding, AS 11.56.610(a)(4), a Class C felony, indicted. Offense Sept.",
+      "charges": "One count, tampering with physical evidence to prevent a proceeding, AS 11.56.610(a)(4), a...",
       "next": "2026-11-05",
       "judge": "Not Assigned (4FA01)",
       "last_docket": "2026-10-07"
@@ -769,16 +839,16 @@
       "case": "4FA-26-01857CR",
       "defendant": "Clarke, Brenden James",
       "level": "Fugitive from justice",
-      "charges": "One count, arrest prior to requisition, AS 12.70.120, recorded as fugitive from justice. Offense Sept. 18 at Fort Wainwright.",
-      "next": "2026-11-17",
+      "charges": "One count, arrest prior to requisition, AS 12.70.120, recorded as fugitive from justice....",
+      "next": null,
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-16"
     },
     {
       "case": "4FA-25-02251CR",
       "defendant": "Popps, Christopher M",
-      "level": "Unclassified felony ×2",
-      "charges": "Four counts: two of murder in the second degree, AS 11.41.110(a)(2) and (a)(1), unclassified felonies; one under AS 11.41.",
+      "level": "Unclassified felony x2",
+      "charges": "Four counts: two of murder in the second degree, AS 11.41.110(a)(2) and (a)(1), unclassified...",
       "next": "2027-03-23",
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-16"
@@ -786,8 +856,8 @@
     {
       "case": "4FA-24-02136CR",
       "defendant": "Dittman, Donald D",
-      "level": "Class B felony ×2",
-      "charges": "Two Class B felony counts, indicted, domestic violence related. The Department of Law announced a conviction on Oct. 5.",
+      "level": "Class B felony x2",
+      "charges": "Two Class B felony counts, indicted, DV related. The Department of Law announced the...",
       "next": "2027-03-18",
       "judge": "Welch, Amy K",
       "last_docket": "2026-10-12"
@@ -796,7 +866,7 @@
       "case": "4DJ-26-00060CR",
       "defendant": "Dollar, Nicholas Gene",
       "level": "Class B felony",
-      "charges": "Arson in the second degree, damage a building with intent, AS 11.46.",
+      "charges": "Arson in the second degree, damage a building with intent, AS 11.46.410, a Class B felony...",
       "next": "2026-11-05",
       "judge": "Not Assigned (4FA01)",
       "last_docket": "2026-10-20"
@@ -805,7 +875,7 @@
       "case": "4NE-26-00096CR",
       "defendant": "Zappone, Krista Marie",
       "level": "Class B felony",
-      "charges": "Six counts, the heaviest first-degree burglary, a Class B felony. Three offenses are outside the Fairbanks area.",
+      "charges": "Six counts Count 6: burglary in the first degree, in a dwelling, AS 11.46.300(a)(1), a Class B...",
       "next": "2026-11-13",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-20"
@@ -813,8 +883,8 @@
     {
       "case": "4NE-26-00103CR",
       "defendant": "Ashley, Gregory S",
-      "level": "Class C felony ×3",
-      "charges": "Six counts, all offense-dated Oct. 9 at Fairbanks: three counts of assault in the third degree, repeat threat of death or injury,...",
+      "level": "Class C felony x3",
+      "charges": "Six counts, all offense-dated Oct. 9 at Fairbanks: three counts of assault in the third...",
       "next": "2026-10-28",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-21"
@@ -823,17 +893,17 @@
       "case": "4FA-26-02067CR",
       "defendant": "James, Ryan Bud",
       "level": "Class B felony",
-      "charges": "Six counts, all Oct. 10 at Fairbanks: burglary 1 in a dwelling, Class B felony, DV; criminal trespass 1 in a dwelling, Class A mis...",
-      "next": "2026-10-28",
+      "charges": "Six counts, all Oct. 10 at Fairbanks: burglary 1 in a dwelling, Class B felony, DV; criminal...",
+      "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-23"
     },
     {
       "case": "4FA-26-02063CR",
-      "defendant": "Arazo, Za’quiohn E’Mar",
+      "defendant": "Arazo, Za'quiohn E'Mar",
       "level": "Class C felony",
-      "charges": "Five counts, all Oct. 10 at Fairbanks and all DV related: assault 3 cause injury with a weapon, Class C felony; three counts of as...",
-      "next": "2026-10-29",
+      "charges": "Five counts, all Oct. 10 at Fairbanks and all DV related: assault 3 cause injury with a...",
+      "next": null,
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-20"
     },
@@ -841,8 +911,8 @@
       "case": "4FA-26-02059CR",
       "defendant": "Gonzalez, Geldin Luis Parrilla",
       "level": "Class A misdemeanor",
-      "charges": "One count: refusal to submit to a chemical test, AS 28.35.032(a), a Class A misdemeanor, stage-dated Oct. 10. Offense Oct.",
-      "next": "2026-12-10",
+      "charges": "One count: refusal to submit to a chemical test, AS 28.35.032(a), a Class A misdemeanor...",
+      "next": null,
       "judge": "Seekins, Ben A",
       "last_docket": "2026-10-16"
     },
@@ -850,7 +920,7 @@
       "case": "4FA-26-01852CR",
       "defendant": "Waters, Cassandra Mari",
       "level": "No charging document",
-      "charges": "One count recorded as charging document pending or not filed, no degree of offense. Offense and filing Sep. 19 at Fairbanks.",
+      "charges": "One count recorded Charging Document Pending or Not Filed, no degree of offense. Offense and...",
       "next": "2026-11-05",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-09-22"
@@ -858,11 +928,29 @@
     {
       "case": "4FA-26-01786CR",
       "defendant": "Lincoln, Walter Charlie",
-      "level": null,
+      "level": "Indicted",
       "charges": "Two counts, a Class A and a Class B misdemeanor. Filed Sept. 10.",
       "next": null,
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02154CR",
+      "defendant": "Ballargeon, Francis Valma",
+      "level": "Class A misdemeanor",
+      "charges": "Two counts, both offense location North Pole, both offense-dated Oct. 24, both recorded...",
+      "next": "2026-11-19",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-24"
+    },
+    {
+      "case": "4FA-26-02153CR",
+      "defendant": "Wallace, Madisyn Jane",
+      "level": "Class A misdemeanor",
+      "charges": "One count of fourth-degree assault, recklessly injure, a Class A misdemeanor. Offense location...",
+      "next": "2026-12-24",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-24"
     }
   ],
   "sources": [
@@ -875,11 +963,11 @@
       "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
     },
     {
-      "name": "Alaska Court System — criminal charges filed",
+      "name": "Alaska Court System - criminal charges filed",
       "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
     },
     {
-      "name": "Alaska Court System — criminal cases disposed",
+      "name": "Alaska Court System - criminal cases disposed",
       "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
     },
     {
