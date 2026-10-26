@@ -1,10 +1,81 @@
 {
   "date": "2026-10-25",
-  "compiled": "03:41 AKDT",
+  "compiled": "17:20 AKDT",
   "window": "Oct. 23–25, 2026",
-  "summary": "Alaska State Troopers say two shipping containers were broken into at a Fairbanks property on Oct. 24 and that a snow machine, a pickup truck and a camper were stolen, with about $50,000 of property recovered the same day after a search warrant. Three arrests were added to the Fairbanks police log for Oct. 24: an assault arrest on Peger Road, a theft arrest on Merhar Avenue and a driving arrest at Market Street. A man arrested after a reported disturbance in Tanana was charged at the Nenana court with two Class B felonies. The Alaska Court System's weekly charges report, covering Oct. 18 to Oct. 24, lists 42 new criminal cases at the Fairbanks courthouse, one at Nenana and none at Healy or Delta Junction; those are the report's own counts for its own window. Two court cases opened on Oct. 24 behind a traffic stop near Healy are minor offense cases, which that report does not cover.",
+  "summary": "The Alaska Court System opened seven new criminal cases at the Fairbanks courthouse on Oct. 25, among them a five-count case carrying a Class B felony escape charge and two felony drunk-driving cases. Fairbanks police added two arrests to their Oct. 24 log, both of the same man, one of them an earlier arrest that day on theft and drug charges that no court case carries. Troopers say two shipping containers were broken into at a Fairbanks property on Oct. 24 and that a snow machine, a pickup truck and a camper were stolen, with about $50,000 of property recovered the same day after a search warrant. The weekly charges report covering Oct. 18 to Oct. 24 lists 42 new criminal cases at the Fairbanks courthouse, one at Nenana and none at Healy or Delta Junction; those are the report's own counts for its own window, and the seven cases filed on Oct. 25 were opened after that report was run. Two court cases opened on Oct. 24 behind a traffic stop near Healy are minor offense cases, which that report does not cover.",
   "commentary": null,
   "entries": [
+    {
+      "id": "dennis-escape-assault-1025",
+      "date": "2026-10-25",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02162CR"
+      ],
+      "title": "Escape and assault charges: Adam Jarrod Dennis",
+      "body": [
+        "Adam Jarrod Dennis is charged with second-degree escape — leaving official detention while held on a felony or for extradition — a Class B felony, punishable by up to 10 years.",
+        "He is also charged with third-degree assault, committing a fourth-degree assault with two or more prior convictions, a Class C felony punishable by up to five years and recorded as domestic violence; fourth-degree criminal mischief, damaging property worth $250 to $749, a Class A misdemeanor, also recorded as domestic violence; violating a condition of release, breaking a court-ordered release condition, a Class B misdemeanor recorded as domestic violence; and resisting arrest by damaging property, a Class A misdemeanor.",
+        "All five charges are dated Oct. 25 at Fairbanks. The case was filed at the Fairbanks courthouse on Oct. 25 and an arraignment that afternoon was continued.",
+        "Case 4FA-26-02162CR; arraignment Oct. 26, with preliminary hearings Nov. 4 and Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "pederson-felony-dui-1025",
+      "date": "2026-10-25",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02159CR"
+      ],
+      "title": "Felony drunk driving charge: Nicholas John Pederson",
+      "body": [
+        "Nicholas John Pederson is charged with felony driving under the influence — drunk or drugged driving with two or more prior convictions — a Class C felony, punishable by up to five years.",
+        "The charge is dated Oct. 24 at Fairbanks. The case was filed at the Fairbanks courthouse on Oct. 25 and he was arraigned the same day.",
+        "Case 4FA-26-02159CR; preliminary hearings Nov. 3 and Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "barnett-felony-dui-1025",
+      "date": "2026-10-25",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02161CR"
+      ],
+      "title": "Felony drunk driving charge: Timmy Lee Barnett Jr.",
+      "body": [
+        "Timmy Lee Barnett Jr. is charged with felony driving under the influence — drunk or drugged driving with two or more prior convictions — a Class C felony, punishable by up to five years.",
+        "He is also charged with driving after a license was revoked for a criminal offense, a Class A misdemeanor, and driving without required liability insurance, an unclassified misdemeanor. All three charges are dated Oct. 25 at Fairbanks.",
+        "The case was filed at the Fairbanks courthouse on Oct. 25 and an arraignment that afternoon was continued.",
+        "Case 4FA-26-02161CR; arraignment Oct. 26, with preliminary hearings Nov. 4 and Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "fairbanks-burglary-vehicle-theft-1024",
       "date": "2026-10-24",
@@ -14,12 +85,12 @@
       "category": "property",
       "severity": "other",
       "cases": [
-        "AK26105510"
+        "AK26105520"
       ],
       "title": "Burglary and vehicle thefts at a Fairbanks property",
       "body": [
         "Alaska State Troopers say they responded to a Fairbanks residence at 2:49 p.m. on Oct. 24 for a reported burglary and vehicle thefts, that two shipping containers were broken into and numerous items taken, and that a snow machine, a pickup truck and a camper were also stolen from the property. Troopers put the estimated value of the stolen items at $50,000.",
-        "Troopers say the stolen camper was located at another residence in Fairbanks, that a search warrant was executed, and that the snow machine, the pickup truck, the camper and the majority of the items taken from the containers were recovered. No arrest is announced in the trooper release and nobody is named in it. Trooper case AK26105510; the investigation is recorded as ongoing."
+        "Troopers say the stolen camper was located at another residence in Fairbanks, that a search warrant was executed, and that the snow machine, the pickup truck, the camper and the majority of the items taken from the containers were recovered. No arrest is announced in the trooper release and nobody is named in it. Trooper case AK26105520; the investigation is recorded as ongoing."
       ],
       "sources": [
         {
@@ -29,32 +100,113 @@
       ]
     },
     {
-      "id": "harpe-healy-traffic-1024",
+      "id": "frasure-theft-arrest-1024",
       "date": "2026-10-24",
-      "time": "17:06",
-      "place": "Healy",
-      "agency": "Alaska State Troopers",
-      "category": "other",
-      "severity": "other",
+      "time": "19:15",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
       "cases": [
-        "4NE-26-01618MO",
-        "4NE-26-01619MO",
-        "AK26105531"
+        "4FA-26-02157CR",
+        "4FA-26-02160CR",
+        "26003264",
+        "26003266"
       ],
-      "title": "Driving while license suspended: Quinton Harpe",
+      "title": "Theft arrest: William Howard Frasure",
       "body": [
-        "Quinton Harpe, 34, of Wasilla was issued summonses for driving while his license was suspended and for driving without insurance, troopers say. Driving while license suspended covers operating a vehicle after the state has withdrawn the driver's license.",
-        "Troopers say they stopped him near Healy at 5:06 p.m. on Oct. 24 for a moving violation, and that he was instructed to find a licensed driver to assist him and parked his vehicle. No arrest was made.",
-        "Two minor offense cases were opened at the Nenana court the same day: 4NE-26-01618MO and 4NE-26-01619MO. Trooper case AK26105531."
+        "William Howard Frasure, 36, was arrested on charges of fourth-degree theft, taking property worth less than $250, and violating a condition of release, both recorded by police as misdemeanors.",
+        "400 block of Merhar Avenue, Fairbanks, Oct. 24 at 7:15 p.m.; Fairbanks Police. Police cases 26003264 and 26003266.",
+        "Two court cases were filed at the Fairbanks courthouse on Oct. 25 on those charges, each listing fourth-degree theft as a Class B misdemeanor and violating a condition of release as a Class B misdemeanor. He was arraigned on both the same day.",
+        "Cases 4FA-26-02157CR, with a pre-trial conference Nov. 24, and 4FA-26-02160CR, with a pre-trial conference Dec. 10."
       ],
       "sources": [
         {
-          "label": "AST daily dispatch, Oct. 24",
-          "url": "https://dailydispatch.dps.alaska.gov"
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         },
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "frasure-theft-drug-arrest-1024",
+      "date": "2026-10-24",
+      "time": "13:43",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "drug",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003260"
+      ],
+      "title": "Theft and drug arrest: William Howard Frasure",
+      "body": [
+        "William Howard Frasure, 36, was arrested on charges of third-degree theft, taking property worth $250 to $749, and fifth-degree misconduct involving a controlled substance, possessing a controlled substance, both recorded by police as misdemeanors.",
+        "100 block of Illinois Street at Phillips Field Road, Fairbanks, Oct. 24 at 1:43 p.m.; Fairbanks Police. Police case 26003260.",
+        "No court case has been opened on these charges."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "mekiana-assault-arrest-1024",
+      "date": "2026-10-24",
+      "time": "06:05",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02155CR",
+        "26003256"
+      ],
+      "title": "Assault arrest: Judy Elizabeth Mekiana",
+      "body": [
+        "Judy Elizabeth Mekiana, 31, was arrested on charges of fourth-degree assault, recklessly causing injury, and fifth-degree criminal mischief, damage under $250, both recorded by police as misdemeanors.",
+        "1600 block of Peger Road, Fairbanks, Oct. 24 at 6:05 a.m.; Fairbanks Police. Case 4FA-26-02155CR; police case 26003256."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "druck-permit-arrest-1024",
+      "date": "2026-10-24",
+      "time": "00:18",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003254"
+      ],
+      "title": "Driving arrest: Brooklyn Agnes Jo Druck",
+      "body": [
+        "Brooklyn Agnes Jo Druck, 18, was arrested on a charge of driving in violation of an instruction permit, recorded by police as a misdemeanor. The charge covers driving outside the conditions a learner's permit allows.",
+        "1400 block of Market Street at Airport Way, Fairbanks, Oct. 24 at 12:18 a.m.; Fairbanks Police. Police case 26003254."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         }
       ]
     },
@@ -91,76 +243,32 @@
       ]
     },
     {
-      "id": "mekiana-assault-arrest-1024",
+      "id": "harpe-healy-traffic-1024",
       "date": "2026-10-24",
-      "time": "06:05",
-      "place": "Fairbanks",
-      "agency": "Fairbanks Police",
-      "category": "violent",
-      "severity": "misdemeanor",
+      "time": "17:06",
+      "place": "Healy",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
       "cases": [
-        "4FA-26-02155CR",
-        "26003256"
+        "4NE-26-01618MO",
+        "4NE-26-01619MO",
+        "AK26105531"
       ],
-      "title": "Assault arrest: Judy Elizabeth Mekiana",
+      "title": "Driving while license suspended: Quinton Harpe",
       "body": [
-        "Judy Elizabeth Mekiana, 31, was arrested on charges of fourth-degree assault, recklessly causing injury, and fifth-degree criminal mischief, damage under $250, both recorded by police as misdemeanors.",
-        "1600 block of Peger Road, Fairbanks, Oct. 24 at 6:05 a.m.; Fairbanks Police. Case 4FA-26-02155CR; police case 26003256."
+        "Quinton Harpe, 34, of Wasilla was issued summonses for driving while his license was suspended and for driving without insurance, troopers say. Driving while license suspended covers operating a vehicle after the state has withdrawn the driver's license.",
+        "Troopers say they stopped him near Healy at 5:06 p.m. on Oct. 24 for a moving violation, and that he was instructed to find a licensed driver to assist him and parked his vehicle. No arrest was made.",
+        "Two minor offense cases were opened at the Nenana court the same day: 4NE-26-01618MO and 4NE-26-01619MO. Trooper case AK26105531."
       ],
       "sources": [
         {
-          "label": "FPD daily bulletin, Oct. 24",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+          "label": "AST daily dispatch, Oct. 24",
+          "url": "https://dailydispatch.dps.alaska.gov"
         },
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
-      "id": "frasure-theft-arrest-1024",
-      "date": "2026-10-24",
-      "time": "19:15",
-      "place": "Fairbanks",
-      "agency": "Fairbanks Police",
-      "category": "property",
-      "severity": "misdemeanor",
-      "cases": [
-        "26003264"
-      ],
-      "title": "Theft arrest: William Howard Frasure",
-      "body": [
-        "William Howard Frasure, 36, was arrested on charges of fourth-degree theft, value under $250, and violating a condition of release, both recorded by police as misdemeanors. Fourth-degree theft covers taking property worth less than $250.",
-        "400 block of Merhar Avenue, Fairbanks, Oct. 24 at 7:15 p.m.; Fairbanks Police. Police case 26003264."
-      ],
-      "sources": [
-        {
-          "label": "FPD daily bulletin, Oct. 24",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
-        }
-      ]
-    },
-    {
-      "id": "druck-permit-arrest-1024",
-      "date": "2026-10-24",
-      "time": "00:18",
-      "place": "Fairbanks",
-      "agency": "Fairbanks Police",
-      "category": "other",
-      "severity": "misdemeanor",
-      "cases": [
-        "26003254"
-      ],
-      "title": "Driving arrest: Brooklyn Agnes Jo Druck",
-      "body": [
-        "Brooklyn Agnes Jo Druck, 18, was arrested on a charge of driving in violation of an instruction permit, recorded by police as a misdemeanor. The charge covers driving outside the conditions a learner's permit allows.",
-        "1400 block of Market Street at Airport Way, Fairbanks, Oct. 24 at 12:18 a.m.; Fairbanks Police. Police case 26003254."
-      ],
-      "sources": [
-        {
-          "label": "FPD daily bulletin, Oct. 24",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         }
       ]
     },
@@ -214,6 +322,36 @@
       }
     ],
     "new": [
+      {
+        "case": "4FA-26-02162CR",
+        "defendant": "Dennis, Adam Jarrod",
+        "charges": "Second-degree escape, Class B felony; third-degree assault, Class C felony, domestic violence; fourth-degree criminal mischief and resisting arrest, Class A misdemeanors; violating a condition of release, Class B misdemeanor. Filed Oct. 25 at Fairbanks, after the current weekly report was run.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02159CR",
+        "defendant": "Pederson, Nicholas John",
+        "charges": "Felony driving under the influence with two or more prior convictions, Class C felony. Filed Oct. 25 at Fairbanks, after the current weekly report was run.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02161CR",
+        "defendant": "Barnett, Jr, Timmy Lee",
+        "charges": "Felony driving under the influence with two or more prior convictions, Class C felony; driving with a revoked license and no liability insurance, misdemeanors. Filed Oct. 25 at Fairbanks, after the current weekly report was run.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02157CR",
+        "defendant": "Frasure, William Howard",
+        "charges": "Fourth-degree theft and violating a condition of release, both Class B misdemeanors. Filed Oct. 25 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02160CR",
+        "defendant": "Frasure, William H",
+        "charges": "Fourth-degree theft and violating a condition of release, both Class B misdemeanors. Filed Oct. 25 at Fairbanks.",
+        "felony": false
+      },
       {
         "case": "4NE-26-00104CR",
         "defendant": "Joseph, Aaron Sam",
@@ -375,6 +513,15 @@
       "next": "Fugitive from justice hearing Nov. 20",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-10-24"
+    },
+    {
+      "case": "4FA-26-02162CR",
+      "defendant": "Dennis, Adam Jarrod",
+      "level": "Class B felony",
+      "charges": "Second-degree escape, a Class B felony, with third-degree assault, a Class C felony recorded as domestic violence, and three further misdemeanor counts",
+      "next": "Arraignment Oct. 26; preliminary hearings Nov. 4 and Nov. 12",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-25"
     }
   ],
   "sources": [
