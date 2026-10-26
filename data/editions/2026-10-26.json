@@ -1,10 +1,159 @@
 {
   "date": "2026-10-26",
-  "compiled": "06:40 AKDT",
+  "compiled": "08:55 AKDT",
   "window": "Oct. 24–26, 2026",
-  "summary": "Troopers say a felony DUI charge filed Oct. 25 followed a crash on Chena Pump Road and a breath test of .272. Fairbanks police arrested Adam Jarrod Dennis on Kellum Street early Oct. 25; he faces escape and assault charges. Police arrested Samuel Jasiel Benjamin Malone twice on Oct. 25, once on a felony indecent exposure charge. The court system's closed-case list records 18 Interior cases closed Oct. 20 to 25, one by guilty plea. The weekly charges report for Oct. 19 to 25 lists 40 new criminal cases at Fairbanks and one at Nenana.",
+  "summary": "A Fairbanks grand jury indicted 14 people between Oct. 20 and Oct. 23, including a first-degree robbery charge carrying up to 20 years and a second-degree assault charge recorded as domestic violence. One of the 14 is charged over an incident at Anderson and the case is filed at the Nenana court. Troopers arrested a Fairbanks woman on a warrant on Oct. 26 and say she had given another woman's name at a traffic stop the day before. The court system's closed-case list records 19 Interior cases closed Oct. 20 to 25, one of them by guilty plea. The weekly charges report for Oct. 19 to 25 lists 40 new criminal cases at Fairbanks and one at Nenana; those are the report's own counts for its own window, and it does not list grand jury indictments or minor traffic cases, so the week's charges are not all in it.",
   "commentary": null,
   "entries": [
+    {
+      "id": "williams-robbery-indictment",
+      "date": "2026-09-27",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01987CR"
+      ],
+      "title": "Armed robbery indictment: Jordan Henry Williams",
+      "body": [
+        "Jordan Henry Williams, 26, is charged with robbery in the first degree while armed with a deadly weapon — taking property by force while armed — a Class A felony, punishable by up to 20 years.",
+        "A Fairbanks grand jury returned the indictment during the week of Oct. 20. The charge concerns an incident on or about Sept. 27 at or near Fairbanks. He also faces misdemeanor counts of reckless endangerment and fifth-degree criminal mischief.",
+        "Case 4FA-26-01987CR; next court date Oct. 28."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Daily News-Miner public safety report, Oct. 26",
+          "url": "https://www.newsminer.com/news/public_safety_report/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bevard-assault-indictment",
+      "date": "2026-10-11",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02068CR"
+      ],
+      "title": "Assault indictment: Robbie Dale Bevard",
+      "body": [
+        "Robbie Dale Bevard, 52, is charged with assault in the second degree — intentionally causing injury with a weapon — a Class B felony, punishable by up to 10 years. The count is recorded as domestic violence.",
+        "A Fairbanks grand jury returned the indictment during the week of Oct. 20. The charges concern an incident on or about Oct. 11 at or near Fairbanks. He also faces misdemeanor counts of fourth-degree assault, interfering with a report of a crime involving domestic violence, and violating conditions of release.",
+        "Case 4FA-26-02068CR; next court date Oct. 28."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Daily News-Miner public safety report, Oct. 26",
+          "url": "https://www.newsminer.com/news/public_safety_report/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "ashley-anderson-assault-indictment",
+      "date": "2026-10-09",
+      "place": "Anderson",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4NE-26-00103CR"
+      ],
+      "title": "Assault indictment: Gregory Steven Ashley",
+      "body": [
+        "Gregory Steven Ashley, 47, of Anderson, is charged with two counts of assault in the third degree — repeatedly threatening death or injury — each a Class C felony, punishable by up to five years.",
+        "A Fairbanks grand jury returned the indictment during the week of Oct. 20. The charges concern an incident on or about Oct. 9 at or near Anderson, about 70 miles southwest of Fairbanks. He also faces three Class A misdemeanor counts: driving under the influence, fourth-degree assault for causing fear of injury, and driving with a license canceled, suspended or revoked.",
+        "The case is filed at the Nenana court as 4NE-26-00103CR. It lists seven counts in total and the public record shows five; arraignment Oct. 28, trial week Nov. 30."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Daily News-Miner public safety report, Oct. 26",
+          "url": "https://www.newsminer.com/news/public_safety_report/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "fairbanks-grand-jury-indictments-oct20-23",
+      "date": "2026-10-26",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01886CR",
+        "4FA-26-02096CR",
+        "4FA-26-02088CR",
+        "4FA-26-02097CR",
+        "4FA-26-02048CR",
+        "4FA-26-02098CR",
+        "4FA-26-02067CR",
+        "4FA-26-02063CR",
+        "4FA-26-02045CR",
+        "4FA-26-02046CR",
+        "4FA-26-02047CR"
+      ],
+      "title": "Grand jury indicts 14 people in Fairbanks",
+      "body": [
+        "A Fairbanks grand jury returned indictments against 14 people between Tuesday, Oct. 20 and Friday, Oct. 23. An indictment is a finding that there is enough evidence for a case to go to trial. It is not a conviction.",
+        "Three of the 14 are reported separately above. The others are: Willy-Joe Hailama Batchelder, 38, of Fairbanks, felony second-degree theft, incident on or about June 14 (case 4FA-26-01886CR). Maya Denise Hernandez-Mullen, 28, of North Pole, felony second-degree theft and misdemeanor violation of conditions of release, Oct. 15 (4FA-26-02096CR). Jeremy Frank Edwards, 37, of Fairbanks, felony failure to stop at the direction of a peace officer and misdemeanor driving under the influence, Oct. 14 (4FA-26-02088CR). John Edward Raymond Jr., 36, of Fairbanks, felony third-degree assault and felony failure to stop at the direction of a peace officer, Oct. 16 (4FA-26-02097CR).",
+        "Cristian J. Holder-Gauthier, 32, of North Pole, felony third-degree criminal mischief and misdemeanor fourth-degree criminal mischief, Sept. 9 at or near North Pole (4FA-26-02048CR). Dominique Dashea Frey, 21, of North Pole, felony third-degree criminal mischief, Oct. 14 at or near North Pole (4FA-26-02098CR). Ryan Bud James, 46, of Fairbanks, felony first-degree vehicle theft, felony third-degree criminal mischief, two counts of felony third-degree assault and misdemeanor first-degree criminal trespass, Oct. 10 (4FA-26-02067CR). Za' Quiohn E'Mar Arazo, 29, of Fairbanks, felony third-degree assault, three counts of misdemeanor assault when a child is present and misdemeanor fifth-degree criminal mischief, Oct. 10 (4FA-26-02063CR).",
+        "Samuel R. Horner, 52, of Kobuk, felony liquor importation into a local option area, May 11 at or near Fairbanks (4FA-26-02045CR). Jasmine Lynn Jones, 19, of Anchorage, felony importation of alcohol into a dry area, Aug. 7 at or near Fairbanks (4FA-26-02046CR). Jami Joe Harkins, 49, residence not listed, felony third-degree misconduct involving weapons, July 8 at or near Fairbanks (4FA-26-02047CR).",
+        "Charges are as the public safety report states them. Every one of the 14 names matches an open court case. All are charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Daily News-Miner public safety report, Oct. 26",
+          "url": "https://www.newsminer.com/news/public_safety_report/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "thompson-warrant-arrest-1026",
+      "date": "2026-10-26",
+      "time": "06:25",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02163CR",
+        "AK26105655"
+      ],
+      "title": "Warrant arrest: Nicole Noelle Thompson",
+      "body": [
+        "Nicole Noelle Thompson was arrested on an outstanding warrant on the morning of Oct. 26. The court file opened that day does not yet list a charge.",
+        "Troopers say that during a traffic stop near Johansen Expressway and University Avenue at about 2:15 a.m. on Oct. 25, the driver of a red Ford Fusion produced a license in another woman's name, and that the stop ended with several non-criminal citations. They say they later determined the driver was Thompson and that she had given false information. They say the same vehicle was stopped again near Johansen Expressway and Danby Street at about 6:25 a.m. on Oct. 26 after an illegal U-turn, that Thompson was driving and gave the same other name, and that she was taken to the Fairbanks Correctional Center on the warrant and further charges.",
+        "The court record now carries two sets of non-criminal traffic citations for the same three offenses on the night of Oct. 25 — speeding, tinted windows and an open container — one set filed Oct. 25 under the other name and one filed Oct. 26 under Thompson's. The other name is not published here. Alaska State Troopers; case 4FA-26-02163CR, arraignment Nov. 3."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 26",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "pederson-felony-dui-crash-1024",
       "date": "2026-10-24",
@@ -19,8 +168,8 @@
       ],
       "title": "Felony DUI: Nicholas John Pederson",
       "body": [
-        "Nicholas John Pederson is charged with felony driving under the influence, a Class C felony. That means drunk driving with two or more prior convictions, punishable by up to five years.",
-        "Troopers say they were called to a crash on Chena Pump Road at about 11:15 p.m. on Oct. 24 and that he gave a breath sample of .272 after his arrest.",
+        "Nicholas John Pederson is charged with felony driving under the influence — drunk driving with two or more prior convictions — a Class C felony, punishable by up to five years.",
+        "Troopers say they were called to a crash on Chena Pump Road at about 11:15 p.m. on Oct. 24, and that he gave a breath sample of .272 after his arrest.",
         "Alaska State Troopers; case 4FA-26-02159CR, preliminary hearings Nov. 3 and Nov. 12."
       ],
       "sources": [
@@ -52,7 +201,7 @@
       ],
       "title": "Trespass arrest: Gilbert Abraham Frank",
       "body": [
-        "Gilbert Abraham Frank was arrested on Oct. 24 on a trespass report. The court file opened that day does not yet list a charge.",
+        "Gilbert Abraham Frank was arrested on Oct. 24 on a trespass report. The court file opened that day does not list a charge.",
         "Troopers say he refused to leave the Aspen Suites on Old Airport Road when the manager on duty ordered him out, at about 3:45 a.m.",
         "Alaska State Troopers; case 4FA-26-02152CR, arraignment Oct. 30."
       ],
@@ -81,9 +230,9 @@
       ],
       "title": "Escape and assault arrest: Adam Jarrod Dennis",
       "body": [
-        "Adam Jarrod Dennis, 41, is charged with second-degree escape, a Class B felony, and third-degree assault, a Class C felony recorded as domestic violence. Escape means leaving official custody; it carries up to 10 years.",
-        "Fairbanks police arrested him at the 1000 block of Kellum Street at 4:49 a.m. on Oct. 25, police case 26003271.",
-        "Case 4FA-26-02162CR; arraignment Oct. 26 at 1:30 p.m."
+        "Adam Jarrod Dennis, 41, is charged with escape in the second degree — leaving official detention — a Class B felony, punishable by up to 10 years, and with third-degree assault, a Class C felony recorded as domestic violence.",
+        "Fairbanks police arrested him at the 1000 block of Kellum Street at 4:49 a.m. on Oct. 25, police case 26003271. Three further misdemeanor counts are also recorded as domestic violence.",
+        "Case 4FA-26-02162CR; arraignment Oct. 26 at 1:30 p.m., preliminary hearings Nov. 4 and Nov. 12."
       ],
       "sources": [
         {
@@ -106,18 +255,27 @@
       "severity": "felony",
       "cases": [
         "26003275",
-        "26003279"
+        "26003279",
+        "4FA-26-02136CR"
       ],
       "title": "Indecent exposure arrests: Samuel Jasiel Benjamin Malone",
       "body": [
-        "Samuel Jasiel Benjamin Malone, 30, was arrested twice on Oct. 25 by Fairbanks police.",
-        "The first arrest, at 3:22 p.m. at the 2400 block of Bjerremark Street, was on stalking and indecent exposure charges recorded by police as misdemeanors. The second, at 8:12 p.m. at Airport Way and Peger Road, was on a first-degree indecent exposure charge recorded by police as a felony, and violating conditions of release.",
-        "Police cases 26003275 and 26003279; no court case has been opened yet."
+        "Samuel Jasiel Benjamin Malone, 30, was arrested twice on Oct. 25 by Fairbanks police. No court case has been opened on either arrest.",
+        "The first arrest, at 3:22 p.m. at the 2400 block of Bjerremark Street, was on charges of second-degree stalking and second-degree indecent exposure, both recorded by police as misdemeanors. The second, at 8:12 p.m. at Airport Way and Peger Road, was on a charge of first-degree indecent exposure with a prior conviction, recorded by police as a felony, and violating conditions of release.",
+        "A separate case opened on Oct. 22 charges him with criminal trespass in the second degree — entering or remaining unlawfully on premises — a Class B misdemeanor, for an offense on Oct. 21. Police cases 26003275 and 26003279; case 4FA-26-02136CR, next court date Oct. 27."
       ],
       "sources": [
         {
           "label": "FPD daily bulletin, Oct. 25",
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System weekly charges report",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         }
       ]
     },
@@ -131,10 +289,10 @@
       "cases": [
         "4FA-26-00725CR"
       ],
-      "title": "Court closures: 18 Interior cases closed Oct. 20–25",
+      "title": "Court closures: 19 Interior cases closed Oct. 20–25",
       "body": [
-        "The Alaska Court System's dispositions list records 18 criminal cases closed at Fairbanks, Nenana and Delta Junction between Oct. 20 and Oct. 25.",
-        "Shad Warren Wood pleaded guilty on Oct. 21 to attempted tampering with physical evidence, case 4FA-26-00725CR. Of the rest, 12 were dismissed by prosecutors or in the furtherance of justice, three were dismissed after a finding of incompetency and three were closed with no charging document filed."
+        "The Alaska Court System's dispositions list records 19 criminal cases closed at Fairbanks, Nenana and Delta Junction between Oct. 20 and Oct. 25.",
+        "Shad Warren Wood pleaded guilty on Oct. 21 to attempted tampering with physical evidence, case 4FA-26-00725CR. It is the only conviction in the set. Of the rest, 12 were dismissed — 10 by prosecutors, one in the furtherance of justice and one under a plea agreement in another case. Three were dismissed after a finding that the defendant was incompetent to stand trial, and three were closed with no charging document filed."
       ],
       "sources": [
         {
@@ -206,19 +364,19 @@
     {
       "case": "4FA-26-01818CR",
       "defendant": "Ostlund, William Bruce",
-      "level": "Felony",
-      "charges": "Controlled substance counts from a drug-enforcement sweep",
+      "level": "Class A felony",
+      "charges": "Three Class A felony counts from a drug-enforcement sweep, all indicted",
       "next": "Nov. 17",
-      "judge": "Not stated on the file",
+      "judge": "Peterson, Earl A",
       "last_docket": "2026-10-21"
     },
     {
       "case": "4FA-26-01890CR",
       "defendant": "Claxton, Dante Nathaniel Larry",
       "level": "Unclassified felony",
-      "charges": "Kidnapping",
-      "next": "Nov. 17",
-      "judge": "Not stated on the file",
+      "charges": "Kidnapping, indicted",
+      "next": "Calendar call Nov. 17; trial week Nov. 30",
+      "judge": "Peterson, Earl A",
       "last_docket": "2026-10-09"
     },
     {
@@ -227,17 +385,44 @@
       "level": "Fugitive from justice",
       "charges": "Arrest before requisition",
       "next": "Nov. 17",
-      "judge": "Not stated on the file",
+      "judge": "Seekins, Ben A",
       "last_docket": "2026-10-16"
     },
     {
       "case": "4FA-26-01896CR",
       "defendant": "Moff, Amanda Elizabeth",
       "level": "Class C felony",
-      "charges": "Tampering",
-      "next": "Nov. 5",
-      "judge": "Not stated on the file",
+      "charges": "Tampering with physical evidence, indicted",
+      "next": "Omnibus Nov. 5",
+      "judge": "Not assigned on the file",
       "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01987CR",
+      "defendant": "Williams, Jordan Henry",
+      "level": "Class A felony",
+      "charges": "First-degree robbery while armed with a deadly weapon, indicted, with misdemeanor reckless endangerment and fifth-degree criminal mischief",
+      "next": "Oct. 28",
+      "judge": "Not assigned on the file",
+      "last_docket": "2026-10-23"
+    },
+    {
+      "case": "4FA-26-02068CR",
+      "defendant": "Bevard, Robbie Dale",
+      "level": "Class B felony",
+      "charges": "Second-degree assault, indicted, recorded as domestic violence, with three misdemeanor counts",
+      "next": "Oct. 28",
+      "judge": "Not assigned on the file",
+      "last_docket": "2026-10-23"
+    },
+    {
+      "case": "4NE-26-00103CR",
+      "defendant": "Ashley, Gregory S",
+      "level": "Class C felony",
+      "charges": "Two counts of third-degree assault, indicted, with three Class A misdemeanor counts; offense at Anderson",
+      "next": "Arraignment Oct. 28; trial week Nov. 30",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-23"
     },
     {
       "case": "4FA-26-02078CR",
@@ -245,7 +430,7 @@
       "level": "Class A felony",
       "charges": "First-degree robbery, taking property by force while armed with a deadly weapon",
       "next": "Oct. 28",
-      "judge": "Not stated on the file",
+      "judge": "Not assigned on the file",
       "last_docket": "2026-10-22"
     },
     {
@@ -288,7 +473,7 @@
       "case": "4NE-26-00104CR",
       "defendant": "Joseph, Aaron Sam",
       "level": "Class B felony",
-      "charges": "Second-degree assault and first-degree burglary, both Class B felonies; third-degree assault, Class C felony, recorded as domestic violence; fourth-degree criminal mischief",
+      "charges": "Second-degree assault and first-degree burglary, both Class B felonies; third-degree assault, Class C felony, recorded as domestic violence; fourth-degree criminal mischief. Offense at Tanana",
       "next": "Preliminary hearings Nov. 3 and Nov. 12",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-24"
@@ -317,8 +502,17 @@
       "level": "Class C felony",
       "charges": "Felony driving under the influence with two or more prior convictions",
       "next": "Preliminary hearings Nov. 3 and Nov. 12",
-      "judge": "Not stated on the file",
+      "judge": "Not assigned on the file",
       "last_docket": "2026-10-25"
+    },
+    {
+      "case": "4FA-26-02163CR",
+      "defendant": "Thompson, Nicole Noelle",
+      "level": "Not stated",
+      "charges": "Charging document pending; arrested on an outstanding warrant Oct. 26",
+      "next": "Arraignment Nov. 3",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-10-26"
     }
   ],
   "sources": [
