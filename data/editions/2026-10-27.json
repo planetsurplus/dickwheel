@@ -1,8 +1,8 @@
 {
   "date": "2026-10-27",
-  "compiled": "06:15 AKDT",
-  "window": "Oct. 25–27, 2026",
-  "summary": "Troopers arrested a Fairbanks woman on Oct. 26 on domestic violence assault charges and two counts of assault in the presence of a child. Samuel Jasiel Benjamin Malone now faces two felony indecent exposure cases from his Oct. 25 arrests. Dustin Edward Walters is charged with felony theft dated Oct. 25. The weekly charges report for Oct. 20 to 26 lists 50 new criminal cases at Fairbanks and one at Nenana.",
+  "compiled": "07:05 AKDT",
+  "window": "Oct. 24–27, 2026",
+  "summary": "Troopers arrested a Fairbanks woman on Oct. 26 on domestic violence assault charges and two counts of assault in the presence of a child. Seven criminal cases were filed at the Fairbanks courthouse on Oct. 26, three of them carrying a felony count, and two older cases appeared in the database the same day. Two of those cases closed on Oct. 26 and can no longer be found in the state's online case database, although the court's weekly report still lists them. No new charge was filed in the Interior overnight. The Alaska Court System's weekly report for Oct. 20 to 26 lists 50 new criminal cases at Fairbanks and one at Nenana, and prints no section for Healy or Delta Junction, which records that those courts had no filings in that week rather than that their records were examined.",
   "commentary": null,
   "entries": [
     {
@@ -18,13 +18,47 @@
       ],
       "title": "DV assault arrest: Billie Foltz",
       "body": [
-        "Billie Foltz, 41, of Fairbanks was arrested on Oct. 26 on domestic violence assault charges and two counts of assault in the presence of a child, troopers say.",
-        "Troopers say the assault was reported at about 7:38 p.m. and happened between about midnight and 1 a.m. that day. Alaska State Troopers case AK26106268; no court case has been opened yet."
+        "Billie Foltz, 41, of Fairbanks was arrested on Oct. 26 on domestic violence assault charges and two counts of assault in the presence of a child. Fourth-degree assault means recklessly causing injury to another person; no charge classification has been filed yet.",
+        "Troopers say a man reported that his partner had assaulted him between about midnight and 1 a.m. that day, and that the report reached them at about 7:38 p.m. Alaska State Troopers case AK26106268.",
+        "No court case has been opened. A search of the state case database on Oct. 27 returned no Fairbanks criminal file under the name."
       ],
       "sources": [
         {
           "label": "AST daily dispatch, Oct. 27",
           "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "malone-felony-charges-1026",
+      "date": "2026-10-26",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "other",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02167CR",
+        "4FA-26-02169CR"
+      ],
+      "title": "Indecent exposure charges: Samuel Jasiel Benjamin Malone",
+      "body": [
+        "Samuel Jasiel Benjamin Malone, 30, is charged in two separate cases with first-degree indecent exposure with a prior conviction, a Class C felony, punishable by up to five years.",
+        "According to Fairbanks Police, he was arrested at the 2400 block of Bjerremark Street at Twenty-Fifth Avenue at 3:22 p.m. on Oct. 25, and again at the 100 block of Airport Way at Peger Road at 8:12 p.m. the same day.",
+        "The first case also charges second-degree stalking, a course of conduct placing another person in fear, a Class A misdemeanor. The second adds violating a condition of release, a Class B misdemeanor.",
+        "Cases 4FA-26-02167CR and 4FA-26-02169CR; preliminary hearings Nov. 5 and Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 25",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -40,43 +74,11 @@
       ],
       "title": "Felony theft charge: Dustin Edward Walters",
       "body": [
-        "Dustin Edward Walters is charged with second-degree theft, a Class C felony. That means taking property worth $750 to $24,999, punishable by up to five years.",
+        "Dustin Edward Walters is charged with second-degree theft, taking property worth $750 to $24,999, a Class C felony punishable by up to five years.",
         "He is also charged with violating a condition of release, a Class B misdemeanor, and cited for driving with a revoked license. The charges are dated Oct. 25 at Fairbanks.",
         "Case 4FA-26-02166CR; preliminary hearings Nov. 5 and Nov. 12."
       ],
       "sources": [
-        {
-          "label": "Alaska CourtView",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        },
-        {
-          "label": "Alaska Court System weekly charges report",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
-        }
-      ]
-    },
-    {
-      "id": "malone-felony-charges-1026",
-      "date": "2026-10-26",
-      "place": "Fairbanks",
-      "agency": "Alaska Court System",
-      "category": "other",
-      "severity": "felony",
-      "cases": [
-        "4FA-26-02167CR",
-        "4FA-26-02169CR"
-      ],
-      "title": "Indecent exposure charges filed: Samuel Jasiel Benjamin Malone",
-      "body": [
-        "Samuel Jasiel Benjamin Malone, 30, is charged in two cases with first-degree indecent exposure with a prior conviction, a Class C felony punishable by up to five years.",
-        "The cases follow his two Fairbanks police arrests on Oct. 25. One adds second-degree stalking, a Class A misdemeanor; the other adds violating a condition of release, a Class B misdemeanor.",
-        "Cases 4FA-26-02167CR and 4FA-26-02169CR; preliminary hearings Nov. 5 and Nov. 12."
-      ],
-      "sources": [
-        {
-          "label": "FPD daily bulletin, Oct. 25",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
-        },
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
@@ -99,17 +101,41 @@
       ],
       "title": "DV assault charges: Thomas James Madison Grover",
       "body": [
-        "Thomas James Madison Grover is charged with fourth-degree assault, recklessly injuring someone, and assault when a child is present. Both are Class A misdemeanors recorded as domestic violence.",
-        "The charges are dated Oct. 25 at Fairbanks. Case 4FA-26-02168CR; pre-trial conference Dec. 24."
+        "Thomas James Madison Grover is charged with fourth-degree assault, recklessly causing injury, and with assault committed when a child is present. Both are Class A misdemeanors recorded as domestic violence.",
+        "The charges are dated Oct. 25 at Fairbanks. Case 4FA-26-02168CR; pre-trial conference Dec. 24 and a trial week set for Dec. 7."
       ],
       "sources": [
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "frasure-theft-1024",
+      "date": "2026-10-24",
+      "time": "13:43",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02170CR"
+      ],
+      "title": "Theft charge: William Howard Frasure",
+      "body": [
+        "William Howard Frasure, 36, is charged with third-degree theft, taking property worth $250 to $749, a Class A misdemeanor.",
+        "According to Fairbanks Police, he was arrested at the 100 block of Illinois Street at Phillips Field Road at 1:43 p.m. on Oct. 24.",
+        "Case 4FA-26-02170CR; pre-trial conference Dec. 17."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         },
         {
-          "label": "Alaska Court System weekly charges report",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -127,9 +153,9 @@
       ],
       "title": "False-name traffic stop arrest: Nicole Noelle Thompson",
       "body": [
-        "Nicole Noelle Thompson was arrested on Oct. 26 on a warrant and additional charges after troopers say she twice gave another woman's name at traffic stops.",
-        "Troopers say she was first stopped for speeding near Johansen Expressway and University Avenue at about 2:15 a.m. on Oct. 25, and stopped again in the same area at about 6:25 a.m. on Oct. 26.",
-        "Case 4FA-26-02163CR, charge not yet filed; arraignment Nov. 3."
+        "Nicole Noelle Thompson was arrested on Oct. 26 on an outstanding warrant and additional charges after troopers say she twice gave another woman's name at traffic stops.",
+        "Troopers say she was stopped for speeding near Johansen Expressway and University Avenue at about 2:15 a.m. on Oct. 25, and stopped again in the same area at about 6:25 a.m. on Oct. 26 after an illegal U-turn.",
+        "Case 4FA-26-02163CR, where no charging document has been filed yet; arraignment Nov. 3."
       ],
       "sources": [
         {
@@ -143,19 +169,69 @@
       ]
     },
     {
-      "id": "frasure-theft-1024",
-      "date": "2026-10-24",
+      "id": "ashely-moore-warrant-1026",
+      "date": "2026-10-23",
       "place": "Fairbanks",
       "agency": "Alaska Court System",
-      "category": "property",
+      "category": "violent",
       "severity": "misdemeanor",
       "cases": [
-        "4FA-26-02170CR"
+        "4FA-26-02164CR"
       ],
-      "title": "Third theft case: William Howard Frasure",
+      "title": "DV assault charge and warrant: Tatyana May Alayzia Bet Ashely-Moore",
       "body": [
-        "William Howard Frasure is charged in a third case with third-degree theft, taking property worth $250 to $749, a Class A misdemeanor dated Oct. 24 at Fairbanks.",
-        "Case 4FA-26-02170CR; pre-trial conference Dec. 17."
+        "Tatyana May Alayzia Bet Ashely-Moore is charged with fourth-degree assault, recklessly causing injury, a Class A misdemeanor recorded as domestic violence. The charge is dated Oct. 11 at Fairbanks and the case was filed Oct. 23.",
+        "The court issued a warrant for her arrest on Oct. 26 with a $500 unsecured appearance bond. No hearing is set. Case 4FA-26-02164CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "eakin-dismissed-1026",
+      "date": "2026-10-26",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02165CR"
+      ],
+      "title": "Case dismissed for lack of probable cause: Jess Lee Antonich Eakin",
+      "body": [
+        "A criminal case filed against Jess Lee Antonich Eakin on Oct. 23 was dismissed on Oct. 26 on a finding of no probable cause, and the case was closed the same day.",
+        "The case charged unlawful contact in breach of a court order, contacting someone a court order forbids contacting, a Class A misdemeanor recorded as domestic violence, and violating a condition of release, a Class B misdemeanor. Both charges were dated Oct. 22 at Fairbanks.",
+        "Case 4FA-26-02165CR. The case is listed in the Alaska Court System's weekly charges report but no longer appears in the state's online case database."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System weekly charges report",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "records-withdrawn-1027",
+      "date": "2026-10-27",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02171CR"
+      ],
+      "title": "Two Fairbanks cases closed Monday can no longer be looked up online",
+      "body": [
+        "Two criminal cases at the Fairbanks courthouse that closed on Oct. 26 can no longer be found in the Alaska Court System's public case database, by case number or by party name.",
+        "Case 4FA-26-02165CR, filed Oct. 23, was dismissed for lack of probable cause. Case 4FA-26-02171CR, filed the same day it closed, against Michael Wright-Germany, was closed with a docket entry reading that no complaint or citation had been filed.",
+        "Both case numbers are printed in the court system's weekly charges report for Oct. 20 to 26, which was produced at 9:01 p.m. on Oct. 26, after both cases closed. The seven other cases filed at Fairbanks that day can still be looked up."
       ],
       "sources": [
         {
@@ -221,10 +297,28 @@
         "felony": false
       },
       {
+        "case": "4FA-26-02164CR",
+        "defendant": "Ashely-Moore, Tatyana May Alayzia Bet",
+        "charges": "Fourth-degree assault, Class A misdemeanor, domestic violence. Warrant issued Oct. 26.",
+        "felony": false
+      },
+      {
         "case": "4FA-26-02163CR",
         "defendant": "Thompson, Nicole Noelle",
         "charges": "Charging document pending.",
         "felony": false
+      },
+      {
+        "case": "4FA-26-02172CR",
+        "defendant": "Keys, Michael",
+        "charges": "Charging document pending; no offense date or location recorded.",
+        "felony": false
+      },
+      {
+        "case": "4NE-26-00104CR",
+        "defendant": "Joseph, Aaron Sam",
+        "charges": "Second-degree assault and first-degree burglary, Class B felonies; third-degree assault, Class C felony, domestic violence; fourth-degree criminal mischief. Offense location Tanana, outside the Fairbanks area.",
+        "felony": true
       }
     ]
   },
@@ -251,8 +345,8 @@
       "case": "4FA-26-01644CR",
       "defendant": "Rudolph-Munro, Cody Steven",
       "level": "Felony",
-      "charges": "Case disposed on a change of plea; scheduled omnibus and trial week both vacated",
-      "next": "None",
+      "charges": "Case disposed on a change of plea",
+      "next": "Omnibus hearing Dec. 10; trial week Jan. 4, 2027",
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-14"
     },
@@ -261,7 +355,7 @@
       "defendant": "Burks, Joshua Jon",
       "level": "Class B felony",
       "charges": "Two Class B felony counts, count one indicted",
-      "next": "Nov. 3",
+      "next": "Omnibus hearing Nov. 3; trial week Nov. 16",
       "judge": "Welch, Amy K",
       "last_docket": "2026-10-13"
     },
@@ -270,8 +364,8 @@
       "defendant": "Ostlund, William Bruce",
       "level": "Felony",
       "charges": "Controlled substance counts from a drug-enforcement sweep",
-      "next": "Nov. 17",
-      "judge": "Not stated on the file",
+      "next": "Calendar call Nov. 17; trial week Nov. 30",
+      "judge": "Peterson, Earl A",
       "last_docket": "2026-10-21"
     },
     {
@@ -279,8 +373,8 @@
       "defendant": "Claxton, Dante Nathaniel Larry",
       "level": "Unclassified felony",
       "charges": "Kidnapping",
-      "next": "Nov. 17",
-      "judge": "Not stated on the file",
+      "next": "Omnibus hearing Nov. 5; calendar call Nov. 17; trial week Nov. 23",
+      "judge": "Peterson, Earl A",
       "last_docket": "2026-10-09"
     },
     {
@@ -288,8 +382,8 @@
       "defendant": "Clarke, Brenden James",
       "level": "Fugitive from justice",
       "charges": "Arrest before requisition",
-      "next": "Nov. 17",
-      "judge": "Not stated on the file",
+      "next": "Fugitive from justice hearing Nov. 17",
+      "judge": "Seekins, Ben A",
       "last_docket": "2026-10-16"
     },
     {
@@ -297,8 +391,8 @@
       "defendant": "Moff, Amanda Elizabeth",
       "level": "Class C felony",
       "charges": "Tampering",
-      "next": "Nov. 5",
-      "judge": "Not stated on the file",
+      "next": "Omnibus hearings Nov. 5 and Dec. 1; trial week Nov. 23",
+      "judge": "Not assigned",
       "last_docket": "2026-10-07"
     },
     {
@@ -306,16 +400,16 @@
       "defendant": "Schwietert, Daniel Zachary",
       "level": "Class A felony",
       "charges": "First-degree robbery, taking property by force while armed with a deadly weapon",
-      "next": "Oct. 28",
-      "judge": "Not stated on the file",
+      "next": "Bail hearing Oct. 28; preliminary hearing Nov. 2",
+      "judge": "Seekins, Ben A",
       "last_docket": "2026-10-22"
     },
     {
       "case": "4FA-26-02067CR",
       "defendant": "James, Ryan Bud",
       "level": "Class C felony",
-      "charges": "First-degree vehicle theft, third-degree criminal mischief and third-degree assault, each a Class C felony, after a Class B felony burglary count was dismissed on Oct. 23",
-      "next": "Superior Court arraignment Oct. 28; trial week Nov. 23",
+      "charges": "First-degree vehicle theft, third-degree criminal mischief and third-degree assault, after a Class B felony burglary count was dismissed on Oct. 23",
+      "next": "Superior Court arraignment Oct. 28; preliminary hearing Oct. 29; omnibus hearing Nov. 5",
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-23"
     },
@@ -333,7 +427,7 @@
       "defendant": "Drayton, Paidan Brentley",
       "level": "Class B felony",
       "charges": "First-degree burglary in a dwelling, recorded as domestic violence, with first-degree criminal trespass and violating conditions of release",
-      "next": "Nov. 2",
+      "next": "Preliminary hearings Nov. 2 and Nov. 12",
       "judge": "Temple, Thomas I",
       "last_docket": "2026-10-23"
     },
@@ -342,15 +436,15 @@
       "defendant": "Pitka, Julia Ann",
       "level": "Class B felony",
       "charges": "Third-degree misconduct involving a controlled substance, manufacture or delivery, with theft and other counts",
-      "next": "Nov. 5",
-      "judge": "Schwalm",
+      "next": "Preliminary hearings Oct. 28 and Nov. 5",
+      "judge": "Schwalm, Kirk F",
       "last_docket": "2026-10-22"
     },
     {
       "case": "4NE-26-00104CR",
       "defendant": "Joseph, Aaron Sam",
       "level": "Class B felony",
-      "charges": "Second-degree assault and first-degree burglary, both Class B felonies; third-degree assault, Class C felony, recorded as domestic violence; fourth-degree criminal mischief",
+      "charges": "Second-degree assault and first-degree burglary, both Class B felonies; third-degree assault, Class C felony, recorded as domestic violence; fourth-degree criminal mischief. Offense location Tanana",
       "next": "Preliminary hearings Nov. 3 and Nov. 12",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-24"
@@ -362,7 +456,7 @@
       "charges": "Arrest before requisition",
       "next": "Fugitive from justice hearing Nov. 20",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-10-24"
+      "last_docket": "2026-10-26"
     },
     {
       "case": "4FA-26-02162CR",
@@ -371,15 +465,15 @@
       "charges": "Second-degree escape, a Class B felony, with third-degree assault, a Class C felony recorded as domestic violence, and three further misdemeanor counts",
       "next": "Preliminary hearings Nov. 4 and Nov. 12",
       "judge": "Temple, Thomas I",
-      "last_docket": "2026-10-25"
+      "last_docket": "2026-10-26"
     },
     {
       "case": "4FA-26-02159CR",
       "defendant": "Pederson, Nicholas John",
       "level": "Class C felony",
       "charges": "Felony driving under the influence with two or more prior convictions",
-      "next": "Preliminary hearings Nov. 3 and Nov. 12",
-      "judge": "Not stated on the file",
+      "next": "Preliminary hearings Nov. 3, Nov. 10 and Nov. 12",
+      "judge": "Not assigned",
       "last_docket": "2026-10-25"
     },
     {
@@ -388,7 +482,7 @@
       "level": "Class C felony",
       "charges": "Second-degree theft, property worth $750 to $24,999",
       "next": "Preliminary hearings Nov. 5 and Nov. 12",
-      "judge": "Peterson",
+      "judge": "Peterson, Earl A",
       "last_docket": "2026-10-26"
     },
     {
@@ -406,8 +500,105 @@
       "level": "Class C felony",
       "charges": "First-degree indecent exposure with a prior conviction; second-degree stalking",
       "next": "Preliminary hearings Nov. 5 and Nov. 12",
-      "judge": "Welch",
+      "judge": "Welch, Amy K",
       "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02168CR",
+      "defendant": "Grover, Thomas James Madison",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree assault and assault when a child is present, both recorded as domestic violence",
+      "next": "Trial week Dec. 7; pre-trial conference Dec. 24",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02170CR",
+      "defendant": "Frasure, William Howard",
+      "level": "Class A misdemeanor",
+      "charges": "Third-degree theft, property worth $250 to $749",
+      "next": "Pre-trial conference Dec. 17; trial week Dec. 28",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02164CR",
+      "defendant": "Ashely-Moore, Tatyana May Alayzia Bet",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree assault, recorded as domestic violence; warrant issued Oct. 26",
+      "next": "None set",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02163CR",
+      "defendant": "Thompson, Nicole Noelle",
+      "level": "Not stated",
+      "charges": "Charging document pending or not filed",
+      "next": "Arraignment Nov. 3",
+      "judge": "Christian, Matthew C"
+    },
+    {
+      "case": "4FA-26-02172CR",
+      "defendant": "Keys, Michael",
+      "level": "Not stated",
+      "charges": "Charging document pending or not filed; no offense date or location recorded",
+      "next": "None set",
+      "judge": "Bahr, Maria P"
+    },
+    {
+      "case": "4DJ-26-00060CR",
+      "defendant": "Dollar, Nicholas Gene",
+      "level": "Class B felony",
+      "charges": "Second-degree arson, damaging a building by fire with intent, indicted as a Class B felony and recorded as domestic violence, with fourth-degree criminal mischief",
+      "next": "Omnibus hearing Nov. 5; trial week Nov. 23",
+      "judge": "Not assigned",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4DJ-26-00062CR",
+      "defendant": "Budnik, Pavel Ivanovich",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree assault recorded as domestic violence, first-degree harassment, and two counts of violating conditions of release",
+      "next": "Representation hearing Oct. 27; trial status Oct. 28; bail hearing Oct. 29; trial week Nov. 2",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4DJ-26-00061CR",
+      "defendant": "Guisasola, Kaleb Christopher",
+      "level": "Class A misdemeanor",
+      "charges": "Wanton waste of big game, with a non-criminal game violation",
+      "next": "Rural calendar call Dec. 15",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00063CR",
+      "defendant": "Davis, Tracie",
+      "level": "Misdemeanor, not classified",
+      "charges": "Permitting an unauthorized person to drive",
+      "next": "None set",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4DJ-26-00064CR",
+      "defendant": "Foreman, Chad Leo",
+      "level": "Class A misdemeanor",
+      "charges": "Wanton waste of big game and two hunting-regulation counts; summons issued Oct. 26",
+      "next": "None set",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4DJ-26-00065CR",
+      "defendant": "Martin, Jacob Andrew",
+      "level": "Misdemeanor, not classified",
+      "charges": "Permitting an unauthorized person to drive",
+      "next": "None set",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-16"
     }
   ],
   "sources": [
