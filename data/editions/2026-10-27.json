@@ -1,32 +1,57 @@
 {
   "date": "2026-10-27",
-  "compiled": "07:05 AKDT",
+  "compiled": "17:20 AKDT",
   "window": "Oct. 24–27, 2026",
-  "summary": "Troopers arrested a Fairbanks woman on Oct. 26 on domestic violence assault charges and two counts of assault in the presence of a child. Seven criminal cases were filed at the Fairbanks courthouse on Oct. 26, three of them carrying a felony count, and two older cases appeared in the database the same day. Two of those cases closed on Oct. 26 and can no longer be found in the state's online case database, although the court's weekly report still lists them. No new charge was filed in the Interior overnight. The Alaska Court System's weekly report for Oct. 20 to 26 lists 50 new criminal cases at Fairbanks and one at Nenana, and prints no section for Healy or Delta Junction, which records that those courts had no filings in that week rather than that their records were examined.",
+  "summary": "Troopers arrested a Fairbanks woman on Oct. 26 on domestic violence assault charges, and the case filed against her the next day charges second-degree robbery, a Class B felony, with four further counts. Four criminal cases were filed inside the Fairbanks area on Oct. 27, three at the Fairbanks courthouse and one at Delta Junction, and two cases that closed on Oct. 26 still cannot be found in the state's online case database although the court's weekly report lists them. The Alaska Court System's weekly report for Oct. 20 to 26 lists 50 new criminal cases at Fairbanks and one at Nenana, and prints no section for Healy or Delta Junction, which records that those courts had no filings in that week rather than that their records were examined; the four cases filed on Oct. 27, Delta Junction's among them, fall after that window closed.",
   "commentary": null,
   "entries": [
     {
-      "id": "foltz-dv-arrest-1026",
+      "id": "foltz-robbery-1026",
       "date": "2026-10-26",
       "time": "19:38",
       "place": "Fairbanks",
       "agency": "Alaska State Troopers",
       "category": "violent",
-      "severity": "other",
+      "severity": "felony",
       "cases": [
+        "4FA-26-02175CR",
         "AK26106268"
       ],
-      "title": "DV assault arrest: Billie Foltz",
+      "title": "Felony robbery and assault charges: Billie Lee Foltz",
       "body": [
-        "Billie Foltz, 41, of Fairbanks was arrested on Oct. 26 on domestic violence assault charges and two counts of assault in the presence of a child. Fourth-degree assault means recklessly causing injury to another person; no charge classification has been filed yet.",
-        "Troopers say a man reported that his partner had assaulted him between about midnight and 1 a.m. that day, and that the report reached them at about 7:38 p.m. Alaska State Troopers case AK26106268.",
-        "No court case has been opened. A search of the state case database on Oct. 27 returned no Fairbanks criminal file under the name."
+        "Billie Lee Foltz, 41, of Fairbanks is charged with robbery in the second degree — using force to prevent resistance to taking property — a Class B felony, punishable by up to 10 years.",
+        "The case also charges assault in the third degree, causing fear of injury with a weapon, a Class C felony punishable by up to five years; assault in the fourth degree, recklessly causing injury; and two counts of assault committed when a child is present, both Class A misdemeanors. All five counts are recorded as domestic violence and are dated Oct. 26 at Fairbanks.",
+        "Troopers say they received a report at about 7:38 p.m. on Oct. 26 of a domestic violence assault that had happened between about midnight and 1 a.m. that day, and that she was arrested and taken to the Fairbanks Correctional Center. Alaska State Troopers case AK26106268.",
+        "Case 4FA-26-02175CR; arraignment was held Oct. 27 and preliminary hearings are set for Nov. 5 and Nov. 16."
       ],
       "sources": [
         {
           "label": "AST daily dispatch, Oct. 27",
           "url": "https://dailydispatch.dps.alaska.gov"
         },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "kirchner-dui-1026",
+      "date": "2026-10-26",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4DJ-26-00066CR"
+      ],
+      "title": "DUI charge: Christian Von Kirchner",
+      "body": [
+        "Christian Von Kirchner is charged with driving under the influence — driving with a blood alcohol level of .08 percent or more — a Class A misdemeanor.",
+        "The case also charges criminal mischief in the fifth degree, damaging property worth less than $250, a Class B misdemeanor. Both counts are dated Oct. 26 at Delta Junction.",
+        "Case 4DJ-26-00066CR; arraignment was held Oct. 27 at the Fairbanks courthouse and a rural calendar call is set for Dec. 15 at Delta Junction."
+      ],
+      "sources": [
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
@@ -47,7 +72,7 @@
       "title": "Indecent exposure charges: Samuel Jasiel Benjamin Malone",
       "body": [
         "Samuel Jasiel Benjamin Malone, 30, is charged in two separate cases with first-degree indecent exposure with a prior conviction, a Class C felony, punishable by up to five years.",
-        "According to Fairbanks Police, he was arrested at the 2400 block of Bjerremark Street at Twenty-Fifth Avenue at 3:22 p.m. on Oct. 25, and again at the 100 block of Airport Way at Peger Road at 8:12 p.m. the same day.",
+        "According to Fairbanks Police, he was arrested at the 2400 block of Bjerremark Street at Twenty-Fifth Avenue at 3:22 p.m. on Oct. 25, and again at the 2400 block of Airport Way at Peger Road at 8:12 p.m. the same day.",
         "The first case also charges second-degree stalking, a course of conduct placing another person in fear, a Class A misdemeanor. The second adds violating a condition of release, a Class B misdemeanor.",
         "Cases 4FA-26-02167CR and 4FA-26-02169CR; preliminary hearings Nov. 5 and Nov. 12."
       ],
@@ -102,7 +127,7 @@
       "title": "DV assault charges: Thomas James Madison Grover",
       "body": [
         "Thomas James Madison Grover is charged with fourth-degree assault, recklessly causing injury, and with assault committed when a child is present. Both are Class A misdemeanors recorded as domestic violence.",
-        "The charges are dated Oct. 25 at Fairbanks. Case 4FA-26-02168CR; pre-trial conference Dec. 24 and a trial week set for Dec. 7."
+        "The charges are dated Oct. 25 at Fairbanks. Case 4FA-26-02168CR; pre-trial conference Dec. 24 and a trial week set for Jan. 4, 2027."
       ],
       "sources": [
         {
@@ -125,7 +150,7 @@
       "title": "Theft charge: William Howard Frasure",
       "body": [
         "William Howard Frasure, 36, is charged with third-degree theft, taking property worth $250 to $749, a Class A misdemeanor.",
-        "According to Fairbanks Police, he was arrested at the 100 block of Illinois Street at Phillips Field Road at 1:43 p.m. on Oct. 24.",
+        "According to Fairbanks Police, he was arrested at the 200 block of Illinois Street at Phillips Field Road at 1:43 p.m. on Oct. 24.",
         "Case 4FA-26-02170CR; pre-trial conference Dec. 17."
       ],
       "sources": [
@@ -243,6 +268,50 @@
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         }
       ]
+    },
+    {
+      "id": "dui-incident-airport-way-1025",
+      "date": "2026-10-25",
+      "time": "04:23",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "26003272"
+      ],
+      "title": "Drunk-driving incident reported on Airport Way",
+      "body": [
+        "Fairbanks Police recorded a driving-under-the-influence incident at the 700 block of Airport Way at Gillam Way at 4:23 a.m. on Oct. 25, reported at 6:03 a.m. No arrest is recorded and nobody is named. Police case 26003272."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 25",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "larceny-sixteenth-ave-1024",
+      "date": "2026-10-24",
+      "time": "22:06",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "26003263"
+      ],
+      "title": "Theft from a building reported on Sixteenth Avenue",
+      "body": [
+        "Fairbanks Police recorded a theft from a building at the 700 block of Sixteenth Avenue, reported at 10:06 p.m. on Oct. 24 and recorded as having happened between 6 a.m. on Oct. 21 and that time. No arrest is recorded and nobody is named. Police case 26003263."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
     }
   ],
   "filings": {
@@ -311,7 +380,7 @@
       {
         "case": "4FA-26-02172CR",
         "defendant": "Keys, Michael",
-        "charges": "Charging document pending; no offense date or location recorded.",
+        "charges": "Driving with a license canceled, revoked or suspended for a criminal offense, Class A misdemeanor, dated Oct. 3 at Fairbanks. Arraignment Oct. 30.",
         "felony": false
       },
       {
@@ -319,6 +388,30 @@
         "defendant": "Joseph, Aaron Sam",
         "charges": "Second-degree assault and first-degree burglary, Class B felonies; third-degree assault, Class C felony, domestic violence; fourth-degree criminal mischief. Offense location Tanana, outside the Fairbanks area.",
         "felony": true
+      },
+      {
+        "case": "4FA-26-02175CR",
+        "defendant": "Foltz, Billie Lee",
+        "charges": "Second-degree robbery, Class B felony; third-degree assault, Class C felony; fourth-degree assault and two counts of assault when a child is present, Class A misdemeanors. All recorded as domestic violence. Filed Oct. 27, after the report's window closed.",
+        "felony": true
+      },
+      {
+        "case": "4DJ-26-00066CR",
+        "defendant": "Kirchner, Christian Von",
+        "charges": "Driving under the influence, Class A misdemeanor; fifth-degree criminal mischief, Class B misdemeanor. Offense location Delta Junction. Filed Oct. 27, after the report's window closed.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02173CR",
+        "defendant": "Dayton, Scott Glen",
+        "charges": "Charging document pending. Filed Oct. 27. Arraignment Nov. 3.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02174CR",
+        "defendant": "Frasure, William Howard",
+        "charges": "Charging document pending; case closed the day it was filed, Oct. 27.",
+        "felony": false
       }
     ]
   },
@@ -477,6 +570,24 @@
       "last_docket": "2026-10-25"
     },
     {
+      "case": "4FA-26-02175CR",
+      "defendant": "Foltz, Billie Lee",
+      "level": "Class B felony",
+      "charges": "Second-degree robbery, a Class B felony, with third-degree assault, a Class C felony, fourth-degree assault and two counts of assault when a child is present. All five counts recorded as domestic violence",
+      "next": "Preliminary hearings Nov. 5 and Nov. 16",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "4DJ-26-00066CR",
+      "defendant": "Kirchner, Christian Von",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence, blood alcohol .08 percent or more, with fifth-degree criminal mischief. Offense location Delta Junction",
+      "next": "Rural calendar call Dec. 15 at Delta Junction",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-27"
+    },
+    {
       "case": "4FA-26-02166CR",
       "defendant": "Walters, Dustin Edward",
       "level": "Class C felony",
@@ -508,9 +619,9 @@
       "defendant": "Grover, Thomas James Madison",
       "level": "Class A misdemeanor",
       "charges": "Fourth-degree assault and assault when a child is present, both recorded as domestic violence",
-      "next": "Trial week Dec. 7; pre-trial conference Dec. 24",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-10-26"
+      "last_docket": "2026-10-27"
     },
     {
       "case": "4FA-26-02170CR",
@@ -541,10 +652,19 @@
     {
       "case": "4FA-26-02172CR",
       "defendant": "Keys, Michael",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with a license canceled, revoked or suspended for a criminal offense, dated Oct. 3 at Fairbanks",
+      "next": "Arraignment Oct. 30",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02173CR",
+      "defendant": "Dayton, Scott Glen",
       "level": "Not stated",
-      "charges": "Charging document pending or not filed; no offense date or location recorded",
-      "next": "None set",
-      "judge": "Bahr, Maria P"
+      "charges": "Charging document pending or not filed",
+      "next": "Arraignment Nov. 3",
+      "judge": "Christian, Matthew C"
     },
     {
       "case": "4DJ-26-00060CR",
@@ -560,7 +680,7 @@
       "defendant": "Budnik, Pavel Ivanovich",
       "level": "Class A misdemeanor",
       "charges": "Fourth-degree assault recorded as domestic violence, first-degree harassment, and two counts of violating conditions of release",
-      "next": "Representation hearing Oct. 27; trial status Oct. 28; bail hearing Oct. 29; trial week Nov. 2",
+      "next": "Trial status Oct. 28; bail hearing Oct. 29; trial week Nov. 2",
       "judge": "Young, Yvette",
       "last_docket": "2026-10-22"
     },
