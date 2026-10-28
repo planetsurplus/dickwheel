@@ -1,10 +1,127 @@
 {
   "date": "2026-10-28",
-  "compiled": "03:50 AKDT",
+  "compiled": "10:45 AKDT",
   "window": "Oct. 26–28, 2026",
-  "summary": "Alaska State Troopers posted three Fairbanks-area items late Tuesday: a North Pole driver arrested on a suspended-license charge, a Fairbanks driver summonsed over marijuana found at a traffic stop, and a hit-and-run at a Geist Road gas station in which no one has been named. Fairbanks Police recorded a harassment and trespass arrest on Oct. 26 behind a court case filed the next day, and the court's weekly report for Oct. 21 to 27 lists 48 new criminal cases at Fairbanks, one at Nenana, one at Delta Junction and none at Healy; three of the Fairbanks numbers had not appeared in this report before and one of them cannot be found in the state's online case database.",
+  "summary": "Troopers arrested a North Pole man on Oct. 27 after a domestic disturbance left a home heavily damaged; the charge filed in court is fourth-degree criminal mischief. Four new criminal cases were opened at the Fairbanks courthouse on Oct. 28, all with North Pole offense locations. Troopers are asking for information about Sterling DeWilde, 45, of Fairbanks, reported missing Oct. 24. Alaska State Troopers posted three Fairbanks-area items late Tuesday: a North Pole driver arrested on a suspended-license charge, a Fairbanks driver summonsed over marijuana found at a traffic stop, and a hit-and-run at a Geist Road gas station in which no one has been named. Fairbanks Police recorded a harassment and trespass arrest on Oct. 26 behind a court case filed the next day, and the court's weekly report for Oct. 21 to 27 lists 48 new criminal cases at Fairbanks, one at Nenana, one at Delta Junction and none at Healy; three of the Fairbanks numbers had not appeared in this report before and one of them cannot be found in the state's online case database.",
   "commentary": null,
   "entries": [
+    {
+      "id": "benefield-dv-mischief-1027",
+      "date": "2026-10-27",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02178CR",
+        "AK26106428"
+      ],
+      "title": "DV criminal mischief charge: Dalton Curtis Wayne Benefield",
+      "body": [
+        "Dalton Curtis Wayne Benefield is charged with fourth-degree criminal mischief, damaging property worth $250 to $749, a Class A misdemeanor recorded as domestic violence.",
+        "Troopers say they responded to a domestic disturbance at a home on Homer Drive in North Pole and found extensive damage to the residence. Troopers arrested him on a third-degree count, for damage over $750; the charge filed in court is the lower fourth-degree count.",
+        "Case 4FA-26-02178CR; arraigned Oct. 28, pre-trial conference Dec. 24."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 28",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "hannum-dv-assault-1028",
+      "date": "2026-10-28",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02179CR"
+      ],
+      "title": "DV assault charges: Maia Mae Hannum",
+      "body": [
+        "Maia Mae Hannum is charged with fourth-degree assault, recklessly injuring someone, and two counts of assault when a child is present. All three are Class A misdemeanors recorded as domestic violence.",
+        "The charges are dated Oct. 28 at North Pole. Case 4FA-26-02179CR; arraigned Oct. 28, pre-trial conference Dec. 24."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "north-pole-dv-arrest-1028",
+      "date": "2026-10-28",
+      "time": "06:00",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26106667"
+      ],
+      "title": "Domestic assault arrest in North Pole",
+      "body": [
+        "Troopers say they responded to a domestic disturbance at a North Pole home at about 6 a.m. on Oct. 28 and arrested a woman on an assault charge committed in the presence of two children. The release does not name her.",
+        "Alaska State Troopers case AK26106667."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 28",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "harris-theft-1027",
+      "date": "2026-10-27",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02177CR"
+      ],
+      "title": "Theft charge: Samuel Martese-Tutton Harris",
+      "body": [
+        "Samuel Martese-Tutton Harris is charged with third-degree theft, taking property worth less than $250 with prior theft convictions, a Class A misdemeanor dated Oct. 27 at North Pole.",
+        "Case 4FA-26-02177CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dewilde-missing-1028",
+      "date": "2026-10-28",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "26003257"
+      ],
+      "title": "Missing person: Sterling DeWilde",
+      "body": [
+        "Sterling DeWilde, 45, of Fairbanks was reported missing to Fairbanks police on Oct. 24 and was last heard from on Sept. 11, troopers say. A search is under way in the Fairbanks and Huslia areas.",
+        "Anyone with information is asked to call Fairbanks police at 907-450-6500, case 26-3257."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 28",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
     {
       "id": "carpentino-dwls-1027",
       "date": "2026-10-27",
@@ -14,18 +131,23 @@
       "category": "other",
       "severity": "misdemeanor",
       "cases": [
+        "4FA-26-02176CR",
         "AK26106550"
       ],
       "title": "Suspended-license arrest: James Carpentino",
       "body": [
         "James Carpentino, 48, of North Pole, was arrested on a charge of driving while his license was canceled, suspended or revoked — driving while a criminal-offense license suspension is in force — recorded by troopers as a Class A misdemeanor.",
         "Troopers say they stopped him for a moving violation on Oct. 27 at about 5:09 p.m., and that the investigation showed his license was actively suspended for a criminal offense and that he had a prior conviction for the same offense within the last 10 years. He was taken to the Fairbanks Correctional Center.",
-        "Alaska State Troopers case AK26106550. No court case has been filed."
+        "Alaska State Troopers case AK26106550. Court case 4FA-26-02176CR was opened Oct. 28; no charging document has been filed yet. Arraignment Nov. 3."
       ],
       "sources": [
         {
           "label": "AST daily dispatch, Oct. 27",
           "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -209,6 +331,30 @@
       }
     ],
     "new": [
+      {
+        "case": "4FA-26-02176CR",
+        "defendant": "Carpentino, James Patrick",
+        "charges": "Charging document pending. Offense location North Pole.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02177CR",
+        "defendant": "Harris, Samuel Martese-Tutton",
+        "charges": "Third-degree theft with prior convictions, Class A misdemeanor. Offense location North Pole.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02178CR",
+        "defendant": "Benefield, Dalton Curtis Wayne",
+        "charges": "Fourth-degree criminal mischief, Class A misdemeanor, domestic violence. Offense location North Pole.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02179CR",
+        "defendant": "Hannum, Maia Mae",
+        "charges": "Fourth-degree assault and two counts of assault when a child is present, Class A misdemeanors, domestic violence. Offense location North Pole.",
+        "felony": false
+      },
       {
         "case": "4FA-26-02127CR",
         "defendant": "Keogh, Annette",
