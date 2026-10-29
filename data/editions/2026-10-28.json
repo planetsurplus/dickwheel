@@ -1,10 +1,117 @@
 {
   "date": "2026-10-28",
-  "compiled": "10:45 AKDT",
-  "window": "Oct. 26–28, 2026",
-  "summary": "Troopers arrested a North Pole man on Oct. 27 after a domestic disturbance left a home heavily damaged; the charge filed in court is fourth-degree criminal mischief. Four new criminal cases were opened at the Fairbanks courthouse on Oct. 28, all with North Pole offense locations. Troopers are asking for information about Sterling DeWilde, 45, of Fairbanks, reported missing Oct. 24. Alaska State Troopers posted three Fairbanks-area items late Tuesday: a North Pole driver arrested on a suspended-license charge, a Fairbanks driver summonsed over marijuana found at a traffic stop, and a hit-and-run at a Geist Road gas station in which no one has been named. Fairbanks Police recorded a harassment and trespass arrest on Oct. 26 behind a court case filed the next day, and the court's weekly report for Oct. 21 to 27 lists 48 new criminal cases at Fairbanks, one at Nenana, one at Delta Junction and none at Healy; three of the Fairbanks numbers had not appeared in this report before and one of them cannot be found in the state's online case database.",
+  "compiled": "17:17 AKDT",
+  "window": "Oct. 21–28, 2026",
+  "summary": "Eleven criminal case numbers were opened at the Fairbanks courthouse on Oct. 28 in which the court names no defendant, recording each only as “Grand Jury.” The court file behind an Oct. 26 Fairbanks harassment and trespass arrest was filled in during the afternoon and charges Scott Glen Dayton with two Class B misdemeanors. Troopers say an inmate assault at the Fairbanks Correctional Center on Oct. 27 has been referred to prosecutors, and a new Fairbanks assault charge was filed by summons against Kenneth Tyrell White over an Oct. 21 incident. Earlier in the day troopers reported a domestic assault arrest at North Pole, a suspended-license arrest, a marijuana summons and a hit-and-run at a Geist Road gas station, and are searching for Sterling DeWilde, 45, of Fairbanks. A fourth Fairbanks case number can no longer be looked up in the state's public case database. The court's weekly report for Oct. 21 to 27 counts 48 new criminal cases at Fairbanks, one at Nenana, one at Delta Junction and none at Healy; those are the report's own counts for its own window and do not include the twelve cases opened on Oct. 28.",
   "commentary": null,
   "entries": [
+    {
+      "id": "grand-jury-shells-1028",
+      "date": "2026-10-28",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02180CR",
+        "4FA-26-02190CR"
+      ],
+      "title": "Eleven Fairbanks criminal case numbers opened with no defendant named",
+      "body": [
+        "Eleven criminal case numbers were opened at the Fairbanks courthouse on Oct. 28 in which the court records the defendant only as “Grand Jury.” Each carries a single count recorded as a charging document pending or not filed, with no degree of offense, and none has a hearing set.",
+        "No person is named on any of the eleven and no charge, place or time is recorded on them. Cases 4FA-26-02180CR through 4FA-26-02190CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "white-assault-1021",
+      "date": "2026-10-21",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02191CR"
+      ],
+      "title": "Assault charge: Kenneth Tyrell White",
+      "body": [
+        "Kenneth Tyrell White is charged with assault in the fourth degree — recklessly causing injury to another person — a Class A misdemeanor. The charge is dated Oct. 21 at Fairbanks.",
+        "The case was opened at the Fairbanks courthouse on Oct. 28 on a charging document from Fairbanks Police, and a summons was issued the same day. He was not arrested.",
+        "Case 4FA-26-02191CR. No hearing is set."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "guzman-fcc-assault-1027",
+      "date": "2026-10-27",
+      "time": "21:00",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26106628"
+      ],
+      "title": "Assault report at the Fairbanks jail referred for charges: Sharai Guzman",
+      "body": [
+        "Troopers say the Fairbanks Correctional Center reported an inmate assault on Oct. 27 at about 9 p.m., and that their investigation found Sharai Guzman committed assault in the fourth degree — recklessly causing injury to another person — not involving domestic violence.",
+        "Troopers say charges were forwarded to the District Attorney's Office for review. No arrest was reported and no charge has been filed in court; no 2026 case appears under that name in the state's case database.",
+        "Alaska State Troopers case AK26106628."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dayton-harassment-1026",
+      "date": "2026-10-26",
+      "time": "23:12",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02173CR",
+        "26003289"
+      ],
+      "title": "Harassment and trespass charges: Scott Glen Dayton",
+      "body": [
+        "Scott Glen Dayton, 29, is charged with criminal trespass in the second degree — entering or remaining on premises unlawfully — and harassment in the second degree — conduct likely to provoke a violent response. Both are Class B misdemeanors.",
+        "Fairbanks Police record the arrest at the 1300 block of South University Avenue on Oct. 26 at 11:12 p.m. Police case 26003289.",
+        "Case 4FA-26-02173CR; the complaint was filed Oct. 28 and he was released on standard conditions. Arraignment Nov. 3."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "benefield-dv-mischief-1027",
       "date": "2026-10-27",
@@ -18,13 +125,13 @@
       ],
       "title": "DV criminal mischief charge: Dalton Curtis Wayne Benefield",
       "body": [
-        "Dalton Curtis Wayne Benefield is charged with fourth-degree criminal mischief, damaging property worth $250 to $749, a Class A misdemeanor recorded as domestic violence.",
+        "Dalton Curtis Wayne Benefield is charged with criminal mischief in the fourth degree — damaging property worth $250 to $749 — a Class A misdemeanor recorded as domestic violence.",
         "Troopers say they responded to a domestic disturbance at a home on Homer Drive in North Pole and found extensive damage to the residence. Troopers arrested him on a third-degree count, for damage over $750; the charge filed in court is the lower fourth-degree count.",
-        "Case 4FA-26-02178CR; arraigned Oct. 28, pre-trial conference Dec. 24."
+        "Case 4FA-26-02178CR; arraigned Oct. 28, pre-trial conference Dec. 24, trial week Jan. 4, 2027."
       ],
       "sources": [
         {
-          "label": "AST daily dispatch, Oct. 28",
+          "label": "AST daily dispatch",
           "url": "https://dailydispatch.dps.alaska.gov"
         },
         {
@@ -45,8 +152,8 @@
       ],
       "title": "DV assault charges: Maia Mae Hannum",
       "body": [
-        "Maia Mae Hannum is charged with fourth-degree assault, recklessly injuring someone, and two counts of assault when a child is present. All three are Class A misdemeanors recorded as domestic violence.",
-        "The charges are dated Oct. 28 at North Pole. Case 4FA-26-02179CR; arraigned Oct. 28, pre-trial conference Dec. 24."
+        "Maia Mae Hannum is charged with assault in the fourth degree — recklessly causing injury to another person — and two counts of assault when a child is present. All three are Class A misdemeanors recorded as domestic violence.",
+        "The charges are dated Oct. 28 at North Pole. Case 4FA-26-02179CR; arraigned Oct. 28, pre-trial conference Dec. 24, trial week Jan. 4, 2027."
       ],
       "sources": [
         {
@@ -73,7 +180,7 @@
       ],
       "sources": [
         {
-          "label": "AST daily dispatch, Oct. 28",
+          "label": "AST daily dispatch",
           "url": "https://dailydispatch.dps.alaska.gov"
         }
       ]
@@ -90,8 +197,8 @@
       ],
       "title": "Theft charge: Samuel Martese-Tutton Harris",
       "body": [
-        "Samuel Martese-Tutton Harris is charged with third-degree theft, taking property worth less than $250 with prior theft convictions, a Class A misdemeanor dated Oct. 27 at North Pole.",
-        "Case 4FA-26-02177CR."
+        "Samuel Martese-Tutton Harris is charged with theft in the third degree — taking property worth less than $250, with prior theft convictions — a Class A misdemeanor. The charge is dated Oct. 27 at North Pole.",
+        "Case 4FA-26-02177CR; arraignment Nov. 3."
       ],
       "sources": [
         {
@@ -117,7 +224,7 @@
       ],
       "sources": [
         {
-          "label": "AST daily dispatch, Oct. 28",
+          "label": "AST daily dispatch",
           "url": "https://dailydispatch.dps.alaska.gov"
         }
       ]
@@ -136,13 +243,13 @@
       ],
       "title": "Suspended-license arrest: James Carpentino",
       "body": [
-        "James Carpentino, 48, of North Pole, was arrested on a charge of driving while his license was canceled, suspended or revoked — driving while a criminal-offense license suspension is in force — recorded by troopers as a Class A misdemeanor.",
-        "Troopers say they stopped him for a moving violation on Oct. 27 at about 5:09 p.m., and that the investigation showed his license was actively suspended for a criminal offense and that he had a prior conviction for the same offense within the last 10 years. He was taken to the Fairbanks Correctional Center.",
-        "Alaska State Troopers case AK26106550. Court case 4FA-26-02176CR was opened Oct. 28; no charging document has been filed yet. Arraignment Nov. 3."
+        "James Carpentino, 48, of North Pole, was arrested on a charge of driving while his license was canceled, suspended or revoked — driving while a license suspension for a criminal offense is in force — recorded by troopers as a Class A misdemeanor.",
+        "Troopers say they stopped him for a moving violation on Oct. 27 at about 5:09 p.m., that the investigation showed his license was actively suspended for a criminal offense, and that he had a prior conviction for the same offense within the last 10 years. He was taken to the Fairbanks Correctional Center.",
+        "Alaska State Troopers case AK26106550. Court case 4FA-26-02176CR was opened Oct. 28; no charging document has been filed. Arraignment Nov. 3."
       ],
       "sources": [
         {
-          "label": "AST daily dispatch, Oct. 27",
+          "label": "AST daily dispatch",
           "url": "https://dailydispatch.dps.alaska.gov"
         },
         {
@@ -164,13 +271,13 @@
       ],
       "title": "Marijuana summons: Jeremyah Murphy",
       "body": [
-        "Jeremyah Murphy, 18, was issued a summons on a charge of misconduct involving a controlled substance in the sixth degree and released at the scene.",
-        "Troopers say they stopped the vehicle on Geist Road at about 8:05 p.m. on Oct. 27 because it had no illuminated rear license plate, detected the odor of marijuana, and that Murphy voluntarily provided several dispensary containers, one of which held a partly smoked blunt.",
+        "Jeremyah Murphy, 18, was issued a summons on a charge of misconduct involving a controlled substance in the sixth degree — possessing a small amount of marijuana in breach of the state's limits — and released at the scene.",
+        "Troopers say they stopped the vehicle on Geist Road at about 8:05 p.m. on Oct. 27 because it had no illuminated rear license plate, that they detected the odor of marijuana, and that Murphy voluntarily provided several dispensary containers, one of which held a partly smoked blunt.",
         "Alaska State Troopers case AK26106606. No charge class is recorded and no court case has been filed."
       ],
       "sources": [
         {
-          "label": "AST daily dispatch, Oct. 27",
+          "label": "AST daily dispatch",
           "url": "https://dailydispatch.dps.alaska.gov"
         }
       ]
@@ -194,37 +301,8 @@
       ],
       "sources": [
         {
-          "label": "AST daily dispatch, Oct. 27",
+          "label": "AST daily dispatch",
           "url": "https://dailydispatch.dps.alaska.gov"
-        }
-      ]
-    },
-    {
-      "id": "dayton-harassment-1026",
-      "date": "2026-10-26",
-      "time": "23:12",
-      "place": "Fairbanks",
-      "agency": "Fairbanks Police Department",
-      "category": "other",
-      "severity": "misdemeanor",
-      "cases": [
-        "4FA-26-02173CR",
-        "26003289"
-      ],
-      "title": "Harassment and trespass arrest: Scott Glen Dayton",
-      "body": [
-        "Scott Glen Dayton, 29, was arrested on charges recorded by police as harassment, a misdemeanor, and criminal trespass.",
-        "Fairbanks Police record the arrest at the 1300 block of South University Avenue on Oct. 26 at 11:12 p.m. Police case 26003289.",
-        "A court case was opened the next day, 4FA-26-02173CR, which records that no charging document has been filed yet and states no charge class. Arraignment is set for Nov. 3."
-      ],
-      "sources": [
-        {
-          "label": "FPD daily bulletin, Oct. 26",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
-        },
-        {
-          "label": "Alaska CourtView",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -241,8 +319,8 @@
       "title": "DV assault charge: Nicolette Nicolai",
       "body": [
         "Nicolette Nicolai is charged with assault in the fourth degree — recklessly causing injury to another person — a Class A misdemeanor recorded as domestic violence. The charge is dated Oct. 19 at Fairbanks.",
-        "The case was filed Oct. 21 and the court issued a warrant on Oct. 22 with bail of $250 cash performance, with the defendant not to be released until the court approves conditions. No hearing is set.",
-        "Case 4FA-26-02132CR."
+        "The case was filed Oct. 21 and the court issued a warrant on Oct. 22 with bail of $250 cash performance, with the defendant not to be released until the court approves conditions.",
+        "Case 4FA-26-02132CR. No hearing is set."
       ],
       "sources": [
         {
@@ -267,7 +345,7 @@
       ],
       "title": "DUI charge: Anthony Morandi Sosa",
       "body": [
-        "Anthony Morandi Sosa is charged with driving under the influence — operating a vehicle under the influence of alcohol or drugs — a Class A misdemeanor. The charge is dated Oct. 24 at North Pole and the court record lists a breath reading of .163.",
+        "Anthony Morandi Sosa is charged with driving under the influence — operating a vehicle while impaired by alcohol or drugs — a Class A misdemeanor. The charge is dated Oct. 24 at North Pole and the court record lists a breath reading of .163.",
         "The case was filed at the Fairbanks courthouse on Oct. 24 and he was released on Oct. 26 on standard conditions.",
         "Case 4FA-26-02151CR; arraignment Oct. 30."
       ],
@@ -290,13 +368,14 @@
       "category": "court",
       "severity": "other",
       "cases": [
-        "4FA-26-02127CR"
+        "4FA-26-02127CR",
+        "4FA-26-02174CR"
       ],
-      "title": "A third Fairbanks case number cannot be looked up online",
+      "title": "Four Fairbanks case numbers cannot be looked up online",
       "body": [
-        "A third criminal case number printed in the Alaska Court System's weekly charges report cannot be found in the state's public case database.",
-        "Case 4FA-26-02127CR, listed in the report as filed at the Fairbanks courthouse on Oct. 21 against Annette Keogh with no charging document filed, returns no records on a search by case number. The report that lists it was produced at 9 p.m. on Oct. 27.",
-        "Two other case numbers reported earlier this week, 4FA-26-02165CR and 4FA-26-02171CR, still cannot be found either. Both closed on Oct. 26 and both are printed again in the new report."
+        "Four criminal case numbers at the Fairbanks courthouse cannot be found in the state's public case database.",
+        "Case 4FA-26-02127CR, listed in the court system's weekly charges report as filed on Oct. 21 against Annette Keogh with no charging document filed, returns no records on a search by case number. Cases 4FA-26-02165CR and 4FA-26-02171CR, reported earlier this week, still return no records; both closed on Oct. 26 and both are printed again in the latest report.",
+        "A fourth, 4FA-26-02174CR against William Howard Frasure, could still be retrieved on the morning of Oct. 28 and could not that afternoon. It was recorded as filed and closed on Oct. 27 with no charging document filed. Case numbers either side of it can still be retrieved."
       ],
       "sources": [
         {
@@ -331,6 +410,12 @@
       }
     ],
     "new": [
+      {
+        "case": "4FA-26-02191CR",
+        "defendant": "White, Kenneth Tyrell",
+        "charges": "Fourth-degree assault, Class A misdemeanor. Offense dated Oct. 21 at Fairbanks; summons issued Oct. 28.",
+        "felony": false
+      },
       {
         "case": "4FA-26-02176CR",
         "defendant": "Carpentino, James Patrick",
@@ -388,13 +473,13 @@
       {
         "case": "4FA-26-02173CR",
         "defendant": "Dayton, Scott Glen",
-        "charges": "Charging document pending or not filed. Arraignment Nov. 3.",
+        "charges": "Second-degree criminal trespass and second-degree harassment, both Class B misdemeanors. Complaint filed Oct. 28; arraignment Nov. 3.",
         "felony": false
       },
       {
         "case": "4FA-26-02174CR",
         "defendant": "Frasure, William Howard",
-        "charges": "Charging document pending; case closed the day it was filed, Oct. 27.",
+        "charges": "Charging document pending; recorded as filed and closed on Oct. 27. The case can no longer be found in the online case database.",
         "felony": false
       },
       {
@@ -581,7 +666,7 @@
       "case": "4FA-26-02166CR",
       "defendant": "Walters, Dustin Edward",
       "level": "Class C felony",
-      "charges": "Second-degree theft, property worth $750 to $24,999",
+      "charges": "Second-degree theft, property worth $750 to $24,999, a Class C felony; driving with a canceled, suspended or revoked license, a non-criminal infraction; and violating conditions of release for a misdemeanor, a Class B misdemeanor",
       "next": "Preliminary hearings Nov. 5 and Nov. 12",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-10-26"
@@ -651,10 +736,56 @@
     {
       "case": "4FA-26-02173CR",
       "defendant": "Dayton, Scott Glen",
-      "level": "Not stated",
-      "charges": "Charging document pending or not filed. Fairbanks Police record an arrest on Oct. 26 on charges recorded as harassment and criminal trespass",
+      "level": "Class B misdemeanor",
+      "charges": "Second-degree criminal trespass and second-degree harassment, both Class B misdemeanors. The complaint was filed Oct. 28, behind a Fairbanks Police arrest on Oct. 26",
       "next": "Arraignment Nov. 3",
-      "judge": "Christian, Matthew C"
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02176CR",
+      "defendant": "Carpentino, James Patrick",
+      "level": "Not stated",
+      "charges": "Charging document pending or not filed. Offense location North Pole, dated Oct. 27, behind a trooper arrest on a suspended-license charge",
+      "next": "Arraignment Nov. 3",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02177CR",
+      "defendant": "Harris, Samuel Martese-Tutton",
+      "level": "Class A misdemeanor",
+      "charges": "Third-degree theft, property worth less than $250 with prior convictions. Offense location North Pole",
+      "next": "Arraignment Nov. 3",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02178CR",
+      "defendant": "Benefield, Dalton Curtis Wayne",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree criminal mischief, recorded as domestic violence. Offense location North Pole",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02179CR",
+      "defendant": "Hannum, Maia Mae",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree assault and two counts of assault when a child is present, all recorded as domestic violence. Offense location North Pole",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02191CR",
+      "defendant": "White, Kenneth Tyrell",
+      "level": "Class A misdemeanor",
+      "charges": "Fourth-degree assault, offense dated Oct. 21 at Fairbanks. Charging document from Fairbanks Police; summons issued Oct. 28",
+      "next": "None set",
+      "judge": "Not stated",
+      "last_docket": "2026-10-28"
     },
     {
       "case": "4FA-26-02132CR",
