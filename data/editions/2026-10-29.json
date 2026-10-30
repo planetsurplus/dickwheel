@@ -1,10 +1,128 @@
 {
   "date": "2026-10-29",
-  "compiled": "03:54 AKDT",
+  "compiled": "17:56 AKDT",
   "window": "Oct. 28–29, 2026",
-  "summary": "Troopers arrested a 20-year-old Nenana man after a disturbance near the village on Oct. 28, and Fairbanks police recorded a harassment arrest on Cushman Street the same afternoon. A change-of-plea hearing has been set in the Fairbanks armed robbery case against Daniel Zachary Schwietert, and arraignments were held in three other Fairbanks felony cases. The Alaska Court System's weekly report for Oct. 22 to 28 counts 46 new criminal cases at Fairbanks, one at Nenana, one at Delta Junction and none at Healy; those are the report's own counts, and they do not include eleven case numbers the Fairbanks court opened on Oct. 28, which the report omits.",
+  "summary": "Noel Showwalter Curtis is charged with felony theft dated Oct. 19 in one of seven criminal cases opened in the Fairbanks area on Oct. 29. Fairbanks police arrested Jared Graydon Wheelock on a domestic violence assault charge early Oct. 29, and troopers reported a theft from a gas station overnight. Troopers arrested a 20-year-old Nenana man after a disturbance near the village on Oct. 28, and Fairbanks police recorded a harassment arrest on Cushman Street the same afternoon. A change-of-plea hearing has been set in the Fairbanks armed robbery case against Daniel Zachary Schwietert, arraignments were held in three other Fairbanks felony cases, and an arraignment was held in the Anderson assault case against Gregory Steven Ashley. The Alaska Court System's weekly report for Oct. 22 to 28 counts 46 new criminal cases at Fairbanks, one at Nenana, one at Delta Junction and none at Healy; those are the report's own counts, and they do not include eleven case numbers the Fairbanks court opened on Oct. 28, which the report omits.",
   "commentary": null,
   "entries": [
+    {
+      "id": "curtis-felony-theft-1019",
+      "date": "2026-10-19",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02195CR"
+      ],
+      "title": "Felony theft charge: Noel Showwalter Curtis",
+      "body": [
+        "Noel Showwalter Curtis is charged with second-degree theft, taking property worth $750 to $24,999, a Class C felony punishable by up to five years.",
+        "The charge is dated Oct. 19 at Fairbanks. Case 4FA-26-02195CR, filed Oct. 29."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "wheelock-dv-assault-1028",
+      "date": "2026-10-29",
+      "time": "00:11",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02193CR",
+        "26003307"
+      ],
+      "title": "DV assault charge: Jared Graydon Wheelock",
+      "body": [
+        "Jared Graydon Wheelock, 54, is charged with fourth-degree assault, recklessly injuring someone, a Class A misdemeanor recorded as domestic violence.",
+        "Fairbanks Police record the arrest at the 1600 block of Southern Avenue at 12:11 a.m. on Oct. 29. Police case 26003307.",
+        "Case 4FA-26-02193CR; arraigned Oct. 29, pre-trial conference Dec. 24."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 29",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "smith-dui-1023",
+      "date": "2026-10-23",
+      "time": "22:58",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "AK26105625"
+      ],
+      "title": "DUI arrest: Rion Scoville Smith",
+      "body": [
+        "Rion Scoville Smith was arrested on a charge of driving under the influence, troopers say.",
+        "Troopers say they stopped his car at about 10:58 p.m. on Oct. 23 after an improper left turn that nearly caused a collision, and that he gave a breath sample of .086. Alaska State Troopers case AK26105625."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 29",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "gas-station-theft-1029",
+      "date": "2026-10-29",
+      "time": "01:16",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26106995"
+      ],
+      "title": "Theft from a Fairbanks gas station",
+      "body": [
+        "Troopers are investigating a theft from a gas station reported at about 1:16 a.m. on Oct. 29. No one has been named. Alaska State Troopers case AK26106995."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 29",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "budnik-unlawful-contact-1010",
+      "date": "2026-10-10",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02196CR"
+      ],
+      "title": "DV unlawful contact charge: Pavel Ivanovich Budnik",
+      "body": [
+        "Pavel Ivanovich Budnik is charged with unlawful contact in breach of a court order, contacting someone a court order forbids contacting, a Class A misdemeanor recorded as domestic violence.",
+        "The charge is dated Oct. 10 at Fairbanks. Case 4FA-26-02196CR; arraignment Oct. 30."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "olson-nenana-arrest-1028",
       "date": "2026-10-28",
@@ -14,18 +132,23 @@
       "category": "property",
       "severity": "other",
       "cases": [
+        "4NE-26-00105CR",
         "AK26106959"
       ],
       "title": "Criminal mischief and harassment arrest: Thomas Olson",
       "body": [
         "Thomas Olson, 20, of Nenana, was arrested on charges of criminal mischief in the fifth degree, which troopers record as domestic violence, harassment in the second degree, and resisting arrest. Near Nenana, Oct. 28 at 6:35 p.m.; Alaska State Troopers.",
         "Troopers say they received a report of a disturbance near Nenana and that their investigation led to the arrest, and that Olson resisted arrest with force, for which the resisting charge was added. He was remanded to the Fairbanks Correctional Center and held without bail pending arraignment.",
-        "Alaska State Troopers case AK26106959. No charge classification is given by troopers and no court case has been filed."
+        "Alaska State Troopers case AK26106959. The court case, 4NE-26-00105CR, charges fifth-degree criminal mischief, damage under $250, a Class B misdemeanor recorded as domestic violence. He was arraigned Oct. 29; rural calendar call Dec. 15 at Nenana."
       ],
       "sources": [
         {
           "label": "AST daily dispatch, Oct. 29",
           "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -38,17 +161,22 @@
       "category": "other",
       "severity": "misdemeanor",
       "cases": [
+        "4FA-26-02192CR",
         "26003304"
       ],
       "title": "Harassment arrest: Nicole Renae Muzzana",
       "body": [
         "Nicole Renae Muzzana, 45, was arrested on a charge of harassment in the first degree — offensive contact with blood or another bodily fluid — recorded by police as a misdemeanor. 600 block of Cushman Street, Fairbanks, Oct. 28 at 4:39 p.m.; Fairbanks Police.",
-        "Police case 26003304. No court case has been filed."
+        "Police case 26003304. The court case, 4FA-26-02192CR, charges first-degree harassment as a Class A misdemeanor. Arraignment Nov. 3."
       ],
       "sources": [
         {
           "label": "FPD daily bulletin, Oct. 28",
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -106,6 +234,28 @@
       ]
     },
     {
+      "id": "ashley-anderson-arraignment-1028",
+      "date": "2026-10-28",
+      "place": "Anderson",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4NE-26-00103CR"
+      ],
+      "title": "Arraignment held in Anderson assault case: Gregory Steven Ashley",
+      "body": [
+        "Gregory Steven Ashley, 47, is charged on two indicted counts of assault in the third degree — repeatedly threatening someone with death or injury — a Class C felony, punishable by up to five years. He also faces counts of second-degree terroristic threatening, driving under the influence, fourth-degree assault and driving with a canceled, suspended or revoked license. The offense is dated Oct. 9 at Anderson.",
+        "An arraignment and a bail hearing were held on Oct. 28. A calendar call is set for Nov. 17 and a trial week for Nov. 30. Case 4NE-26-00103CR. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
       "id": "grand-jury-shells-unchanged-1028",
       "date": "2026-10-28",
       "place": "Fairbanks",
@@ -153,7 +303,50 @@
         "count": 1
       }
     ],
-    "new": []
+    "new": [
+      {
+        "case": "4FA-26-02192CR",
+        "defendant": "Muzzana, Nicole Renae",
+        "charges": "First-degree harassment, Class A misdemeanor.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02193CR",
+        "defendant": "Wheelock, Jared Graydon",
+        "charges": "Fourth-degree assault, Class A misdemeanor, domestic violence.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02194CR",
+        "defendant": "Druck, Brooklynn Agnes Jo",
+        "charges": "Driving in violation of an instruction permit, unclassified misdemeanor.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02195CR",
+        "defendant": "Curtis, Noel Showwalter",
+        "charges": "Second-degree theft, Class C felony.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02196CR",
+        "defendant": "Budnik, Pavel Ivanovich",
+        "charges": "Unlawful contact in breach of a court order, Class A misdemeanor, domestic violence.",
+        "felony": false
+      },
+      {
+        "case": "4NE-26-00105CR",
+        "defendant": "Olson, Thomas",
+        "charges": "Fifth-degree criminal mischief, Class B misdemeanor, domestic violence. Offense location Nenana.",
+        "felony": false
+      },
+      {
+        "case": "4NE-26-00106CR",
+        "defendant": "Washington, Tahj-Marquis D'veaux",
+        "charges": "Charging document pending; no offense date or location recorded.",
+        "felony": false
+      }
+    ]
   },
   "open_cases": [
     {
@@ -242,9 +435,9 @@
       "defendant": "Arazo, Za' Quiohn E'Mar",
       "level": "Class C felony",
       "charges": "Third-degree assault, three counts of assault when a child is present, fifth-degree criminal mischief",
-      "next": "Preliminary hearing Oct. 29; arraignment Nov. 18; omnibus hearing Dec. 10; trial week Jan. 4, 2027",
+      "next": "Arraignment Nov. 18; omnibus hearing Dec. 10; trial week Jan. 4, 2027",
       "judge": "Not stated",
-      "last_docket": "2026-10-28"
+      "last_docket": "2026-10-29"
     },
     {
       "case": "4FA-26-02067CR",
@@ -530,9 +723,9 @@
       "defendant": "Budnik, Pavel Ivanovich",
       "level": "Class A misdemeanor",
       "charges": "Fourth-degree assault recorded as domestic violence, first-degree harassment, and two counts of violating conditions of release",
-      "next": "Bail hearing Oct. 29; pre-trial conference Nov. 24",
+      "next": "Pre-trial conference Nov. 24; trial week Dec. 7",
       "judge": "Young, Yvette",
-      "last_docket": "2026-10-28"
+      "last_docket": "2026-10-29"
     },
     {
       "case": "4DJ-26-00063CR",
@@ -569,6 +762,15 @@
       "next": "Rural calendar call Dec. 15 at Delta Junction",
       "judge": "Young, Yvette",
       "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02195CR",
+      "defendant": "Curtis, Noel Showwalter",
+      "level": "Class C felony",
+      "charges": "Second-degree theft, property worth $750 to $24,999",
+      "next": "None set",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-10-29"
     }
   ],
   "sources": [
