@@ -1,0 +1,610 @@
+{
+  "date": "2026-10-31",
+  "compiled": "03:39 AKDT",
+  "window": "Oct. 30–31, 2026",
+  "summary": "Alaska State Troopers arrested a Fairbanks man on harassment and disorderly conduct charges on Friday evening after a report of a man going in and out of traffic on University Avenue, and investigated the death of an 88-year-old Fairbanks resident the same evening, which troopers attribute to underlying health issues. No new criminal case was filed at any of the four Interior courthouses between Friday afternoon and Saturday morning. The Alaska Court System's weekly filings report, covering Oct. 24 to Oct. 30, lists 36 Fairbanks cases, five at Nenana, one at Delta Junction and none at Healy; five Fairbanks case numbers that exist on the court's own database for that period do not appear in it. The court system's weekly dispositions report has not been updated since Oct. 26, so case outcomes since that date are not available from it.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "akpik-harassment-1030",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26107593"
+      ],
+      "title": "Harassment and disorderly conduct arrest: Ellis Akpik",
+      "body": [
+        "Ellis Akpik was arrested on charges of harassment in the first degree, harassment in the second degree and disorderly conduct. Troopers say they were called to University Avenue near Sophie Station in Fairbanks at about 5 p.m. on Oct. 30 for a man running in and out of the road while intoxicated, that he spat on troopers and lunged at them, and that he kicked his dog, which was taken to Animal Control. He was remanded to the Fairbanks Correctional Center.",
+        "University Avenue near Sophie Station, Fairbanks, Oct. 30 at about 5 p.m.; Alaska State Troopers. Trooper case AK26107593."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 30",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/30/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "fairbanks-death-1030",
+      "date": "2026-10-30",
+      "time": "18:46",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26107635"
+      ],
+      "title": "Death investigation in Fairbanks",
+      "body": [
+        "Alaska State Troopers say they received a report of a deceased person in Fairbanks at about 6:46 p.m. on Oct. 30, and that the investigation found the decedent, an 88-year-old Fairbanks resident, died of underlying health issues. Troopers say the next of kin has been notified and that no suspicious activity surrounds the investigation. No name has been released.",
+        "Fairbanks, Oct. 30 at about 6:46 p.m.; Alaska State Troopers. Trooper case AK26107635."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 30",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/30/2026+12:00:00+AM"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Oct. 24–30, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 36
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 5
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 1
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-02197CR",
+        "defendant": "Pulido, Janet",
+        "charges": "One count recorded as charging document pending or not filed; no degree of offense stated. Offense recorded Oct. 30 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02198CR",
+        "defendant": "Thelen, Anthony Joseph",
+        "charges": "Failure to file an accident report within ten days, AS 28.35.080(b), an unclassified misdemeanor. Offense recorded Sept. 24 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02199CR",
+        "defendant": "Newman, Maya Jade",
+        "charges": "Assault in the fourth degree causing fear of injury, a Class A misdemeanor, and unlawful contact in the second degree, a Class B misdemeanor; both counts recorded as domestic violence related. Offense recorded Oct. 29 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4NE-26-00107CR",
+        "defendant": "Vance, Emily Agnes",
+        "charges": "Assault in the fourth degree recklessly injuring, a Class A misdemeanor, and criminal mischief in the fifth degree, a Class B misdemeanor; both counts recorded as domestic violence related. Offense recorded Oct. 29 at Nenana.",
+        "felony": false
+      },
+      {
+        "case": "4NE-26-00108CR",
+        "defendant": "Latham, Michael Glen",
+        "charges": "Driving with a license canceled, revoked or suspended for a criminal offense, a Class A misdemeanor, and no motor vehicle liability insurance, an unclassified misdemeanor. Offense recorded Oct. 29 at Nenana.",
+        "felony": false
+      }
+    ]
+  },
+  "open_cases": [
+    {
+      "case": "4FA-26-02199CR",
+      "defendant": "Newman, Maya Jade",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4 causing fear of injury and unlawful contact 2; both counts domestic violence related",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02198CR",
+      "defendant": "Thelen, Anthony Joseph",
+      "level": "Misdemeanor, not classified",
+      "charges": "Failure to file an accident report within ten days",
+      "next": "No event set",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02197CR",
+      "defendant": "Pulido, Janet",
+      "charges": "One count recorded as charging document pending or not filed",
+      "next": "Arraignment Nov. 6",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4NE-26-00108CR",
+      "defendant": "Latham, Michael Glen",
+      "level": "Class A misdemeanor",
+      "charges": "Driving while license revoked for a criminal offense; no motor vehicle liability insurance",
+      "next": "Rural calendar call Dec. 15",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4NE-26-00107CR",
+      "defendant": "Vance, Emily Agnes",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4 recklessly injuring and criminal mischief 5; both counts domestic violence related",
+      "next": "Rural calendar call Dec. 15",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4NE-26-00106CR",
+      "defendant": "Washington, Tahj-Marquis D'veaux",
+      "charges": "One count recorded as charging document pending or not filed",
+      "next": "Rural calendar call Dec. 15",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4NE-26-00105CR",
+      "defendant": "Olson, Thomas",
+      "level": "Class B misdemeanor",
+      "charges": "Criminal mischief 5, recorded as domestic violence related",
+      "next": "Rural calendar call Dec. 15",
+      "last_docket": "2026-10-29"
+    },
+    {
+      "case": "4NE-26-00095CR",
+      "defendant": "Hansen, Lillybeth Elyce",
+      "next": "Hearing Nov. 6",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02193CR",
+      "defendant": "Wheelock, Jared Graydon",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4 recklessly injuring, recorded as domestic violence related",
+      "next": "Pre-trial conference Dec. 24",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02179CR",
+      "defendant": "Hannum, Maia Mae",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4 recklessly injuring and two counts of assault with a child present; all counts domestic violence related",
+      "next": "Bail hearing Nov. 6; pre-trial conference Dec. 24",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02106CR",
+      "defendant": "Sarten, Ishi Santana",
+      "next": "Hearing Nov. 19",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02097CR",
+      "defendant": "Raymond Jr, John Edward",
+      "next": "Hearing Dec. 17",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02011CR",
+      "defendant": "Baker, Tal Xavier",
+      "next": "Hearing Nov. 2",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4DJ-24-00006CR",
+      "defendant": "Rihel, Andrew",
+      "next": "Hearing Nov. 3",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02078CR",
+      "defendant": "Schwietert, Daniel Zachary",
+      "level": "Class B misdemeanor",
+      "charges": "Attempted theft 3, value $250 to $749, amended from robbery 1; case disposed Oct. 30 with a judgment entered",
+      "next": "Pre-trial conference Nov. 5; trial week Nov. 16",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02129CR",
+      "defendant": "Reynolds, Christopher Lee",
+      "next": "Pre-trial conference Dec. 24",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02128CR",
+      "defendant": "Carroll, Rayann Marlisa",
+      "charges": "Misconduct involving a controlled substance 2",
+      "next": "Hearing Nov. 4",
+      "last_docket": "2026-10-29"
+    },
+    {
+      "case": "4FA-26-02125CR",
+      "defendant": "Ward, Marcus Anthony",
+      "level": "Class A misdemeanor",
+      "charges": "Violating a domestic violence protective order",
+      "next": "Pre-trial conference Dec. 24",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02123CR",
+      "defendant": "Gould, Pearl",
+      "next": "Hearing Nov. 9",
+      "last_docket": "2026-10-29"
+    },
+    {
+      "case": "4FA-26-02122CR",
+      "defendant": "Walker",
+      "next": "No event set",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02121CR",
+      "defendant": "Smagge III",
+      "next": "Pre-trial conference Dec. 24",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02120CR",
+      "defendant": "Newhard",
+      "next": "No event set",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02119CR",
+      "defendant": "Custer, Harding Andy",
+      "charges": "Driving under the influence",
+      "next": "Pre-trial conference Dec. 24",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02118CR",
+      "defendant": "Mayo",
+      "next": "No event set",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-02117CR",
+      "defendant": "Pitka, Julia Ann",
+      "next": "Hearing Nov. 5",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02116CR",
+      "defendant": "Kelly, Derek Storm",
+      "next": "Pre-trial conference Dec. 10",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02115CR",
+      "defendant": "Guzman, Christine Marie",
+      "level": "Class A misdemeanor",
+      "charges": "Criminal trespass and criminal mischief counts; recorded as domestic violence related",
+      "next": "Hearing Nov. 24",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02114CR",
+      "defendant": "Peterson, Nolan Iver",
+      "next": "Hearing Nov. 4",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "4FA-26-02113CR",
+      "defendant": "Gutierrez, Moses Alejandro Luke",
+      "next": "Pre-trial conference Dec. 10",
+      "last_docket": "2026-10-23"
+    },
+    {
+      "case": "4FA-26-02112CR",
+      "defendant": "Cole, Helena J",
+      "next": "Pre-trial conference Dec. 10",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02111CR",
+      "defendant": "Phillippe, Timothy Leland",
+      "next": "Hearing Nov. 4",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02110CR",
+      "defendant": "Phillippe, Timothy Leland",
+      "next": "Hearing Nov. 4",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02109CR",
+      "defendant": "Hill, Roderick Antoino",
+      "next": "Hearing Nov. 4",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02108CR",
+      "defendant": "Garcia, Gonzalo N",
+      "next": "Pre-trial conference Dec. 24",
+      "last_docket": "2026-10-23"
+    },
+    {
+      "case": "4FA-26-02107CR",
+      "defendant": "Bedingfield, Landon Zachary",
+      "next": "Pre-trial conference Dec. 24",
+      "last_docket": "2026-10-29"
+    },
+    {
+      "case": "4FA-26-02105CR",
+      "defendant": "Standifer, Darius Cyrill",
+      "next": "Pre-trial conference Dec. 10",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02098CR",
+      "defendant": "Frey, Dominique Dashea",
+      "next": "Hearing Nov. 5",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4FA-26-02096CR",
+      "defendant": "Hernandez-Mullen, Maya Denise",
+      "next": "Pre-trial conference Dec. 10",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02090CR",
+      "defendant": "Kankanton, Harold Pete",
+      "next": "Hearing Nov. 24",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02088CR",
+      "defendant": "Edwards, Jeremy Frank",
+      "next": "Hearing Dec. 3",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02067CR",
+      "defendant": "James, Ryan Bud",
+      "next": "Hearing Dec. 3",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-02063CR",
+      "defendant": "Arazo, Za'quiohn E'Mar",
+      "next": "Hearing Nov. 18",
+      "last_docket": "2026-10-29"
+    },
+    {
+      "case": "4FA-26-02059CR",
+      "defendant": "Gonzalez, Geldin Luis Parrilla",
+      "next": "Pre-trial conference Dec. 10",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-02010CR",
+      "defendant": "Gonzalez-Mellado, Manuel",
+      "next": "Hearing Nov. 4",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4FA-26-01946CR",
+      "defendant": "Burdo, Jr, William Roger",
+      "next": "Hearing Nov. 3",
+      "last_docket": "2026-10-29"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony",
+      "charges": "Tampering",
+      "next": "No event set",
+      "last_docket": "2026-10-07"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping",
+      "next": "No event set",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "charges": "Fugitive from justice",
+      "next": "No event set",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-26-01852CR",
+      "defendant": "Waters, Cassandra Mari",
+      "next": "Hearing Nov. 5",
+      "last_docket": "2026-09-22"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "next": "No event set",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "next": "No event set",
+      "last_docket": "2026-10-21"
+    },
+    {
+      "case": "4FA-26-01786CR",
+      "defendant": "Lincoln, Walter Charlie",
+      "next": "Hearing Nov. 13",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "next": "Omnibus hearing Dec. 10; trial week Jan. 4, 2027",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-00771CR",
+      "defendant": "Mccarty, Carmen Jared",
+      "next": "Hearing Nov. 17",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "level": "Unclassified felony",
+      "charges": "Murder in the first degree; competency proceedings",
+      "next": "No event set",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4FA-25-02251CR",
+      "defendant": "Popps, Christopher M",
+      "next": "Hearing Mar. 23, 2027",
+      "last_docket": "2026-10-16"
+    },
+    {
+      "case": "4FA-24-02136CR",
+      "defendant": "Dittman, Donald D",
+      "charges": "Sexual abuse of a minor",
+      "next": "Hearing Mar. 18, 2027",
+      "last_docket": "2026-10-12"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "next": "Status hearing Nov. 6; sentencing Jan. 29, 2027",
+      "last_docket": "2026-09-30"
+    },
+    {
+      "case": "4NE-26-00103CR",
+      "defendant": "Ashley, Gregory S",
+      "next": "Hearing Nov. 17",
+      "last_docket": "2026-10-28"
+    },
+    {
+      "case": "4NE-26-00096CR",
+      "defendant": "Zappone, Krista Marie",
+      "next": "Hearing Nov. 13",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4NE-26-00092CR",
+      "defendant": "Zappone, Krista Marie",
+      "next": "Hearing Nov. 13",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4NE-26-00086CR",
+      "defendant": "Zappone, Krista Marie",
+      "next": "Hearing Nov. 13",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4NE-24-00034CR",
+      "defendant": "Forness, Joseph Trygve",
+      "next": "Hearing Nov. 4",
+      "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4DJ-26-00064CR",
+      "defendant": "Foreman, Chad Leo",
+      "next": "No event set",
+      "last_docket": "2026-10-26"
+    },
+    {
+      "case": "4DJ-26-00060CR",
+      "defendant": "Dollar, Nicholas Gene",
+      "level": "Class B felony",
+      "charges": "Arson in the second degree, recorded as domestic violence related",
+      "next": "Hearing Nov. 5",
+      "last_docket": "2026-10-20"
+    },
+    {
+      "case": "4DJ-26-00045CR",
+      "defendant": "Mata, Martha Gloria",
+      "next": "Hearing Nov. 24",
+      "last_docket": "2026-10-21"
+    },
+    {
+      "case": "4DJ-26-00039CR",
+      "defendant": "Schlott, Peter Anthony",
+      "next": "Hearing Jan. 7, 2027",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00031CR",
+      "defendant": "Weidner, Brock Dustin",
+      "next": "Hearing Dec. 1",
+      "last_docket": "2026-10-17"
+    },
+    {
+      "case": "4DJ-26-00022CR",
+      "defendant": "Donets, Vasiliy Peter",
+      "next": "Hearing Jan. 7, 2027",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-26-00007CR",
+      "defendant": "Ognevchuk, Ruslan",
+      "next": "Hearing Dec. 1",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-25-00049CR",
+      "defendant": "Zigler, Jason David",
+      "next": "Hearing Jan. 7, 2027",
+      "last_docket": "2026-10-15"
+    },
+    {
+      "case": "4DJ-25-00014CR",
+      "defendant": "Knix, Benjamin H. S.",
+      "next": "Hearing Nov. 9",
+      "last_docket": "2026-10-20"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov/"
+    },
+    {
+      "name": "Fairbanks Police Department daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska Court System weekly criminal charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System weekly criminal dispositions",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    }
+  ]
+}
