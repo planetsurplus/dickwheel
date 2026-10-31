@@ -1,38 +1,10 @@
 {
   "date": "2026-10-30",
-  "compiled": "03:40 AKDT",
-  "window": "Oct. 27–30, 2026",
-  "summary": "Three people were arrested in the Fairbanks area overnight — two near Nenana and one in Fairbanks — and no court case had been opened in any of the three by early Friday. A Fairbanks grand jury indicted a woman on a Class A felony drug charge on Oct. 29. The robbery charge filed after an Oct. 12 incident at a Fairbanks sporting goods store was amended on Oct. 16 to a misdemeanor theft charge; a correction appears below. The Alaska Court System's weekly report of charges filed, covering Oct. 23 to Oct. 29, lists 48 cases at the four courthouses in the area — but 11 case numbers the Fairbanks court opened on Oct. 28 are absent from it for the second week running, so the report's count is lower than the number of cases actually opened in its own window. The court's companion report of cases closed has not been updated since Oct. 26.",
+  "compiled": "17:22 AKDT",
+  "window": "Oct. 26–30, 2026",
+  "summary": "Court cases were opened on Oct. 30 against all three people arrested in the Fairbanks area overnight — two near Nenana and one in Fairbanks — and against a Fairbanks woman arrested for drunk driving before dawn on Oct. 30; five criminal cases were opened inside the area in all. The Fairbanks case against Daniel Zachary Schwietert, whose robbery charge was amended to a misdemeanor on Oct. 16, was disposed at a change-of-plea hearing on Oct. 30. A woman is charged with assault and two counts of assault when a child is present after a North Pole domestic disturbance on Oct. 28, and a Wiseman man is charged with drunk driving after a rollover at Delta Junction on Oct. 26. The Alaska Court System's weekly report of charges filed, covering Oct. 23 to Oct. 29, lists 48 cases at the four courthouses in the area — but 11 case numbers the Fairbanks court opened on Oct. 28 are absent from it for the second week running, so the report's count is lower than the number of cases opened in its own window, and the five cases opened on Oct. 30 fall outside it. The court's companion report of cases closed has still not been updated since Oct. 26.",
   "commentary": null,
   "entries": [
-    {
-      "id": "latham-warrant-nenana",
-      "date": "2026-10-29",
-      "time": "20:36",
-      "place": "Nenana",
-      "agency": "Alaska State Troopers",
-      "category": "other",
-      "severity": "other",
-      "cases": [
-        "AK26107297"
-      ],
-      "title": "Warrant arrest: Michael Latham",
-      "body": [
-        "Michael Latham, 56, of Willow, was arrested on an outstanding warrant for a parole violation and on charges of driving while his license was revoked and having no motor vehicle liability insurance. Mile 320 of the Parks Highway near Nenana, Oct. 29 at 8:36 p.m.; Alaska State Troopers.",
-        "Driving while license revoked means operating a vehicle after the state has withdrawn the driving privilege. Troopers say they stopped a 2001 Dodge pickup for several moving and equipment violations, including almost driving off the road in a construction zone, and found the driver had an outstanding warrant.",
-        "He was remanded to the Fairbanks Correctional Center. No court case had been opened in the matter as of early Oct. 30."
-      ],
-      "sources": [
-        {
-          "label": "AST daily dispatch, Oct. 30",
-          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/30/2026+12:00:00+AM"
-        },
-        {
-          "label": "Alaska CourtView",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
     {
       "id": "vance-assault-nenana",
       "date": "2026-10-29",
@@ -40,15 +12,16 @@
       "place": "Nenana",
       "agency": "Alaska State Troopers",
       "category": "violent",
-      "severity": "other",
+      "severity": "misdemeanor",
       "cases": [
+        "4NE-26-00107CR",
         "AK26107283"
       ],
-      "title": "Assault arrest: Emily Vance",
+      "title": "Assault charge: Emily Agnes Vance",
       "body": [
-        "Emily Vance, 40, of Nenana, was arrested on charges of assault in the fourth degree and criminal mischief in the fifth degree. Near 2nd Street, Nenana, Oct. 29 at about 5:18 p.m.; Alaska State Troopers.",
-        "Assault in the fourth degree covers injuring another person or placing them in fear of injury; criminal mischief in the fifth degree covers damaging property worth less than $250. Troopers say she entered a residence, caused damage to the front door and assaulted a person there.",
-        "She was taken to the Fairbanks Correctional Center and held without bail. No court case had been opened in the matter as of early Oct. 30."
+        "Emily Agnes Vance, 40, of Nenana, is charged with assault in the fourth degree — recklessly injuring someone — a Class A misdemeanor, and criminal mischief in the fifth degree — damaging property worth less than $250 — a Class B misdemeanor. Both counts are recorded in the court file as domestic violence related. Near 2nd Street, Nenana, Oct. 29 at about 5:18 p.m.; Alaska State Troopers.",
+        "Troopers say they responded to a report of an assault in Nenana and that she entered a residence, caused damage to the front door and assaulted a person there.",
+        "Case 4NE-26-00107CR, opened Oct. 30. She was arraigned Oct. 30 and a $750 cash bond is recorded posted the same day; troopers had said she was held without bail. A rural calendar call is set for Dec. 15 at the Nenana courthouse."
       ],
       "sources": [
         {
@@ -56,7 +29,36 @@
           "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/29/2026+12:00:00+AM"
         },
         {
-          "label": "Alaska CourtView",
+          "label": "Alaska CourtView, 4NE-26-00107CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "latham-warrant-nenana",
+      "date": "2026-10-29",
+      "time": "20:36",
+      "place": "Nenana",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4NE-26-00108CR",
+        "AK26107297"
+      ],
+      "title": "Driving with a revoked license: Michael Glen Latham",
+      "body": [
+        "Michael Glen Latham, 56, of Willow, is charged with driving while his license was canceled, revoked or suspended for a criminal offense — driving after the state has withdrawn the driving privilege — a Class A misdemeanor, and with having no motor vehicle liability insurance, an unclassified misdemeanor. Mile 320 of the Parks Highway near Nenana, Oct. 29 at 8:36 p.m.; Alaska State Troopers.",
+        "Troopers say they stopped a 2001 Dodge pickup for several moving and equipment violations, including almost driving off the road in a construction zone, and found the driver had an outstanding warrant for a parole violation. He was remanded to the Fairbanks Correctional Center on the warrant and the new charges.",
+        "Case 4NE-26-00108CR, opened Oct. 30. He was arraigned Oct. 30; a rural calendar call is set for Dec. 15 at the Nenana courthouse."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 30",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/30/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4NE-26-00108CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
@@ -70,13 +72,14 @@
       "category": "violent",
       "severity": "misdemeanor",
       "cases": [
+        "4FA-26-02199CR",
         "26003311"
       ],
-      "title": "Assault arrest: Maya Jade Newman",
+      "title": "Assault charge: Maya Jade Newman",
       "body": [
-        "Maya Jade Newman, 25, was arrested on charges of assault in the fourth degree — causing fear of imminent injury — and unlawful contact, both recorded by police as misdemeanors. 1500 block of Denali Way, Fairbanks, Oct. 29 at 5:32 p.m.; Fairbanks Police.",
-        "Assault in the fourth degree in this form covers placing another person in fear of immediate injury. Police case 26003311.",
-        "No court case had been opened in the matter as of early Oct. 30."
+        "Maya Jade Newman, 25, is charged with assault in the fourth degree — causing fear of injury — a Class A misdemeanor, and unlawful contact in the second degree while charged with a Class A misdemeanor or felony offense, a Class B misdemeanor. Both counts are recorded in the court file as domestic violence related. 1500 block of Denali Way, Fairbanks, Oct. 29 at 5:32 p.m.; Fairbanks Police.",
+        "Police case 26003311. The police bulletin recorded both charges as misdemeanors without stating a class.",
+        "Case 4FA-26-02199CR, opened Oct. 30. She was arraigned Oct. 30 and a public defender was appointed; a pre-trial conference is set for Dec. 24 and a trial week beginning Jan. 4, 2027."
       ],
       "sources": [
         {
@@ -84,7 +87,169 @@
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         },
         {
+          "label": "Alaska CourtView, 4FA-26-02199CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "pulido-dui-fairbanks",
+      "date": "2026-10-30",
+      "time": "04:34",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02197CR",
+        "AK26107349"
+      ],
+      "title": "DUI arrest: Janet Pulido",
+      "body": [
+        "Janet Pulido, 25, was arrested on charges of driving under the influence and refusal to submit to a chemical test. Mitchell Expressway, Fairbanks, Oct. 30 at about 4:34 a.m.; Alaska State Troopers.",
+        "Troopers say they stopped her vehicle for excessive speed and that the investigation showed she was driving under the influence of an impairing substance. She was remanded to the Fairbanks Correctional Center.",
+        "Case 4FA-26-02197CR was opened the same day; the court file does not yet state a charge or a charge class. An arraignment is set for Nov. 6. She is arrested, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 30",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/30/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02197CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "thelen-accident-report",
+      "date": "2026-09-24",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02198CR"
+      ],
+      "title": "Failure to file an accident report: Anthony Joseph Thelen",
+      "body": [
+        "Anthony Joseph Thelen is charged with failing to file a report of a traffic accident within ten days, an unclassified misdemeanor.",
+        "The offense is recorded as having taken place at Fairbanks on Sep. 24. Case 4FA-26-02198CR, opened Oct. 30 on a summons issued to the Alaska State Troopers at Fairbanks. No hearing has been set. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02198CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "hannum-dv-assault-northpole",
+      "date": "2026-10-28",
+      "time": "06:00",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02179CR",
+        "AK26106667"
+      ],
+      "title": "Assault and assault-when-child-present charges: Maia Mae Hannum",
+      "body": [
+        "Maia Mae Hannum, 32, of North Pole, is charged with assault in the fourth degree — recklessly injuring someone — and two counts of assault when a child is present. All three counts are Class A misdemeanors and all three are recorded in the court file as domestic violence related. North Pole, Oct. 28 at about 6 a.m.; Alaska State Troopers.",
+        "Troopers say they responded to a report of a domestic disturbance at a North Pole residence and determined that a household member had been assaulted in the presence of two children. The trooper release does not name anyone. She was taken to the Fairbanks Correctional Center.",
+        "Case 4FA-26-02179CR. She was arraigned Oct. 28; a bail hearing on Oct. 30 was continued to Nov. 6. A pre-trial conference is set for Dec. 24 and a trial week beginning Jan. 4, 2027."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 28",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/28/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02179CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "News-Miner public safety report, Oct. 30",
+          "url": "https://www.newsminer.com/news/public_safety_report/public-safety-report-oct-30-2026/article_5360590a-049a-4251-ab22-c932ea863de9.html"
+        }
+      ]
+    },
+    {
+      "id": "kirchner-dui-delta",
+      "date": "2026-10-26",
+      "place": "Delta Junction",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4DJ-26-00066CR",
+        "4DJ-26-00623MO"
+      ],
+      "title": "DUI and criminal mischief charges: Christian Von Kirchner",
+      "body": [
+        "Christian Von Kirchner, 34, of Wiseman, is charged with driving under the influence with a blood alcohol content of .08 percent or more, a Class A misdemeanor, and criminal mischief in the fifth degree — damaging property worth less than $250 — a Class B misdemeanor. Delta Junction, Oct. 26; Alaska State Troopers.",
+        "According to the News-Miner public safety report, citing court documents, troopers responded to a single-vehicle rollover at the Alaska Highway and South Clearwater Avenue, and Kirchner said he had been driving the Subaru found in a ditch. The report says he appeared intoxicated and failed sobriety tests, that the trooper found two opened bottles of alcohol in the vehicle, that a breath sample measured 0.202, and that he damaged two sets of handcuffs before being taken to the Fairbanks Correctional Center.",
+        "Case 4DJ-26-00066CR. He was arraigned Oct. 27 and $500 bail was posted Oct. 29; a rural calendar call is set for Dec. 15 at the Delta Junction courthouse. A separate trooper citation for basic speed, case 4DJ-26-00623MO, was filed Oct. 29 for the same date, carrying a $90 fine and a $20 surcharge."
+      ],
+      "sources": [
+        {
+          "label": "News-Miner public safety report, Oct. 30",
+          "url": "https://www.newsminer.com/news/public_safety_report/public-safety-report-oct-30-2026/article_5360590a-049a-4251-ab22-c932ea863de9.html"
+        },
+        {
+          "label": "Alaska CourtView, 4DJ-26-00066CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "semaken-trespass-fairbanks",
+      "date": "2026-10-28",
+      "time": "12:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "26002099"
+      ],
+      "title": "Criminal trespass arrest: Jerome Benjamin Semaken",
+      "body": [
+        "Jerome Benjamin Semaken, 42, was arrested on a charge of criminal trespass in the second degree — entering or remaining on premises unlawfully — recorded by police as a misdemeanor. 100 block of Lacey Street, Fairbanks, Oct. 28 at noon; Fairbanks Police.",
+        "Police case 26002099. No court case had been opened in the matter as of the evening of Oct. 30. He is arrested, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Oct. 28",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
           "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "schwietert-case-disposed",
+      "date": "2026-10-30",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02078CR"
+      ],
+      "title": "Case disposed: Daniel Zachary Schwietert",
+      "body": [
+        "The Fairbanks case against Daniel Zachary Schwietert, arising from an Oct. 12 incident at a Fairbanks sporting goods store, was disposed at a change-of-plea hearing on Oct. 30 before Judge Ben Seekins. The court file records a criminal judgment or disposition order entered the same day; it does not state the plea, the finding or the sentence.",
+        "The charge at disposition was attempted theft in the third degree — taking property worth $250 to $749 — a Class B misdemeanor. The file records an original charge of robbery in the first degree, a Class A felony, and the amended charge entered on Oct. 16.",
+        "Troopers said at the time that they were called to Beaver Sports in Fairbanks at 1:46 p.m. on Oct. 12 for a reported robbery and arrested him. Case 4FA-26-02078CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02078CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
@@ -108,29 +273,6 @@
       "sources": [
         {
           "label": "Alaska CourtView, 4FA-26-02128CR",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
-      "id": "schwietert-amended-charge",
-      "date": "2026-10-16",
-      "place": "Fairbanks",
-      "agency": "Alaska Court System",
-      "category": "court",
-      "severity": "misdemeanor",
-      "cases": [
-        "4FA-26-02078CR"
-      ],
-      "title": "Robbery charge amended to misdemeanor theft: Daniel Zachary Schwietert",
-      "body": [
-        "The charge against Daniel Zachary Schwietert, arising from an Oct. 12 incident at a Fairbanks sporting goods store, is now attempted theft in the third degree — taking property worth $250 to $749 — a Class B misdemeanor. The court file records an original charge of robbery in the first degree, a Class A felony, and an amended charge entered on Oct. 16.",
-        "Troopers said at the time that they were called to Beaver Sports in Fairbanks at 1:46 p.m. on Oct. 12 for a reported robbery and arrested him.",
-        "Case 4FA-26-02078CR; a change of plea hearing was set for Oct. 30 before Judge Ben Seekins. He is charged, not convicted."
-      ],
-      "sources": [
-        {
-          "label": "Alaska CourtView, 4FA-26-02078CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
@@ -202,7 +344,7 @@
       "title": "Court's weekly list of closed cases has not been updated since Oct. 26",
       "body": [
         "The Alaska Court System's weekly report of criminal cases disposed, which lists cases closed statewide, still carries the data of Oct. 26 and has not been refreshed on any of the four mornings since.",
-        "No Interior case closed after Oct. 26 can be read from it. The court's companion report of criminal charges filed has been refreshed each morning over the same period, most recently on Oct. 30."
+        "No Interior case closed after Oct. 26 can be read from it; the Fairbanks case disposed on Oct. 30 and reported above was taken from the court file itself. The court's companion report of criminal charges filed has been refreshed each morning over the same period, most recently on Oct. 30."
       ],
       "sources": [
         {
@@ -243,9 +385,9 @@
       "case": "4FA-26-02078CR",
       "defendant": "Schwietert, Daniel Zachary",
       "charges": "Attempted theft 3, amended from robbery 1 (Class A felony) on Oct. 16",
-      "next": "Change of plea Oct. 30",
+      "next": "Case disposed on a change of plea Oct. 30",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-10-28",
+      "last_docket": "2026-10-30",
       "level": "Class B misdemeanor"
     },
     {
@@ -267,15 +409,6 @@
       "level": "Class A misdemeanor"
     },
     {
-      "case": "4FA-26-02179CR",
-      "defendant": "Hannum, Maia Mae",
-      "charges": "Three counts, all recorded domestic violence related",
-      "next": "Bail hearing Oct. 30",
-      "judge": "Bahr, Maria P",
-      "last_docket": "2026-10-29",
-      "level": "Class A misdemeanor"
-    },
-    {
       "case": "4FA-26-02178CR",
       "defendant": "Benefield, Dalton Curtis Wayne",
       "charges": "Criminal mischief 4, recorded domestic violence related",
@@ -285,12 +418,65 @@
       "level": "Class A misdemeanor"
     },
     {
-      "case": "4DJ-26-00066CR",
-      "defendant": "Kirchner, Christian Von",
-      "charges": "DUI with a breath figure of .202, and criminal mischief 5",
+      "case": "4FA-26-02179CR",
+      "defendant": "Hannum, Maia Mae",
+      "charges": "Assault 4 and two counts of assault when a child is present, all recorded domestic violence related",
+      "next": "Bail hearing Nov. 6",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-30",
+      "level": "Class A misdemeanor"
+    },
+    {
+      "case": "4FA-26-02196CR",
+      "defendant": "Budnik, Pavel Ivanovich",
+      "charges": "Unlawful contact in breach of a court order, recorded domestic violence related",
+      "next": "Pre-trial conference Dec. 24",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-30",
+      "level": "Class A misdemeanor"
+    },
+    {
+      "case": "4FA-26-02197CR",
+      "defendant": "Pulido, Janet",
+      "charges": "Charging document recorded pending on the charge record",
+      "next": "Arraignment Nov. 6",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4FA-26-02198CR",
+      "defendant": "Thelen, Anthony Joseph",
+      "charges": "Failure to file an accident report within ten days",
+      "next": "No hearing set",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-30",
+      "level": "Misdemeanor, not classified"
+    },
+    {
+      "case": "4FA-26-02199CR",
+      "defendant": "Newman, Maya Jade",
+      "charges": "Assault 4 causing fear of injury and unlawful contact 2, both recorded domestic violence related",
+      "next": "Pre-trial conference Dec. 24",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-10-30",
+      "level": "Class A misdemeanor"
+    },
+    {
+      "case": "4NE-26-00107CR",
+      "defendant": "Vance, Emily Agnes",
+      "charges": "Assault 4 and criminal mischief 5, both recorded domestic violence related",
       "next": "Rural calendar call Dec. 15",
-      "judge": "Young, Yvette",
-      "last_docket": "2026-10-29",
+      "judge": "Huisingh, Raechyl D",
+      "last_docket": "2026-10-30",
+      "level": "Class A misdemeanor"
+    },
+    {
+      "case": "4NE-26-00108CR",
+      "defendant": "Latham, Michael Glen",
+      "charges": "Driving with a license canceled, revoked or suspended for a criminal offense, and no liability insurance",
+      "next": "Rural calendar call Dec. 15",
+      "judge": "Huisingh, Raechyl D",
+      "last_docket": "2026-10-30",
       "level": "Class A misdemeanor"
     },
     {
@@ -299,7 +485,16 @@
       "charges": "Charging document recorded pending on the charge record; complaint docketed Oct. 29",
       "next": "Rural calendar call Dec. 15",
       "judge": "Huisingh, Raechyl D",
-      "last_docket": "2026-10-29"
+      "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4DJ-26-00066CR",
+      "defendant": "Kirchner, Christian Von",
+      "charges": "DUI with a breath figure of .202, and criminal mischief 5",
+      "next": "Rural calendar call Dec. 15",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-29",
+      "level": "Class A misdemeanor"
     },
     {
       "case": "4NE-26-00105CR",
@@ -325,15 +520,6 @@
       "charges": "Assault 4 recorded domestic violence related, harassment 1 and two counts of violating conditions of release",
       "next": "Pre-trial conference Nov. 24",
       "judge": "Young, Yvette",
-      "last_docket": "2026-10-29",
-      "level": "Class A misdemeanor"
-    },
-    {
-      "case": "4FA-26-02196CR",
-      "defendant": "Budnik, Pavel Ivanovich",
-      "charges": "Unlawful contact in breach of a court order, recorded domestic violence related",
-      "next": "Arraignment Oct. 30",
-      "judge": "Bahr, Maria P",
       "last_docket": "2026-10-29",
       "level": "Class A misdemeanor"
     },
