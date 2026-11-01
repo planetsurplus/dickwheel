@@ -1,10 +1,141 @@
 {
   "date": "2026-10-31",
-  "compiled": "03:39 AKDT",
+  "compiled": "17:14 AKDT",
   "window": "Oct. 30–31, 2026",
-  "summary": "Alaska State Troopers arrested a Fairbanks man on harassment and disorderly conduct charges on Friday evening after a report of a man going in and out of traffic on University Avenue, and investigated the death of an 88-year-old Fairbanks resident the same evening, which troopers attribute to underlying health issues. No new criminal case was filed at any of the four Interior courthouses between Friday afternoon and Saturday morning. The Alaska Court System's weekly filings report, covering Oct. 24 to Oct. 30, lists 36 Fairbanks cases, five at Nenana, one at Delta Junction and none at Healy; five Fairbanks case numbers that exist on the court's own database for that period do not appear in it. The court system's weekly dispositions report has not been updated since Oct. 26, so case outcomes since that date are not available from it.",
+  "summary": "Eight criminal cases were opened at Interior courthouses on Oct. 31, seven at Fairbanks and one at Delta Junction. Three of them were closed the same day because no charging document was filed. A Fairbanks man whom police booked on three felony counts after an incident on Second Avenue was charged by the district attorney with four misdemeanor counts of assault in the fourth degree and no felony. Alaska State Troopers reported four Interior incidents on Oct. 31, including a death investigation at North Pole and two arrests. The Alaska Court System's weekly filings report, covering Oct. 24 to Oct. 30, lists 36 Fairbanks cases, five at Nenana, one at Delta Junction and none at Healy; the cases filed on Oct. 31 fall outside that window. The court system's weekly dispositions report has not been updated since Oct. 26.",
   "commentary": null,
   "entries": [
+    {
+      "id": "erlich-assault-1030",
+      "date": "2026-10-30",
+      "time": "16:13",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02201CR",
+        "26003318"
+      ],
+      "title": "Assault charges: Alexander Richard Erlich",
+      "body": [
+        "Alexander Richard Erlich, 35, is charged with four counts of assault in the fourth degree — placing another person in fear of immediate physical injury — each a Class A misdemeanor. None of the counts is recorded as domestic violence related.",
+        "According to the Fairbanks Police daily bulletin, he was arrested at the 500 block of Second Avenue in Fairbanks at 4:13 p.m. on Oct. 30. The bulletin recorded the arrest charges as assault in the third degree with a weapon, assault in the fourth degree, and two counts of terroristic threatening in the second degree, three of them as felonies. The charging document filed the next day contains no felony count.",
+        "Case 4FA-26-02201CR; police case 26003318. He was arraigned on Oct. 31 and a public defender was appointed. Pre-trial conference Dec. 24; trial week Jan. 4, 2027."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Oct. 30",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02201CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "fansler-dui-1031",
+      "date": "2026-10-31",
+      "time": "03:50",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02205CR",
+        "AK26107724"
+      ],
+      "title": "DUI arrest: Ethan Thomas Fansler",
+      "body": [
+        "Ethan Thomas Fansler is charged with driving under the influence with a blood alcohol level of .08 percent or more, a Class A misdemeanor.",
+        "Troopers say they were conducting traffic enforcement on the Richardson Highway near Peridot Street at about 3:50 a.m. on Oct. 31 when they saw a pickup truck cross the fog line and the center line, and that a traffic stop on Hurst Road found the driver had a suspended license and showed signs of alcohol impairment. Troopers say a breath test measured .106.",
+        "Richardson Highway near Peridot Street, Fairbanks, Oct. 31; Alaska State Troopers. Case 4FA-26-02205CR; trooper case AK26107724; arraignment Nov. 6. The trooper release spells the surname Fasnler; the court file spells it Fansler."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 31",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/31/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02205CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "pulido-dui-1030",
+      "date": "2026-10-30",
+      "time": "04:34",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02203CR",
+        "AK26107349"
+      ],
+      "title": "DUI arrest: Janet Rose Pulido",
+      "body": [
+        "Janet Rose Pulido, 25, is charged with driving under the influence of alcohol or a controlled substance and with refusing a police request for a chemical test, each a Class A misdemeanor.",
+        "Troopers say they stopped a vehicle for excessive speed on the Mitchell Expressway in Fairbanks at about 4:34 a.m. on Oct. 30 and determined the driver was under the influence of an impairing substance. She was remanded to the Fairbanks Correctional Center.",
+        "Mitchell Expressway, Fairbanks, Oct. 30; Alaska State Troopers. Case 4FA-26-02203CR; trooper case AK26107349; arraignment Nov. 6."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 30",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/30/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02203CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "rojas-dui-1030",
+      "date": "2026-10-30",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02200CR"
+      ],
+      "title": "DUI charges: Marc Steven Rojas Jr",
+      "body": [
+        "Marc Steven Rojas Jr is charged with driving under the influence and with refusing a police request for a chemical test, each a Class A misdemeanor. The offense is recorded on Oct. 30 at North Pole.",
+        "Case 4FA-26-02200CR. He was arraigned on Oct. 31. Pre-trial conference Dec. 24; trial week Jan. 4, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02200CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "munson-dwls-1030",
+      "date": "2026-10-30",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02204CR"
+      ],
+      "title": "Driving with a revoked license: John Allen Munson",
+      "body": [
+        "John Allen Munson is charged with driving while his license was canceled, revoked or suspended for a criminal offense, a Class A misdemeanor. The offense is recorded on Oct. 30 at Fairbanks.",
+        "Case 4FA-26-02204CR; arraignment Nov. 6."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02204CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "akpik-harassment-1030",
       "date": "2026-10-30",
@@ -14,17 +145,96 @@
       "category": "other",
       "severity": "other",
       "cases": [
-        "AK26107593"
+        "AK26107593",
+        "4FA-26-02202CR"
       ],
       "title": "Harassment and disorderly conduct arrest: Ellis Akpik",
       "body": [
-        "Ellis Akpik was arrested on charges of harassment in the first degree, harassment in the second degree and disorderly conduct. Troopers say they were called to University Avenue near Sophie Station in Fairbanks at about 5 p.m. on Oct. 30 for a man running in and out of the road while intoxicated, that he spat on troopers and lunged at them, and that he kicked his dog, which was taken to Animal Control. He was remanded to the Fairbanks Correctional Center.",
-        "University Avenue near Sophie Station, Fairbanks, Oct. 30 at about 5 p.m.; Alaska State Troopers. Trooper case AK26107593."
+        "Ellis Akpik was arrested on charges of harassment in the first degree, harassment in the second degree and disorderly conduct, recorded by police without a charge classification.",
+        "Troopers say they were called to University Avenue near Sophie Station in Fairbanks at about 5 p.m. on Oct. 30 for a man running in and out of the road while intoxicated, that he spat on troopers and lunged at them, and that he kicked his dog, which was taken to Animal Control. He was remanded to the Fairbanks Correctional Center.",
+        "University Avenue near Sophie Station, Fairbanks, Oct. 30; Alaska State Troopers. Trooper case AK26107593. A court file, 4FA-26-02202CR, was opened and closed on Oct. 31 with no charging document filed, so no charge stands against him on the court record."
       ],
       "sources": [
         {
           "label": "AST daily dispatch, Oct. 30",
           "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/30/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02202CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "ambrose-disorderly-1030",
+      "date": "2026-10-30",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26107677",
+        "4FA-26-02206CR"
+      ],
+      "title": "Disorderly conduct arrest: Duane Ambrose",
+      "body": [
+        "Duane Ambrose, 34, was arrested on a charge of disorderly conduct, recorded by troopers without a charge classification.",
+        "Troopers say they contacted him in Fairbanks on Oct. 30 and arrested him, and that he was remanded to the Fairbanks Correctional Center.",
+        "Fairbanks, Oct. 30; Alaska State Troopers. Trooper case AK26107677. A court file, 4FA-26-02206CR, was opened and closed on Oct. 31 with no charging document filed, so no charge stands against him on the court record."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 31",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/31/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02206CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dv-assault-ralfd-1031",
+      "date": "2026-10-31",
+      "time": "04:44",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26107741"
+      ],
+      "title": "Domestic violence assault reported in Fairbanks",
+      "body": [
+        "Alaska State Troopers say a trooper responded to a residence on Ralf D Lane in Fairbanks at about 4:44 a.m. on Oct. 31 for a reported domestic disturbance, and that the investigation found a fear assault occurred.",
+        "Troopers say charges have been forwarded to the District Attorney's Office and the investigation is continuing. No arrest is stated and no one has been named. Trooper case AK26107741."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 31",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/31/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "northpole-death-1031",
+      "date": "2026-10-31",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26107710"
+      ],
+      "title": "Death investigation in North Pole",
+      "body": [
+        "Alaska State Troopers say they responded to a residence in North Pole on Oct. 31 to investigate a death and found that Thomas French, 35, had died. Troopers say the next of kin has been notified.",
+        "The release states no cause and no manner of death. Trooper case AK26107710."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Oct. 31",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=10/31/2026+12:00:00+AM"
         }
       ]
     },
@@ -42,7 +252,7 @@
       "title": "Death investigation in Fairbanks",
       "body": [
         "Alaska State Troopers say they received a report of a deceased person in Fairbanks at about 6:46 p.m. on Oct. 30, and that the investigation found the decedent, an 88-year-old Fairbanks resident, died of underlying health issues. Troopers say the next of kin has been notified and that no suspicious activity surrounds the investigation. No name has been released.",
-        "Fairbanks, Oct. 30 at about 6:46 p.m.; Alaska State Troopers. Trooper case AK26107635."
+        "Fairbanks, Oct. 30; Alaska State Troopers. Trooper case AK26107635."
       ],
       "sources": [
         {
@@ -74,9 +284,51 @@
     ],
     "new": [
       {
-        "case": "4FA-26-02197CR",
-        "defendant": "Pulido, Janet",
-        "charges": "One count recorded as charging document pending or not filed; no degree of offense stated. Offense recorded Oct. 30 at Fairbanks.",
+        "case": "4FA-26-02200CR",
+        "defendant": "Rojas Jr, Marc Steven",
+        "charges": "Driving under the influence and refusal to submit to a chemical test, each a Class A misdemeanor. Offense recorded Oct. 30 at North Pole.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02201CR",
+        "defendant": "Erlich, Alexander Richard",
+        "charges": "Four counts of assault in the fourth degree causing fear of injury, each a Class A misdemeanor. Offense recorded Oct. 30 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02202CR",
+        "defendant": "Akpik, Ellis M",
+        "charges": "Opened and closed Oct. 31 with no charging document filed; no charge stands on the file. Offense recorded Oct. 30 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02203CR",
+        "defendant": "Pulido, Janet Rose",
+        "charges": "Driving under the influence of alcohol or a controlled substance and refusal to submit to a chemical test, each a Class A misdemeanor. Offense recorded Oct. 30 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02204CR",
+        "defendant": "Munson, John Allen",
+        "charges": "Driving with a license canceled, revoked or suspended for a criminal offense, a Class A misdemeanor. Offense recorded Oct. 30 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02205CR",
+        "defendant": "Fansler, Ethan Thomas",
+        "charges": "Driving under the influence, blood alcohol .08 percent or more, a Class A misdemeanor. Offense recorded Oct. 31 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02206CR",
+        "defendant": "Ambrose, Duane David Arthur",
+        "charges": "Opened and closed Oct. 31 with no charging document filed; no charge stands on the file. Offense recorded Oct. 30 at Fairbanks.",
+        "felony": false
+      },
+      {
+        "case": "4DJ-26-00067CR",
+        "defendant": "Kulakevich, Vilyam Silver",
+        "charges": "Opened and closed Oct. 31 with no charging document filed; no charge stands on the file. Offense recorded July 11 at Delta Junction.",
         "felony": false
       },
       {
@@ -107,6 +359,46 @@
   },
   "open_cases": [
     {
+      "case": "4FA-26-02205CR",
+      "defendant": "Fansler, Ethan Thomas",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence, blood alcohol .08 percent or more",
+      "next": "Arraignment Nov. 6",
+      "last_docket": "2026-10-31"
+    },
+    {
+      "case": "4FA-26-02204CR",
+      "defendant": "Munson, John Allen",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with a license canceled, revoked or suspended for a criminal offense",
+      "next": "Arraignment Nov. 6",
+      "last_docket": "2026-10-31"
+    },
+    {
+      "case": "4FA-26-02203CR",
+      "defendant": "Pulido, Janet Rose",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence and refusal to submit to a chemical test",
+      "next": "Arraignment Nov. 6",
+      "last_docket": "2026-10-31"
+    },
+    {
+      "case": "4FA-26-02201CR",
+      "defendant": "Erlich, Alexander Richard",
+      "level": "Class A misdemeanor",
+      "charges": "Four counts of assault 4 causing fear of injury",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "last_docket": "2026-10-31"
+    },
+    {
+      "case": "4FA-26-02200CR",
+      "defendant": "Rojas Jr, Marc Steven",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence and refusal to submit to a chemical test",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "last_docket": "2026-10-31"
+    },
+    {
       "case": "4FA-26-02199CR",
       "defendant": "Newman, Maya Jade",
       "level": "Class A misdemeanor",
@@ -120,13 +412,6 @@
       "level": "Misdemeanor, not classified",
       "charges": "Failure to file an accident report within ten days",
       "next": "No event set",
-      "last_docket": "2026-10-30"
-    },
-    {
-      "case": "4FA-26-02197CR",
-      "defendant": "Pulido, Janet",
-      "charges": "One count recorded as charging document pending or not filed",
-      "next": "Arraignment Nov. 6",
       "last_docket": "2026-10-30"
     },
     {
