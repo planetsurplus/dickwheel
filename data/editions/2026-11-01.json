@@ -1,10 +1,58 @@
 {
   "date": "2026-11-01",
-  "compiled": "03:19 AKST",
+  "compiled": "17:11 AKST",
   "window": "Oct. 29 – Nov. 1, 2026",
-  "summary": "Fairbanks Police have added two arrests to their Oct. 31 bulletin, which had previously shown none: a criminal trespass arrest on Old Steese Highway and a driving-while-revoked arrest on Sixteenth Avenue. Three court files that were opened and closed on Oct. 31 without a charging document, and one closed the same day as a duplicate, are no longer searchable in the Alaska Court System's online case database, although the court's weekly filings report still lists all four. The Alaska Court System's weekly criminal filings report has been updated to cover Oct. 25 to Oct. 31 and lists 38 Fairbanks cases, four at Nenana, two at Delta Junction and none at Healy; it includes all eight cases opened inside the area on Oct. 31. The weekly dispositions report has not been updated since Oct. 26, so cases closed since then cannot be read from it. Alaska State Troopers reported no Interior incidents on Nov. 1 as of early morning, and no new criminal case was filed at any of the four area courthouses after Saturday afternoon.",
+  "summary": "Five criminal files were opened at the Fairbanks courthouse on Nov. 1 and four people were arraigned on three of them, among them a domestic violence case charging assault in the fourth degree and three counts of assault when a child is present, and a Delta Junction drunk-driving case filed alongside a fugitive from justice charge against the same man. A court file was also opened behind the Oct. 31 criminal trespass arrest on Old Steese Highway, although no charging document has been filed on it. The Alaska Court System's weekly criminal filings report covers Oct. 25 to Oct. 31 and lists 38 Fairbanks cases, four at Nenana, two at Delta Junction and none at Healy; the court has since filed five more cases at Fairbanks that fall outside that window. Fairbanks Police posted no arrests for Nov. 1 as of 5 p.m., and Alaska State Troopers reported one Interior incident, a missing-persons report involving juveniles in which no offense is alleged.",
   "commentary": null,
   "entries": [
+    {
+      "id": "keith-dv-assault-1101",
+      "date": "2026-11-01",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02209CR"
+      ],
+      "title": "Domestic violence assault charges: Ernest A Keith",
+      "body": [
+        "Ernest A Keith is charged with assault in the fourth degree — recklessly causing physical injury to another person — and with three counts of assault when a child is present, which is committing an assault while a child is present. All four counts are Class A misdemeanors, and the court file records three of the four as domestic violence related.",
+        "The offense is recorded at Fairbanks on Nov. 1 and the charges were filed the same day.",
+        "Case 4FA-26-02209CR. He was arraigned Nov. 1 and a public defender was appointed; a pre-trial conference is set for Dec. 24 and a trial week for Jan. 4, 2027. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "delong-dui-fugitive-1101",
+      "date": "2026-10-31",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02210CR",
+        "4FA-26-02211CR"
+      ],
+      "title": "DUI and fugitive from justice charges: Chad James De Long",
+      "body": [
+        "Chad James De Long is charged with driving under the influence of alcohol or a controlled substance — operating a vehicle while impaired — with refusal to submit to a chemical test, and with driving while his license was canceled, revoked or suspended for a criminal offense. All three are Class A misdemeanors.",
+        "The offense is recorded at Delta Junction on Oct. 31. Case 4FA-26-02210CR, filed at the Fairbanks courthouse on Nov. 1; he was arraigned the same day, with a pre-trial conference set for Dec. 24 and a trial week for Jan. 4, 2027.",
+        "A second file, case 4FA-26-02211CR, charges him as a fugitive from justice under the provision for arrest before a requisition — a holding charge used while another state's demand for a person is awaited. Arraignment on that file is set for Nov. 3 and a fugitive from justice hearing for Dec. 1.",
+        "He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "lofrano-trespass-1031",
       "date": "2026-10-31",
@@ -14,13 +62,14 @@
       "category": "property",
       "severity": "misdemeanor",
       "cases": [
-        "26003325"
+        "26003325",
+        "4FA-26-02207CR"
       ],
       "title": "Criminal trespass arrest: Jennifer Morgan Lofrano",
       "body": [
         "Jennifer Morgan Lofrano, 41, was arrested on a charge of criminal trespass in the second degree — entering or remaining on premises without permission — recorded by police as a misdemeanor.",
         "900 block of Old Steese Highway, Fairbanks, Oct. 31 at 2:27 p.m.; Fairbanks Police. Police case 26003325.",
-        "No charging document had been filed in the Alaska Court System as of the morning of Nov. 1, so no court case number or court date exists for the arrest."
+        "A court file was opened behind the arrest on Nov. 1, case 4FA-26-02207CR, with arraignment set for Nov. 6. No charging document has been filed on it, so no charge stands against her on the court record."
       ],
       "sources": [
         {
@@ -80,6 +129,7 @@
         "Four criminal case numbers that the Alaska Court System's online case database served on Oct. 31 return no records when searched on Nov. 1.",
         "Three of them — 4FA-26-02202CR, 4FA-26-02206CR and 4DJ-26-00067CR — were opened and closed on Oct. 31, each with a single docket entry stating that no complaint or citation was filed. No charge stands against anyone on those files. The fourth, 4FA-26-02197CR, was closed the same day as a duplicate; the drunk-driving charges it had been opened for are filed under case 4FA-26-02203CR.",
         "The court system's weekly criminal filings report, run at 9:01 p.m. on Oct. 31, lists all four case numbers with the defendants' names. Two earlier case numbers, 4FA-26-02165CR and 4FA-26-02171CR, stopped being served by the database in the same way on Oct. 27, and both had also been closed the day before.",
+        "The weekly dispositions report, updated Nov. 1, records three of the four as closed with the charging document pending or not filed, and 4FA-26-02165CR as dismissed for want of probable cause.",
         "Readers looking up any of these numbers in the public case database will find nothing."
       ],
       "sources": [
@@ -90,6 +140,10 @@
         {
           "label": "Alaska Court System weekly criminal charges filed",
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska Court System weekly criminal dispositions",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
         }
       ]
     }
@@ -125,10 +179,52 @@
   },
   "open_cases": [
     {
+      "case": "4FA-26-02211CR",
+      "defendant": "De Long, Chad James",
+      "charges": "Fugitive from justice, arrest prior to requisition",
+      "next": "Arraignment Nov. 3; fugitive from justice hearing Dec. 1",
+      "status": "Open",
+      "last_docket": "2026-11-01"
+    },
+    {
+      "case": "4FA-26-02210CR",
+      "defendant": "De Long, Chad James",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence of alcohol or a controlled substance; refusal to submit to a chemical test; driving with a license canceled, revoked or suspended for a criminal offense. Offense location Delta Junction",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "status": "Open",
+      "last_docket": "2026-11-01"
+    },
+    {
+      "case": "4FA-26-02209CR",
+      "defendant": "Keith, Ernest A",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4 recklessly injuring and three counts of assault when a child is present; three of the four counts recorded as domestic violence related",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "status": "Open",
+      "last_docket": "2026-11-01"
+    },
+    {
+      "case": "4FA-26-02208CR",
+      "defendant": "Ptacek, Hunter Joseph",
+      "charges": "One count recorded as charging document pending or not filed",
+      "next": "Arraignment Nov. 6",
+      "status": "Open",
+      "last_docket": "2026-11-01"
+    },
+    {
+      "case": "4FA-26-02207CR",
+      "defendant": "Lofrano, Jennifer Morgan",
+      "charges": "One count recorded as charging document pending or not filed",
+      "next": "Arraignment Nov. 6",
+      "status": "Open",
+      "last_docket": "2026-11-01"
+    },
+    {
       "case": "4FA-26-02205CR",
       "defendant": "Fansler, Ethan Thomas",
       "level": "Class A misdemeanor",
-      "charges": "Driving under the influence, blood alcohol .08 percent or more",
+      "charges": "Driving under the influence, blood alcohol .08 percent or more. Offense location North Pole",
       "next": "Next hearing Nov. 6",
       "status": "Open",
       "last_docket": "2026-10-31"
