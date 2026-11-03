@@ -1,10 +1,246 @@
 {
   "date": "2026-11-02",
-  "compiled": "04:25 AKST",
+  "compiled": "17:56 AKST",
   "window": "Oct. 30 – Nov. 2, 2026",
-  "summary": "The Alaska Court System's weekly criminal dispositions report was updated at 4 a.m. on Nov. 2 and records outcomes in two Fairbanks cases that no other public record had stated. The charge of murder in the first degree against Brian Jeffery Davenport was dismissed on Oct. 8 on a finding that he is not competent to stand trial, and Kyle Douglas Folger was convicted on Oct. 12 of assault in the fourth degree and of assault when a child is present, with a felony assault count dismissed by the prosecution. The same report accounts for nine case numbers the state's public case database no longer serves: each was closed with no charge ever filed. Alaska State Troopers posted one Fairbanks arrest for Nov. 1, a domestic violence assault, and reported nothing for Nov. 2 as of 4 a.m. Fairbanks Police posted no arrests for either day. No criminal case has been filed at the Fairbanks, Nenana, Healy or Delta Junction courthouses since Nov. 1. The weekly criminal filings report covers Oct. 26 to Nov. 1 and lists 36 Fairbanks cases, four at Nenana, two at Delta Junction and none at Healy.",
+  "summary": "Ten criminal cases were filed at the Fairbanks courthouse on Nov. 2. Seven are charges of theft of property worth less than $250, with offense dates between Sep. 21 and Oct. 30, and in five of those a summons was issued rather than an arrest made, with none recording an arrest. One of the ten is a domestic violence assault charge against Angel Eva Michelle Aishanna, arising from an arrest by Alaska State Troopers on Nov. 1 that an earlier edition reported as having no court case; she was arraigned the same day the case was filed. The other new cases are a charge of theft of property worth $250 to $749 and a charge of possessing a small amount of a controlled substance. The court's weekly criminal filings report covers Oct. 26 to Nov. 1 and so does not include any of the Nov. 2 filings; its counts are 36 cases at Fairbanks, four at Nenana, two at Delta Junction and none at Healy. Earlier on Nov. 2 the court's weekly dispositions report recorded the dismissal of a first-degree murder charge against Brian Jeffery Davenport on a finding that he is not competent to stand trial, two assault convictions for Kyle Douglas Folger, and the closure of nine case numbers on which no charge was ever filed. Alaska State Troopers reported no incidents in the Fairbanks area for Nov. 2 and Fairbanks Police reported no arrests. No case was filed at the Nenana, Healy or Delta Junction courthouses.",
   "commentary": null,
   "entries": [
+    {
+      "id": "aishanna-dv-assault-1101",
+      "date": "2026-11-01",
+      "time": "14:19",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02214CR"
+      ],
+      "title": "Domestic violence assault charge: Angel Eva Michelle Aishanna",
+      "body": [
+        "Angel Eva Michelle Aishanna, 34, of Fairbanks, is charged with assault in the fourth degree — recklessly causing physical injury to another person — a Class A misdemeanor. The court file records the count as domestic violence related.",
+        "A residence in Fairbanks, Nov. 1 at 2:19 p.m.; Alaska State Troopers. Troopers say they responded to a report of a domestic disturbance, that their investigation determined she assaulted a household member, and that she was taken into custody without incident and taken to the Fairbanks Correctional Center.",
+        "Case 4FA-26-02214CR, filed Nov. 2. She was arraigned the same day, a public defender was appointed and release conditions were set. The next court date is Dec. 10. She is arrested and charged, not convicted.",
+        "The troopers' dispatch gives her name as Aishanna Angel; the court record gives it as Aishanna, Angel Eva Michelle. The age is as the troopers' dispatch states it."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 1",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "peterson-theft3-0724",
+      "date": "2026-07-24",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02221CR"
+      ],
+      "title": "Theft charge: Braxton Joseph Peterson",
+      "body": [
+        "Braxton Joseph Peterson is charged with theft in the third degree — taking property worth $250 to $749 — a Class A misdemeanor.",
+        "The offense is recorded at Fairbanks on Jul. 24. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02221CR. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "koeller-controlled-substance-1101",
+      "date": "2026-11-01",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "drug",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02220CR"
+      ],
+      "title": "Controlled substance charge: Payton Richard Koeller",
+      "body": [
+        "Payton Richard Koeller is charged with misconduct involving a controlled substance in the sixth degree — possessing under an ounce of a controlled substance — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Nov. 1. The charge was filed Nov. 2 at the Fairbanks courthouse on a citation.",
+        "Case 4FA-26-02220CR. The next court date is Dec. 8. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-02212",
+      "date": "2026-10-30",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02212CR"
+      ],
+      "title": "Theft charge: Shelly Lynn Goad",
+      "body": [
+        "Shelly Lynn Goad is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Oct. 30. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02212CR. A summons was issued the same day and no arrest is recorded on the file. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-02213",
+      "date": "2026-10-15",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02213CR"
+      ],
+      "title": "Theft charge: Zakkary Aaron Peter",
+      "body": [
+        "Zakkary Aaron Peter is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Oct. 15. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02213CR. A summons was issued the same day and no arrest is recorded on the file. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-02215",
+      "date": "2026-09-26",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02215CR"
+      ],
+      "title": "Theft charge: Robin Brandon Grant",
+      "body": [
+        "Robin Brandon Grant is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Sep. 26. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02215CR. A summons was issued the same day and no arrest is recorded on the file. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-02216",
+      "date": "2026-10-04",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02216CR"
+      ],
+      "title": "Theft charge: Eric Ezias John",
+      "body": [
+        "Eric Ezias John is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Oct. 4. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02216CR. A summons was issued the same day and no arrest is recorded on the file. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-02217",
+      "date": "2026-10-14",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02217CR"
+      ],
+      "title": "Theft charge: Kerwin George Christian",
+      "body": [
+        "Kerwin George Christian is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Oct. 14. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02217CR. The charging document records that a summons was requested, and no arrest is recorded on the file. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-02218",
+      "date": "2026-09-21",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02218CR"
+      ],
+      "title": "Theft charge: Jay Jonathan Metzger",
+      "body": [
+        "Jay Jonathan Metzger is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Sep. 21. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02218CR. The charging document records that a summons was requested, and no arrest is recorded on the file. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-02219",
+      "date": "2026-10-04",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02219CR"
+      ],
+      "title": "Theft charge: Cassandra Kandi Chappell",
+      "body": [
+        "Cassandra Kandi Chappell is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor.",
+        "The offense is recorded at Fairbanks on Oct. 4. The charge was filed Nov. 2 at the Fairbanks courthouse.",
+        "Case 4FA-26-02219CR. A summons was issued the same day and no arrest is recorded on the file. No court date is set. Charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "davenport-murder-dismissed-1008",
       "date": "2026-10-08",
@@ -17,10 +253,10 @@
       ],
       "title": "Murder charge dismissed: Brian Jeffery Davenport",
       "body": [
-        "The charge of murder in the first degree against Brian Jeffery Davenport was dismissed on Oct. 8. The charge was intent to cause death, an unclassified felony, and it was the only count on the file.",
-        "The court record gives the reason for the dismissal as a finding that the defendant is not competent to stand trial.",
-        "The offense was recorded at Fairbanks on Jan. 20, 2026 and the case was filed Jan. 21. Case 4FA-26-00112CR. No future hearing is set on the case number and the case database records it as closed.",
-        "The dismissal is recorded in the Alaska Court System's weekly dispositions report, which was updated Nov. 2. A dismissal is not a conviction and not an acquittal, and the court record states nothing further about the case."
+        "The charge of murder in the first degree against Brian Jeffery Davenport, 29, of Fairbanks, was dismissed on Oct. 8. The charge was intent to cause death, an unclassified felony, and it was the only count on the file.",
+        "The court record gives the reason for the dismissal as a finding that the defendant is not competent to stand trial. The dismissal followed a contested competency hearing on Oct. 5, according to KTVF, which reports that he had been held at the Alaska Psychiatric Institute in Anchorage and that prosecutors had asked for a further period in which to restore him to competency.",
+        "The offense was recorded at Fairbanks on Jan. 20, 2026 and the case was filed Jan. 21. Police said he admitted taking a handgun and shooting a woman at a Fairbanks home, according to KTVF.",
+        "Case 4FA-26-00112CR. No future hearing is set and the case database records the case as closed. A dismissal is not a conviction and not an acquittal."
       ],
       "sources": [
         {
@@ -30,6 +266,10 @@
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "KTVF, Oct. 15, 2026",
+          "url": "https://www.webcenterfairbanks.com/2026/10/15/murder-charge-dismissed-against-fairbanks-man-found-incompetent-stand-trial-grandmothers-killing/"
         }
       ]
     },
@@ -54,32 +294,6 @@
         {
           "label": "Alaska Court System weekly criminal dispositions",
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
-        },
-        {
-          "label": "Alaska CourtView",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
-      "id": "angel-dv-assault-1101",
-      "date": "2026-11-01",
-      "time": "14:19",
-      "place": "Fairbanks",
-      "agency": "Alaska State Troopers",
-      "category": "violent",
-      "severity": "misdemeanor",
-      "cases": [],
-      "title": "Domestic violence assault arrest: Aishanna Angel",
-      "body": [
-        "Aishanna Angel, 34, of Fairbanks, was arrested on a charge recorded by troopers as assault in the fourth degree — recklessly causing physical injury to another person.",
-        "A residence in Fairbanks, Nov. 1 at 2:19 p.m.; Alaska State Troopers. The troopers' dispatch states that they responded to a report of a domestic disturbance and that their investigation determined she assaulted a household member, and that she was taken into custody without incident and taken to the Fairbanks Correctional Center.",
-        "No court case has been opened on the arrest, so no charge class appears on a court record and no court date is set. She is arrested and charged, not convicted."
-      ],
-      "sources": [
-        {
-          "label": "Alaska State Troopers daily dispatch, Nov. 1",
-          "url": "https://dailydispatch.dps.alaska.gov/"
         },
         {
           "label": "Alaska CourtView",
@@ -149,7 +363,7 @@
       "body": [
         "Two charges against Jess Lee Antonich Eakin were dismissed on Oct. 26 for want of probable cause. They were unlawful contact in violation of a court order — contacting a person the court had ordered him not to contact — and violating conditions of release in a misdemeanor case.",
         "Both counts were recorded at Fairbanks with an offense date of Oct. 22. Case 4FA-26-02165CR.",
-        "No conviction was entered. The case number is no longer served by the state's public case database, and the dismissal is recorded in the court's weekly dispositions report, updated Nov. 2."
+        "No conviction was entered. The case number is no longer served by the state's public case database, and the dismissal is recorded in the court's weekly dispositions report."
       ],
       "sources": [
         {
@@ -182,7 +396,7 @@
       ],
       "title": "Nine court case numbers that the state case database no longer serves are recorded as closed with no charge ever filed",
       "body": [
-        "Nine criminal case numbers that the Alaska Court System's online case database returns no records for are listed in the court's weekly dispositions report, updated Nov. 2, as closed cases. Each carries a single count recorded as a charging document pending or not filed, which means no charge was ever filed against the person on that file.",
+        "Nine criminal case numbers that the Alaska Court System's online case database returns no records for are listed in the court's weekly dispositions report as closed cases. Each carries a single count recorded as a charging document pending or not filed, which means no charge was ever filed against the person on that file.",
         "Four were closed on Oct. 31: 4FA-26-02197CR, 4FA-26-02202CR and 4FA-26-02206CR at Fairbanks, and 4DJ-26-00067CR at Delta Junction. One, 4FA-26-02124CR, was closed Oct. 23. The remaining four were closed earlier in October: 4FA-26-01984CR on Oct. 1, 4FA-26-02004CR and 4FA-26-02013CR on Oct. 3, and 4FA-26-02008CR on Oct. 5.",
         "A case number is issued when a person is booked, before the district attorney decides whether to file a charge. Where no charge is filed the case is closed, and the public database then stops serving the number.",
         "Readers looking up any of these numbers in the public case database will find nothing. The dispositions report is the record that states what became of them."
@@ -223,9 +437,160 @@
         "count": 0
       }
     ],
-    "new": []
+    "new": [
+      {
+        "case": "4FA-26-02212CR",
+        "defendant": "Goad, Shelly Lynn",
+        "charges": "Theft 4, property worth less than $250",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02213CR",
+        "defendant": "Peter, Zakkary Aaron",
+        "charges": "Theft 4, property worth less than $250",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02214CR",
+        "defendant": "Aishanna, Angel Eva Michelle",
+        "charges": "Assault 4, recklessly injuring; recorded domestic violence related",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02215CR",
+        "defendant": "Grant, Robin Brandon",
+        "charges": "Theft 4, property worth less than $250",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02216CR",
+        "defendant": "John, Eric Ezias",
+        "charges": "Theft 4, property worth less than $250",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02217CR",
+        "defendant": "Christian, Kerwin George",
+        "charges": "Theft 4, property worth less than $250",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02218CR",
+        "defendant": "Metzger, Jay Jonathan",
+        "charges": "Theft 4, property worth less than $250",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02219CR",
+        "defendant": "Chappell, Cassandra Kandi",
+        "charges": "Theft 4, property worth less than $250",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02220CR",
+        "defendant": "Koeller, Payton Richard",
+        "charges": "Misconduct involving a controlled substance 6, possession",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02221CR",
+        "defendant": "Peterson, Braxton Joseph",
+        "charges": "Theft 3, property worth $250 to $749",
+        "felony": false
+      }
+    ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02221CR",
+      "defendant": "Peterson, Braxton Joseph",
+      "level": "Class A misdemeanor",
+      "charges": "Theft 3, property worth $250 to $749. Offense recorded Jul. 24 at Fairbanks",
+      "next": "No future event set on this case number",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02220CR",
+      "defendant": "Koeller, Payton Richard",
+      "level": "Class B misdemeanor",
+      "charges": "Misconduct involving a controlled substance 6, possession. Offense recorded Nov. 1 at Fairbanks",
+      "next": "Next hearing Dec. 8",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02219CR",
+      "defendant": "Chappell, Cassandra Kandi",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 4 at Fairbanks",
+      "next": "No future event set on this case number; summons issued Nov. 2",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02218CR",
+      "defendant": "Metzger, Jay Jonathan",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Sep. 21 at Fairbanks",
+      "next": "No future event set on this case number",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02217CR",
+      "defendant": "Christian, Kerwin George",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 14 at Fairbanks",
+      "next": "No future event set on this case number",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02216CR",
+      "defendant": "John, Eric Ezias",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 4 at Fairbanks",
+      "next": "No future event set on this case number; summons issued Nov. 2",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02215CR",
+      "defendant": "Grant, Robin Brandon",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Sep. 26 at Fairbanks",
+      "next": "No future event set on this case number; summons issued Nov. 2",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02214CR",
+      "defendant": "Aishanna, Angel Eva Michelle",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injuring, recorded as domestic violence related. Offense recorded Nov. 1 at Fairbanks; arraigned Nov. 2",
+      "next": "Next hearing Dec. 10",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02213CR",
+      "defendant": "Peter, Zakkary Aaron",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 15 at Fairbanks",
+      "next": "No future event set on this case number; summons issued Nov. 2",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02212CR",
+      "defendant": "Goad, Shelly Lynn",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 30 at Fairbanks",
+      "next": "No future event set on this case number; summons issued Nov. 2",
+      "status": "Open",
+      "last_docket": "2026-11-02"
+    },
     {
       "case": "4FA-26-02211CR",
       "defendant": "De Long, Chad James",
@@ -416,10 +781,10 @@
       "case": "4FA-26-02011CR",
       "defendant": "Baker, Tal Xavier",
       "level": "Class C felony",
-      "charges": "Driving under the influence with two or more prior convictions",
-      "next": "Bail hearing Nov. 2 at 9:30 a.m.",
+      "charges": "Driving under the influence with two or more prior convictions. A bail hearing was held Nov. 2; no order is recorded against the docket row",
+      "next": "Next hearing Dec. 3",
       "status": "Open",
-      "last_docket": "2026-10-30"
+      "last_docket": "2026-11-02"
     },
     {
       "case": "4DJ-24-00006CR",
@@ -920,6 +1285,10 @@
     {
       "name": "Fairbanks Daily News-Miner public safety report",
       "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
     },
     {
       "name": "PulsePoint, Fairbanks Emergency Communications Center",
