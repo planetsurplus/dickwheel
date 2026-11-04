@@ -1,10 +1,108 @@
 {
   "date": "2026-11-03",
-  "compiled": "05:08 AKST",
-  "window": "Nov. 1–3, 2026",
-  "summary": "Fairbanks Police report that Hunter Joseph Ptacek, 19, was arrested on Nov. 1 on a charge of driving under the influence on College Road; the arrest was added to the department's bulletin for Nov. 1 after this report was first compiled on Tuesday morning. Alaska State Troopers report that Justin West, 35, of Tok was arrested on Nov. 1 on two counts of assault in the second degree and one count of assault in the fourth degree and was taken to the Fairbanks jail. Troopers reported no incidents inside the Fairbanks area on Nov. 2, and the troopers' page for Nov. 3 had not been published when this report was compiled. Fairbanks Police reported no arrests for either Nov. 2 or the early hours of Nov. 3. The Alaska Court System's public case database was unavailable throughout the morning and was still unavailable at about 4:50 a.m., so no hearing results, new filings or case updates for Nov. 3 could be read and the open-case list below is as it stood on Nov. 2. The court's weekly criminal filings report, which was available, covers Oct. 27 to Nov. 2 and lists 38 cases filed at Fairbanks, four at Nenana, two at Delta Junction and none at Healy; it includes all ten of the cases filed at Fairbanks on Nov. 2 that were reported here yesterday. Eleven case numbers within the range the report prints are missing from it, all of them files opened at Fairbanks on Oct. 28 that name no defendant.",
+  "compiled": "17:17 AKST",
+  "window": "Oct. 19 - Nov. 3, 2026",
+  "summary": "Three new criminal cases were filed in the Fairbanks court and read for the first time on Tuesday evening, two of them carrying a felony count. Trenton Allen Rix is charged with first-degree burglary, a Class B felony, on an offense recorded in Fairbanks on Nov. 2, and Westley Allen Ingraham is charged with failing to stop for a peace officer while driving recklessly, a Class C felony, with three counts of reckless endangerment, on offenses recorded at North Pole the same day. The court file behind the Nov. 1 arrest of Justin West of Tok is now available and charges him with two counts of second-degree assault, both offenses recorded in October, and one count of fourth-degree assault recorded on Nov. 1. Fairbanks Police added three rows to their bulletins for Oct. 31 and Nov. 1, including an assault and a harassment report with no arrest. The court's weekly criminal filings report, which covers Oct. 27 to Nov. 2, lists 38 cases filed at Fairbanks, four at Nenana, two at Delta Junction and none at Healy; those are the report's own counts and the court has filed at least one case the report omits, 4FA-26-02222CR, which was filed at Fairbanks on Nov. 2 before the report was run. The Alaska Court System's public case database, which was unavailable through Tuesday morning, was responding again by about 5 p.m.",
   "commentary": null,
   "entries": [
+    {
+      "id": "rix-burglary-1103",
+      "date": "2026-11-02",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02223CR"
+      ],
+      "title": "Burglary charge: Trenton Allen Rix",
+      "body": [
+        "Trenton Allen Rix is charged with burglary in the first degree - entering a building unlawfully and causing or attempting to cause injury - a Class B felony, punishable by up to 10 years. He is also charged with theft in the fourth degree, taking property worth less than $250, a Class B misdemeanor, and with violating a condition of release on a felony case, a Class A misdemeanor.",
+        "The court records all three offenses as having happened in Fairbanks on Nov. 2. The case was filed Nov. 3 and he was arraigned the same afternoon, with a public defender appointed from the bench.",
+        "Case 4FA-26-02223CR; preliminary hearing Nov. 12. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "ingraham-fail-to-stop-1103",
+      "date": "2026-11-02",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02224CR"
+      ],
+      "title": "Failure to stop for police: Westley Allen Ingraham",
+      "body": [
+        "Westley Allen Ingraham is charged with failure to stop at the direction of a peace officer while driving recklessly - not stopping for an officer and driving recklessly in doing so - a Class C felony, punishable by up to 5 years. He is also charged with reckless driving, which the court records as a misdemeanor not otherwise classified, and with three counts of reckless endangerment, recklessly creating a substantial risk of serious injury, each a Class A misdemeanor.",
+        "The court records all five offenses as having happened at North Pole on Nov. 2. The case was filed Nov. 3 and he was arraigned the same afternoon.",
+        "Case 4FA-26-02224CR; preliminary hearing Nov. 12. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "cottle-false-statement-1102",
+      "date": "2026-11-02",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02222CR"
+      ],
+      "title": "False statement charges: Benjaman Charles Cottle",
+      "body": [
+        "Benjaman Charles Cottle is charged with three counts of unsworn falsification in the second degree - a false statement on a form that states the punishment for falsifying it - and one count of giving false information implicating another person in an offense. All four counts are Class A misdemeanors.",
+        "The court records the three falsification counts as having happened in Fairbanks on Nov. 15, 2021, and the false information count on Jan. 27, 2022. The case was filed Nov. 2 and a summons was issued to the Alaska State Troopers on Nov. 3; the file records no arrest.",
+        "Case 4FA-26-02222CR; no court date has been set. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "west-tok-assault-1101",
+      "date": "2026-11-01",
+      "time": "20:40",
+      "place": "Tok",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4TO-26-00078CR",
+        "AK26108147"
+      ],
+      "title": "Assault arrest: Justin West",
+      "body": [
+        "Justin West, 35, of Tok was arrested on Nov. 1 and has been charged with two counts of assault in the second degree - intentionally causing physical injury with a dangerous instrument - each a Class B felony, punishable by up to 10 years, and one count of assault in the fourth degree, recklessly causing physical injury, a Class A misdemeanor. The court records all three counts as domestic violence related.",
+        "Troopers say they responded to a request for a welfare check at a residence in Tok on Nov. 1 at about 8:40 p.m. and that the investigation resulted in his arrest, and that he was taken to the Fairbanks Correctional Center and held pending arraignment.",
+        "The court records the offense date of the fourth-degree count as Nov. 1 and the offense dates of the two second-degree counts as Oct. 19 and Oct. 20. Case 4TO-26-00078CR; he was arraigned Nov. 2 at the Fairbanks courthouse and a preliminary hearing is set for Nov. 12. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 2",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "ptacek-dui-1101",
       "date": "2026-11-01",
@@ -19,8 +117,8 @@
       ],
       "title": "DUI arrest: Hunter Joseph Ptacek",
       "body": [
-        "Hunter Joseph Ptacek, 19, was arrested on a charge of driving under the influence with a blood alcohol level of .08 percent or more, recorded by police as a misdemeanor. 1300 block of College Road, Fairbanks, Nov. 1 at 1:57 a.m.; Fairbanks Police. Police case 26003330.",
-        "A court file was opened at Fairbanks the same day, case 4FA-26-02208CR. It records one count as a charging document pending or not filed and states no degree of offense, so no charge class comes from the court. Arraignment Nov. 6."
+        "Hunter Joseph Ptacek, 19, was arrested on a charge of driving under the influence with a blood alcohol level of .08 percent or more and on a second count of a minor consuming, possessing or controlling alcohol, first or second offense, both recorded by police as misdemeanors. 1300 block of College Road, Fairbanks, Nov. 1 at 1:57 a.m.; Fairbanks Police. Police case 26003330.",
+        "A court file was opened at Fairbanks the same day, case 4FA-26-02208CR. It records one count as a charging document pending or not filed and states no degree of offense, so no charge class comes from the court. Arraignment Nov. 6. He is arrested, not convicted."
       ],
       "sources": [
         {
@@ -30,30 +128,54 @@
         {
           "label": "Alaska Court System weekly criminal charges filed, Oct. 27 - Nov. 2",
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
     {
-      "id": "west-tok-assault-1101",
+      "id": "fpd-assault-1101",
       "date": "2026-11-01",
-      "time": "20:40",
-      "place": "Tok",
-      "agency": "Alaska State Troopers",
+      "time": "09:42",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
       "category": "violent",
-      "severity": "felony",
+      "severity": "other",
       "cases": [
-        "AK26108147"
+        "26003334"
       ],
-      "title": "Assault arrest: Justin West",
+      "title": "Assault reported on Twenty-Eighth Avenue",
       "body": [
-        "Justin West, 35, of Tok, was arrested on two counts of assault in the second degree and one count of assault in the fourth degree, as recorded by troopers. Assault in the second degree is a Class B felony under Alaska law, punishable by up to 10 years; no court file could be read, so no charge as filed is stated here.",
-        "A residence in Tok, Nov. 1 at about 8:40 p.m.; Alaska State Troopers. Troopers say they responded to a request for a welfare check and that the investigation resulted in his arrest.",
-        "Troopers say he was taken to the Fairbanks Correctional Center and held pending arraignment."
+        "Fairbanks Police recorded an assault at the 1000 block of Twenty-Eighth Avenue on Nov. 1 at about 9:42 a.m., reported a minute later. The bulletin records it as a simple assault, names no one and records no arrest. Police case 26003334."
       ],
       "sources": [
         {
-          "label": "Alaska State Troopers daily dispatch, Nov. 2",
-          "url": "https://dailydispatch.dps.alaska.gov/"
+          "label": "Fairbanks Police Department daily bulletin, Nov. 1",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "fpd-harassment-1101",
+      "date": "2026-11-01",
+      "time": "21:16",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "26003339"
+      ],
+      "title": "Harassment reported on Jack Lindsey Lane",
+      "body": [
+        "Fairbanks Police recorded a harassment incident at the 200 block of Jack Lindsey Lane on Nov. 1 at about 9:16 p.m., reported a minute later. No arrest is recorded and the bulletin names no one. Police case 26003339."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police Department daily bulletin, Nov. 1",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         }
       ]
     },
@@ -65,27 +187,22 @@
       "category": "court",
       "severity": "other",
       "cases": [],
-      "title": "Alaska's public court case database was unavailable on Tuesday morning",
+      "title": "Alaska's public court case database was unavailable for much of Tuesday",
       "body": [
-        "CourtView, the Alaska Court System's public online case database at records.courts.alaska.gov, returned the message \"The service is unavailable\" to every request made on Nov. 3 between about 3:20 a.m. and about 4:50 a.m. Four different pages on the site, including the search page, returned the same message.",
-        "The site is the only public place where an individual Alaska criminal case file can be looked up by case number or by name. Court calendars, charges, hearing dates and docket entries are published there and nowhere else.",
-        "The court system's two weekly report files, which list criminal charges filed and cases disposed across the state, were available and were read.",
-        "Because the case database could not be read, no hearing results, new filings or case updates from Nov. 3 are reported here. The list of open cases below is as it stood on Nov. 2."
+        "CourtView, the Alaska Court System's public online case database at records.courts.alaska.gov, returned the message \"The service is unavailable\" to every request made on Nov. 3 between about 3:20 a.m. and about 4:50 a.m. Four pages on the site, including the search page, returned the same message. The site was responding normally again by about 5 p.m.",
+        "The site is the only public place where an individual Alaska criminal case file can be looked up by case number or by name. Charges, hearing dates and docket entries are published there and nowhere else.",
+        "The three cases newly filed at Fairbanks and the hearing results reported in this edition were read after the site returned."
       ],
       "sources": [
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        },
-        {
-          "label": "Alaska Court System weekly criminal charges filed",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         }
       ]
     }
   ],
   "filings": {
-    "window": "Oct. 27 – Nov. 2, 2026",
+    "window": "Oct. 27 - Nov. 2, 2026",
     "courts": [
       {
         "court": "Fairbanks (4FA)",
@@ -104,9 +221,55 @@
         "count": 0
       }
     ],
-    "new": []
+    "new": [
+      {
+        "case": "4FA-26-02224CR",
+        "defendant": "Ingraham, Westley Allen",
+        "charges": "Failure to stop at the direction of a peace officer with reckless driving; reckless driving; three counts of reckless endangerment",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02223CR",
+        "defendant": "Rix, Trenton Allen",
+        "charges": "Burglary 1, causing or attempting injury; theft 4; violating a condition of release on a felony case",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02222CR",
+        "defendant": "Cottle, Benjaman Charles",
+        "charges": "Three counts of unsworn falsification 2; one count of giving false information implicating another in an offense",
+        "felony": false
+      }
+    ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02224CR",
+      "defendant": "Ingraham, Westley Allen",
+      "level": "Class C felony",
+      "charges": "Failure to stop at the direction of a peace officer with reckless driving; reckless driving; three counts of reckless endangerment. Offense recorded Nov. 2 at North Pole; arraigned Nov. 3",
+      "next": "Preliminary hearing Nov. 12",
+      "status": "Open",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02223CR",
+      "defendant": "Rix, Trenton Allen",
+      "level": "Class B felony",
+      "charges": "Burglary 1, causing or attempting injury; theft 4, property worth less than $250; violating a condition of release on a felony case. Offense recorded Nov. 2 at Fairbanks; arraigned Nov. 3",
+      "next": "Preliminary hearing Nov. 12",
+      "status": "Open",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02222CR",
+      "defendant": "Cottle, Benjaman Charles",
+      "level": "Class A misdemeanor",
+      "charges": "Three counts of unsworn falsification 2, offense recorded Nov. 15, 2021; one count of giving false information implicating another in an offense, offense recorded Jan. 27, 2022, both at Fairbanks. Summons issued Nov. 3; no arrest recorded. This case number is not printed in the court's weekly filings report",
+      "next": "No future event set on this case number",
+      "status": "Open",
+      "last_docket": "2026-11-03"
+    },
     {
       "case": "4FA-26-02221CR",
       "defendant": "Peterson, Braxton Joseph",
@@ -200,10 +363,10 @@
     {
       "case": "4FA-26-02211CR",
       "defendant": "De Long, Chad James",
-      "charges": "Fugitive from justice, arrest prior to requisition",
-      "next": "Arraignment Nov. 3; fugitive from justice hearing Dec. 1",
+      "charges": "Fugitive from justice, arrest prior to requisition. Offense location Delta Junction. Arraignment held Nov. 3 and a temporary fugitive from justice order was entered",
+      "next": "Fugitive from justice hearing Dec. 1",
       "status": "Open",
-      "last_docket": "2026-11-01"
+      "last_docket": "2026-11-03"
     },
     {
       "case": "4FA-26-02210CR",
@@ -226,9 +389,10 @@
     {
       "case": "4FA-26-02208CR",
       "defendant": "Ptacek, Hunter Joseph",
-      "charges": "One count recorded as charging document pending or not filed; offense recorded Nov. 1 at Fairbanks. Police recorded the arrest as driving under the influence, blood alcohol .08 percent or more, a misdemeanor",
+      "charges": "One count recorded as charging document pending or not filed; offense recorded Nov. 1 at Fairbanks. Police recorded the arrest as driving under the influence, blood alcohol .08 percent or more, and a minor consuming, possessing or controlling alcohol, both misdemeanors",
       "next": "Arraignment Nov. 6",
-      "status": "Open"
+      "status": "Open",
+      "last_docket": "2026-11-02"
     },
     {
       "case": "4FA-26-02207CR",
@@ -395,7 +559,8 @@
     {
       "case": "4DJ-24-00006CR",
       "defendant": "Rihel, Andrew",
-      "next": "Next hearing Nov. 3",
+      "charges": "A jury trial was calendared at the Delta Junction courthouse for Nov. 3 and the court record shows no result against it",
+      "next": "Jury trial Nov. 4 at the Fairbanks courthouse; jury trial Nov. 5 at Delta Junction",
       "status": "Reopened",
       "last_docket": "2026-10-30"
     },
@@ -407,6 +572,15 @@
       "next": "Next hearing Nov. 5",
       "status": "Reopened",
       "last_docket": "2026-10-30"
+    },
+    {
+      "case": "4TO-26-00078CR",
+      "defendant": "West, Justin Allen",
+      "level": "Class B felony",
+      "charges": "Two counts of assault in the second degree, injury with a weapon with intent, offenses recorded Oct. 19 and Oct. 20; one count of assault in the fourth degree, recklessly injuring, offense recorded Nov. 1. All counts recorded as domestic violence related. Offense location Tok; arraigned Nov. 2 at the Fairbanks courthouse",
+      "next": "Preliminary hearing Nov. 12",
+      "status": "Open",
+      "last_docket": "2026-11-03"
     },
     {
       "case": "4FA-26-02129CR",
@@ -635,9 +809,10 @@
     {
       "case": "4FA-26-01946CR",
       "defendant": "Burdo, Jr, William Roger",
-      "next": "Next hearing Nov. 3",
+      "charges": "An omnibus hearing calendared for Nov. 3 was continued, as was the trial week of Nov. 16. No order is recorded against either row",
+      "next": "Omnibus hearing Dec. 10; trial week Dec. 28",
       "status": "Reopened",
-      "last_docket": "2026-10-29"
+      "last_docket": "2026-11-03"
     },
     {
       "case": "4FA-26-01896CR",
@@ -677,9 +852,10 @@
     {
       "case": "4FA-26-01826CR",
       "defendant": "Burks, Joshua Jon",
-      "next": "Next hearing Nov. 3",
+      "charges": "A bail hearing and an omnibus hearing calendared for Nov. 3 were both continued, as was the trial week of Nov. 16. No order or bail amount is recorded against any row",
+      "next": "Bail hearing Nov. 5; omnibus hearing Jan. 21, 2027; trial week Feb. 8, 2027",
       "status": "Reopened",
-      "last_docket": "2026-10-27"
+      "last_docket": "2026-11-03"
     },
     {
       "case": "4FA-26-01818CR",
@@ -783,6 +959,14 @@
       "next": "Next hearing Nov. 4",
       "status": "Reopened",
       "last_docket": "2026-10-22"
+    },
+    {
+      "case": "4DJ-26-00068CR",
+      "defendant": "Koenig, Aaliyah",
+      "charges": "One count recorded as charging document pending or not filed; offense recorded Jun. 29 at Delta Junction. The case was opened and closed on Nov. 3 with a docket entry recording that no complaint or citation was filed",
+      "next": "No future event set on this case number",
+      "status": "Closed",
+      "last_docket": "2026-11-03"
     },
     {
       "case": "4DJ-26-00066CR",
