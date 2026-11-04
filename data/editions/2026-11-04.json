@@ -1,8 +1,8 @@
 {
   "date": "2026-11-04",
-  "compiled": "03:46 AKST",
-  "window": "Nov. 3–4, 2026",
-  "summary": "A 72-year-old North Pole man was arrested Tuesday afternoon on a domestic violence assault charge and taken to the Fairbanks Correctional Center; the arrest was posted by troopers on Tuesday evening and no court file had been opened in his name by early Wednesday. Fairbanks Police recorded no incidents or arrests on their daily bulletin for either Monday or Tuesday, and no new criminal case was filed in any of the four Interior courts after Tuesday afternoon. The court's weekly criminal filings report, now covering Oct. 28 to Nov. 3, lists 38 cases filed at Fairbanks, four at Nenana, two at Delta Junction and none at Healy; it now includes 4FA-26-02222CR, a Fairbanks case the previous week's report omitted. Twelve open cases carry a hearing on Wednesday. The court's weekly dispositions report has not been updated since Nov. 2 and the U.S. Attorney's press release index could not be read.",
+  "compiled": "04:10 AKST",
+  "window": "Nov. 1–4, 2026",
+  "summary": "A 72-year-old North Pole man was arrested Tuesday afternoon on a domestic violence assault charge and taken to the Fairbanks Correctional Center; no court file had been opened in his name by early Wednesday. Fairbanks Police recorded no incidents or arrests on their daily bulletin for Monday or Tuesday, and no new criminal case was filed in any of the four Interior courts after Tuesday afternoon. The court's weekly criminal filings report, covering Oct. 28 to Nov. 3, lists 38 cases filed at Fairbanks, four at Nenana, two at Delta Junction and none at Healy. Twelve open cases carry a hearing on Wednesday. The court's weekly report of cases disposed has not been updated since Nov. 2, so no Interior case closed in the past two days appears in any court document.",
   "commentary": null,
   "entries": [
     {
@@ -18,9 +18,9 @@
       ],
       "title": "Domestic violence assault arrest: Francis Baillargeon Jr.",
       "body": [
-        "Francis Baillargeon Jr., 72, of North Pole was arrested on charges of assault in the fourth degree — recklessly causing physical injury to another person — and violation of conditions of release. Troopers record the case as domestic violence related. North Pole, Nov. 3 at about 2:21 p.m.; Alaska State Troopers, case AK26108887.",
-        "Troopers say they responded to an address in North Pole for a reported domestic assault and that the investigation determined he had assaulted another person and violated his conditions of release. He was taken to the Fairbanks Correctional Center.",
-        "No court file had been opened in his name in any Alaska court as of early Nov. 4, so no charge classification comes from the court record. He is arrested, not convicted."
+        "Francis Baillargeon Jr., 72, of North Pole was arrested on charges of assault in the fourth degree — recklessly causing physical injury to another person — and violation of conditions of release. Troopers record the case as domestic violence related.",
+        "Troopers say they responded to an address in North Pole for a reported domestic assault and that the investigation determined he had assaulted another person and violated his conditions of release. North Pole, Nov. 3 at about 2:21 p.m.; Alaska State Troopers, case AK26108887. He was taken to the Fairbanks Correctional Center.",
+        "No court file had been opened in his name in any Alaska court as of early Nov. 4."
       ],
       "sources": [
         {
@@ -44,8 +44,8 @@
       "title": "Twelve hearings set in Interior courts Wednesday, including a jury trial",
       "body": [
         "Twelve open criminal cases in the Fairbanks, Nenana and Delta Junction courts carry a hearing calendared for Wednesday, Nov. 4.",
-        "A jury trial in a 2024 Delta Junction case, 4DJ-24-00006CR, is set for 9:15 a.m. in Courtroom 402 at the Fairbanks courthouse; a jury-trial row for the same case at the Delta Junction courthouse that day is recorded as calendared in error. Four bail hearings are set for the morning, one of them, in 4FA-26-02214CR, on an application filed by the prosecution. Five arraignments are set for 1:30 p.m., a status hearing in a Nenana case for 3:00 p.m. and a further bail hearing for 3:30 p.m.",
-        "Results are not available at the time of publication."
+        "A jury trial in a 2024 Delta Junction case, 4DJ-24-00006CR, is set for 9:15 a.m. in Courtroom 402 at the Fairbanks courthouse. Four bail hearings and an arraignment are set for the morning, one of the bail hearings on an application filed by the prosecution. Five arraignments are set for 1:30 p.m., a status hearing in a Nenana case for 3:00 p.m. and a further bail hearing for 3:30 p.m.",
+        "No result had been entered on any of the twelve by early Wednesday morning."
       ],
       "sources": [
         {
@@ -65,11 +65,11 @@
         "4DJ-26-00067CR",
         "4DJ-26-00068CR"
       ],
-      "title": "Two Delta Junction case numbers in the court's weekly report cannot be looked up in the court's own database",
+      "title": "Two Delta Junction case numbers printed by the court cannot be looked up in the court's own database",
       "body": [
         "Two criminal case numbers printed in the Alaska Court System's weekly criminal filings report, 4DJ-26-00067CR and 4DJ-26-00068CR, return “No Records Found” in CourtView, the court system's public case database.",
         "The report lists each with one count recorded as a charging document pending or not filed, no degree of offense, and an offense location of Delta Junction. One of the two, 4DJ-26-00068CR, was readable in the database on the evening of Nov. 3, when it recorded a case opened and closed the same day with an entry stating that no complaint or citation was filed. It was no longer served by the database the following morning.",
-        "No offense or charge is stated on either file by any court record, and no explanation for the numbers' absence from the database is given by the court."
+        "No offense or charge is stated on either file by any court record, and the court gives no explanation for the numbers' absence from the database."
       ],
       "sources": [
         {
@@ -106,6 +106,123 @@
     "new": []
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02224CR",
+      "defendant": "Ingraham, Westley Allen",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Failure to stop at the direction of a peace officer with reckless driving; reckless driving; three counts of reckless endangerment. Offenses recorded Nov. 2 at North Pole; arraigned Nov. 3",
+      "next": "Next hearing Nov. 12",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02223CR",
+      "defendant": "Rix, Trenton Allen",
+      "status": "Open",
+      "level": "Class B felony",
+      "charges": "Burglary 1, causing or attempting injury; theft 4; violating a condition of release on a felony case. Offenses recorded Nov. 2 at Fairbanks; arraigned Nov. 3",
+      "next": "Next hearing Nov. 12",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02222CR",
+      "defendant": "Cottle, Benjaman Charles",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Three counts of unsworn falsification 2, offenses recorded Nov. 15, 2021; one count of giving false information implicating another in an offense, offense recorded Jan. 27, 2022. Summons issued Nov. 3; no arrest recorded",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02221CR",
+      "defendant": "Peterson, Braxton Joseph",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Theft 3, property worth $250 to $749. Offense recorded Jul. 24 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02220CR",
+      "defendant": "Koeller, Payton Richard",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Misconduct involving a controlled substance 6, possession. Offense recorded Nov. 1 at Fairbanks",
+      "next": "Next hearing Dec. 8",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02219CR",
+      "defendant": "Chappell, Cassandra Kandi",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 4 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02218CR",
+      "defendant": "Metzger, Jay Jonathan",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Sep. 21 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02217CR",
+      "defendant": "Christian, Kerwin George",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 14 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02216CR",
+      "defendant": "John, Eric Ezias",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 4 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02215CR",
+      "defendant": "Grant, Robin Brandon",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Sep. 26 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02214CR",
+      "defendant": "Aishanna, Angel Eva Michelle",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injuring, recorded as domestic violence related. Offense recorded Nov. 1 at Fairbanks. A prosecutor's application for bail review was filed Nov. 3",
+      "next": "Bail hearing Nov. 4 at 10:00 a.m.",
+      "last_docket": "2026-11-03"
+    },
+    {
+      "case": "4FA-26-02213CR",
+      "defendant": "Peter, Zakkary Aaron",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 15 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-02"
+    },
+    {
+      "case": "4FA-26-02212CR",
+      "defendant": "Goad, Shelly Lynn",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 30 at Fairbanks",
+      "next": "No future event set on this case number",
+      "last_docket": "2026-11-02"
+    },
     {
       "case": "4FA-26-02211CR",
       "defendant": "De Long, Chad James",
@@ -502,7 +619,7 @@
       "case": "4FA-26-01946CR",
       "defendant": "Burdo, Jr, William Roger",
       "status": "Reopened",
-      "charges": "An omnibus hearing calendared for Nov. 3 was continued, as was the trial week of Nov. 16. No order is recorded against either row",
+      "charges": "An omnibus hearing calendared for Nov. 3 was continued, as was the trial week of Nov. 16",
       "next": "Omnibus hearing Dec. 10; trial week Dec. 28",
       "last_docket": "2026-11-03"
     },
@@ -545,7 +662,7 @@
       "case": "4FA-26-01826CR",
       "defendant": "Burks, Joshua Jon",
       "status": "Reopened",
-      "charges": "A bail hearing and an omnibus hearing calendared for Nov. 3 were both continued, as was the trial week of Nov. 16. No order or bail amount is recorded against any row",
+      "charges": "A bail hearing and an omnibus hearing calendared for Nov. 3 were both continued, as was the trial week of Nov. 16",
       "next": "Bail hearing Nov. 5; omnibus hearing Jan. 21, 2027; trial week Feb. 8, 2027",
       "last_docket": "2026-11-03"
     },
@@ -776,35 +893,8 @@
       "case": "4DJ-24-00006CR",
       "defendant": "Rihel, Andrew",
       "status": "Reopened",
-      "charges": "A jury trial was calendared at the Delta Junction courthouse for Nov. 3 and the court record shows no result against it; the docket records log notes for a jury trial that day. The Delta Junction row for Nov. 4 is recorded as calendared in error",
+      "charges": "A jury trial row at the Delta Junction courthouse for Nov. 4 is recorded as calendared in error",
       "next": "Jury trial Nov. 4 at 9:15 a.m. at the Fairbanks courthouse",
-      "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02222CR",
-      "defendant": "Cottle, Benjaman Charles",
-      "status": "Open",
-      "level": "Class A misdemeanor",
-      "charges": "Three counts of unsworn falsification 2, offenses recorded Nov. 15, 2021; one count of giving false information implicating another in an offense, offense recorded Jan. 27, 2022. Summons issued Nov. 3; no arrest recorded",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02223CR",
-      "defendant": "Rix, Trenton Allen",
-      "status": "Open",
-      "level": "Class B felony",
-      "charges": "Burglary 1, causing or attempting injury; theft 4; violating a condition of release on a felony case. Offenses recorded Nov. 2 at Fairbanks; arraigned Nov. 3",
-      "next": "Next hearing Nov. 12",
-      "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02224CR",
-      "defendant": "Ingraham, Westley Allen",
-      "status": "Open",
-      "level": "Class C felony",
-      "charges": "Failure to stop at the direction of a peace officer with reckless driving; reckless driving; three counts of reckless endangerment. Offenses recorded Nov. 2 at North Pole; arraigned Nov. 3",
-      "next": "Next hearing Nov. 12",
       "last_docket": "2026-11-03"
     },
     {
@@ -815,96 +905,6 @@
       "charges": "Two counts of assault 2, injury with a weapon with intent, offenses recorded Oct. 19 and Oct. 20; one count of assault 4, recklessly injuring, offense recorded Nov. 1. All counts recorded as domestic violence related. Offense location Tok; arraigned Nov. 2 at the Fairbanks courthouse",
       "next": "Next hearing Nov. 12",
       "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02221CR",
-      "defendant": "Peterson, Braxton Joseph",
-      "status": "Open",
-      "level": "Class A misdemeanor",
-      "charges": "Theft 3, property worth $250 to $749. Offense recorded Jul. 24 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02220CR",
-      "defendant": "Koeller, Payton Richard",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Misconduct involving a controlled substance 6, possession. Offense recorded Nov. 1 at Fairbanks",
-      "next": "Next hearing Dec. 8",
-      "last_docket": "2026-11-02"
-    },
-    {
-      "case": "4FA-26-02219CR",
-      "defendant": "Chappell, Cassandra Kandi",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 4 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-02"
-    },
-    {
-      "case": "4FA-26-02218CR",
-      "defendant": "Metzger, Jay Jonathan",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Theft 4, property worth less than $250. Offense recorded Sep. 21 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02217CR",
-      "defendant": "Christian, Kerwin George",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 14 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02216CR",
-      "defendant": "John, Eric Ezias",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 4 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-02"
-    },
-    {
-      "case": "4FA-26-02215CR",
-      "defendant": "Grant, Robin Brandon",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Theft 4, property worth less than $250. Offense recorded Sep. 26 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-02"
-    },
-    {
-      "case": "4FA-26-02214CR",
-      "defendant": "Aishanna, Angel Eva Michelle",
-      "status": "Open",
-      "level": "Class A misdemeanor",
-      "charges": "Assault 4, recklessly injuring, recorded as domestic violence related. Offense recorded Nov. 1 at Fairbanks. A prosecutor’s application for bail review was filed Nov. 3",
-      "next": "Bail hearing Nov. 4 at 10:00 a.m.",
-      "last_docket": "2026-11-03"
-    },
-    {
-      "case": "4FA-26-02213CR",
-      "defendant": "Peter, Zakkary Aaron",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 15 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-02"
-    },
-    {
-      "case": "4FA-26-02212CR",
-      "defendant": "Goad, Shelly Lynn",
-      "status": "Open",
-      "level": "Class B misdemeanor",
-      "charges": "Theft 4, property worth less than $250. Offense recorded Oct. 30 at Fairbanks",
-      "next": "No future event set on this case number",
-      "last_docket": "2026-11-02"
     }
   ],
   "sources": [
