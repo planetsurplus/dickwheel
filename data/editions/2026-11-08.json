@@ -1,10 +1,103 @@
 {
   "date": "2026-11-08",
-  "compiled": "03:36 AKST",
+  "compiled": "09:35 AKST",
   "window": "Nov. 7–8, 2026",
-  "summary": "Three Fairbanks police arrests made on Saturday, Nov. 7, became public records overnight: a felony assault with a weapon on O'Connor Road, a misdemeanor assault on South University Avenue, and a six-count arrest at Lakeview Terrace that includes two felony counts of theft of an access device. Court cases had already been opened behind the two assault arrests; no case has been filed behind the Lakeview Terrace arrest. No criminal case has been opened at the Fairbanks, Nenana, Healy or Delta Junction courthouses since Saturday afternoon, and Alaska State Troopers reported no incident in the Fairbanks area on Nov. 8. One hearing is set for Sunday, a continued arraignment at 1:30 p.m. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 1 to Nov. 7; that report was run at 9 p.m. on Nov. 7 and includes every case the courts opened inside the window. The statewide dispositions report has not been updated since Nov. 2, so no case closed in the Interior since then appears in any court document.",
+  "summary": "Alaska State Troopers reported two incidents in the Fairbanks area on Sunday, Nov. 8: the arrest of a North Pole man on a domestic violence criminal mischief charge in Fairbanks, and a death investigation at a North Pole home that troopers say was a natural death. The Fairbanks court opened two criminal cases on Sunday; neither has a charging document on file yet, and both defendants are set for arraignment on Nov. 13. Three Fairbanks police arrests made on Saturday, Nov. 7, remain the week's main items: a felony assault with a weapon on O'Connor Road, a misdemeanor assault on South University Avenue, and a six-count arrest at Lakeview Terrace that includes two felony counts of theft of an access device. One hearing was set for Sunday afternoon, a continued arraignment at 1:30 p.m. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 1 to Nov. 7; that report was run at 9 p.m. on Nov. 7 and has not been re-run, so neither of Sunday's two new cases appears in it. The statewide dispositions report has not been updated since Nov. 2, so no case closed in the Interior since then appears in any court document.",
   "commentary": null,
   "entries": [
+    {
+      "id": "robinson-criminal-mischief-1108",
+      "date": "2026-11-08",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26110470"
+      ],
+      "title": "Domestic violence criminal mischief arrest: Tyler Robinson",
+      "body": [
+        "Tyler Robinson, 23, of North Pole, was arrested on a charge of criminal mischief in the fourth degree — damaging another person's property — which troopers record as domestic violence related. Fairbanks, Nov. 8; Alaska State Troopers. He was taken to the Fairbanks Correctional Center.",
+        "Troopers give no further account of the incident and no charge classification. Trooper case AK26110470. No criminal case had been opened in his name in Alaska court records as of Sunday morning."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 8",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "north-pole-death-investigation-1108",
+      "date": "2026-11-08",
+      "time": "03:29",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26110471"
+      ],
+      "title": "Death investigation at a North Pole home",
+      "body": [
+        "Alaska State Troopers responded at about 3:29 a.m. on Nov. 8 to a residence in North Pole for a death investigation. Troopers say the man who died was elderly, had a history of heart problems and died of natural causes.",
+        "No name has been released. Trooper case AK26110471."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 8",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "stevenson-case-opened-1108",
+      "date": "2026-11-08",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02248CR"
+      ],
+      "title": "Criminal case opened: Richard Stevenson",
+      "body": [
+        "A criminal case was opened against Richard Stevenson at the Fairbanks courthouse on Sunday, Nov. 8. The court record gives an offense date of Nov. 7 and an offense location of Fairbanks, and records the count as a charging document pending or not filed, so no charge has been entered against him yet.",
+        "Case 4FA-26-02248CR, before Judge Maria P. Bahr. Arraignment is set for 8:30 a.m. on Nov. 13 in Courtroom 102."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "medeiros-case-opened-1108",
+      "date": "2026-11-08",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02249CR"
+      ],
+      "title": "Criminal case opened: Jayden M Medeiros",
+      "body": [
+        "A criminal case was opened against Jayden M Medeiros, 21, at the Fairbanks courthouse on Sunday, Nov. 8. The court record gives an offense date of Nov. 8 and an offense location of North Pole, and records the count as a charging document pending or not filed, so no charge has been entered against him yet.",
+        "Case 4FA-26-02249CR, before Judge Maria P. Bahr. Arraignment is set for 8:30 a.m. on Nov. 13 in Courtroom 102."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "pitka-access-device-theft-1107",
       "date": "2026-11-07",
@@ -14,13 +107,14 @@
       "category": "property",
       "severity": "felony",
       "cases": [
-        "26003389"
+        "26003389",
+        "4FA-26-02117CR"
       ],
       "title": "Felony theft arrest: Julia Ann Pitka",
       "body": [
         "Julia Ann Pitka, 38, was arrested on two counts of theft in the second degree of an access device — taking a credit card, debit card or similar device — which police record as felonies. The same arrest carries theft in the fourth degree of property worth less than $250, buying or selling an access device or identification, and two counts of violating conditions of release, all recorded by police as misdemeanors.",
         "1100 block of Lakeview Terrace 1 Road, Fairbanks, Nov. 7 at 4:32 p.m.; Fairbanks Police. Police case 26003389.",
-        "No criminal case has been filed in court behind the arrest. A search of Alaska court records on the name returns no case filed on Nov. 7 or Nov. 8 at any court in the state, so the charge classifications above are the police department's own and not a court's."
+        "No criminal case has been filed in court behind this arrest. Court records show Pitka has an open Fairbanks felony case, 4FA-26-02117CR, filed Oct. 18, in which a grand jury returned an indictment on Oct. 27. That case charges one count of misconduct involving a controlled substance in the third degree — manufacturing or delivering a controlled substance — a Class B felony punishable by up to 10 years, and two counts of theft in the second degree of an access device or identification document, each a Class C felony punishable by up to five years, along with two misdemeanor counts. All are dated Oct. 17 at Fairbanks. She was released on a $10,000 cash bond on Oct. 22 and is due for arraignment in Superior Court on Nov. 18."
       ],
       "sources": [
         {
@@ -206,6 +300,26 @@
     ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02248CR",
+      "defendant": "Stevenson, Richard",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Offense dated Nov. 7 at Fairbanks",
+      "next": "Arraignment Nov. 13, 8:30 a.m.",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-08"
+    },
+    {
+      "case": "4FA-26-02249CR",
+      "defendant": "Medeiros, Jayden M",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Offense dated Nov. 8 at North Pole",
+      "next": "Arraignment Nov. 13, 8:30 a.m.",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-08"
+    },
     {
       "case": "4FA-26-02242CR",
       "defendant": "Mouton, Terrance Joseph",
