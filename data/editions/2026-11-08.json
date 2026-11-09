@@ -1,24 +1,78 @@
 {
   "date": "2026-11-08",
-  "compiled": "09:35 AKST",
+  "compiled": "17:12 AKST",
   "window": "Nov. 7–8, 2026",
-  "summary": "Alaska State Troopers reported two incidents in the Fairbanks area on Sunday, Nov. 8: the arrest of a North Pole man on a domestic violence criminal mischief charge in Fairbanks, and a death investigation at a North Pole home that troopers say was a natural death. The Fairbanks court opened two criminal cases on Sunday; neither has a charging document on file yet, and both defendants are set for arraignment on Nov. 13. Three Fairbanks police arrests made on Saturday, Nov. 7, remain the week's main items: a felony assault with a weapon on O'Connor Road, a misdemeanor assault on South University Avenue, and a six-count arrest at Lakeview Terrace that includes two felony counts of theft of an access device. One hearing was set for Sunday afternoon, a continued arraignment at 1:30 p.m. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 1 to Nov. 7; that report was run at 9 p.m. on Nov. 7 and has not been re-run, so neither of Sunday's two new cases appears in it. The statewide dispositions report has not been updated since Nov. 2, so no case closed in the Interior since then appears in any court document.",
+  "summary": "The Fairbanks court sat on Sunday afternoon, Nov. 8, and the day's main item is a new felony charge: Khaleah Katuuk Toorak is charged with assault in the second degree, a Class B felony recorded by the court as domestic violence related, with an offense date of Nov. 8 at Fairbanks. She was arraigned the same afternoon. The court also filed charges behind two arrests reported earlier: a six-count case against Julia Ann Pitka arising from a Nov. 7 arrest at Lakeview Terrace, including two felony counts of theft of a credit or debit card, and a misdemeanor domestic violence criminal mischief charge against Tyler Robinson of North Pole. Alaska State Troopers reported three incidents in the Fairbanks area on Sunday: the Robinson arrest, a death investigation at a North Pole home that troopers say was a natural death, and a drunk-driving arrest near the Goldstream General Store. Three Fairbanks police arrests made on Saturday, Nov. 7 — a felony assault with a weapon on O'Connor Road, a misdemeanor assault on South University Avenue and the Lakeview Terrace arrest — remain the week's other main items. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 1 to Nov. 7; that report was run at 9 p.m. on Nov. 7 and has not been re-run, so none of the seven criminal cases the Fairbanks court opened on Sunday appears in it. The statewide dispositions report has not been updated since Nov. 2, so no case closed in the Interior since then appears in any court document.",
   "commentary": null,
   "entries": [
+    {
+      "id": "toorak-assault2-1108",
+      "date": "2026-11-08",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02254CR"
+      ],
+      "title": "Felony domestic violence assault charge: Khaleah Katuuk Toorak",
+      "body": [
+        "Khaleah Katuuk Toorak is charged with assault in the second degree — repeated assaults causing serious physical injury — a Class B felony, punishable by up to 10 years. The court records the count as domestic violence related and gives an offense date of Nov. 8 at Fairbanks.",
+        "Case 4FA-26-02254CR, filed by complaint at the Fairbanks courthouse on Nov. 8. She was arraigned the same afternoon before the weekend and holiday judge, counsel was appointed from the bench and release conditions were entered.",
+        "Preliminary hearings are set for 3:15 p.m. on Nov. 18 and 3:15 p.m. on Nov. 25. No case judge has been assigned."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "harris-dui-1108",
+      "date": "2026-11-08",
+      "time": "06:07",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02253CR",
+        "AK26110478"
+      ],
+      "title": "DUI arrest: Jack Harris",
+      "body": [
+        "Jack E Harris was arrested on a charge of driving under the influence, recorded by troopers under AS 28.35.030(a)(1) — driving while under the influence of an intoxicant or controlled substance. Near the Goldstream General Store, Fairbanks, Nov. 8 at about 6:07 a.m.; Alaska State Troopers.",
+        "Troopers say they received a report that he was driving a white Nissan Titan after smoking marijuana, found him asleep in the driver's seat of the running vehicle, and observed signs of impairment. Troopers say he admitted smoking marijuana; a breath test showed no alcohol. Trooper case AK26110478.",
+        "Case 4FA-26-02253CR was opened at the Fairbanks courthouse on Nov. 8. The court record states no charge against him yet, recording the count as a charging document pending or not filed. Arraignment is set for 8:30 a.m. on Nov. 13 in Courtroom 102 before Judge Maria P. Bahr."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 8",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "robinson-criminal-mischief-1108",
       "date": "2026-11-08",
       "place": "Fairbanks",
       "agency": "Alaska State Troopers",
       "category": "property",
-      "severity": "other",
+      "severity": "misdemeanor",
       "cases": [
+        "4FA-26-02251CR",
         "AK26110470"
       ],
-      "title": "Domestic violence criminal mischief arrest: Tyler Robinson",
+      "title": "Domestic violence criminal mischief charge: Tyler Robinson",
       "body": [
-        "Tyler Robinson, 23, of North Pole, was arrested on a charge of criminal mischief in the fourth degree — damaging another person's property — which troopers record as domestic violence related. Fairbanks, Nov. 8; Alaska State Troopers. He was taken to the Fairbanks Correctional Center.",
-        "Troopers give no further account of the incident and no charge classification. Trooper case AK26110470. No criminal case had been opened in his name in Alaska court records as of Sunday morning."
+        "Tyler Michael Robinson, 23, of North Pole is charged with criminal mischief in the fifth degree — damaging property worth less than $250 — a Class B misdemeanor, which the court records as domestic violence related. The offense is dated Nov. 8 at North Pole.",
+        "Alaska State Troopers say they arrested him on Nov. 8 and took him to the Fairbanks Correctional Center; troopers reported the charge as criminal mischief in the fourth degree. Trooper case AK26110470.",
+        "Case 4FA-26-02251CR, filed by information on Nov. 8. He was arraigned the same afternoon before Judge Ben A. Seekins; a pre-trial conference is set for Jan. 7, 2027 and a trial week from Jan. 19, 2027."
       ],
       "sources": [
         {
@@ -107,14 +161,14 @@
       "category": "property",
       "severity": "felony",
       "cases": [
-        "26003389",
-        "4FA-26-02117CR"
+        "4FA-26-02250CR",
+        "26003389"
       ],
-      "title": "Felony theft arrest: Julia Ann Pitka",
+      "title": "Felony theft of credit or debit cards: Julia Ann Pitka",
       "body": [
-        "Julia Ann Pitka, 38, was arrested on two counts of theft in the second degree of an access device — taking a credit card, debit card or similar device — which police record as felonies. The same arrest carries theft in the fourth degree of property worth less than $250, buying or selling an access device or identification, and two counts of violating conditions of release, all recorded by police as misdemeanors.",
-        "1100 block of Lakeview Terrace 1 Road, Fairbanks, Nov. 7 at 4:32 p.m.; Fairbanks Police. Police case 26003389.",
-        "No criminal case has been filed in court behind this arrest. Court records show Pitka has an open Fairbanks felony case, 4FA-26-02117CR, filed Oct. 18, in which a grand jury returned an indictment on Oct. 27. That case charges one count of misconduct involving a controlled substance in the third degree — manufacturing or delivering a controlled substance — a Class B felony punishable by up to 10 years, and two counts of theft in the second degree of an access device or identification document, each a Class C felony punishable by up to five years, along with two misdemeanor counts. All are dated Oct. 17 at Fairbanks. She was released on a $10,000 cash bond on Oct. 22 and is due for arraignment in Superior Court on Nov. 18."
+        "Julia Ann Pitka, 38, is charged with two counts of theft in the second degree of an access device — taking a credit card, debit card or identification document — each a Class C felony, punishable by up to five years. The same case charges fraudulent use of a stolen access device under $75 and two counts of violating a condition of release for a felony, all Class A misdemeanors, and theft in the fourth degree of property worth less than $250, a Class B misdemeanor. All six counts are dated Nov. 6 at Fairbanks and none is recorded as domestic violence related.",
+        "According to the Fairbanks Police daily bulletin, she was arrested at the 1100 block of Lakeview Terrace 1 Road, Fairbanks, on Nov. 7 at 4:32 p.m. Police case 26003389.",
+        "Case 4FA-26-02250CR, filed by information on Nov. 8 before Judge Thomas I. Temple. She was arraigned Nov. 8 and counsel was appointed from the bench; a status hearing is set for 1:30 p.m. on Nov. 10 and preliminary hearings for Nov. 18 and Nov. 25."
       ],
       "sources": [
         {
@@ -203,11 +257,11 @@
       "cases": [
         "4FA-26-02244CR"
       ],
-      "title": "Arraignment set for Sunday: Elaina Deborah Carroll",
+      "title": "Domestic violence assault charge: Elaina Deborah Carroll",
       "body": [
-        "Elaina Deborah Carroll is charged with assault in the fourth degree — recklessly causing injury — a Class A misdemeanor, recorded by the court as domestic violence related, with an offense date of Nov. 6 at Fairbanks.",
-        "Her arraignment on Nov. 7 was continued, and she is set to be arraigned at 1:30 p.m. on Nov. 8 in Courtroom 102 of the Fairbanks courthouse before the weekend and holiday judge.",
-        "Case 4FA-26-02244CR. A pre-trial conference is set for Jan. 7, 2027 and a trial week from Jan. 19, 2027."
+        "Elaina Deborah Carroll is charged with assault in the fourth degree — recklessly causing injury — a Class A misdemeanor, which the court records as domestic violence related. The offense is dated Nov. 6 at Fairbanks.",
+        "Case 4FA-26-02244CR, filed by complaint at the Fairbanks courthouse on Nov. 7. Her arraignment was continued on Nov. 7 and continued again on Nov. 8, and is now set for 1:30 p.m. on Nov. 9 in Courtroom 102.",
+        "A pre-trial conference is set for Jan. 7, 2027 and a trial week from Jan. 19, 2027, before Judge Ben A. Seekins."
       ],
       "sources": [
         {
@@ -301,6 +355,56 @@
   },
   "open_cases": [
     {
+      "case": "4FA-26-02254CR",
+      "defendant": "Toorak, Khaleah Katuuk",
+      "status": "Open",
+      "level": "Class B felony",
+      "charges": "Assault 2, repeated assaults causing serious physical injury — domestic violence related. Offense dated Nov. 8 at Fairbanks. Arraigned Nov. 8",
+      "next": "Preliminary hearings Nov. 18 and Nov. 25, 3:15 p.m.",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-08"
+    },
+    {
+      "case": "4FA-26-02253CR",
+      "defendant": "Harris, Jack E",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Offense dated Nov. 8 at Fairbanks",
+      "next": "Arraignment Nov. 13, 8:30 a.m.",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-08"
+    },
+    {
+      "case": "4FA-26-02252CR",
+      "defendant": "Monge, Andrew",
+      "status": "Closed",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Offense dated Nov. 7 at Fairbanks. Closed Nov. 8 with no complaint or citation filed",
+      "next": "None",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-08"
+    },
+    {
+      "case": "4FA-26-02251CR",
+      "defendant": "Robinson, Tyler Michael",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Criminal mischief 5, damage under $250 — domestic violence related. Offense dated Nov. 8 at North Pole. Arraigned Nov. 8",
+      "next": "Pre-trial conference Jan. 7, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-08"
+    },
+    {
+      "case": "4FA-26-02250CR",
+      "defendant": "Pitka, Julia Ann",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Theft 2 of an access device ×2 (Class C felony); fraudulent use of a stolen access device; violating conditions of release for a felony ×2; theft 4. Offense dated Nov. 6 at Fairbanks. Arraigned Nov. 8",
+      "next": "Status hearing Nov. 10, 1:30 p.m.",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-11-08"
+    },
+    {
       "case": "4FA-26-02248CR",
       "defendant": "Stevenson, Richard",
       "status": "Open",
@@ -328,7 +432,7 @@
       "charges": "Assault 3 with a dangerous instrument; assault 4; criminal mischief 5 — all domestic violence related. Arraigned Nov. 7",
       "next": "Preliminary hearing Nov. 17",
       "judge": "Temple, Thomas I",
-      "last_docket": "2026-11-07"
+      "last_docket": "2026-11-08"
     },
     {
       "case": "4FA-26-02243CR",
@@ -346,9 +450,9 @@
       "status": "Open",
       "level": "Class A misdemeanor",
       "charges": "Assault 4, recklessly injure, domestic violence related. Arraignment continued to Nov. 8",
-      "next": "Arraignment continued to Nov. 8; pre-trial conference Jan. 7, 2027; trial week from Jan. 19, 2027",
+      "next": "Arraignment Nov. 9, 1:30 p.m. (continued from Nov. 7 and Nov. 8)",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-11-07"
+      "last_docket": "2026-11-08"
     },
     {
       "case": "4FA-26-02245CR",
