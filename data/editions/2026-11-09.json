@@ -1,35 +1,332 @@
 {
   "date": "2026-11-09",
-  "compiled": "03:33 AKST",
-  "window": "Nov. 8–9, 2026",
-  "summary": "The one new item in the Fairbanks area on Monday, Nov. 9, is an arrest that Fairbanks Police added to their Nov. 8 bulletin overnight: Herbert Herbie Ipalook, 42, arrested on two misdemeanor assault counts at the 2000 block of Carr Avenue on Sunday lunchtime. No criminal case had been filed in court behind it as of Monday morning. No criminal case was opened at the Fairbanks, Nenana, Healy or Delta Junction courthouses between Sunday afternoon and the morning of Nov. 9, and Alaska State Troopers had published no daily dispatch for Nov. 9 at that hour. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 2 to Nov. 8; that report was run at 9 p.m. on Nov. 8 and, unusually, includes both of the cases the Fairbanks court opened that afternoon. It also lists one Fairbanks case number, 4FA-26-02241CR, that the court's public database does not return, and a second case number opened on Nov. 8 has stopped being returned since. The statewide dispositions report has not been updated since Nov. 2, so no case closed in the Interior since then appears in any court document. The Fairbanks Daily News-Miner public safety column has published nothing since Nov. 6.",
+  "compiled": "17:15 AKST",
+  "window": "Nov. 7–9, 2026",
+  "summary": "The Fairbanks court opened eight criminal cases on Monday, Nov. 9, and the Nenana court one. None carries a felony count. Four of the Fairbanks cases are the court files behind arrests Fairbanks Police had already reported, among them a Nov. 8 assault arrest that the court charged as four counts, all of them recorded as domestic violence related. Three cases opened on Nov. 8 that had been filed without a charging document now carry charges: a criminal trespass, a drunk-driving and weapons case at North Pole, and a Fairbanks drunk-driving case. Fairbanks Police added two arrests to their Nov. 8 bulletin and one to Nov. 7 during the day. Alaska State Troopers report an investigation into drugs at a Fairbanks halfway house, with no arrest made. The Alaska Department of Law announced a guilty plea to two counts of sexual abuse of a minor in the first degree over conduct in Fairbanks and Anchorage. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 2 to Nov. 8; that report was run at 9 p.m. on Nov. 8 and has not run since, so none of Monday's nine cases appears in it. It also lists one Fairbanks case number, 4FA-26-02241CR, that the court's public database does not return, and a case opened on Nov. 8, 4FA-26-02252CR, has stopped being returned. The statewide dispositions report has not been updated since Nov. 2, through nine scheduled cycles, so no case closed in the Interior since then appears in any court document.",
   "commentary": null,
   "entries": [
     {
       "id": "ipalook-assault-1108",
       "date": "2026-11-08",
-      "time": "12:50",
       "place": "Fairbanks",
       "agency": "Fairbanks Police",
       "category": "violent",
-      "severity": "other",
+      "severity": "misdemeanor",
       "cases": [
+        "4FA-26-02258CR",
         "26003402"
       ],
-      "title": "Assault arrest: Herbert Herbie Ipalook",
+      "title": "Assault charges: Herbert Herbie Ipalook",
       "body": [
-        "Herbert Herbie Ipalook, 42, was arrested on two counts, assault in the fourth degree and assault committed in the presence of a child. Assault in the fourth degree on this subsection means recklessly causing injury to another person. Fairbanks Police record both counts as misdemeanors.",
-        "According to Fairbanks Police, the arrest was made at the 2000 block of Carr Avenue in Fairbanks on Nov. 8 at 12:50 p.m. The case number is 26003402.",
-        "No criminal case had been filed in court behind the arrest as of the morning of Nov. 9. The Fairbanks criminal case series stands at 4FA-26-02254CR, and a statewide search of court records in this name returned no 2026 criminal case."
+        "Herbert Herbie Ipalook, 42, is charged with four counts in Fairbanks: one count of assault in the fourth degree — recklessly causing injury to another person — and three counts of assault committed in the presence of a child. All four are Class A misdemeanors on the court file and all four are recorded as domestic violence related.",
+        "He was arrested on Nov. 8 by Fairbanks Police, who recorded two assault counts as misdemeanors. The court file was opened the following day and carries an offense date of Nov. 8 at Fairbanks.",
+        "He was arraigned on Nov. 9. A pre-trial conference is set for Dec. 24 and a trial week for Jan. 4, 2027. Case 4FA-26-02258CR."
       ],
       "sources": [
         {
-          "label": "Fairbanks Police daily bulletin, Nov. 8",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+          "label": "Alaska CourtView, case 4FA-26-02258CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         },
         {
-          "label": "Alaska CourtView",
+          "label": "Fairbanks Police daily bulletin, Nov. 8",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "perezromo-assault-1108",
+      "date": "2026-11-08",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02257CR",
+        "26003405"
+      ],
+      "title": "Assault charges: Noe Perez Romo",
+      "body": [
+        "Noe Perez Romo, 34, is charged with assault in the fourth degree — recklessly causing injury to another person — and with assault committed in the presence of a child. Both are Class A misdemeanors on the court file and both are recorded as domestic violence related.",
+        "He was arrested in Fairbanks on Nov. 8 by Fairbanks Police, who recorded both counts as misdemeanors. The court file carries an offense date of Nov. 8 at Fairbanks.",
+        "He was arraigned on Nov. 9 and counsel was appointed. A pre-trial conference is set for Jan. 7, 2027 and a trial week for Jan. 19, 2027. Case 4FA-26-02257CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02257CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 8",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "holland-assault-theft-1108",
+      "date": "2026-11-08",
+      "time": "15:24",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02256CR",
+        "26003403"
+      ],
+      "title": "Assault and theft charges: James Richie Holland",
+      "body": [
+        "James Richie Holland, 58, is charged with assault in the fourth degree — recklessly causing injury to another person — a Class A misdemeanor, and theft in the fourth degree, taking property worth less than $250, a Class B misdemeanor. Neither count is recorded as domestic violence related. The court file prints the surname as Hollen.",
+        "According to Fairbanks Police, the arrest was made at the 900 block of Old Steese Highway in Fairbanks on Nov. 8 at 3:24 p.m. Police case 26003403.",
+        "He was arraigned on Nov. 9 and counsel was appointed. A pre-trial conference is set for Jan. 7, 2027 and a trial week for Jan. 19, 2027. Case 4FA-26-02256CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02256CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 8",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "stevenson-trespass-1107",
+      "date": "2026-11-07",
+      "time": "13:46",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02248CR",
+        "26003399"
+      ],
+      "title": "Criminal trespass charge: Richard Shaunte Stevenson",
+      "body": [
+        "Richard Shaunte Stevenson, 52, is charged with criminal trespass in the second degree — entering or remaining unlawfully on another person's land — a Class B misdemeanor on the court file. The count is not recorded as domestic violence related.",
+        "According to Fairbanks Police, the arrest was made at the 1500 block of Lacey Street in Fairbanks on Nov. 7 at 1:46 p.m. Police case 26003399. The court file carries an offense date of Nov. 7 at Fairbanks.",
+        "He was arraigned on Nov. 9 and a further arraignment is set for Nov. 10 at 1:30 p.m. A pre-trial conference is set for Dec. 24 and a trial week for Jan. 4, 2027. Case 4FA-26-02248CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02248CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 7",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "medeiros-dui-1108",
+      "date": "2026-11-08",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02249CR"
+      ],
+      "title": "DUI and weapons charges: Jayden Mikel Medeiros",
+      "body": [
+        "Jayden Mikel Medeiros is charged with driving under the influence — driving while under the influence of alcohol or drugs — and with weapons misconduct in the fourth degree, possessing a firearm while intoxicated. Both are Class A misdemeanors on the court file and neither is recorded as domestic violence related.",
+        "The counts carry an offense date of Nov. 8 at North Pole. The case was opened on Nov. 8 and the charges were filed on Nov. 9, when conditions of release were entered.",
+        "Arraignment is set for Nov. 13 at 8:30 a.m. Case 4FA-26-02249CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02249CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "harris-dui-1108",
+      "date": "2026-11-08",
+      "time": "06:07",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02253CR",
+        "AK26110478"
+      ],
+      "title": "DUI charge: Jack Edmund Harris",
+      "body": [
+        "Jack Edmund Harris is charged with driving under the influence of alcohol or a controlled substance, a Class A misdemeanor on the court file. The count is not recorded as domestic violence related and carries an offense date of Nov. 8 at Fairbanks.",
+        "Alaska State Troopers say that at about 6:07 a.m. on Nov. 8 they received a report of a driver near the Goldstream General Store, found Harris asleep in the driver's seat of a running vehicle, and arrested him after an investigation. Trooper case AK26110478.",
+        "Arraignment is set for Nov. 13 at 8:30 a.m. Case 4FA-26-02253CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02253CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "AST daily dispatch, Nov. 8",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "baker-mischief-1109",
+      "date": "2026-11-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02259CR"
+      ],
+      "title": "Criminal mischief charge: Macie Marie Baker",
+      "body": [
+        "Macie Marie Baker is charged with criminal mischief in the fourth degree — damaging another person's property worth $250 to $749 — a Class A misdemeanor on the court file. The count is recorded as domestic violence related.",
+        "The count carries an offense date of Nov. 8 at Fairbanks. The case was opened on Nov. 9 and a summons was issued the same day to the Alaska State Troopers at Fairbanks.",
+        "No hearing is set on the file. Case 4FA-26-02259CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02259CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "lechugaporras-assault-1109",
+      "date": "2026-11-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02260CR"
+      ],
+      "title": "Assault charge: Jasmine Jannet Lechuga-Porras",
+      "body": [
+        "Jasmine Jannet Lechuga-Porras is charged with assault in the fourth degree — recklessly causing injury to another person — a Class A misdemeanor on the court file. The count is not recorded as domestic violence related.",
+        "The count carries an offense date of Nov. 1 at Fairbanks. The case was opened on Nov. 9.",
+        "No hearing is set on the file. Case 4FA-26-02260CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02260CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "miller-theft-1109",
+      "date": "2026-11-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02261CR"
+      ],
+      "title": "Theft charges: Dillon Eli Miller",
+      "body": [
+        "Dillon Eli Miller is charged with two counts of theft in the fourth degree — taking property worth less than $250 — each a Class B misdemeanor on the court file. Neither count is recorded as domestic violence related.",
+        "Both counts carry an offense date of Sep. 29 at Fairbanks. The case was opened on Nov. 9 and a summons was requested.",
+        "No hearing is set on the file. Case 4FA-26-02261CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02261CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "palmer-permit-1109",
+      "date": "2026-11-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02255CR"
+      ],
+      "title": "Driving charge: Joshua Odel Palmer",
+      "body": [
+        "Joshua Odel Palmer is charged with permitting an unauthorized person to drive — letting someone without a valid license drive a vehicle — recorded on the court file as a misdemeanor with no class stated. The count is not recorded as domestic violence related.",
+        "The count carries an offense date of Nov. 1 at Fairbanks. The case was opened on a citation filed Nov. 6.",
+        "Arraignment has been reset to Nov. 20 at 8:30 a.m. Case 4FA-26-02255CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4FA-26-02255CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "johnson-permit-1109",
+      "date": "2026-11-09",
+      "place": "Nenana",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4NE-26-00110CR"
+      ],
+      "title": "Instruction permit charge: Michelle Lee Johnson",
+      "body": [
+        "Michelle Lee Johnson is charged with driving in violation of an instruction permit — driving outside the limits of a learner's permit — recorded on the court file as a misdemeanor with no class stated. The count is not recorded as domestic violence related.",
+        "The count carries an offense date of Oct. 27 at Nenana. The case was opened at the Nenana court on a dated citation filed Nov. 9.",
+        "Arraignment is set for Dec. 7 at 2:30 p.m. at the Nenana courthouse. Case 4NE-26-00110CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, case 4NE-26-00110CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "halfway-house-drugs-1109",
+      "date": "2026-11-09",
+      "time": "09:00",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "drug",
+      "severity": "other",
+      "cases": [
+        "AK26110741"
+      ],
+      "title": "Troopers investigating report of methamphetamine at Fairbanks halfway house",
+      "body": [
+        "Alaska State Troopers say that at about 9 a.m. on Nov. 9 they received a report that a resident of the Northstar Center Residential Reentry Halfway House in Fairbanks was in possession of methamphetamine, and that the investigation is ongoing.",
+        "No arrest has been reported and no criminal case has been filed in court. Trooper case AK26110741."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 9",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "sorenson-conviction-1109",
+      "date": "2026-11-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Department of Law",
+      "category": "court",
+      "severity": "felony",
+      "cases": [],
+      "title": "Child sexual abuse conviction: William John Sorenson",
+      "body": [
+        "William John Sorenson, 49, pleaded guilty on Nov. 9 to two counts of sexual abuse of a minor in the first degree, an unclassified felony under Alaska law.",
+        "The Alaska Department of Law says the convictions stem from conduct between 2003 and 2018 in both Fairbanks and Anchorage, that the case began with a report to the Anchorage Police Department in 2018, and that seven people in total came forward. It says he admitted abusing each of them.",
+        "The department says he will receive a sentence of 50 years with 25 years suspended on each count, with 10 years to run consecutively, for 35 years to serve. He is held in the custody of the Department of Corrections and is to be sentenced on April 6, 2027. The case was investigated by the Anchorage Police Department and the Alaska Bureau of Investigation and prosecuted by the Office of Special Prosecutions."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Department of Law press release, Nov. 9, 2026",
+          "url": "https://law.alaska.gov/press/releases/2026/110926-Sorenson.html"
         }
       ]
     },
@@ -43,10 +340,10 @@
       "cases": [
         "4FA-26-02250CR"
       ],
-      "title": "Felony card-theft case set for a Nov. 10 hearing: Julia Ann Pitka",
+      "title": "Felony card theft charges: Julia Ann Pitka",
       "body": [
-        "Julia Ann Pitka, 38, is charged with six counts arising from a Nov. 7 arrest in Fairbanks. Two are felony counts of theft in the second degree of an access device or identification document — taking someone else's credit card, debit card or identification — Class C felonies, punishable under Alaska law by up to five years. The other four are misdemeanors: fraudulent use of a stolen access device for less than $75, theft of property worth less than $250, and two counts of violating conditions of release in a felony case.",
-        "Fairbanks Police say the arrest was made at the 1100 block of Lakeview Terrace on Nov. 7 at 4:32 p.m. The counts carry offense dates of Nov. 6, the day before.",
+        "Julia Ann Pitka, 38, is charged with six counts. Two are counts of theft in the second degree of an access device or identification document — taking someone else's credit card, debit card or identification — Class C felonies, punishable under Alaska law by up to five years. The other four are misdemeanors: fraudulent use of a stolen access device for less than $75, theft of property worth less than $250, and two counts of violating conditions of release in a felony case.",
+        "According to Fairbanks Police, the arrest was made at the 1100 block of Lakeview Terrace in Fairbanks on Nov. 7 at 4:32 p.m. The counts carry offense dates of Nov. 6.",
         "A status hearing is set for Nov. 10 at 1:30 p.m., with preliminary hearings on Nov. 18 and Nov. 25. Case 4FA-26-02250CR."
       ],
       "sources": [
@@ -70,7 +367,7 @@
       "cases": [],
       "title": "Statewide court report on closed cases is a week out of date",
       "body": [
-        "The Alaska Court System's weekly report of criminal cases disposed carries a footer stamp of Nov. 2 at 4 a.m. and covers cases closed between Oct. 1 and Nov. 2. It has not been refreshed since, through seven scheduled update cycles.",
+        "The Alaska Court System's weekly report of criminal cases disposed carries a footer stamp of Nov. 2 at 4 a.m. and covers cases closed between Oct. 1 and Nov. 2. It has not been refreshed since, through nine scheduled update cycles, including the one due on the morning of Nov. 9.",
         "The practical effect is that no criminal case closed at the Fairbanks, Nenana, Healy or Delta Junction courthouses since Nov. 2 — no conviction, acquittal, dismissal or sentence — appears in any published court document. Individual case files remain readable one at a time in the court's public database."
       ],
       "sources": [
@@ -103,15 +400,69 @@
     ],
     "new": [
       {
+        "case": "4FA-26-02255CR",
+        "defendant": "Palmer, Joshua Odel",
+        "charges": "Permitting an unauthorized person to drive, AS 28.15.281(b) (misdemeanor, no class stated); offense dated Nov. 1 at Fairbanks; citation filed Nov. 6. Arraignment reset to Nov. 20",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02256CR",
+        "defendant": "Hollen, James Richie",
+        "charges": "Assault 4, recklessly injure (Class A misdemeanor); theft 4 under $250 (Class B misdemeanor); offense dated Nov. 8 at Fairbanks; arraigned Nov. 9",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02257CR",
+        "defendant": "Perez Romo, Noe",
+        "charges": "Assault 4, recklessly injure; assault when child present — both Class A misdemeanors, both domestic violence related; offense dated Nov. 8 at Fairbanks; arraigned Nov. 9",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02258CR",
+        "defendant": "Ipalook, Jr, Herbert Herbie",
+        "charges": "Assault 4, recklessly injure; three counts of assault when child present — all four Class A misdemeanors, all domestic violence related; offense dated Nov. 8 at Fairbanks; arraigned Nov. 9",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02259CR",
+        "defendant": "Baker, Macie Marie",
+        "charges": "Criminal mischief 4, property damage $250–$749 (Class A misdemeanor) — domestic violence related; offense dated Nov. 8 at Fairbanks; summons issued Nov. 9",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02260CR",
+        "defendant": "Lechuga-Porras, Jasmine Jannet",
+        "charges": "Assault 4, recklessly injure (Class A misdemeanor); offense dated Nov. 1 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02261CR",
+        "defendant": "Miller, Dillon Eli",
+        "charges": "Two counts of theft 4 under $250 (Class B misdemeanor each); offense dated Sep. 29 at Fairbanks; summons requested",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02262CR",
+        "defendant": "Kunayak, Victor",
+        "charges": "Charging document pending or not filed; no offense date or location recorded on the file",
+        "felony": false
+      },
+      {
+        "case": "4NE-26-00110CR",
+        "defendant": "Johnson, Michelle Lee",
+        "charges": "Driving in violation of an instruction permit, AS 28.15.051(a) (misdemeanor, no class stated); offense dated Oct. 27 at Nenana; arraignment Dec. 7 at the Nenana courthouse",
+        "felony": false
+      },
+      {
         "case": "4FA-26-02248CR",
         "defendant": "Stevenson, Richard",
-        "charges": "Charging document pending or not filed; offense dated Nov. 7 at Fairbanks. Arraignment Nov. 13",
+        "charges": "Criminal trespass 2 upon premises (Class B misdemeanor); offense dated Nov. 7 at Fairbanks. Charge filed Nov. 9; arraigned Nov. 9, further arraignment Nov. 10",
         "felony": false
       },
       {
         "case": "4FA-26-02249CR",
         "defendant": "Medeiros, Jayden M",
-        "charges": "Charging document pending or not filed; offense dated Nov. 8 at North Pole. Arraignment Nov. 13",
+        "charges": "DUI, alcohol or drug (Class A misdemeanor); weapons misconduct 4, possessing a firearm while intoxicated (Class A misdemeanor); offense dated Nov. 8 at North Pole. Charges filed Nov. 9; arraignment Nov. 13",
         "felony": false
       },
       {
@@ -135,7 +486,7 @@
       {
         "case": "4FA-26-02253CR",
         "defendant": "Harris, Jack E",
-        "charges": "Charging document pending or not filed; offense dated Nov. 8 at Fairbanks. Arraignment Nov. 13",
+        "charges": "DUI, alcohol or controlled substance (Class A misdemeanor); offense dated Nov. 8 at Fairbanks. Charge filed Nov. 9; arraignment Nov. 13",
         "felony": false
       },
       {
@@ -154,6 +505,96 @@
   },
   "open_cases": [
     {
+      "case": "4NE-26-00110CR",
+      "defendant": "Johnson, Michelle Lee",
+      "status": "Open",
+      "level": "Misdemeanor, no class stated",
+      "charges": "Driving in violation of an instruction permit, AS 28.15.051(a). Not domestic violence related. Offense dated Oct. 27 at Nenana",
+      "next": "Arraignment Dec. 7, 2:30 p.m., Nenana courthouse",
+      "judge": "Huisingh, Raechyl D",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02262CR",
+      "defendant": "Kunayak, Victor",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. No offense date or location recorded on the file",
+      "next": "None",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02261CR",
+      "defendant": "Miller, Dillon Eli",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Two counts of theft 4 under $250. Neither domestic violence related. Offense dated Sep. 29 at Fairbanks. Summons requested",
+      "next": "None",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02260CR",
+      "defendant": "Lechuga-Porras, Jasmine Jannet",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure. Not domestic violence related. Offense dated Nov. 1 at Fairbanks",
+      "next": "None",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02259CR",
+      "defendant": "Baker, Macie Marie",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Criminal mischief 4, property damage $250–$749 — domestic violence related. Offense dated Nov. 8 at Fairbanks. Summons issued to the Alaska State Troopers",
+      "next": "None",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02258CR",
+      "defendant": "Ipalook, Jr, Herbert Herbie",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure, and three counts of assault when child present — all four domestic violence related. Offense dated Nov. 8 at Fairbanks. Arraigned Nov. 9",
+      "next": "Pre-trial conference Dec. 24; trial week Jan. 4, 2027",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02257CR",
+      "defendant": "Perez Romo, Noe",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure, and assault when child present — both domestic violence related. Offense dated Nov. 8 at Fairbanks. Arraigned Nov. 9",
+      "next": "Pre-trial conference Jan. 7, 2027; trial week Jan. 19, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02256CR",
+      "defendant": "Hollen, James Richie",
+      "status": "Open",
+      "level": "Class A and Class B misdemeanor",
+      "charges": "Assault 4, recklessly injure, and theft 4 under $250. Neither domestic violence related. Offense dated Nov. 8 at Fairbanks. Arraigned Nov. 9",
+      "next": "Pre-trial conference Jan. 7, 2027; trial week Jan. 19, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-02255CR",
+      "defendant": "Palmer, Joshua Odel",
+      "status": "Open",
+      "level": "Misdemeanor, no class stated",
+      "charges": "Permitting an unauthorized person to drive, AS 28.15.281(b). Not domestic violence related. Offense dated Nov. 1 at Fairbanks. Citation filed Nov. 6",
+      "next": "Arraignment Nov. 20, 8:30 a.m.",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-09"
+    },
+    {
       "case": "4FA-26-02254CR",
       "defendant": "Toorak, Khaleah Katuuk",
       "status": "Open",
@@ -167,11 +608,11 @@
       "case": "4FA-26-02253CR",
       "defendant": "Harris, Jack E",
       "status": "Open",
-      "level": "No charge filed",
-      "charges": "Charging document pending or not filed. Offense dated Nov. 8 at Fairbanks",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, alcohol or controlled substance. Not domestic violence related. Offense dated Nov. 8 at Fairbanks. Charge filed Nov. 9",
       "next": "Arraignment Nov. 13, 8:30 a.m.",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-08"
+      "last_docket": "2026-11-09"
     },
     {
       "case": "4FA-26-02252CR",
@@ -207,21 +648,21 @@
       "case": "4FA-26-02248CR",
       "defendant": "Stevenson, Richard",
       "status": "Open",
-      "level": "No charge filed",
-      "charges": "Charging document pending or not filed. Offense dated Nov. 7 at Fairbanks",
-      "next": "Arraignment Nov. 13, 8:30 a.m.",
+      "level": "Class B misdemeanor",
+      "charges": "Criminal trespass 2 upon premises. Not domestic violence related. Offense dated Nov. 7 at Fairbanks. Charge filed Nov. 9; arraignment held Nov. 9",
+      "next": "Arraignment Nov. 10, 1:30 p.m.",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-08"
+      "last_docket": "2026-11-09"
     },
     {
       "case": "4FA-26-02249CR",
       "defendant": "Medeiros, Jayden M",
       "status": "Open",
-      "level": "No charge filed",
-      "charges": "Charging document pending or not filed. Offense dated Nov. 8 at North Pole",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, alcohol or drug; weapons misconduct 4, possessing a firearm while intoxicated. Neither domestic violence related. Offense dated Nov. 8 at North Pole. Charges filed Nov. 9",
       "next": "Arraignment Nov. 13, 8:30 a.m.",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-08"
+      "last_docket": "2026-11-09"
     },
     {
       "case": "4FA-26-02242CR",
