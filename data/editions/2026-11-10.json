@@ -1,10 +1,191 @@
 {
   "date": "2026-11-10",
-  "compiled": "04:57 AKST",
-  "window": "Nov. 2–9, 2026",
-  "summary": "The Alaska Court System's weekly report of closed criminal cases was updated for the first time in a week, and it records a week of Interior outcomes: convictions for Steven Allen Judd on two counts of violating a domestic violence protective order, for Jordan Samuel Carlo on unlawful contact, and for drunk driving, reckless driving and a license-limit offense; dismissals of a repeat indecent exposure charge, two drunk-driving counts, two thefts and a four-year-old assault charge; and directed verdicts of acquittal on both counts of a Nenana case. A Fairbanks grand jury has indicted Nicholas John Pederson, 51, on a felony drunk-driving charge and the case has moved to the Superior Court. Alaska State Troopers arrested a driver on a drunk-driving charge at North Pole early Tuesday after a vehicle left Badger Road and went into the trees. No new criminal case has been filed at the Fairbanks, Nenana, Healy or Delta Junction courthouses since Monday afternoon. The weekly charges report covers Nov. 3 to Nov. 9 and lists 44 cases filed inside the Fairbanks area; all of them have already been reported here.",
+  "compiled": "17:15 AKST",
+  "window": "Nov. 2–10, 2026",
+  "summary": "Six criminal cases were filed inside the Fairbanks area during Tuesday — five at the Fairbanks courthouse and one at Delta Junction — on charges of theft, drunk driving, criminal trespass and reckless endangerment. None carries a felony count, and the Delta Junction case was dismissed by the court on the day it was filed. Alaska State Troopers arrested a woman at the Fairbanks trooper post on a warrant from a 2023 Nenana theft case in which she was convicted in January 2024, and reported seizing suspected drugs from inmates at Fairbanks Correctional Center. Earlier, troopers arrested a driver on a drunk-driving charge at North Pole after a vehicle left Badger Road and went into the trees. The Alaska Court System's weekly report of closed criminal cases, updated for the first time in a week, records a week of Interior outcomes: convictions for Steven Allen Judd on two counts of violating a domestic violence protective order, for Jordan Samuel Carlo on unlawful contact, and for drunk driving, reckless driving and a license-limit offense; dismissals of a repeat indecent exposure charge, two drunk-driving counts, two thefts and a four-year-old assault charge; and directed verdicts of acquittal on both counts of a Nenana case. A Fairbanks grand jury has indicted Nicholas John Pederson, 51, on a felony drunk-driving charge and the case has moved to the Superior Court. The weekly charges report covers Nov. 3 to Nov. 9 and lists 44 cases filed inside the Fairbanks area; it was last run on Monday night, so none of Tuesday's six filings appears in it.",
   "commentary": null,
   "entries": [
+    {
+      "id": "jennings-warrant-1110",
+      "date": "2026-11-10",
+      "time": "09:20",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4NE-23-00023CR"
+      ],
+      "title": "Warrant arrest: Trista Jennings",
+      "body": [
+        "Trista Jennings, 42, of Anderson, was arrested on an outstanding warrant after walking into the Alaska State Troopers post at 1979 Peger Road in Fairbanks on Nov. 10 at about 9:20 a.m. to surrender herself. Troopers say she was contacted in the front lobby, taken into custody without incident and transported to Fairbanks Correctional Center.",
+        "The warrant is from case 4NE-23-00023CR at the Nenana court, in which she was convicted in January 2024 on one count of theft in the first degree — taking property worth $25,000 or more — after a guilty plea. Two further felony counts were dismissed by the prosecution. A restitution judgment of $141,859.17 was entered in February 2024.",
+        "The court reopened the case in February 2025 on a petition to revoke her probation and issued process on Feb. 25, 2025. The docket records the warrant served on Nov. 10, 2026. A petition to revoke probation is an allegation that a condition was broken and is not itself a conviction."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 10",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "fcc-contraband-1110",
+      "date": "2026-11-10",
+      "time": "15:59",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "drug",
+      "severity": "other",
+      "cases": [],
+      "title": "Suspected drugs seized from inmates at Fairbanks Correctional Center",
+      "body": [
+        "Correctional officers at Fairbanks Correctional Center found suspected contraband during a search on Nov. 10 at about 3:59 p.m., and Alaska State Troopers were called to the jail.",
+        "Troopers say officers located a white powdery substance, a white crystalline substance, Suboxone and marijuana concentrates in the possession of inmates, that the contraband was seized and that the investigation is continuing. No one has been named and no charge has been filed."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 10",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "simcox-dui-1110",
+      "date": "2026-11-10",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02264CR"
+      ],
+      "title": "DUI charge: Jason Ray Simcox",
+      "body": [
+        "Jason Ray Simcox is charged with driving under the influence of alcohol or a drug — operating a vehicle while impaired — a Class A misdemeanor. The offense is recorded at North Pole on Nov. 10.",
+        "The charge was filed by complaint at the Fairbanks courthouse on Nov. 10 and conditions of release were entered the same day. Case 4FA-26-02264CR; arraignment Nov. 17 at 8:30 a.m."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "john-theft-1110",
+      "date": "2026-11-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02263CR"
+      ],
+      "title": "Theft charge: Eric Ezias John",
+      "body": [
+        "Eric Ezias John is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor. The offense is recorded at Fairbanks on Nov. 9.",
+        "The charge was filed at the Fairbanks courthouse on Nov. 10 and conditions of release were entered the same day. Case 4FA-26-02263CR; arraignment Nov. 17 at 8:30 a.m."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "smyth-theft-1109",
+      "date": "2026-09-23",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02265CR"
+      ],
+      "title": "Theft charges: Winston Erick Smyth",
+      "body": [
+        "Winston Erick Smyth is charged with theft in the fourth degree — taking property worth less than $250 — a Class B misdemeanor, and theft in the third degree with prior convictions — a low-value theft by someone with earlier theft convictions — a Class A misdemeanor. Both offenses are recorded at Fairbanks on Sep. 23.",
+        "The charges were filed at the Fairbanks courthouse on Nov. 9 and a summons was issued to the Alaska State Troopers on Nov. 10. Case 4FA-26-02265CR; no hearing has been set."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "jorgensen-trespass-1109",
+      "date": "2026-10-25",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02266CR"
+      ],
+      "title": "Domestic violence trespass charge: Seth Jorgensen",
+      "body": [
+        "Seth Jorgensen is charged with criminal trespass in the first degree — entering or remaining unlawfully in a dwelling — a Class A misdemeanor recorded by the court as domestic violence related. The offense is recorded at North Pole on Oct. 25.",
+        "The charge was filed by complaint at the Fairbanks courthouse on Nov. 9 and a summons was issued on Nov. 10. Case 4FA-26-02266CR; no hearing has been set."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dubois-theft-1110",
+      "date": "2026-10-21",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02267CR"
+      ],
+      "title": "Theft charge: Bronson Fabron Dubois",
+      "body": [
+        "Bronson Fabron Dubois is charged with theft in the third degree — taking property worth between $250 and $749 — a Class A misdemeanor. The offense is recorded at Fairbanks on Oct. 21.",
+        "The charge was filed at the Fairbanks courthouse on Nov. 10 and a summons was issued to the Alaska State Troopers the same day. Case 4FA-26-02267CR; no hearing has been set."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dawe-reckless-1110",
+      "date": "2026-10-20",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4DJ-26-00071CR"
+      ],
+      "title": "Reckless endangerment charge filed and dismissed: Kaden Ray Dawe",
+      "body": [
+        "Kaden Ray Dawe was charged with reckless endangerment — recklessly creating a substantial risk of serious injury to another person — a Class A misdemeanor. The offense is recorded at Delta Junction on Oct. 20.",
+        "The charge was filed at the Delta Junction court on Nov. 10, he was arraigned at 1:30 p.m. the same day, and the docket records a court dismissal that day. A hearing set for Dec. 15 was vacated. Case 4DJ-26-00071CR. A dismissal is not a conviction and not a finding against him."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "north-pole-dui-1110",
       "date": "2026-11-10",
@@ -17,7 +198,7 @@
       "title": "DUI arrest at North Pole",
       "body": [
         "A driver was arrested on a charge of driving under the influence — operating a vehicle while impaired by alcohol — after a vehicle drove off the roadway into the trees near Badger Road and Lincolnwood Drive in North Pole on Nov. 10 at about 1:06 a.m.",
-        "Alaska State Troopers say the investigation determined the driver had been driving under the influence of alcohol, that a breath test registered 0.181, and that the driver was taken to Fairbanks Correctional Center. No name has been released and no court case has been filed."
+        "Alaska State Troopers say the investigation determined the driver had been driving under the influence of alcohol, that a breath test registered 0.181, and that the driver was taken to Fairbanks Correctional Center. Troopers have not released a name."
       ],
       "sources": [
         {
@@ -324,9 +505,9 @@
         "4FA-26-01293CR",
         "4FA-26-02128CR"
       ],
-      "title": "Five Fairbanks court dates set for Tuesday",
+      "title": "Five Fairbanks hearings were calendared for Tuesday",
       "body": [
-        "Five Fairbanks files carry hearings calendared for Tuesday, Nov. 10: Richard Shaunte Stevenson on a criminal trespass charge, Julia Ann Pitka on felony access-device theft charges, Robert Stephen Markle on a drunk-driving charge, Brandon Lamar Kingwood, and a bail hearing for Rayann Marlisa Carroll granted on an application filed Nov. 9.",
+        "Five Fairbanks files carried hearings calendared for Tuesday, Nov. 10: Richard Shaunte Stevenson on a criminal trespass charge, Julia Ann Pitka on felony access-device theft charges, Robert Stephen Markle on a drunk-driving charge, Brandon Lamar Kingwood, and a bail hearing for Rayann Marlisa Carroll granted on an application filed Nov. 9.",
         "Cases 4FA-26-02248CR, 4FA-26-02250CR, 4FA-26-02225CR, 4FA-26-01293CR and 4FA-26-02128CR. Everyone named is charged, not convicted."
       ],
       "sources": [
@@ -357,9 +538,116 @@
         "count": 0
       }
     ],
-    "new": []
+    "new": [
+      {
+        "case": "4FA-26-02263CR",
+        "defendant": "John, Eric Ezias",
+        "charges": "Theft in the fourth degree, under $250 (Class B misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02264CR",
+        "defendant": "Simcox, Jason Ray",
+        "charges": "Driving under the influence (Class A misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02265CR",
+        "defendant": "Smyth, Winston Erick",
+        "charges": "Theft in the fourth degree and theft in the third degree with prior convictions (Class B and Class A misdemeanors)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02266CR",
+        "defendant": "Jorgensen, Seth",
+        "charges": "Criminal trespass in the first degree in a dwelling, domestic violence related (Class A misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02267CR",
+        "defendant": "Dubois, Bronson Fabron",
+        "charges": "Theft in the third degree, $250 to $749 (Class A misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4DJ-26-00071CR",
+        "defendant": "Dawe, Kaden Ray",
+        "charges": "Reckless endangerment (Class A misdemeanor); dismissed by the court Nov. 10",
+        "felony": false
+      }
+    ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02263CR",
+      "defendant": "John, Eric Ezias",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft in the fourth degree, property worth less than $250, AS 11.46.150(a). Offense dated Nov. 9 at Fairbanks",
+      "next": "Arraignment Nov. 17, 8:30 a.m.",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-10"
+    },
+    {
+      "case": "4FA-26-02264CR",
+      "defendant": "Simcox, Jason Ray",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence of an alcoholic beverage or controlled substance, AS 28.35.030(a). Offense dated Nov. 10 at North Pole",
+      "next": "Arraignment Nov. 17, 8:30 a.m.",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-10"
+    },
+    {
+      "case": "4FA-26-02265CR",
+      "defendant": "Smyth, Winston Erick",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Theft in the fourth degree, AS 11.46.150(a), and theft in the third degree under $250 with prior convictions, AS 11.46.140(a)(4). Offenses dated Sep. 23 at Fairbanks. Summons issued to AST Nov. 10",
+      "next": "No hearing calendared",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-10"
+    },
+    {
+      "case": "4FA-26-02266CR",
+      "defendant": "Jorgensen, Seth",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Criminal trespass in the first degree in a dwelling, AS 11.46.320(a)(2), recorded domestic violence related. Offense dated Oct. 25 at North Pole. Summons issued Nov. 10",
+      "next": "No hearing calendared",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-10"
+    },
+    {
+      "case": "4FA-26-02267CR",
+      "defendant": "Dubois, Bronson Fabron",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Theft in the third degree, value $250 to $749, AS 11.46.140(a)(1). Offense dated Oct. 21 at Fairbanks. Charging document docketed as warrant requested; summons issued to AST Nov. 10",
+      "next": "No hearing calendared",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-10"
+    },
+    {
+      "case": "4DJ-26-00071CR",
+      "defendant": "Dawe, Kaden Ray",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Reckless endangerment, AS 11.41.250. Offense dated Oct. 20 at Delta Junction. Arraigned Nov. 10 and the docket records a court dismissal the same day; the status field still reads Open",
+      "next": "Dec. 15 rural calendar call vacated",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-11-10"
+    },
+    {
+      "case": "4NE-23-00023CR",
+      "defendant": "Jennings, Trista Nicole",
+      "status": "Reopened",
+      "level": "Class B felony",
+      "charges": "Theft in the first degree, property worth $25,000 or more, AS 11.46.120, convicted after a guilty plea Jan. 4, 2024; two further felony counts dismissed by the prosecution. Offense location Anderson. Reopened Feb. 20, 2025 on a petition to revoke probation; warrant recorded served Nov. 10, 2026",
+      "next": "Payment; no hearing calendared",
+      "judge": "McKenna, Jack R",
+      "last_docket": "2026-11-10"
+    },
     {
       "case": "4FA-26-02159CR",
       "defendant": "Pederson, Nicholas John",
