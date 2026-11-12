@@ -1,10 +1,112 @@
 {
   "date": "2026-11-11",
-  "compiled": "03:47 AKST",
-  "window": "Nov. 10–11, 2026",
-  "summary": "A Fairbanks man was arrested Nov. 10 on a threatening charge police record as a felony; the arrest appeared on the police bulletin overnight and no court case has been opened in it yet. The Alaska Court System's weekly charges report, run Nov. 10, covers filings from Nov. 4 to Nov. 10 and lists 42 Fairbanks cases, three at Delta Junction, two at Nenana and none at Healy, where cases are charged at the Nenana and Fairbanks courthouses. The report records the breath-test result behind the North Pole drunk-driving case filed Nov. 10, which troopers had reported without naming a driver.",
+  "compiled": "17:15 AKST",
+  "window": "Nov. 9–11, 2026",
+  "summary": "Troopers say a Fairbanks man threw an improvised incendiary device through the window of an occupied house early Nov. 11, and he is charged with first-degree arson. Two further domestic violence assault cases were reported in Fairbanks and North Pole the same day. Five criminal cases were opened at the Fairbanks courthouse on Nov. 11, among them a felony assault charge over a North Pole offense and the case behind a threatening arrest reported the day before. The Alaska Court System's weekly charges report, run Nov. 10, covers filings only through Nov. 10 and lists none of the five.",
   "commentary": null,
   "entries": [
+    {
+      "id": "richardson-arson-1111",
+      "date": "2026-11-11",
+      "time": "00:01",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02272CR"
+      ],
+      "title": "Arson charge: Keith Richardson",
+      "body": [
+        "Keith Richardson, 40, of Fairbanks is charged with arson in the first degree — damaging property by fire and putting someone in danger of serious injury — a Class A felony, punishable by up to 20 years, and with criminal trespass in the first degree, entering or staying on land intending to commit a crime, a Class A misdemeanor.",
+        "Troopers say a Fairbanks resident reported at 12:01 a.m. on Nov. 11 that someone was on their porch and threw an object that broke a window near the front door, in a neighborhood near the Steese Highway and Chena Hot Springs Road, and that the object was found to be an improvised incendiary device. Troopers say neighbors reported the suspect vehicle being driven on their properties, that troopers located the vehicle and contacted the driver, and that he was remanded to the Fairbanks Correctional Center. A state deputy fire marshal and a crime scene technician examined the scene and troopers say the investigation is continuing.",
+        "Case 4FA-26-02272CR; arraigned Nov. 11, next court date Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 11",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "richardson-dui-1111",
+      "date": "2026-11-11",
+      "time": "00:59",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02270CR"
+      ],
+      "title": "DUI, refusal and assault charges: Keith Richardson",
+      "body": [
+        "Keith Richardson is charged with driving under the influence of alcohol or a drug, refusal to submit to a chemical test, and assault in the fourth degree — recklessly injuring someone — three Class A misdemeanors. The offense is recorded at Fairbanks on Nov. 11.",
+        "Troopers say they responded to a Fairbanks residence at about 12:59 a.m. on Nov. 11 for a suspicious vehicle in a driveway, found a man sitting in a running vehicle outside a stranger's house, and that a brief struggle followed when he was asked to step out. Troopers say he was taken into custody and that a trooper sustained minor injuries.",
+        "Case 4FA-26-02270CR; arraigned Nov. 11, next court date Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "AST daily dispatch, Nov. 11",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "blair-assault-1111",
+      "date": "2026-11-11",
+      "time": "10:39",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26111563"
+      ],
+      "title": "Domestic violence assault arrest: Arlene Blair",
+      "body": [
+        "Arlene Blair, 59, of North Pole was arrested on charges of assault in the fourth degree, recorded by troopers as domestic violence related, and unlawful contact in the second degree, contact made in breach of an order not to have it.",
+        "Troopers say they responded to a North Pole residence at about 10:39 a.m. on Nov. 11 for a reported domestic disturbance, that they determined an assault on a family member had taken place, and that she was arrested and advised not to have contact with the victim. Troopers say contact was then made as they were leaving the residence. She was taken to the Fairbanks Correctional Center.",
+        "No court case had been opened in the charges at the time of publication, so no charge classification from a court file is available and no court date is set."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 11",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "lakeview-assault-1111",
+      "date": "2026-11-11",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26111479"
+      ],
+      "title": "Domestic violence assault investigation in Fairbanks",
+      "body": [
+        "Troopers say they responded to a reported domestic disturbance in the area of Lakeview Terrace in Fairbanks on Nov. 11 and that an assault took place.",
+        "Troopers say charges are being forwarded to the District Attorney's office and that the case is ongoing. No one has been named and no arrest is reported."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 11",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
     {
       "id": "hansen-threat-1110",
       "date": "2026-11-10",
@@ -12,20 +114,47 @@
       "place": "Fairbanks",
       "agency": "Fairbanks Police Department",
       "category": "violent",
-      "severity": "other",
+      "severity": "felony",
       "cases": [
+        "4FA-26-02271CR",
         "26003424"
       ],
-      "title": "Threatening and stalking arrest: Jason A. Hansen",
+      "title": "Threatening and stalking charges: Jason A. Hansen",
       "body": [
-        "Jason A. Hansen, 49, was arrested on a charge of terroristic threatening in the second degree — threatening conduct that puts a person in fear of serious physical injury — recorded by police as a felony, and a charge of stalking in the second degree, repeated unwanted contact that puts a person in fear for themselves or their family, recorded by police as a misdemeanor.",
-        "1900 block of Eagan Avenue, Fairbanks, Nov. 10 at 3:00 p.m.; Fairbanks Police. Police case 26003424.",
-        "No court case had been opened in the charge at the time of publication, so no charge classification from a court file is available and no court date is set."
+        "Jason A. Hansen, 49, is charged with terroristic threatening in the second degree — threatening conduct that puts a person in fear of serious injury — a Class C felony, punishable by up to five years, and with stalking in the second degree, repeated unwanted contact that puts a person in fear for themselves or their family, a Class A misdemeanor. The court record notes both counts as domestic violence related.",
+        "Police say he was arrested at the 1900 block of Eagan Avenue, Fairbanks, on Nov. 10 at 3:00 p.m.; Fairbanks Police. Police case 26003424.",
+        "Case 4FA-26-02271CR; arraigned Nov. 11, next court date Nov. 19."
       ],
       "sources": [
         {
           "label": "Fairbanks Police daily bulletin, Nov. 10",
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "barrett-assault-1110",
+      "date": "2026-11-10",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02269CR"
+      ],
+      "title": "Felony assault charge: Kevin Lawrence Barrett",
+      "body": [
+        "Kevin Lawrence Barrett is charged with assault in the third degree — putting someone in fear of serious injury with a dangerous instrument — a Class C felony, punishable by up to five years. The offense is recorded at North Pole on Nov. 10.",
+        "The charge was filed by complaint at the Fairbanks courthouse on Nov. 11 and he was arraigned the same day, with counsel appointed and conditions of release entered. Case 4FA-26-02269CR; next court date Nov. 19."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -85,6 +214,36 @@
     ],
     "new": [
       {
+        "case": "4FA-26-02272CR",
+        "defendant": "Richardson, Keith",
+        "charges": "Arson in the first degree (Class A felony) and criminal trespass in the first degree (Class A misdemeanor). Offense dated Nov. 11 at Fairbanks",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02271CR",
+        "defendant": "Hansen, Jason Allan",
+        "charges": "Terroristic threatening in the second degree (Class C felony) and stalking in the second degree (Class A misdemeanor), both noted domestic violence related. Offense dated Nov. 9 at Fairbanks",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02270CR",
+        "defendant": "Richardson, Keith",
+        "charges": "Driving under the influence, refusal to submit to a chemical test and assault in the fourth degree (three Class A misdemeanors). Offense dated Nov. 11 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02269CR",
+        "defendant": "Barrett, Kevin Lawrence",
+        "charges": "Assault in the third degree, fear of injury by means of a dangerous instrument (Class C felony). Offense dated Nov. 10 at North Pole",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02268CR",
+        "defendant": "Bennett, Rita Carol",
+        "charges": "Charging document pending or not filed; no charge or degree of offense stated. Offense dated Nov. 10 at Fairbanks",
+        "felony": false
+      },
+      {
         "case": "4FA-26-02263CR",
         "defendant": "John, Eric Ezias",
         "charges": "Theft in the fourth degree, property worth less than $250 (Class B misdemeanor)",
@@ -129,6 +288,56 @@
     ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02272CR",
+      "defendant": "Richardson, Keith",
+      "status": "Open",
+      "level": "Class A felony",
+      "charges": "Arson in the first degree, AS 11.46.400, with criminal trespass in the first degree, AS 11.46.320(a)(1). Offense dated Nov. 11 at Fairbanks. Arraigned Nov. 11",
+      "next": "Next hearing Nov. 12",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-11-11"
+    },
+    {
+      "case": "4FA-26-02271CR",
+      "defendant": "Hansen, Jason Allan",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Terroristic threatening in the second degree, AS 11.56.810(a)(1)(A), with stalking in the second degree, AS 11.41.270; both counts noted domestic violence related. Offense dated Nov. 9 at Fairbanks. Arraigned Nov. 11",
+      "next": "Next hearing Nov. 19",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-11-11"
+    },
+    {
+      "case": "4FA-26-02270CR",
+      "defendant": "Richardson, Keith",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence, AS 28.35.030(a)(1); refusal to submit to a chemical test, AS 28.35.032(a); assault in the fourth degree, AS 11.41.230(a)(1). Offense dated Nov. 11 at Fairbanks. Arraigned Nov. 11",
+      "next": "Next hearing Nov. 12",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-11"
+    },
+    {
+      "case": "4FA-26-02269CR",
+      "defendant": "Barrett, Kevin Lawrence",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Assault in the third degree, fear of injury by means of a dangerous instrument, AS 11.41.220(a)(1)(A). Offense dated Nov. 10 at North Pole. Arraigned Nov. 11",
+      "next": "Next hearing Nov. 19",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-11-11"
+    },
+    {
+      "case": "4FA-26-02268CR",
+      "defendant": "Bennett, Rita Carol",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Offense dated Nov. 10 at Fairbanks",
+      "next": "Next hearing Nov. 17",
+      "judge": "Bahr, Maria P",
+      "last_docket": ""
+    },
     {
       "case": "4FA-26-02263CR",
       "defendant": "John, Eric Ezias",
