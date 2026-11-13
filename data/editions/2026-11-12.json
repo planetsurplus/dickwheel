@@ -1,10 +1,158 @@
 {
   "date": "2026-11-12",
-  "compiled": "05:01 AKST",
-  "window": "Nov. 11–12, 2026",
-  "summary": "A Nenana traffic stop on Nov. 11 ended in a court summons for driving with a revoked license, the only new Interior police or trooper record since the previous edition. As of about 5 a.m. on Nov. 12 neither the Alaska State Troopers nor Fairbanks police had posted any Fairbanks-area item for that date, and no criminal case had been opened at the Fairbanks, Nenana, Healy or Delta Junction courthouses since the afternoon of Nov. 11. In the Fairbanks arson case filed Nov. 11 the court record shows the arraignment was continued, with a further arraignment set for Nov. 12 and preliminary hearings for Nov. 19 and Dec. 1. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 5 to Nov. 11.",
+  "compiled": "17:19 AKST",
+  "window": "Nov. 10-12, 2026",
+  "summary": "Six criminal cases were opened in the Fairbanks-area courts on Nov. 12, including two Class C felony drunk-driving counts, a Class C felony assault count and five domestic violence assault counts filed at Delta Junction. In the Fairbanks arson case filed Nov. 11, prosecutors dismissed the arson count and filed a Class C felony criminal mischief count in its place. A court number opened after a North Pole domestic violence arrest was closed the same day with no charge filed. The filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 5 to Nov. 11; that report was last run on the evening of Nov. 11 and does not include any of the six cases opened on Nov. 12, which are listed separately.",
   "commentary": null,
   "entries": [
+    {
+      "id": "richardson-arson-dismissed-1112",
+      "date": "2026-11-12",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02272CR"
+      ],
+      "title": "Arson charge dismissed, felony criminal mischief filed: Keith Richardson",
+      "body": [
+        "Prosecutors dismissed the arson charge against Keith Richardson, 40, of Fairbanks on Nov. 12, the day after it was filed, and filed a new count of criminal mischief in the third degree - damaging another person's property worth $750 or more - a Class C felony, punishable by up to five years.",
+        "A count of criminal trespass in the first degree - entering or staying on land intending to commit a crime - a Class A misdemeanor, still stands. The dismissed count was arson in the first degree, a Class A felony. Neither remaining count is recorded as domestic violence related.",
+        "Troopers say the case arises from an improvised incendiary device thrown through the window of an occupied Fairbanks house early on Nov. 11, in a neighborhood near the Steese Highway and Chena Hot Springs Road.",
+        "Case 4FA-26-02272CR; arraignment held Nov. 12, preliminary hearings Nov. 19 and Dec. 1. He is represented by the Public Defender Agency."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "AST daily dispatch, Nov. 11",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "fay-felony-dui-1112",
+      "date": "2026-11-12",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02277CR"
+      ],
+      "title": "Felony DUI and test refusal: Brian Edward Fay",
+      "body": [
+        "Brian Edward Fay is charged with felony driving under the influence and felony refusal to submit to a chemical test, both Class C felonies, punishable by up to five years. Each count carries the felony grade because the court file records two or more prior convictions.",
+        "The offense is dated Nov. 12 at Fairbanks. Neither count is recorded as domestic violence related.",
+        "Case 4FA-26-02277CR; arraigned Nov. 12, preliminary hearings Nov. 19 and Dec. 2. He is represented by the Public Defender Agency."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "afcan-assault-1112",
+      "date": "2026-11-12",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02275CR"
+      ],
+      "title": "Felony assault charge: Luke Emanuel Afcan",
+      "body": [
+        "Luke Emanuel Afcan is charged with assault in the third degree - recklessly putting someone in fear of serious injury with a weapon - a Class C felony, punishable by up to five years.",
+        "The offense is dated Nov. 12 at Fairbanks. The count is not recorded as domestic violence related.",
+        "Case 4FA-26-02275CR; arraigned Nov. 12, preliminary hearings Nov. 19 and Dec. 2. He is represented by the Public Defender Agency."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "blair-no-charge-1112",
+      "date": "2026-11-12",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02276CR"
+      ],
+      "title": "No charge filed after domestic violence arrest: Arlene Blair",
+      "body": [
+        "A court case opened after the arrest of Arlene Blair, 59, of North Pole was closed on the same day it was opened, Nov. 12. The court record carries no charge against her and the docket reads: complaint or citation not filed, case closed.",
+        "Troopers had said they responded to a North Pole residence on Nov. 11 at about 10:39 a.m. for a reported domestic disturbance and that Blair was arrested and remanded at the Fairbanks Correctional Center on charges of assault in the fourth degree (domestic violence) and unlawful contact in the second degree. Those were the charges named by the arresting agency; no charge was filed in court.",
+        "Case 4FA-26-02276CR; no hearings are scheduled."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "AST daily dispatch, Nov. 11",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "clark-dv-assault-1111",
+      "date": "2026-11-11",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4DJ-26-00072CR"
+      ],
+      "title": "Five domestic violence assault charges: Jason Clark",
+      "body": [
+        "Jason Clark is charged with assault in the second degree - intentionally injuring someone with a dangerous instrument - a Class B felony, punishable by up to 10 years, and with assault in the third degree - injuring someone with a dangerous instrument - a Class C felony, punishable by up to five years.",
+        "Three further counts are misdemeanors: assault in the fourth degree, assault committed in the presence of a child, and interfering with a report of a domestic violence crime, each a Class A misdemeanor. All five counts are recorded as domestic violence related.",
+        "The offense is dated Nov. 11 at Delta Junction.",
+        "Case 4DJ-26-00072CR; arraigned Nov. 12, preliminary hearings Nov. 19 and Dec. 2, pre-trial conference Dec. 31 and a trial week beginning Jan. 11, 2027. He is represented by the Public Defender Agency."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "lincoln-trespass-1111",
+      "date": "2026-11-11",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02273CR"
+      ],
+      "title": "Criminal trespass charge: Walter Charlie Lincoln",
+      "body": [
+        "Walter Charlie Lincoln is charged with criminal trespass in the second degree - entering or staying unlawfully on premises - a Class B misdemeanor.",
+        "The offense is dated Nov. 11 at Fairbanks. He was released on the standing bail schedule.",
+        "Case 4FA-26-02273CR; arraignment Nov. 17."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "miller-dwlr-1111",
       "date": "2026-11-11",
@@ -18,9 +166,9 @@
       ],
       "title": "Driving with a revoked license: Calvin Miller",
       "body": [
-        "Calvin Miller, 27, of Fairbanks was issued a court summons on a charge of driving while license revoked — driving after the state had taken his license away.",
+        "Calvin Miller, 27, of Fairbanks was issued a court summons on a charge of driving while license revoked - driving after the state had taken his license away.",
         "Troopers say they stopped a vehicle traveling at a high rate of speed and showing multiple equipment violations, and that the investigation showed Miller's license status was revoked. He was also issued several traffic citations. He was not arrested.",
-        "Nenana, Nov. 11 at about 2:02 p.m.; Alaska State Troopers. No court case had been opened in the matter as of Nov. 12."
+        "Nenana, Nov. 11 at about 2:02 p.m.; Alaska State Troopers."
       ],
       "sources": [
         {
@@ -28,41 +176,60 @@
           "url": "https://dailydispatch.dps.alaska.gov"
         },
         {
-          "label": "Alaska CourtView",
+          "label": "Alaska CourtView case file",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
     {
-      "id": "richardson-arson-hearings-1112",
-      "date": "2026-11-12",
+      "id": "warrant-arrest-seventeenth-1110",
+      "date": "2026-11-10",
+      "time": "22:04",
       "place": "Fairbanks",
-      "agency": "Alaska Court System",
-      "category": "court",
-      "severity": "felony",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "other",
       "cases": [
-        "4FA-26-02272CR"
+        "26003433"
       ],
-      "title": "Arson case hearings set: Keith Richardson",
+      "title": "Warrant arrest",
       "body": [
-        "Keith Richardson, 40, of Fairbanks is charged with arson in the first degree — damaging property by fire and putting someone in danger of serious injury — a Class A felony, punishable by up to 20 years, and with criminal trespass in the first degree, entering or staying on land intending to commit a crime, a Class A misdemeanor. Neither count is recorded as domestic violence related.",
-        "The court record shows the arraignment held Nov. 11 was continued. A further arraignment is set for Nov. 12 and preliminary hearings for Nov. 19 and Dec. 1. He is represented by the Public Defender Agency.",
-        "Case 4FA-26-02272CR. Troopers say the charges arise from an improvised incendiary device thrown through the window of an occupied Fairbanks house early on Nov. 11."
+        "Fairbanks police recorded a warrant arrest at the 700 block of Seventeenth Avenue, Fairbanks, on Nov. 10 at 10:04 p.m. No one is named in the police record.",
+        "Case 26003433."
       ],
       "sources": [
         {
-          "label": "Alaska CourtView case file",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        },
+          "label": "Fairbanks Police daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "hit-and-run-shannon-1110",
+      "date": "2026-11-10",
+      "time": "18:09",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "26003432"
+      ],
+      "title": "Hit and run",
+      "body": [
+        "Fairbanks police recorded a hit and run at the 200 block of Shannon Drive at Trainor Gate Road, Fairbanks, on Nov. 10 at 6:09 p.m. No one is named in the police record.",
+        "Case 26003432."
+      ],
+      "sources": [
         {
-          "label": "AST daily dispatch, Nov. 11",
-          "url": "https://dailydispatch.dps.alaska.gov"
+          "label": "Fairbanks Police daily bulletin",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         }
       ]
     }
   ],
   "filings": {
-    "window": "Nov. 5–11, 2026 (Alaska Court System weekly charges report, run Nov. 11)",
+    "window": "Nov. 5-11, 2026 (Alaska Court System weekly charges report, run Nov. 11). The six cases under 'new' were filed on Nov. 12 and fall outside that window.",
     "courts": [
       {
         "court": "Fairbanks (4FA)",
@@ -81,18 +248,115 @@
         "count": 0
       }
     ],
-    "new": []
+    "new": [
+      {
+        "case": "4FA-26-02273CR",
+        "defendant": "Lincoln, Walter Charlie",
+        "charges": "Criminal trespass 2, Class B misdemeanor",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02274CR",
+        "defendant": "Kelley, Grace May",
+        "charges": "Charging document pending or not filed",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02275CR",
+        "defendant": "Afcan, Luke Emanuel",
+        "charges": "Assault 3, Class C felony",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02276CR",
+        "defendant": "Blair, Arlene N",
+        "charges": "Charging document not filed; case closed Nov. 12",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02277CR",
+        "defendant": "Fay, Brian Edward",
+        "charges": "Felony DUI and felony refusal of chemical test, both Class C felonies",
+        "felony": true
+      },
+      {
+        "case": "4DJ-26-00072CR",
+        "defendant": "Clark, Jason",
+        "charges": "Assault 2 (Class B felony), assault 3 (Class C felony) and three Class A misdemeanors, all domestic violence related",
+        "felony": true
+      }
+    ]
   },
   "open_cases": [
+    {
+      "case": "4DJ-26-00072CR",
+      "defendant": "Clark, Jason",
+      "status": "Reopened",
+      "level": "Class B felony",
+      "charges": "Assault 2, AS 11.41.210(a)(1); assault 3, AS 11.41.220(a)(1)(B); assault 4, AS 11.41.230(a)(1); assault in the presence of a child, AS 11.41.240(a); interfering with a report of a domestic violence crime, AS 11.56.745. All five counts domestic violence related. Offense dated Nov. 11 at Delta Junction. Arraigned Nov. 12",
+      "next": "Preliminary hearings Nov. 19 and Dec. 2; pre-trial Dec. 31; trial week from Jan. 11, 2027",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-12"
+    },
+    {
+      "case": "4FA-26-02277CR",
+      "defendant": "Fay, Brian Edward",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Felony driving under the influence, AS 28.35.030(n); felony refusal to submit to a chemical test, AS 28.35.032(p). Offense dated Nov. 12 at Fairbanks. Arraigned Nov. 12",
+      "next": "Preliminary hearings Nov. 19 and Dec. 2",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-11-12"
+    },
+    {
+      "case": "4FA-26-02276CR",
+      "defendant": "Blair, Arlene N",
+      "status": "Closed",
+      "level": "No charge filed",
+      "charges": "Charging document not filed; the docket records complaint or citation not filed and the case closed. Offense dated Nov. 11 at Fairbanks",
+      "next": "No hearing scheduled",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-12"
+    },
+    {
+      "case": "4FA-26-02275CR",
+      "defendant": "Afcan, Luke Emanuel",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Assault 3, fear of injury by means of a dangerous instrument, AS 11.41.220(a)(1)(A). Offense dated Nov. 12 at Fairbanks. Arraigned Nov. 12",
+      "next": "Preliminary hearings Nov. 19 and Dec. 2",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-12"
+    },
+    {
+      "case": "4FA-26-02274CR",
+      "defendant": "Kelley, Grace May",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Offense dated Nov. 11 at North Pole",
+      "next": "Arraignment Nov. 17",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-12"
+    },
+    {
+      "case": "4FA-26-02273CR",
+      "defendant": "Lincoln, Walter Charlie",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Criminal trespass 2, upon premises, AS 11.46.330(a)(1). Offense dated Nov. 11 at Fairbanks",
+      "next": "Arraignment Nov. 17",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-12"
+    },
     {
       "case": "4FA-26-02272CR",
       "defendant": "Richardson, Keith",
       "status": "Open",
-      "level": "Class A felony",
-      "charges": "Arson in the first degree, AS 11.46.400, with criminal trespass in the first degree, AS 11.46.320(a)(1). Offense dated Nov. 11 at Fairbanks. Arraignment of Nov. 11 continued",
-      "next": "Arraignment Nov. 12; preliminary hearings Nov. 19 and Dec. 1",
+      "level": "Class C felony",
+      "charges": "Criminal mischief 3, damage of $750 or more, AS 11.46.482(a)(1), filed Nov. 12, with criminal trespass 1, AS 11.46.320(a)(1). The arson 1 count, AS 11.46.400, was dismissed by the prosecution on Nov. 12. Offense dated Nov. 11 at Fairbanks. Arraigned Nov. 12",
+      "next": "Preliminary hearings Nov. 19 and Dec. 1",
       "judge": "Temple, Thomas I",
-      "last_docket": "2026-11-11"
+      "last_docket": "2026-11-12"
     },
     {
       "case": "4FA-26-02271CR",
