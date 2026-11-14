@@ -1,10 +1,61 @@
 {
   "date": "2026-11-13",
-  "compiled": "03:36 AKST",
-  "window": "Nov. 11-13, 2026",
-  "summary": "Alaska State Troopers reported five arrests in the Fairbanks area made on Nov. 12 - a domestic violence assault arrest at Delta Junction, drunk-driving arrests at North Pole and twice at Fairbanks, and a warrant arrest - none of which had reached a court file by early Nov. 13. Troopers also reported a death investigation at a residence off Chena Hot Springs Road. Police and trooper records published after the Nov. 12 edition supplied the arrests behind three felony court filings carried here the day before. The court filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 6 to Nov. 12.",
+  "compiled": "17:16 AKST",
+  "window": "Nov. 9-13, 2026",
+  "summary": "Eight criminal cases were opened in Fairbanks-area courts on Nov. 13 - seven at Fairbanks and one at Delta Junction. They include court files behind the five arrests Alaska State Troopers reported on Nov. 12 and behind two theft arrests reported by Fairbanks Police. Troopers also reported a domestic violence assault arrest in Fairbanks on Nov. 13 and a second death investigation, at North Pole. A felony theft case filed in October against a Fairbanks man, who was indicted on Nov. 4, records an arrest on Nov. 12. The court filing counts below are the Alaska Court System weekly charges report's own counts for its window of Nov. 6 to Nov. 12; that window closes before Nov. 13, so the report carries none of the day's eight new cases.",
   "commentary": null,
   "entries": [
+    {
+      "id": "mutchler-assault-1113",
+      "date": "2026-11-13",
+      "time": "07:44",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02283CR",
+        "AK26112158"
+      ],
+      "title": "Domestic violence assault arrest: Catherine Mutchler",
+      "body": [
+        "Catherine Mutchler, 62, of Fairbanks, is charged with assault in the fourth degree - recklessly injuring another person - a Class A misdemeanor.",
+        "Troopers say they responded to a Fairbanks residence at 7:44 a.m. on Nov. 13 for a reported domestic disturbance, that she assaulted a household member, and that she was arrested and taken to the Fairbanks Correctional Center. The trooper release states the charge as domestic violence; the court file records the count as not domestic violence related.",
+        "Case 4FA-26-02283CR; charged by information, arraigned Nov. 13, next court date Jan. 7, 2027."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 13",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "death-north-pole-1113",
+      "date": "2026-11-13",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26112151"
+      ],
+      "title": "Death investigation at North Pole",
+      "body": [
+        "Alaska State Troopers say they responded on Nov. 13 to an address in North Pole for a report of an unexpected death, and that Rodney Mcintosh, 63, of North Pole, had died. Troopers say next of kin have been notified and the investigation is continuing.",
+        "No cause or manner of death is stated. No arrest or charge is reported and no court case has been opened."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 13",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
     {
       "id": "death-chena-hot-springs-1112",
       "date": "2026-11-12",
@@ -25,6 +76,59 @@
         {
           "label": "AST daily dispatch, Nov. 13",
           "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "franks-dwlr-1113",
+      "date": "2026-11-13",
+      "time": "01:28",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26112107"
+      ],
+      "title": "Driving with a revoked license: Breanna Franks",
+      "body": [
+        "Breanna Franks was issued a criminal summons for driving while her license was revoked, and a citation for failing to provide proof of insurance.",
+        "Troopers say they stopped a car near South Cushman Street and Twenty-Fourth Avenue at about 1:28 a.m. on Nov. 13 after it failed to signal a lane change, and that records showed a revoked license and a prior conviction for the same offense in 2020. No arrest is reported.",
+        "No court case has been opened."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 13",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "curtis-theft-1112",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02195CR",
+        "26003212"
+      ],
+      "title": "Felony theft arrest: Noel Showwalter Curtis",
+      "body": [
+        "Noel Showwalter Curtis, 34, is charged with theft in the second degree - taking property worth $750 to $24,999 - a Class C felony, punishable by up to five years.",
+        "According to Fairbanks Police, he was arrested on that charge at the 100 block of Lacey Street on Nov. 12. The charge was filed by complaint on Oct. 29 over an offense dated Oct. 19 at Fairbanks, and a summons had been issued to troopers on Oct. 30.",
+        "Case 4FA-26-02195CR. A grand jury indicted him on Nov. 4 and the case was transferred to the Superior Court. The court record shows counsel appointed from the bench and a hearing on quashing a warrant, both on Nov. 12, and the summons canceled. A felony pretrial order takes effect Nov. 25."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 12",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -124,14 +228,20 @@
       "category": "dui",
       "severity": "other",
       "cases": [
+        "4FA-26-02280CR",
         "AK26112031"
       ],
       "title": "DUI arrest: Anthony Cooper",
       "body": [
-        "Anthony Cooper was arrested on a charge of driving under the influence, recorded by troopers. No court case has been opened.",
-        "Troopers say they stopped him near Holmes Road and Dennis Road at about 6:08 p.m. on Nov. 12 after seeing him fail to stop at a stop sign, and that a breath sample measured 0.163 grams per 210 liters."
+        "Anthony Henry Cooper is charged with driving under the influence with a blood alcohol content of .08 percent or more, a Class A misdemeanor.",
+        "Troopers say they stopped him near Holmes Road and Dennis Road at about 6:08 p.m. on Nov. 12 after seeing him fail to stop at a stop sign, and that a breath sample measured 0.163 grams per 210 liters.",
+        "Case 4FA-26-02280CR, opened at Fairbanks on Nov. 13 over an offense recorded at North Pole. A complaint was filed the same day and a $500 cash bond is recorded as posted. No hearing date is set."
       ],
       "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
         {
           "label": "AST daily dispatch, Nov. 12",
           "url": "https://dailydispatch.dps.alaska.gov"
@@ -147,14 +257,20 @@
       "category": "dui",
       "severity": "other",
       "cases": [
+        "4FA-26-02281CR",
         "AK26112052"
       ],
       "title": "DUI and weapons arrest: Lucas Baghdassarian",
       "body": [
-        "Lucas Baghdassarian, 24, of Illinois, was arrested on charges of driving under the influence and misconduct involving weapons in the fourth degree, recorded by troopers. No court case has been opened.",
-        "Troopers say they went to Chena Ridge Road at Moonshine Run at about 7:08 p.m. on Nov. 12 for a single-vehicle rollover, and that he was taken to the Fairbanks Correctional Center."
+        "Lucas Baghdassarian, 24, of Illinois, is charged with driving under the influence with a blood alcohol content of .08 percent or more, and with misconduct involving weapons in the fourth degree - carrying a weapon while intoxicated. Both are Class A misdemeanors.",
+        "Troopers say they went to Chena Ridge Road at Moonshine Run at about 7:08 p.m. on Nov. 12 for a single-vehicle rollover, and that he was taken to the Fairbanks Correctional Center.",
+        "Case 4FA-26-02281CR, opened at Fairbanks on Nov. 13. A complaint was filed and he was released on the standing schedule the same day."
       ],
       "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
         {
           "label": "AST daily dispatch, Nov. 12",
           "url": "https://dailydispatch.dps.alaska.gov"
@@ -170,14 +286,20 @@
       "category": "dui",
       "severity": "other",
       "cases": [
+        "4FA-26-02282CR",
         "AK26112004"
       ],
       "title": "DUI arrest: Dezmond Eagleshield",
       "body": [
-        "Dezmond Eagleshield, 20, of Fairbanks, was arrested on charges of driving under the influence and violating conditions of release, recorded by troopers. No court case has been opened.",
-        "Troopers say they stopped the vehicle in the area of Wilbur Street and Airport Way at about 4:55 p.m. on Nov. 12, and that he was taken to the Fairbanks Correctional Center."
+        "Dezmond Carl Eagleshield, 20, of Fairbanks, is charged with driving under the influence with a blood alcohol content of .08 percent or more, a Class A misdemeanor, and with violating conditions of release in a misdemeanor case, a Class B misdemeanor.",
+        "Troopers say they stopped the vehicle near Wilbur Street and Airport Way at about 4:55 p.m. on Nov. 12, and that he was taken to the Fairbanks Correctional Center.",
+        "Case 4FA-26-02282CR, opened at Fairbanks on Nov. 13 and arraigned the same day."
       ],
       "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
         {
           "label": "AST daily dispatch, Nov. 12",
           "url": "https://dailydispatch.dps.alaska.gov"
@@ -204,6 +326,193 @@
         {
           "label": "AST daily dispatch, Nov. 12",
           "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "evans-rivers-theft-1112",
+      "date": "2026-11-12",
+      "time": "17:30",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02278CR",
+        "4FA-26-02279CR",
+        "26003444"
+      ],
+      "title": "Theft arrests on the Johansen Expressway: Kimberly Ann Evans and Benjamin Leath Rivers",
+      "body": [
+        "Kimberly Ann Evans, 31, and Benjamin Leath Rivers, 47, were arrested on charges of theft in the fourth degree - taking property worth less than $250 - recorded by police as a misdemeanor.",
+        "According to Fairbanks Police, both were arrested at the 500 block of the Johansen Expressway on Nov. 12, at 5:30 p.m. and 5:44 p.m., under case 26003444.",
+        "Court numbers 4FA-26-02278CR and 4FA-26-02279CR were opened at Fairbanks on Nov. 13. Neither file carries a charging document yet, so neither states a charge class; both were released on the standing schedule."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 12",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "assault-twelfth-ave-1112",
+      "date": "2026-11-12",
+      "time": "23:06",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "26003446"
+      ],
+      "title": "Assault reported on Twelfth Avenue",
+      "body": [
+        "Fairbanks Police record an assault at the 500 block of Twelfth Avenue shortly after 11 p.m. on Nov. 12, under case 26003446. No arrest is recorded and nobody is named."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 12",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "judon-assault-1113",
+      "date": "2026-11-13",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02284CR"
+      ],
+      "title": "Assault charge: Robin Judon",
+      "body": [
+        "Robin Judon is charged with assault in the fourth degree - recklessly injuring another person - a Class A misdemeanor. The count is not recorded as domestic violence related.",
+        "The offense is recorded at Fairbanks on Nov. 13. Case 4FA-26-02284CR; a charging document was filed and the case arraigned the same day."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "solomon-crim-mischief-1112",
+      "date": "2026-11-12",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4DJ-26-00073CR"
+      ],
+      "title": "Criminal mischief charge: Talissa Lynn Solomon",
+      "body": [
+        "Talissa Lynn Solomon is charged with criminal mischief in the fourth degree - damaging property worth $250 to $749 - a Class A misdemeanor. The count is not recorded as domestic violence related.",
+        "The offense is recorded at Delta Junction on Nov. 12. Case 4DJ-26-00073CR; charged by information and arraigned at Delta Junction on Nov. 13."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bennett-license-1110",
+      "date": "2026-11-10",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02268CR"
+      ],
+      "title": "Driving with a revoked license charge: Rita Carol Bennett",
+      "body": [
+        "Rita Carol Bennett is charged with driving with a canceled, revoked or suspended license after a previous conviction, a Class A misdemeanor, and with operating a vehicle without liability insurance, a misdemeanor the statute does not classify.",
+        "The offense is recorded at Fairbanks on Nov. 10. Case 4FA-26-02268CR; the charging document was filed Nov. 11 and she was released on the standing schedule on Nov. 12."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "forbes-indecent-exposure-1110",
+      "date": "2026-11-10",
+      "time": "12:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26002690"
+      ],
+      "title": "Indecent exposure arrest: Aron Lloyd Forbes",
+      "body": [
+        "Aron Lloyd Forbes, 21, was arrested on a charge of indecent exposure in the second degree - exposure before a person aged 16 or over - recorded by police as a misdemeanor.",
+        "According to Fairbanks Police, he was arrested at the 100 block of Lacey Street on Nov. 10, under case 26002690. No court case has been opened."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 10",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "mcdonald-dv-order-1110",
+      "date": "2026-11-10",
+      "time": "12:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26002964"
+      ],
+      "title": "Violating a protective order: Curtis Ian McDonald",
+      "body": [
+        "Curtis Ian McDonald, 60, was arrested on a charge of violating a domestic violence protective order, recorded by police as a misdemeanor.",
+        "According to Fairbanks Police, he was arrested at the 100 block of Lacey Street on Nov. 10, under case 26002964. No court case has been opened."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 10",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "ludvick-leave-scene-1109",
+      "date": "2026-11-09",
+      "time": "12:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26002773"
+      ],
+      "title": "Leaving the scene of a crash: Charity Elaine Ludvick",
+      "body": [
+        "Charity Elaine Ludvick, 36, was arrested on a charge of leaving the scene of a property-damage accident in a non-commercial vehicle, recorded by police as a misdemeanor.",
+        "According to Fairbanks Police, she was arrested at the 100 block of Lacey Street on Nov. 9, under case 26002773. No court case has been opened."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 9",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         }
       ]
     }
@@ -264,6 +573,54 @@
         "defendant": "Clark, Jason",
         "charges": "Assault 2 (Class B felony), assault 3 (Class C felony) and three Class A misdemeanors, all domestic violence related",
         "felony": true
+      },
+      {
+        "case": "4FA-26-02278CR",
+        "defendant": "Evans, Kimberly",
+        "charges": "Charging document not filed; arrested Nov. 12 on a theft 4 charge",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02279CR",
+        "defendant": "Rivers, Benjamin H",
+        "charges": "Charging document not filed; arrested Nov. 12 on a theft 4 charge",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02280CR",
+        "defendant": "Cooper, Anthony Henry",
+        "charges": "DUI, blood alcohol .08 percent or more, Class A misdemeanor; offense at North Pole",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02281CR",
+        "defendant": "Baghdassarian, Lucas Chistopher",
+        "charges": "DUI and misconduct involving weapons 4, both Class A misdemeanors",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02282CR",
+        "defendant": "Eagleshield, Dezmond Carl",
+        "charges": "DUI, Class A misdemeanor; violating conditions of release, Class B misdemeanor",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02283CR",
+        "defendant": "Mutchler, Catherine L",
+        "charges": "Assault 4, recklessly injure, Class A misdemeanor",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02284CR",
+        "defendant": "Judon, Robin",
+        "charges": "Assault 4, recklessly injure, Class A misdemeanor",
+        "felony": false
+      },
+      {
+        "case": "4DJ-26-00073CR",
+        "defendant": "Solomon, Talissa Lynn",
+        "charges": "Criminal mischief 4, property damage $250-$749, Class A misdemeanor",
+        "felony": false
       }
     ]
   },
@@ -336,7 +693,7 @@
       "charges": "Criminal mischief 3, damage of $750 or more, AS 11.46.482(a)(1), filed Nov. 12, with criminal trespass 1, AS 11.46.320(a)(1). The arson 1 count, AS 11.46.400, was dismissed by the prosecution on Nov. 12. Offense dated Nov. 11 at Fairbanks. Arraigned Nov. 12",
       "next": "Preliminary hearings Nov. 19 and Dec. 1",
       "judge": "Temple, Thomas I",
-      "last_docket": "2026-11-12"
+      "last_docket": "2026-11-13"
     },
     {
       "case": "4FA-26-02271CR",
@@ -346,7 +703,7 @@
       "charges": "Terroristic threatening in the second degree, AS 11.56.810(a)(1)(A), with stalking in the second degree, AS 11.41.270; both counts noted domestic violence related. Offense dated Nov. 9 at Fairbanks. Arraigned Nov. 11",
       "next": "Next hearing Nov. 19",
       "judge": "Bennett, Brent E",
-      "last_docket": "2026-11-11"
+      "last_docket": "2026-11-13"
     },
     {
       "case": "4FA-26-02270CR",
@@ -356,7 +713,7 @@
       "charges": "Driving under the influence, AS 28.35.030(a)(1); refusal to submit to a chemical test, AS 28.35.032(a); assault in the fourth degree, AS 11.41.230(a)(1). Offense dated Nov. 11 at Fairbanks. Arraigned Nov. 11",
       "next": "Next hearing Nov. 12",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-11"
+      "last_docket": "2026-11-13"
     },
     {
       "case": "4FA-26-02269CR",
@@ -366,17 +723,17 @@
       "charges": "Assault in the third degree, fear of injury by means of a dangerous instrument, AS 11.41.220(a)(1)(A). Offense dated Nov. 10 at North Pole. Arraigned Nov. 11",
       "next": "Next hearing Nov. 19",
       "judge": "Schwalm, Kirk F",
-      "last_docket": "2026-11-11"
+      "last_docket": "2026-11-13"
     },
     {
       "case": "4FA-26-02268CR",
       "defendant": "Bennett, Rita Carol",
       "status": "Open",
-      "level": "No charge filed",
-      "charges": "Charging document pending or not filed. Offense dated Nov. 10 at Fairbanks",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with a canceled, revoked or suspended license after a previous conviction, AS 28.15.291(a)(2), Class A misdemeanor; no motor vehicle liability insurance, AS 28.22.011. Offense dated Nov. 10 at Fairbanks",
       "next": "Next hearing Nov. 17",
       "judge": "Bahr, Maria P",
-      "last_docket": ""
+      "last_docket": "2026-11-12"
     },
     {
       "case": "4FA-26-02263CR",
@@ -1642,6 +1999,78 @@
       "charges": "Driving under the influence; refusal to submit to a chemical test; driving with a license canceled, revoked or suspended for a criminal offense. The court renumbered this case to 4DJ-26-00069CR on Nov. 6 and the database no longer serves this number",
       "next": "Unknown",
       "last_docket": ""
+    },
+    {
+      "case": "4FA-26-02278CR",
+      "defendant": "Evans, Kimberly",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Released on the standing schedule",
+      "next": "No hearing scheduled",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-13"
+    },
+    {
+      "case": "4FA-26-02279CR",
+      "defendant": "Rivers, Benjamin H",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed. Released on the standing schedule",
+      "next": "No hearing scheduled",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-13"
+    },
+    {
+      "case": "4FA-26-02280CR",
+      "defendant": "Cooper, Anthony Henry",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, blood alcohol .08 percent or more, AS 28.35.030(a)(2). Offense dated Nov. 12 at North Pole. Complaint filed Nov. 13; $500 cash bond posted",
+      "next": "No hearing scheduled",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-13"
+    },
+    {
+      "case": "4FA-26-02281CR",
+      "defendant": "Baghdassarian, Lucas Chistopher",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, AS 28.35.030(a)(2); misconduct involving weapons 4, AS 11.61.210(a)(1). Offense dated Nov. 12 at Fairbanks",
+      "next": "No hearing scheduled",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-13"
+    },
+    {
+      "case": "4FA-26-02282CR",
+      "defendant": "Eagleshield, Dezmond Carl",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, AS 28.35.030(a)(2); violating conditions of release, AS 11.56.757(a), Class B misdemeanor. Offense dated Nov. 12 at Fairbanks. Arraigned Nov. 13",
+      "next": "No hearing scheduled",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-13"
+    },
+    {
+      "case": "4FA-26-02283CR",
+      "defendant": "Mutchler, Catherine L",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure, AS 11.41.230(a)(1). Not recorded as domestic violence related. Offense dated Nov. 13 at Fairbanks. Arraigned Nov. 13",
+      "next": "Jan. 7, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-13"
+    },
+    {
+      "case": "4FA-26-02284CR",
+      "defendant": "Judon, Robin",
+      "level": "Class A misdemeanor",
+      "charges": "Assault 4, recklessly injure, AS 11.41.230(a)(1). Offense dated Nov. 13 at Fairbanks. Arraigned Nov. 13",
+      "next": "No hearing scheduled",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-13"
+    },
+    {
+      "case": "4DJ-26-00073CR",
+      "defendant": "Solomon, Talissa Lynn",
+      "level": "Class A misdemeanor",
+      "charges": "Criminal mischief 4, property damage $250-$749, AS 11.46.484(a)(1). Offense dated Nov. 12 at Delta Junction. Arraigned Nov. 13",
+      "next": "No hearing scheduled",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-11-13"
     }
   ],
   "sources": [
