@@ -1,10 +1,89 @@
 {
   "date": "2026-11-14",
-  "compiled": "03:36 AKST",
+  "compiled": "17:14 AKST",
   "window": "Nov. 10-14, 2026",
-  "summary": "No new arrests or incidents had been posted for Nov. 14 to the Alaska State Troopers daily dispatch or the Fairbanks Police daily bulletin at the time of this reading, and neither feed had added anything to the four days before it. No new criminal case had been opened at any of the four Fairbanks-area courts since Friday afternoon. The Alaska Court System's weekly report of criminal cases filed ran on the night of Nov. 13 and lists 46 cases filed inside the area in the week to Nov. 13; its counts below are the report's own counts for that window. Both daily feeds routinely add entries to past dates, so the figures here are the figures as of this reading rather than totals for the day.",
+  "summary": "Three criminal cases were opened at the Fairbanks court on Nov. 14, and two arrests made on Nov. 13 were added to the Fairbanks Police daily bulletin during the day. One of the new cases charges a Fairbanks man with resisting arrest by force and giving a false name; the other two carry no charge yet. The Alaska Court System's weekly report of criminal cases filed ran on the night of Nov. 13 and lists 46 cases filed inside the area in the week to Nov. 13; its counts below are the report's own counts for that window, and they do not include the three cases the Fairbanks court opened on Nov. 14, which fall outside it. Both daily feeds routinely add entries to past dates, so the figures here are the figures as of this reading rather than totals for the day.",
   "commentary": null,
   "entries": [
+    {
+      "id": "resisting-arrest-reynolds",
+      "date": "2026-11-14",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02287CR"
+      ],
+      "title": "Resisting arrest: Michael Jamar Reynolds",
+      "body": [
+        "Michael Jamar Reynolds is charged with resisting or interfering with arrest by force - using force against an officer making an arrest - and with giving false information about his identity when cited or served with a warrant. Both counts are Class A misdemeanors.",
+        "The offense is recorded in Fairbanks on Nov. 14. Neither count is recorded as domestic violence related.",
+        "Case 4FA-26-02287CR. He was arraigned the same afternoon and the Public Defender Agency was appointed to represent him. A pre-trial conference is set for Jan. 14, 2027, with a trial week from Jan. 25, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02287CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "theft-arrest-derendoff",
+      "date": "2026-11-13",
+      "time": "14:22",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02285CR"
+      ],
+      "title": "Theft arrest: Faith Angeline Derendoff",
+      "body": [
+        "Faith Angeline Derendoff, 51, was arrested on a charge of theft in the fourth degree - taking property worth less than $250 - recorded by police as a misdemeanor.",
+        "100 block of College Road, Fairbanks, Nov. 13 at 2:22 p.m.; Fairbanks Police.",
+        "A court file, case 4FA-26-02285CR, was opened on Nov. 14 with no charge filed on it yet, and an arraignment is set for Nov. 20. The court file records the surname as Derenooff."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 13",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02285CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "assault-arrest-judon",
+      "date": "2026-11-13",
+      "time": "10:28",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02284CR"
+      ],
+      "title": "Assault arrest: Robin Tanika Judon",
+      "body": [
+        "Robin Tanika Judon, 53, of Fairbanks, was arrested on a charge of assault in the fourth degree - recklessly injuring another person - a Class A misdemeanor.",
+        "500 block of Cushman Street, Fairbanks, Nov. 13 at 10:28 a.m.; Fairbanks Police.",
+        "Case 4FA-26-02284CR. She was arraigned on Nov. 13. The count is not recorded as domestic violence related."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 13",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02284CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "weekly-court-filings-1113",
       "date": "2026-11-14",
@@ -110,6 +189,36 @@
     ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02287CR",
+      "defendant": "Reynolds, Michael Jamar",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Resisting or interfering with arrest by force, AS 11.56.700(a)(1); false information as to identity when cited or served with a warrant, AS 11.56.800(a)(1)(B)(ii). Neither count domestic violence related. Offense dated Nov. 14 at Fairbanks. Arraigned Nov. 14",
+      "next": "Pre-trial conference Jan. 14, 2027; trial week from Jan. 25, 2027",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-14"
+    },
+    {
+      "case": "4FA-26-02286CR",
+      "defendant": "Goldy Sr, George M",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed; no degree of offense recorded. Offense dated Nov. 13 at North Pole",
+      "next": "Arraignment Nov. 20",
+      "judge": "Bahr, Maria P",
+      "last_docket": null
+    },
+    {
+      "case": "4FA-26-02285CR",
+      "defendant": "Derenooff, Faith",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed; no degree of offense recorded. Offense dated Nov. 13 at Fairbanks. Police recorded the arrest as theft in the fourth degree, a misdemeanor",
+      "next": "Arraignment Nov. 20",
+      "judge": "Bahr, Maria P",
+      "last_docket": null
+    },
     {
       "case": "4DJ-26-00072CR",
       "defendant": "Clark, Jason",
