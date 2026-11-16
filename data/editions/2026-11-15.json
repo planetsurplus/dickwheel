@@ -1,10 +1,227 @@
 {
   "date": "2026-11-15",
-  "compiled": "04:56 AKST",
+  "compiled": "17:24 AKST",
   "window": "Nov. 13-15, 2026",
-  "summary": "Two arrests made in Fairbanks on Nov. 14 reached the police and trooper records overnight: a felony assault arrest on Lacey Street, and a drunk-driving and assault arrest after a two-vehicle collision on Farmers Loop Road. Troopers also recovered a vehicle reported stolen in Anchorage a month earlier during a Fairbanks traffic stop; no one was charged. No new criminal case was opened at the Fairbanks, Nenana, Healy or Delta Junction courts on Nov. 15. The Alaska Court System's weekly report of criminal cases filed ran on the night of Nov. 14 and lists 44 cases filed inside the Fairbanks area in the week to Nov. 14; the court counts below are the report's own counts for that window. Both daily police feeds routinely add entries to past dates, so the figures here are the figures as of this reading rather than totals for the day.",
+  "summary": "The Fairbanks court opened eight criminal cases on Nov. 15, seven of them arraigned the same afternoon. They include a Class B felony robbery charge and two Class C felony assault charges, and two cases in which the charge filed in court is lower than the charge police recorded on the arrest: a reported first-degree armed robbery filed as robbery in the second degree, and a reported felony assault filed as a single misdemeanor count. Troopers also reported a drunk-driving arrest after a vehicle went into the ditch on Farmers Loop, a shots-fired call at a Fairbanks residence and a hit and run off Echo Acres, the last two with no arrest. The Alaska Court System's weekly report of criminal cases filed closed its window on Nov. 14, so the court counts below are the report's own counts for that window and do not include the eight cases opened on Nov. 15. Both daily police feeds routinely add entries to past dates, so the figures here are the figures as of this reading rather than totals for the day.",
   "commentary": null,
   "entries": [
+    {
+      "id": "dui-child-arrest-miller",
+      "date": "2026-11-15",
+      "time": "",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02295CR",
+        "AK26112664"
+      ],
+      "title": "DUI arrest: Patrick Miller",
+      "body": [
+        "Patrick Miller, 32, is charged with driving under the influence at a blood alcohol level of .08 or more, and with endangering the welfare of a minor in the first degree. Both are Class A misdemeanors on the court file. The second charge covers driving under the influence with a child in the vehicle.",
+        "Troopers say they responded to the area of Farmers Loop in Fairbanks on Nov. 15 for a vehicle in the ditch, arrested him, and took him to the Fairbanks Correctional Center. Alaska State Troopers.",
+        "Case 4FA-26-02295CR. He was arraigned Nov. 15; a pre-trial conference is set for Dec. 31."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 15",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "shots-fired-fairbanks-residence",
+      "date": "2026-11-15",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26112659"
+      ],
+      "title": "Shots fired at a Fairbanks residence",
+      "body": [
+        "Troopers say they responded to a residence in Fairbanks over a report of shots fired and found several shotgun shells and handgun casings at the scene. No damage was reported, and troopers say the complainant believes the suspect is known to him.",
+        "No arrest has been made and no one has been charged. The investigation is continuing. Alaska State Troopers."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 15",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "hit-and-run-echo-acres",
+      "date": "2026-11-15",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26112719"
+      ],
+      "title": "Hit and run reported off Echo Acres",
+      "body": [
+        "Troopers say they received a report of a hit and run at a residence off Echo Acres in Fairbanks on Nov. 15. The investigation is continuing and no arrest has been made.",
+        "Troopers ask anyone with information to call them in Fairbanks at 907-451-5100, and say the call can be anonymous."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 15",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "armed-robbery-arrest-tritt",
+      "date": "2026-11-14",
+      "time": "23:27",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02293CR",
+        "26003472"
+      ],
+      "title": "Robbery charge: Michael Aaron Tritt",
+      "body": [
+        "Michael Aaron Tritt, 52, is charged with robbery in the second degree — using force to take property or prevent resistance — a Class B felony, punishable by up to 10 years. He is also charged with assault in the fourth degree, recklessly causing injury, a Class A misdemeanor.",
+        "According to Fairbanks Police, he was arrested at the 1500 block of Lacey Street in Fairbanks on Nov. 14 at 11:27 p.m. The police bulletin records the arrest charge as robbery in the first degree, armed with a deadly weapon; the charge filed in court is robbery in the second degree.",
+        "Case 4FA-26-02293CR. He was arraigned Nov. 15; preliminary hearings are set for Nov. 25 and Dec. 3."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 14",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "assault-arrest-long-north-pole",
+      "date": "2026-11-14",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02294CR",
+        "AK26112648"
+      ],
+      "title": "Felony assault charge: Justin Long",
+      "body": [
+        "Justin Long, 26, is charged with assault in the third degree — causing physical injury with a dangerous instrument — a Class C felony, punishable by up to five years. He is also charged with three counts of assault in the fourth degree, recklessly causing injury, and one count of violating a court-ordered condition of release. The four assault counts are recorded on the court file as domestic violence related.",
+        "Troopers say they responded on Nov. 14 to a report of multiple assaults at a residence on Pheasant Drive and arrested him after an investigation, and that he was also served with an outstanding warrant for failure to appear.",
+        "Case 4FA-26-02294CR, offense location North Pole. He was arraigned Nov. 15; preliminary hearings are set for Nov. 25 and Dec. 3."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 15",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dv-assault-charge-claus",
+      "date": "2026-11-14",
+      "time": "22:56",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02291CR",
+        "26003473"
+      ],
+      "title": "Domestic violence assault charges: Sennet Mckenzie Sweat Claus",
+      "body": [
+        "Sennet Mckenzie Sweat Claus, 27, is charged with four counts, all Class A misdemeanors and all recorded on the court file as domestic violence related: one count of assault in the fourth degree, recklessly causing injury, and three counts of fourth-degree assault committed while a child was present.",
+        "According to Fairbanks Police, she was arrested at the 300 block of Driveway Street in Fairbanks on Nov. 14 at 10:56 p.m.",
+        "Case 4FA-26-02291CR. She was arraigned Nov. 15; a pre-trial conference is set for Jan. 14, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 14",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "dui-arrest-callahan",
+      "date": "2026-11-14",
+      "time": "22:51",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02292CR",
+        "26003474"
+      ],
+      "title": "DUI arrest: Michael John Deangelo Callahan",
+      "body": [
+        "Michael John Deangelo Callahan, 30, is charged with driving under the influence of alcohol or drugs, a Class A misdemeanor on the court file.",
+        "According to Fairbanks Police, he was arrested at the 100 block of College Road in Fairbanks on Nov. 14 at 10:51 p.m.",
+        "Case 4FA-26-02292CR. He was arraigned Nov. 15; a pre-trial conference is set for Jan. 14, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 14",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "trespass-arrest-lucas",
+      "date": "2026-11-14",
+      "time": "23:24",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02288CR",
+        "26003475"
+      ],
+      "title": "Criminal trespass arrest: Logan Jeffery Lucas",
+      "body": [
+        "Logan Jeffery Lucas, 32, was arrested on a charge of criminal trespass in the second degree — entering or remaining on another's premises — recorded by police as a misdemeanor.",
+        "According to Fairbanks Police, the arrest was at the 1600 block of East Cowles Street in Fairbanks on Nov. 14 at 11:24 p.m.",
+        "Case 4FA-26-02288CR. No charging document has been filed in the case yet, so the court record states no charge or charge class. Arraignment is set for Nov. 20."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 14",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "dui-assault-arrest-moore",
       "date": "2026-11-14",
@@ -12,20 +229,25 @@
       "place": "Fairbanks",
       "agency": "Alaska State Troopers",
       "category": "dui",
-      "severity": "other",
+      "severity": "felony",
       "cases": [
+        "4FA-26-02290CR",
         "AK26112564"
       ],
-      "title": "DUI and assault arrest: Dominik Moore",
+      "title": "DUI and felony assault charges: Dominik Moore",
       "body": [
-        "Dominik Moore, 23, of Fairbanks, was arrested on charges of driving under the influence, operating a vehicle without liability insurance, and assault in the third degree.",
-        "Troopers say they responded to a two-vehicle collision and determined that one of the drivers had been drinking. He was taken to the Fairbanks Correctional Center. Farmers Loop Road at Alexander Avenue, Fairbanks, Nov. 14 at about 5:12 p.m.; Alaska State Troopers.",
-        "Troopers ask anyone who witnessed the collision to call them in Fairbanks at 907-451-5100."
+        "Dominik Moore, 23, of Fairbanks, is charged with assault in the third degree — causing physical injury with a dangerous instrument — a Class C felony, punishable by up to five years. He is also charged with driving under the influence at a blood alcohol level of .08 or more, and with driving without required liability insurance.",
+        "Troopers say they responded to a two-vehicle collision at Farmers Loop Road and Alexander Avenue in Fairbanks on Nov. 14 at about 5:12 p.m., determined one of the drivers had been drinking, and took him to the Fairbanks Correctional Center. Troopers ask anyone who witnessed the collision to call them in Fairbanks at 907-451-5100.",
+        "Case 4FA-26-02290CR. He was arraigned Nov. 15; preliminary hearings are set for Nov. 25 and Dec. 3."
       ],
       "sources": [
         {
           "label": "Alaska State Troopers daily dispatch, Nov. 14",
           "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -36,43 +258,25 @@
       "place": "Fairbanks",
       "agency": "Fairbanks Police",
       "category": "violent",
-      "severity": "felony",
+      "severity": "misdemeanor",
       "cases": [
+        "4FA-26-02289CR",
         "26003470"
       ],
-      "title": "Felony assault arrest: Melanie Lee Burtis",
+      "title": "Assault charge: Melanie Lee Burtis",
       "body": [
-        "Melanie Lee Burtis, 45, was arrested on a charge of assault in the third degree - causing serious injury or using a dangerous instrument - recorded by police as a felony.",
-        "1000 block of Lacey Street, Fairbanks, Nov. 14 at 4:15 p.m.; Fairbanks Police. Case 26003470."
+        "Melanie Lee Burtis, 45, is charged with assault in the fourth degree — recklessly causing physical injury to another person — a Class A misdemeanor on the court file.",
+        "According to Fairbanks Police, she was arrested at the 1000 block of Lacey Street in Fairbanks on Nov. 14 at 4:15 p.m. The police bulletin records the arrest charge as assault in the third degree, a felony; the only charge filed in court is the misdemeanor count above.",
+        "Case 4FA-26-02289CR. She was arraigned Nov. 15; a pre-trial conference is set for Dec. 31."
       ],
       "sources": [
         {
           "label": "Fairbanks Police daily bulletin, Nov. 14",
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
-        }
-      ]
-    },
-    {
-      "id": "stolen-vehicle-recovered-coal-lane",
-      "date": "2026-11-14",
-      "time": "02:52",
-      "place": "Fairbanks",
-      "agency": "Alaska State Troopers",
-      "category": "property",
-      "severity": "other",
-      "cases": [
-        "AK26112426"
-      ],
-      "title": "Stolen vehicle recovered in Fairbanks traffic stop",
-      "body": [
-        "A 2008 Chevrolet Trailblazer reported stolen in Anchorage about a month earlier was recovered during a Fairbanks traffic stop. No one was charged.",
-        "Troopers say they stopped the vehicle near Coal Lane over an expired and partly damaged registration tab, and that a records check showed it had been reported stolen. The driver was detained, advised of her rights and interviewed. Coal Lane, Fairbanks, Nov. 14 at about 2:52 a.m.; Alaska State Troopers.",
-        "Troopers say they found insufficient evidence that the driver knowingly possessed a stolen vehicle and released her pending further investigation. The vehicle was seized and recovered. No court case has been opened."
-      ],
-      "sources": [
+        },
         {
-          "label": "AST daily dispatch, Nov. 15",
-          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=11/15/2026+12:00:00+AM"
+          "label": "Alaska CourtView case file",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -90,9 +294,9 @@
       ],
       "title": "Resisting arrest: Michael Jamar Reynolds",
       "body": [
-        "Michael Jamar Reynolds, 32, is charged with resisting or interfering with arrest by force - using force against an officer making an arrest - and with giving false information about his identity when cited or served with a warrant. Both counts are Class A misdemeanors.",
-        "500 block of Gaffney Road, Fairbanks, Nov. 14 at 2:05 a.m.; Fairbanks Police. Police also recorded a disorderly conduct charge against him, which is not on the court file.",
-        "Case 4FA-26-02287CR. He was arraigned the same afternoon. A pre-trial conference is set for Jan. 14, 2027, with a trial week from Jan. 25, 2027."
+        "Michael Jamar Reynolds, 32, is charged with resisting or interfering with arrest by force, and with giving false information as to identity when cited or served with a warrant. Both are Class A misdemeanors on the court file.",
+        "According to Fairbanks Police, he was arrested at the 500 block of Gaffney Road in Fairbanks on Nov. 14 at 2:05 a.m. The police bulletin also records a disorderly conduct charge, which is not on the court file.",
+        "Case 4FA-26-02287CR. He was arraigned Nov. 14; a pre-trial conference is set for Jan. 14, 2027."
       ],
       "sources": [
         {
@@ -100,8 +304,31 @@
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         },
         {
-          "label": "Alaska CourtView, 4FA-26-02287CR",
+          "label": "Alaska CourtView case file",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "stolen-vehicle-recovered-coal-lane",
+      "date": "2026-11-14",
+      "time": "02:52",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26112426"
+      ],
+      "title": "Stolen vehicle recovered in Fairbanks traffic stop",
+      "body": [
+        "Troopers say they stopped a Chevrolet Trailblazer near Coal Lane in Fairbanks on Nov. 14 at about 2:52 a.m. over an expired and partly damaged registration tab, and that a records check showed the vehicle had been reported stolen in Anchorage about a month earlier.",
+        "Troopers say the driver was detained and interviewed, that they found insufficient evidence she knowingly possessed a stolen vehicle, and that she was released while the investigation continues. The vehicle was seized and recovered. No one was charged, and the driver is not named here."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 15",
+          "url": "https://dailydispatch.dps.alaska.gov/"
         }
       ]
     },
@@ -117,7 +344,7 @@
       "body": [
         "The Alaska Court System's weekly report of criminal cases filed ran on the night of Nov. 14 and covers Nov. 8 to Nov. 14. Inside the Fairbanks area it lists 44 cases: 39 at the Fairbanks court, four at Delta Junction, one at Nenana and none at Healy.",
         "The report lists charges as filed. A person named in it has not been convicted, and charges can be amended or dismissed as a case goes on.",
-        "The three newest cases in it are the three the Fairbanks court opened on Nov. 14. Two have no charging document filed yet, with arraignments set for Nov. 20; the third is the resisting-arrest case reported above."
+        "The report's window closed on Nov. 14, so it does not include the eight criminal cases the Fairbanks court opened on Nov. 15. Those eight are reported above and below from the court files themselves."
       ],
       "sources": [
         {
@@ -125,7 +352,7 @@
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         },
         {
-          "label": "Alaska CourtView case files",
+          "label": "Alaska CourtView case file",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
@@ -153,6 +380,54 @@
     ],
     "new": [
       {
+        "case": "4FA-26-02288CR",
+        "defendant": "Lucas, Logan Jeffrey",
+        "charges": "Charging document not yet filed; arraignment set Nov. 20. Police recorded the arrest as criminal trespass in the second degree, a misdemeanor",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02289CR",
+        "defendant": "Burtis, Melanie Lee",
+        "charges": "Assault in the fourth degree, recklessly causing injury, AS 11.41.230(a)(1), Class A misdemeanor. Not domestic violence related. Arraigned Nov. 15",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02290CR",
+        "defendant": "Moore, Dominik George",
+        "charges": "Assault in the third degree, injury with a dangerous instrument, AS 11.41.220(a)(1)(B), Class C felony; DUI with a blood alcohol level of .08 or more, AS 28.35.030(a)(2), Class A misdemeanor; no motor vehicle liability insurance, AS 28.22.011. Arraigned Nov. 15",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02291CR",
+        "defendant": "Claus, Sennet Mckenzie Sweat",
+        "charges": "Assault in the fourth degree, AS 11.41.230(a)(1); three counts of assault while a child is present, AS 11.41.240(a). All four Class A misdemeanors and all four domestic violence related. Arraigned Nov. 15",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02292CR",
+        "defendant": "Callahan, Michael John Deangelo",
+        "charges": "Driving under the influence, AS 28.35.030(a), Class A misdemeanor. Arraigned Nov. 15",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02293CR",
+        "defendant": "Tritt, Michael Aaron",
+        "charges": "Robbery in the second degree, AS 11.41.510(a)(1), Class B felony; assault in the fourth degree, AS 11.41.230(a)(1), Class A misdemeanor. Arraigned Nov. 15",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02294CR",
+        "defendant": "Long, Justin Luther",
+        "charges": "Assault in the third degree, injury with a dangerous instrument, AS 11.41.220(a)(1)(B), Class C felony, domestic violence related; three counts of assault in the fourth degree, Class A misdemeanors, domestic violence related; violating conditions of release, AS 11.56.757(a), Class B misdemeanor. Offense location North Pole. Arraigned Nov. 15",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02295CR",
+        "defendant": "Miller, Patrick Lee S A",
+        "charges": "DUI with a blood alcohol level of .08 or more, AS 28.35.030(a)(2); endangering the welfare of a minor in the first degree, driving under the influence with a child in the vehicle, AS 11.51.100(b). Both Class A misdemeanors. Offense dated Nov. 15. Arraigned Nov. 15",
+        "felony": false
+      },
+      {
         "case": "4FA-26-02285CR",
         "defendant": "Derenooff, Faith",
         "charges": "Charging document not yet filed; arraignment set Nov. 20. Police recorded the arrest as theft in the fourth degree, a misdemeanor",
@@ -173,6 +448,86 @@
     ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02295CR",
+      "defendant": "Miller, Patrick Lee S A",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, blood alcohol .08 or more, AS 28.35.030(a)(2); endangering the welfare of a minor in the first degree, DUI with a child in the vehicle, AS 11.51.100(b). Neither domestic violence related. Offense dated Nov. 15 at Fairbanks. Arraigned Nov. 15",
+      "next": "Pre-trial conference Dec. 31; trial week from Jan. 11, 2027",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-15"
+    },
+    {
+      "case": "4FA-26-02294CR",
+      "defendant": "Long, Justin Luther",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Assault in the third degree, injury with a dangerous instrument, AS 11.41.220(a)(1)(B), Class C felony; three counts of assault in the fourth degree, AS 11.41.230(a)(1), Class A misdemeanors; violating conditions of release, AS 11.56.757(a), Class B misdemeanor. The four assault counts are domestic violence related. Offense dated Nov. 14 at North Pole. Arraigned Nov. 15",
+      "next": "Preliminary hearings Nov. 25 and Dec. 3",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-15"
+    },
+    {
+      "case": "4FA-26-02293CR",
+      "defendant": "Tritt, Michael Aaron",
+      "status": "Open",
+      "level": "Class B felony",
+      "charges": "Robbery in the second degree, AS 11.41.510(a)(1), Class B felony; assault in the fourth degree, AS 11.41.230(a)(1), Class A misdemeanor. Neither domestic violence related. Offense dated Nov. 14 at Fairbanks. Arraigned Nov. 15",
+      "next": "Preliminary hearings Nov. 25 and Dec. 3",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-15"
+    },
+    {
+      "case": "4FA-26-02292CR",
+      "defendant": "Callahan, Michael John Deangelo",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence, AS 28.35.030(a). Not domestic violence related. Offense dated Nov. 14 at Fairbanks. Arraigned Nov. 15",
+      "next": "Pre-trial conference Jan. 14, 2027; trial week from Jan. 25, 2027",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-15"
+    },
+    {
+      "case": "4FA-26-02291CR",
+      "defendant": "Claus, Sennet Mckenzie Sweat",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Assault in the fourth degree, AS 11.41.230(a)(1); three counts of assault while a child is present, AS 11.41.240(a). All four Class A misdemeanors, all four domestic violence related. Offense dated Nov. 14 at Fairbanks. Arraigned Nov. 15",
+      "next": "Pre-trial conference Jan. 14, 2027; trial week from Jan. 25, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-15"
+    },
+    {
+      "case": "4FA-26-02290CR",
+      "defendant": "Moore, Dominik George",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Assault in the third degree, injury with a dangerous instrument, AS 11.41.220(a)(1)(B), Class C felony; DUI, blood alcohol .08 or more, AS 28.35.030(a)(2), Class A misdemeanor; no motor vehicle liability insurance, AS 28.22.011. None domestic violence related. Offense dated Nov. 14 at Fairbanks. Arraigned Nov. 15",
+      "next": "Preliminary hearings Nov. 25 and Dec. 3",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-15"
+    },
+    {
+      "case": "4FA-26-02289CR",
+      "defendant": "Burtis, Melanie Lee",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Assault in the fourth degree, recklessly causing injury, AS 11.41.230(a)(1), Class A misdemeanor. Not domestic violence related. Offense dated Nov. 14 at Fairbanks. Arraigned Nov. 15",
+      "next": "Pre-trial conference Dec. 31; trial week from Jan. 11, 2027",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-15"
+    },
+    {
+      "case": "4FA-26-02288CR",
+      "defendant": "Lucas, Logan Jeffrey",
+      "status": "Open",
+      "level": "No charge filed",
+      "charges": "Charging document pending or not filed; no degree of offense recorded. Offense dated Nov. 14 at Fairbanks",
+      "next": "Arraignment Nov. 20",
+      "judge": "Seekins, Ben A",
+      "last_docket": null
+    },
     {
       "case": "4FA-26-02287CR",
       "defendant": "Reynolds, Michael Jamar",
