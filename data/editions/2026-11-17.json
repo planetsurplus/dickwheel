@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-17",
+  "compiled": "04:54 AKST",
+  "window": "Nov. 16-17, 2026",
+  "summary": "The primary records for this day could not be read. The Alaska State Troopers daily dispatch, the Fairbanks Police daily bulletin, Alaska CourtView and the two Alaska Court System weekly reports were all unavailable to the pass that compiled this file, so no arrest, charge, filing or court outcome is recorded for Nov. 17. Two indexes were reachable and neither had moved: the Alaska Department of Law press index stood at a top row of Nov. 13 and the KTVF crime index at a top row of Nov. 6. No count is given for any source that could not be read. The court filing tables and the open-case list are left empty here; they were last read on Nov. 16, 2026 and the figures from that reading stand in the Nov. 16 edition.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "primary-records-unread-1117",
+      "date": "2026-11-17",
+      "place": "Fairbanks and the Interior",
+      "agency": "This record",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "The day's primary records could not be read",
+      "body": [
+        "The records this report is built from could not be read on Nov. 17, 2026. The Alaska State Troopers daily dispatch, the Fairbanks Police daily bulletin, Alaska CourtView and the Alaska Court System weekly charges and dispositions reports were all unavailable to the pass that compiled this file.",
+        "Nothing is recorded for the day as a result. No arrest, charge, court filing or outcome appears below, and the absence of entries is a statement about what could be read and not about what happened in Fairbanks or the Interior. The Alaska Department of Law press index and the KTVF crime index were both reachable and neither carried a new item: the Department of Law index stood at a top row dated Nov. 13 and the KTVF crime index at a top row dated Nov. 6."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska Department of Law press releases",
+          "url": "https://law.alaska.gov/press/news.html"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "not read on this pass; last read Nov. 16, 2026",
+    "courts": [],
+    "new": []
+  },
+  "open_cases": [],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov/"
+    },
+    {
+      "name": "Fairbanks Police daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Court System weekly charges report",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System weekly dispositions report",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney's Office, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    }
+  ]
+}
