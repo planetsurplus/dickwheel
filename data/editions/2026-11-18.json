@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-18",
+  "compiled": "03:29 AKST",
+  "window": "Nov. 17-18, 2026",
+  "summary": "Alaska State Troopers reported two Fairbanks arrests early Nov. 18: a man taken into custody at a hotel on the Chena riverfront on allegations of trespass and assault, and a driver arrested for driving under the influence after being stopped for driving at night in snowfall with no lights on. Neither person has been named and no court case has been filed in either. No new criminal case was filed at the Fairbanks, Nenana, Healy or Delta Junction courts between Nov. 17 and the morning of Nov. 18. The court filing counts below are the weekly report's own counts for its window of Nov. 11 to Nov. 17.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "lodge-trespass-assault-1118",
+      "date": "2026-11-18",
+      "time": "00:09",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26113591"
+      ],
+      "title": "Trespass and assault arrest at a Fairbanks hotel",
+      "body": [
+        "A man was arrested early Nov. 18 on allegations of criminal trespass and assault in the fourth degree, the charge for recklessly injuring someone. Troopers have not released his name.",
+        "Troopers say they were called to Pike's Waterfront Lodge in Fairbanks at about 12:09 a.m. after hotel staff received several complaints of a man shouting in one of the rooms. They say they determined he had been barred from the property since June 30, 2015, and that he had assaulted security staff before troopers arrived. He was taken to the Fairbanks Correctional Center.",
+        "Alaska State Troopers case AK26113591. No case has been filed in court."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "dui-medical-1118",
+      "date": "2026-11-17",
+      "time": "04:37",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "AK26113233"
+      ],
+      "title": "DUI arrest: driver stopped for having no lights on in the snow",
+      "body": [
+        "A driver was arrested on a charge of driving under the influence early Nov. 17 and troopers say charges are being forwarded to the District Attorney's Office. The driver has not been named.",
+        "Troopers say they saw a vehicle being driven at night during snowfall with no headlights or taillights illuminated near the Mitchell Expressway and South University Avenue at about 4:37 a.m. and stopped it. They say the driver had a medical emergency during breath testing at the trooper post and was taken by Fire-Rescue to Fairbanks Memorial Hospital, that a blood warrant was obtained after consulting prosecutors, and that the driver was then released to medical care.",
+        "Alaska State Troopers case AK26113233. No case has been filed in court."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "goldy-felony-dui-1118",
+      "date": "2026-11-13",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02286CR"
+      ],
+      "title": "Felony DUI charge: George M Goldy Sr",
+      "body": [
+        "George M Goldy Sr is charged with felony driving under the influence with two or more prior convictions - drunk driving by someone already convicted twice - a Class C felony, punishable by up to five years. He is also charged with driving with a license revoked for a criminal offense, a Class A misdemeanor, and with reckless driving.",
+        "The charges are dated Nov. 13 at North Pole. The case was opened on Nov. 14 with no charging document on file; the counts and their classes appear in the court's weekly filings report for Nov. 11 to Nov. 17.",
+        "Case 4FA-26-02286CR; arraignment Nov. 20. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, Criminal Cases Filed, Nov. 11-17",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Nov. 11-17, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 36
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 0
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 2
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-02286CR",
+        "defendant": "Goldy Sr, George M",
+        "charges": "Felony DUI, two or more prior convictions (Class C felony); driving with license revoked for a criminal offense (Class A misdemeanor); reckless driving. Offenses dated Nov. 13 at North Pole",
+        "felony": true
+      }
+    ]
+  },
+  "open_cases": [
+    {
+      "case": "4FA-26-02303CR",
+      "defendant": "Freling, Hunter Marshall",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with license revoked after a prior conviction. Offense dated Nov. 12 at Fairbanks",
+      "next": "Next event Jan. 15, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02302CR",
+      "defendant": "Simmonds, Sophia Christabeldell",
+      "status": "Open",
+      "level": "Misdemeanor, not classified",
+      "charges": "Driving in violation of an instruction permit. Offense dated Nov. 16 at Fairbanks",
+      "next": "Next event Dec. 18",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02301CR",
+      "defendant": "Waters, Jerald Curtis",
+      "status": "Closed",
+      "level": "Class C felony",
+      "charges": "Assault 3, fear of injury with a weapon. Dismissed by the prosecutor Nov. 17",
+      "next": "None",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02300CR",
+      "defendant": "Evans, Christopher Allan",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Failure to stop at the direction of a peace officer 2. Offense dated Nov. 16 at Fairbanks. Arraigned Nov. 17",
+      "next": "Next event Jan. 7, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02299CR",
+      "defendant": "Rue, Andre Lee",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Assault 3, injury with a weapon; DUI; driving with license revoked; driving in violation of license limits; leaving the scene of an injury crash. Offense dated Nov. 16 at Fairbanks. Arraigned Nov. 17",
+      "next": "Preliminary hearings Nov. 25 and Dec. 7",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02298CR",
+      "defendant": "Lilley, Henry Cole",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "DUI. Offense dated Nov. 17 at North Pole",
+      "next": "Arraignment Nov. 24",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02286CR",
+      "defendant": "Goldy Sr, George M",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Felony DUI, two or more prior convictions; driving with license revoked for a criminal offense; reckless driving. Offenses dated Nov. 13 at North Pole",
+      "next": "Arraignment Nov. 20",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-14"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "status": "Open",
+      "level": "Fugitive from justice",
+      "charges": "Arrest prior to requisition, fugitive from justice. Offense recorded at Fort Wainwright, dated Sept. 18",
+      "next": "Fugitive from justice hearing Dec. 15",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "status": "Reopened",
+      "level": "Class A felony",
+      "charges": "Three counts of misconduct involving a controlled substance 2, manufacture or delivery of methamphetamine, all indicted. Offenses dated April 21, June 24 and July 8",
+      "next": "Calendar call Dec. 22; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-06"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "status": "Reopened",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping with injury or sexual assault (indicted, North Pole), assault 4 and interfering with a report of a domestic violence crime (Fairbanks). All three flagged domestic violence related, dated Sept. 22",
+      "next": "Calendar call Dec. 22; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4DJ-26-00058CR",
+      "defendant": "Parlin, Sara Mae",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, blood alcohol .08 percent or more. Offense dated Sept. 26 at Delta Junction",
+      "next": "Rural calendar call Jan. 19, 2027, Delta Junction courthouse",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-01"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "status": "Reopened",
+      "level": "Unclassified felony",
+      "charges": "Two counts of murder in the first degree and one of murder in the second degree, all indicted and all flagged domestic violence related. The first count was dismissed by the prosecution June 8, 2026",
+      "next": "Sentencing Jan. 29, 2027",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "status": "Reopened",
+      "level": "Class B felony",
+      "charges": "Two counts of misconduct involving a controlled substance 3, one indicted. Offenses dated Sept. 16",
+      "next": "Omnibus Jan. 21, 2027; trial week Feb. 8, 2027",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "status": "Reopened",
+      "level": "Class C felony",
+      "charges": "Tampering with physical evidence to prevent a proceeding, indicted. Offense dated Sept. 22 at Fairbanks",
+      "next": "Omnibus Jan. 28, 2027; trial week Feb. 15, 2027",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "status": "Closed",
+      "level": "Class C felony",
+      "charges": "Assault 3, causing injury with a weapon, indicted, with four further counts, flagged domestic violence related. Offense dated Aug. 23 at North Pole",
+      "next": "None; the omnibus hearing and trial week have both been vacated",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "status": "Closed",
+      "level": "Unclassified felony",
+      "charges": "Murder in the first degree, indicted, flagged domestic violence related. Charge dismissed and case closed Oct. 9 on a finding that the defendant was incompetent",
+      "next": "None",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-09"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov"
+    },
+    {
+      "name": "Fairbanks Police daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Court System weekly charges report",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System weekly dispositions report",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney's Office, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    },
+    {
+      "name": "Alaska's News Source",
+      "url": "https://www.alaskasnewssource.com/"
+    }
+  ]
+}
