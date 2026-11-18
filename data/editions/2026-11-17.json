@@ -1,10 +1,130 @@
 {
   "date": "2026-11-17",
-  "compiled": "16:33 AKST",
-  "window": "Nov. 16–17, 2026",
-  "summary": "The Fairbanks court opened seven new criminal cases on Nov. 16 and 17, two of them on felony assault counts. In one, a firearm assault count against Jerald Curtis Waters was dismissed by the prosecutor the day it was filed; the other, against Andre Lee Rue, also charges him with drunk driving and leaving the scene of an injury crash. Troopers are asking for help finding Megan Baldwin, 33, of North Pole, reported missing Nov. 16, and arrested a man wanted on two felony warrants after he fled a stop on South Cushman Street. The state court's closed-cases report shows 18 Interior cases closed Nov. 10 to 13, including the dismissal of two felony counts. This edition replaces the morning file, which was compiled when none of the primary records could be read.",
+  "compiled": "17:02 AKST",
+  "window": "Nov. 12-17, 2026",
+  "summary": "Wasilla police are investigating allegations of kidnapping and sexual assault involving students from the hockey teams of two Fairbanks-area high schools, say they may charge five people, and the Fairbanks North Star Borough School District has suspended all hockey activity for both teams; everyone involved is a minor, nobody has been named and no charges have been filed. In court, calendar calls in two Fairbanks felony cases were continued and both trial weeks moved from Nov. 30 to Jan. 11, 2027, among them a kidnapping case; a fugitive from justice hearing was held and reset to Dec. 15. The Fairbanks court opened seven new criminal cases on Nov. 16 and 17, two of them on felony assault counts, one of which was dismissed the day it was filed. Fairbanks Police added three fraud reports to their Nov. 13 page, all at one block of the Johansen Expressway. The court filing counts below are the weekly report's own counts for Nov. 10 to Nov. 16 and so do not include the six cases opened on Nov. 17. A Delta Junction drunk-driving case was also called on Nov. 17 and continued to Jan. 19, 2027.",
   "commentary": null,
   "entries": [
+    {
+      "id": "hockey-teams-investigation-1117",
+      "date": "2026-11-17",
+      "place": "Wasilla",
+      "agency": "Wasilla Police Department",
+      "category": "violent",
+      "severity": "other",
+      "cases": [],
+      "title": "Kidnapping and sexual assault investigation involving two Fairbanks-area high school hockey teams",
+      "body": [
+        "Wasilla police are investigating allegations of kidnapping and sexual assault involving students from the hockey teams of two Fairbanks-area high schools. Amanda Graham, the Wasilla Police Department's public information officer, said police are looking at charging five individuals and that two Wasilla detectives recently traveled to Fairbanks to conduct interviews.",
+        "Graham said the alleged incidents occurred in Wasilla while the teams were in the Matanuska-Susitna valley for the Stars and Stripes hockey tournament, which Palmer High School hosted from Nov. 5 to Nov. 7.",
+        "The Fairbanks North Star Borough School District said it is investigating an incident involving students from the North Pole High School and Lathrop High School hockey teams, that it is coordinating with law enforcement, and that all hockey activities involving the two teams have been suspended as an interim safety measure. The district said the suspension is not a disciplinary determination and that it cannot release further details while the investigation is active.",
+        "Everyone involved is a minor and no names have been released. No charges have been filed. The alleged offenses are placed in Wasilla, outside the Fairbanks area, and would be prosecuted in the Third Judicial District rather than at the Fairbanks courthouse."
+      ],
+      "sources": [
+        {
+          "label": "KTVF / WebCenter Fairbanks, Nov. 17",
+          "url": "https://www.webcenterfairbanks.com/2026/11/18/kidnapping-sexual-assault-investigation-prompts-suspension-high-school-hockey-season-two-fairbanks-teams/"
+        },
+        {
+          "label": "Alaska's News Source, Nov. 17",
+          "url": "https://www.alaskasnewssource.com/2026/11/18/kidnapping-sexual-assault-investigation-prompts-suspension-high-school-hockey-season-two-fairbanks-teams/"
+        }
+      ]
+    },
+    {
+      "id": "clarke-fugitive-hearing-1117",
+      "date": "2026-11-17",
+      "place": "Fort Wainwright",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-01857CR"
+      ],
+      "title": "Fugitive from justice hearing held: Brenden James Clarke",
+      "body": [
+        "Brenden James Clarke is charged with arrest prior to requisition as a fugitive from justice, a charge that holds someone in Alaska while another state seeks his return. The offense is recorded at Fort Wainwright and dated Sept. 18.",
+        "A fugitive from justice hearing was held in Fairbanks on Nov. 17 and the court issued a further temporary order the same day. A new hearing is set for Dec. 15. Case 4FA-26-01857CR; Judge Seekins."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "trial-weeks-moved-1117",
+      "date": "2026-11-17",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01890CR",
+        "4FA-26-01818CR"
+      ],
+      "title": "Two felony trial weeks pushed to January: Dante Claxton and William Ostlund",
+      "body": [
+        "Calendar calls in two Fairbanks felony cases were continued on Nov. 17 and the trial weeks in both, due to begin Nov. 30, were moved to Jan. 11, 2027. Both cases now have a calendar call on Dec. 22 before Judge Peterson.",
+        "Dante Nathaniel Larry Claxton is charged with kidnapping with injury or sexual assault, an unclassified felony punishable by up to 99 years, along with assault in the fourth degree and interfering with a report of a domestic violence crime, both Class A misdemeanors. All three counts are flagged as domestic violence related. The kidnapping count is recorded at North Pole and the misdemeanor counts at Fairbanks, all dated Sept. 22. Case 4FA-26-01890CR.",
+        "William Bruce Ostlund is charged with three counts of misconduct involving a controlled substance in the second degree, manufacturing or delivering methamphetamine, each a Class A felony punishable by up to 20 years. The counts are dated April 21, June 24 and July 8. Case 4FA-26-01818CR.",
+        "Both men are charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "parlin-calendar-call-1117",
+      "date": "2026-11-17",
+      "time": "15:00",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "4DJ-26-00058CR"
+      ],
+      "title": "Drunk-driving case continued: Sara Mae Parlin",
+      "body": [
+        "Sara Mae Parlin is charged with driving under the influence with a blood alcohol content of .08 percent or more, a Class A misdemeanor. The offense is dated Sept. 26 at Delta Junction.",
+        "A rural calendar call was held at the Delta Junction courthouse at 3 p.m. Nov. 17 and continued. Case 4DJ-26-00058CR; the next rural calendar call is Jan. 19, 2027, before Judge Young."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "johansen-fraud-reports-1113",
+      "date": "2026-11-13",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "26003450",
+        "26003451",
+        "26003452"
+      ],
+      "title": "Three fraud reports at one Johansen Expressway block",
+      "body": [
+        "Fairbanks Police recorded three separate fraud reports at the 500 block of the Johansen Expressway on the morning of Nov. 13, all three taken by the same officer within six minutes of each other.",
+        "Each report covers a period that began weeks earlier: case 26003450 from Oct. 16, case 26003451 from Oct. 20 and case 26003452 from Oct. 31. No arrests have been made, nobody is named in the reports and no charges have been filed."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 13",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
     {
       "id": "waters-assault-dismissed-1117",
       "date": "2026-11-16",
@@ -19,7 +139,7 @@
       ],
       "title": "Felony firearm assault charge filed and dismissed: Jerald Curtis Waters",
       "body": [
-        "Jerald Curtis Waters, 40, was arrested on a charge of assault in the third degree, placing someone in fear of serious injury with a weapon, a Class C felony. Police recorded an aggravated assault with a firearm at Cushman Street and First Avenue at 3:39 p.m. Nov. 16, and the arrest at First Avenue and Lacey Street at 3:40 p.m.; Fairbanks Police case 26003487.",
+        "Jerald Curtis Waters, 40, was arrested on a charge of assault in the third degree, recklessly placing someone in fear of serious injury with a dangerous instrument, a Class C felony punishable by up to five years. Police recorded an aggravated assault with a firearm at Cushman Street and First Avenue at 3:39 p.m. Nov. 16, and the arrest at First Avenue and Lacey Street at 3:40 p.m.; Fairbanks Police case 26003487.",
         "The felony count was filed Nov. 17 in case 4FA-26-02301CR and dismissed by the prosecutor the same day. The case is closed and no charge stands."
       ],
       "sources": [
@@ -69,7 +189,7 @@
       "title": "Failure to stop for police: Christopher Allan Evans",
       "body": [
         "Christopher Allan Evans, 40, of Fairbanks, is charged with failure to stop at the direction of a peace officer in the second degree, a Class A misdemeanor.",
-        "Troopers say their Criminal Suppression Unit tried to stop him on South Cushman Street Nov. 16 while he had two felony warrants, that he fled and then ran on foot into the Lakeview Terrace trailer park, and that he was found hiding behind a trailer and arrested on the warrants.",
+        "Troopers say their Criminal Suppression Unit tried to stop him on South Cushman Street Nov. 16 while he had two outstanding felony warrants, that he failed to yield and then ran on foot into the Lakeview Terrace trailer park, and that he was found hiding behind a trailer and arrested on the warrants.",
         "Case 4FA-26-02300CR; arraigned Nov. 17, next court date Jan. 7, 2027."
       ],
       "sources": [
@@ -111,13 +231,13 @@
       "time": "02:21",
       "place": "Fairbanks",
       "agency": "Fairbanks Police",
-      "category": "other",
+      "category": "dui",
       "severity": "other",
       "cases": [
         "26003483",
         "4FA-26-02296CR"
       ],
-      "title": "DUI: James Sean Maska-Johnson",
+      "title": "DUI arrest: James Sean Maska-Johnson",
       "body": [
         "James Sean Maska-Johnson, 20, is charged with driving under the influence, a Class A misdemeanor. Fairbanks Police arrested him at Washington Drive and Airport Way at 2:21 a.m. Nov. 16. Case 4FA-26-02296CR."
       ],
@@ -171,7 +291,7 @@
       ],
       "title": "Criminal trespass charge filed: Timothy Royal Bidwell",
       "body": [
-        "Timothy Royal Bidwell is charged with criminal trespass in the second degree, a Class B misdemeanor, over his Nov. 15 arrest on South Cushman Street. Case 4FA-26-02297CR."
+        "Timothy Royal Bidwell is charged with criminal trespass in the second degree, unlawfully entering or staying on premises, a Class B misdemeanor, over his Nov. 15 arrest on South Cushman Street. Case 4FA-26-02297CR."
       ],
       "sources": [
         {
@@ -185,12 +305,12 @@
       "date": "2026-11-17",
       "place": "North Pole",
       "agency": "Alaska Court System",
-      "category": "other",
+      "category": "dui",
       "severity": "other",
       "cases": [
         "4FA-26-02298CR"
       ],
-      "title": "DUI: Henry Cole Lilley",
+      "title": "DUI charge filed: Henry Cole Lilley",
       "body": [
         "Henry Cole Lilley is charged with driving under the influence, a Class A misdemeanor, dated Nov. 17 in North Pole. Case 4FA-26-02298CR; arraignment Nov. 24."
       ],
@@ -213,7 +333,7 @@
       ],
       "title": "Driving with a revoked license: Hunter Marshall Freling",
       "body": [
-        "Hunter Marshall Freling is charged with driving with a revoked license after a prior conviction, a Class A misdemeanor, dated Nov. 12 in Fairbanks. Case 4FA-26-02303CR."
+        "Hunter Marshall Freling is charged with driving with a license revoked after a prior conviction, a Class A misdemeanor, dated Nov. 12 in Fairbanks. The case was filed on a trooper citation. Case 4FA-26-02303CR."
       ],
       "sources": [
         {
@@ -257,7 +377,7 @@
         "4NE-25-00107CR",
         "4NE-25-00115CR"
       ],
-      "title": "Court outcomes Nov. 10–13: two felony counts dismissed, Nenana DUI conviction",
+      "title": "Court outcomes Nov. 10-13: two felony counts dismissed, Nenana DUI conviction",
       "body": [
         "Prosecutors dismissed a third-degree sexual assault count, a Class C felony, and an assault count against Natalie Mestas on Nov. 10 (4FA-25-00635CR), and a third-degree assault count, a Class C felony, against Nicholas Edward Bell on Nov. 12 (4FA-26-02012CR).",
         "At Nenana, Christopher Jaden Anthony Graham was convicted on guilty pleas of driving under the influence and possessing a weapon while intoxicated (4NE-25-00107CR); an assault count in a second case was dismissed under the plea agreement (4NE-25-00115CR).",
@@ -272,7 +392,7 @@
     }
   ],
   "filings": {
-    "window": "Nov. 10–16, 2026, plus cases opened Nov. 17",
+    "window": "Nov. 10-16, 2026",
     "courts": [
       {
         "court": "Fairbanks (4FA)",
@@ -402,6 +522,96 @@
       "next": "Arraignment Nov. 24, 8:30 a.m.",
       "judge": "Bahr, Maria P",
       "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "status": "Open",
+      "level": "Fugitive from justice",
+      "charges": "Arrest prior to requisition, fugitive from justice. Offense recorded at Fort Wainwright, dated Sept. 18",
+      "next": "Fugitive from justice hearing Dec. 15, 1:30 p.m.",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "status": "Reopened",
+      "level": "Class A felony",
+      "charges": "Three counts of misconduct involving a controlled substance 2, manufacture or delivery of methamphetamine, all indicted. Offenses dated April 21, June 24 and July 8",
+      "next": "Calendar call Dec. 22; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-06"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "status": "Reopened",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping with injury or sexual assault (indicted, North Pole), assault 4 and interfering with a report of a domestic violence crime (Fairbanks). All three flagged domestic violence related, dated Sept. 22",
+      "next": "Calendar call Dec. 22; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-10-09"
+    },
+    {
+      "case": "4DJ-26-00058CR",
+      "defendant": "Parlin, Sara Mae",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "DUI, blood alcohol .08 percent or more. Offense dated Sept. 26 at Delta Junction",
+      "next": "Rural calendar call Jan. 19, 2027, 3:00 p.m., Delta Junction courthouse",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-10-01"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "status": "Reopened",
+      "level": "Unclassified felony",
+      "charges": "Two counts of murder in the first degree and one of murder in the second degree, all indicted and all flagged domestic violence related. The first count was dismissed by the prosecution June 8, 2026",
+      "next": "Sentencing Jan. 29, 2027, 8:45 a.m.",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "status": "Reopened",
+      "level": "Class B felony",
+      "charges": "Two counts of misconduct involving a controlled substance 3, one indicted. Offenses dated Sept. 16",
+      "next": "Omnibus Jan. 21, 2027; trial week Feb. 8, 2027",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "status": "Reopened",
+      "level": "Class C felony",
+      "charges": "Tampering with physical evidence to prevent a proceeding, indicted. Offense dated Sept. 22 at Fairbanks",
+      "next": "Omnibus Jan. 28, 2027; trial week Feb. 15, 2027",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "status": "Closed",
+      "level": "Class C felony",
+      "charges": "Assault 3, causing injury with a weapon, indicted, with four further counts, flagged domestic violence related. Offense dated Aug. 23 at North Pole",
+      "next": "None; no event is live",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-11-12"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "status": "Closed",
+      "level": "Unclassified felony",
+      "charges": "Murder in the first degree, indicted, flagged domestic violence related. Charge dismissed and case closed Oct. 9 on a finding that the defendant was incompetent",
+      "next": "None",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-09"
     }
   ],
   "sources": [
@@ -440,6 +650,10 @@
     {
       "name": "KTVF / WebCenter Fairbanks",
       "url": "https://www.webcenterfairbanks.com/news/crime/"
+    },
+    {
+      "name": "Alaska's News Source",
+      "url": "https://www.alaskasnewssource.com/"
     }
   ]
 }
