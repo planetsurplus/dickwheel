@@ -1,45 +1,413 @@
 {
   "date": "2026-11-17",
-  "compiled": "04:54 AKST",
-  "window": "Nov. 16-17, 2026",
-  "summary": "The primary records for this day could not be read. The Alaska State Troopers daily dispatch, the Fairbanks Police daily bulletin, Alaska CourtView and the two Alaska Court System weekly reports were all unavailable to the pass that compiled this file, so no arrest, charge, filing or court outcome is recorded for Nov. 17. Two indexes were reachable and neither had moved: the Alaska Department of Law press index stood at a top row of Nov. 13 and the KTVF crime index at a top row of Nov. 6. No count is given for any source that could not be read. The court filing tables and the open-case list are left empty here; they were last read on Nov. 16, 2026 and the figures from that reading stand in the Nov. 16 edition.",
+  "compiled": "16:33 AKST",
+  "window": "Nov. 16–17, 2026",
+  "summary": "The Fairbanks court opened seven new criminal cases on Nov. 16 and 17, two of them on felony assault counts. In one, a firearm assault count against Jerald Curtis Waters was dismissed by the prosecutor the day it was filed; the other, against Andre Lee Rue, also charges him with drunk driving and leaving the scene of an injury crash. Troopers are asking for help finding Megan Baldwin, 33, of North Pole, reported missing Nov. 16, and arrested a man wanted on two felony warrants after he fled a stop on South Cushman Street. The state court's closed-cases report shows 18 Interior cases closed Nov. 10 to 13, including the dismissal of two felony counts. This edition replaces the morning file, which was compiled when none of the primary records could be read.",
   "commentary": null,
   "entries": [
     {
-      "id": "primary-records-unread-1117",
-      "date": "2026-11-17",
-      "place": "Fairbanks and the Interior",
-      "agency": "This record",
-      "category": "other",
-      "severity": "other",
-      "cases": [],
-      "title": "The day's primary records could not be read",
+      "id": "waters-assault-dismissed-1117",
+      "date": "2026-11-16",
+      "time": "15:40",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "26003487",
+        "4FA-26-02301CR"
+      ],
+      "title": "Felony firearm assault charge filed and dismissed: Jerald Curtis Waters",
       "body": [
-        "The records this report is built from could not be read on Nov. 17, 2026. The Alaska State Troopers daily dispatch, the Fairbanks Police daily bulletin, Alaska CourtView and the Alaska Court System weekly charges and dispositions reports were all unavailable to the pass that compiled this file.",
-        "Nothing is recorded for the day as a result. No arrest, charge, court filing or outcome appears below, and the absence of entries is a statement about what could be read and not about what happened in Fairbanks or the Interior. The Alaska Department of Law press index and the KTVF crime index were both reachable and neither carried a new item: the Department of Law index stood at a top row dated Nov. 13 and the KTVF crime index at a top row dated Nov. 6."
+        "Jerald Curtis Waters, 40, was arrested on a charge of assault in the third degree, placing someone in fear of serious injury with a weapon, a Class C felony. Police recorded an aggravated assault with a firearm at Cushman Street and First Avenue at 3:39 p.m. Nov. 16, and the arrest at First Avenue and Lacey Street at 3:40 p.m.; Fairbanks Police case 26003487.",
+        "The felony count was filed Nov. 17 in case 4FA-26-02301CR and dismissed by the prosecutor the same day. The case is closed and no charge stands."
       ],
       "sources": [
         {
-          "label": "Alaska State Troopers daily dispatch",
+          "label": "Fairbanks Police daily bulletin, Nov. 16",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "rue-assault-dui-1117",
+      "date": "2026-11-16",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02299CR"
+      ],
+      "title": "Felony assault and leaving the scene of an injury crash: Andre Lee Rue",
+      "body": [
+        "Andre Lee Rue is charged with assault in the third degree, causing injury with a dangerous instrument, a Class C felony punishable by up to five years, along with driving under the influence, driving with a revoked license, driving in violation of license limits and leaving the scene of a crash involving injury.",
+        "The charges are dated Nov. 16 in Fairbanks. Case 4FA-26-02299CR; arraigned Nov. 17, preliminary hearings Nov. 25 and Dec. 7."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "evans-pursuit-1117",
+      "date": "2026-11-16",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26113084",
+        "4FA-26-02300CR"
+      ],
+      "title": "Failure to stop for police: Christopher Allan Evans",
+      "body": [
+        "Christopher Allan Evans, 40, of Fairbanks, is charged with failure to stop at the direction of a peace officer in the second degree, a Class A misdemeanor.",
+        "Troopers say their Criminal Suppression Unit tried to stop him on South Cushman Street Nov. 16 while he had two felony warrants, that he fled and then ran on foot into the Lakeview Terrace trailer park, and that he was found hiding behind a trailer and arrested on the warrants.",
+        "Case 4FA-26-02300CR; arraigned Nov. 17, next court date Jan. 7, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 17",
           "url": "https://dailydispatch.dps.alaska.gov/"
         },
         {
-          "label": "Alaska Department of Law press releases",
-          "url": "https://law.alaska.gov/press/news.html"
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "baldwin-missing-1117",
+      "date": "2026-11-16",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26113202"
+      ],
+      "title": "Missing person: Megan Baldwin",
+      "body": [
+        "Troopers are asking for information about Megan Baldwin, 33, of North Pole, reported missing Nov. 16 after last being seen near Badger Road, Persinger Drive and Keeling Road. She was with a black pit bull mix, is about 5 feet 5 inches tall with dark hair, and her phone is disconnected.",
+        "Anyone with information should contact the Alaska State Troopers in Fairbanks."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 17",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "maska-johnson-dui-1116",
+      "date": "2026-11-16",
+      "time": "02:21",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "26003483",
+        "4FA-26-02296CR"
+      ],
+      "title": "DUI: James Sean Maska-Johnson",
+      "body": [
+        "James Sean Maska-Johnson, 20, is charged with driving under the influence, a Class A misdemeanor. Fairbanks Police arrested him at Washington Drive and Airport Way at 2:21 a.m. Nov. 16. Case 4FA-26-02296CR."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 16",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "simmonds-permit-1116",
+      "date": "2026-11-16",
+      "time": "23:30",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "26003490",
+        "4FA-26-02302CR"
+      ],
+      "title": "Driving in violation of an instruction permit: Sophia Christabeldell Simmonds",
+      "body": [
+        "Sophia Christabeldell Simmonds, 18, is charged with driving in violation of an instruction permit, a misdemeanor. Fairbanks Police arrested her on the 1400 block of South Cushman Street at 11:30 p.m. Nov. 16. Case 4FA-26-02302CR; next court date Dec. 18."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 16",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bidwell-trespass-court-1117",
+      "date": "2026-11-15",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02297CR"
+      ],
+      "title": "Criminal trespass charge filed: Timothy Royal Bidwell",
+      "body": [
+        "Timothy Royal Bidwell is charged with criminal trespass in the second degree, a Class B misdemeanor, over his Nov. 15 arrest on South Cushman Street. Case 4FA-26-02297CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "lilley-dui-1117",
+      "date": "2026-11-17",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02298CR"
+      ],
+      "title": "DUI: Henry Cole Lilley",
+      "body": [
+        "Henry Cole Lilley is charged with driving under the influence, a Class A misdemeanor, dated Nov. 17 in North Pole. Case 4FA-26-02298CR; arraignment Nov. 24."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "freling-dwlr-1117",
+      "date": "2026-11-12",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02303CR"
+      ],
+      "title": "Driving with a revoked license: Hunter Marshall Freling",
+      "body": [
+        "Hunter Marshall Freling is charged with driving with a revoked license after a prior conviction, a Class A misdemeanor, dated Nov. 12 in Fairbanks. Case 4FA-26-02303CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "richardson-crash-1117",
+      "date": "2026-11-17",
+      "time": "08:01",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26113275"
+      ],
+      "title": "Injury collision on the Richardson Highway",
+      "body": [
+        "A two-vehicle collision near Milepost 356 of the Richardson Highway at about 8:01 a.m. Nov. 17 sent a 61-year-old North Pole man to Fairbanks Memorial Hospital, troopers say. The other driver, 21, was cited for following too closely."
+      ],
+      "sources": [
+        {
+          "label": "Alaska State Troopers daily dispatch, Nov. 17",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "dispositions-1110-1113",
+      "date": "2026-11-13",
+      "place": "Fairbanks and the Interior",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-25-00635CR",
+        "4FA-26-02012CR",
+        "4NE-25-00107CR",
+        "4NE-25-00115CR"
+      ],
+      "title": "Court outcomes Nov. 10–13: two felony counts dismissed, Nenana DUI conviction",
+      "body": [
+        "Prosecutors dismissed a third-degree sexual assault count, a Class C felony, and an assault count against Natalie Mestas on Nov. 10 (4FA-25-00635CR), and a third-degree assault count, a Class C felony, against Nicholas Edward Bell on Nov. 12 (4FA-26-02012CR).",
+        "At Nenana, Christopher Jaden Anthony Graham was convicted on guilty pleas of driving under the influence and possessing a weapon while intoxicated (4NE-25-00107CR); an assault count in a second case was dismissed under the plea agreement (4NE-25-00115CR).",
+        "Eighteen criminal cases in total were closed at the four Interior courts between Nov. 10 and Nov. 13, most by dismissal."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, Criminal Cases Disposed",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
         }
       ]
     }
   ],
   "filings": {
-    "window": "not read on this pass; last read Nov. 16, 2026",
-    "courts": [],
-    "new": []
+    "window": "Nov. 10–16, 2026, plus cases opened Nov. 17",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 33
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 0
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 4
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-02296CR",
+        "defendant": "Maska-Johnson, James Sean",
+        "charges": "DUI (Class A misdemeanor); offense dated Nov. 16 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02297CR",
+        "defendant": "Bidwell, Timothy Royal",
+        "charges": "Criminal trespass 2 (Class B misdemeanor); offense dated Nov. 15 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02298CR",
+        "defendant": "Lilley, Henry Cole",
+        "charges": "DUI (Class A misdemeanor); offense dated Nov. 17 at North Pole",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02299CR",
+        "defendant": "Rue, Andre Lee",
+        "charges": "Assault 3, injury with a weapon (Class C felony); DUI; driving with license revoked; driving in violation of license limits; leaving the scene of an injury crash",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02300CR",
+        "defendant": "Evans, Christopher Allan",
+        "charges": "Failure to stop at the direction of a peace officer 2 (Class A misdemeanor); offense dated Nov. 16 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02301CR",
+        "defendant": "Waters, Jerald Curtis",
+        "charges": "Assault 3, fear of injury with a weapon (Class C felony); dismissed by the prosecutor and closed Nov. 17",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02302CR",
+        "defendant": "Simmonds, Sophia Christabeldell",
+        "charges": "Driving in violation of an instruction permit (misdemeanor); offense dated Nov. 16 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02303CR",
+        "defendant": "Freling, Hunter Marshall",
+        "charges": "Driving with license revoked after a prior conviction (Class A misdemeanor); offense dated Nov. 12 at Fairbanks",
+        "felony": false
+      }
+    ]
   },
-  "open_cases": [],
+  "open_cases": [
+    {
+      "case": "4FA-26-02303CR",
+      "defendant": "Freling, Hunter Marshall",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with license revoked after a prior conviction. Offense dated Nov. 12 at Fairbanks",
+      "next": "Next event Jan. 15, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02302CR",
+      "defendant": "Simmonds, Sophia Christabeldell",
+      "status": "Open",
+      "level": "Misdemeanor, not classified",
+      "charges": "Driving in violation of an instruction permit. Offense dated Nov. 16 at Fairbanks",
+      "next": "Next event Dec. 18",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02301CR",
+      "defendant": "Waters, Jerald Curtis",
+      "status": "Closed",
+      "level": "Class C felony",
+      "charges": "Assault 3, fear of injury with a weapon. Dismissed by the prosecutor Nov. 17",
+      "next": "None",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02300CR",
+      "defendant": "Evans, Christopher Allan",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Failure to stop at the direction of a peace officer 2. Offense dated Nov. 16 at Fairbanks. Arraigned Nov. 17",
+      "next": "Next event Jan. 7, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02299CR",
+      "defendant": "Rue, Andre Lee",
+      "status": "Open",
+      "level": "Class C felony",
+      "charges": "Assault 3, injury with a weapon; DUI; driving with license revoked; driving in violation of license limits; leaving the scene of an injury crash. Offense dated Nov. 16 at Fairbanks. Arraigned Nov. 17",
+      "next": "Preliminary hearings Nov. 25 and Dec. 7, 3:15 p.m.",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02298CR",
+      "defendant": "Lilley, Henry Cole",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "DUI. Offense dated Nov. 17 at North Pole",
+      "next": "Arraignment Nov. 24, 8:30 a.m.",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-17"
+    }
+  ],
   "sources": [
     {
       "name": "Alaska State Troopers daily dispatch",
-      "url": "https://dailydispatch.dps.alaska.gov/"
+      "url": "https://dailydispatch.dps.alaska.gov"
     },
     {
       "name": "Fairbanks Police daily bulletin",
