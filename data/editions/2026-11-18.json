@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "compiled": "17:13 AKST",
+  "compiled": "03:35 AKST",
   "window": "Nov. 16-18, 2026",
   "summary": "A North Pole man was arrested Nov. 18 on two felony counts of sexual abuse of a minor and arraigned the same day. A Fairbanks jury convicted a man of six sexual offenses, three of them against a child. The Fairbanks court opened eight criminal files on Nov. 17 and Nov. 18, and troopers reported a vehicle theft in North Pole. The court filing counts below are the weekly report's own counts for its window of Nov. 11 to Nov. 17; six of the filings listed here were made on Nov. 18, after that window closed, and do not appear in it.",
   "commentary": null,
@@ -82,24 +82,30 @@
       "id": "williamson-trespass-1118",
       "date": "2026-11-18",
       "place": "Fairbanks",
-      "agency": "Alaska Court System",
+      "agency": "Fairbanks Police",
       "category": "other",
       "severity": "misdemeanor",
       "cases": [
-        "4FA-26-02304CR"
+        "4FA-26-02304CR",
+        "26003501"
       ],
-      "title": "Criminal trespass charge: Ahdalah Panikak Williamson",
+      "title": "Criminal trespass arrest: Ahdalah Panikak Williamson",
       "body": [
-        "Ahdalah Panikak Williamson is charged with criminal trespass in the second degree - entering or remaining unlawfully on premises - a Class B misdemeanor.",
-        "The offense is dated Nov. 18 at Fairbanks. The case was opened the same day on a complaint.",
-        "Case 4FA-26-02304CR; no court date is set. She is charged, not convicted."
+        "Ahdalah Panikak Williamson, 42, was arrested on a charge of criminal trespass in the second degree - entering or remaining unlawfully on premises - a Class B misdemeanor.",
+        "Fairbanks Police say the arrest was made at the 500 block of Twelfth Avenue in Fairbanks on Nov. 18 at 7:24 a.m. Police case 26003501.",
+        "A court file was opened the same day on a complaint. Case 4FA-26-02304CR; no court date is set. She is charged, not convicted."
       ],
       "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 18",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
         {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
-      ]
+      ],
+      "time": "07:24"
     },
     {
       "id": "may-theft4-1118",
