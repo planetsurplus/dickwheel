@@ -1,10 +1,221 @@
 {
   "date": "2026-11-18",
-  "compiled": "03:29 AKST",
-  "window": "Nov. 17-18, 2026",
-  "summary": "Alaska State Troopers reported two Fairbanks arrests early Nov. 18: a man taken into custody at a hotel on the Chena riverfront on allegations of trespass and assault, and a driver arrested for driving under the influence after being stopped for driving at night in snowfall with no lights on. Neither person has been named and no court case has been filed in either. No new criminal case was filed at the Fairbanks, Nenana, Healy or Delta Junction courts between Nov. 17 and the morning of Nov. 18. The court filing counts below are the weekly report's own counts for its window of Nov. 11 to Nov. 17.",
+  "compiled": "17:13 AKST",
+  "window": "Nov. 16-18, 2026",
+  "summary": "A North Pole man was arrested Nov. 18 on two felony counts of sexual abuse of a minor and arraigned the same day. A Fairbanks jury convicted a man of six sexual offenses, three of them against a child. The Fairbanks court opened eight criminal files on Nov. 17 and Nov. 18, and troopers reported a vehicle theft in North Pole. The court filing counts below are the weekly report's own counts for its window of Nov. 11 to Nov. 17; six of the filings listed here were made on Nov. 18, after that window closed, and do not appear in it.",
   "commentary": null,
   "entries": [
+    {
+      "id": "geuea-sam2-1118",
+      "date": "2026-11-18",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "AK26111367",
+        "4FA-26-02308CR"
+      ],
+      "title": "Sexual abuse of a minor charges: Donald Geuea",
+      "body": [
+        "Donald Geuea, 63, of North Pole is charged with two counts of sexual abuse of a minor in the second degree - sexual contact with a child under 13 - each a Class B felony, punishable by up to 10 years. Both counts are recorded on the court file as domestic violence related.",
+        "Troopers say that following an investigation he was arrested on Nov. 18 on both counts, for offenses committed several years ago, and was remanded to the Fairbanks Correctional Center. The court file records the offense location as North Pole and the date of offense as June 1, 2023 on both counts.",
+        "Alaska State Troopers case AK26111367. Case 4FA-26-02308CR; he was arraigned Nov. 18 and the next court date is Nov. 25. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "garcia-convicted-1118",
+      "date": "2026-11-18",
+      "place": "Fairbanks",
+      "agency": "Alaska Department of Law",
+      "category": "court",
+      "severity": "felony",
+      "cases": [],
+      "title": "Convicted of sexual assault and sexual abuse of a minor: David Garcia",
+      "body": [
+        "A Fairbanks jury found David Garcia, 47, guilty on Nov. 18 of two counts of sexual assault in the second degree, three counts of sexual abuse of a minor in the first degree and one count of sexual abuse of a minor in the second degree.",
+        "The Department of Law says one victim reported a sexual assault by Garcia on Sept. 15, 2024, the day it happened, and that the ensuing Alaska State Troopers investigation uncovered evidence leading to additional charges for sexual abuse of that victim as a child in 2014 and 2016. The department says further evidence led to a charge concerning a second child victim from about 2017.",
+        "The jury found two aggravating factors, which the department says open the sentence to 99 years. Garcia was remanded into the custody of the Department of Corrections and is held without bail pending sentencing, set for March 22, 2027. The department says he faces a composite sentence of 32 1/2 to 495 years."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Department of Law, Nov. 18, 2026",
+          "url": "https://law.alaska.gov/press/releases/2026/111826-Garcia.html"
+        }
+      ]
+    },
+    {
+      "id": "np-vehicle-theft-1118",
+      "date": "2026-11-18",
+      "time": "10:26",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26113708"
+      ],
+      "title": "Vehicle theft: 1990 Dodge Ramcharger taken from a North Pole property",
+      "body": [
+        "A blue 1990 Dodge Ramcharger valued at about $5,000 was reported stolen from a residence in North Pole. Troopers record the report as vehicle theft in the first degree and theft in the second degree.",
+        "Troopers say they responded at about 10:26 a.m. on Nov. 18 and that the investigation is continuing. Nobody has been arrested or named as a suspect.",
+        "Alaska State Troopers case AK26113708."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 18",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "williamson-trespass-1118",
+      "date": "2026-11-18",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02304CR"
+      ],
+      "title": "Criminal trespass charge: Ahdalah Panikak Williamson",
+      "body": [
+        "Ahdalah Panikak Williamson is charged with criminal trespass in the second degree - entering or remaining unlawfully on premises - a Class B misdemeanor.",
+        "The offense is dated Nov. 18 at Fairbanks. The case was opened the same day on a complaint.",
+        "Case 4FA-26-02304CR; no court date is set. She is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "may-theft4-1118",
+      "date": "2026-09-16",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02305CR"
+      ],
+      "title": "Theft charge: Jesse Mae May",
+      "body": [
+        "Jesse Mae May is charged with theft in the fourth degree - taking property worth less than $250 - a Class B misdemeanor.",
+        "The offense is dated Sept. 16 at Fairbanks. The case was opened Nov. 17 and a summons was requested.",
+        "Case 4FA-26-02305CR. She is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "wright-dwlr-1118",
+      "date": "2026-11-14",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02310CR"
+      ],
+      "title": "Driving with a revoked license: Daniel Jay Wright",
+      "body": [
+        "Daniel Jay Wright is charged with driving with a license canceled, revoked or suspended following a previous conviction - driving after a conviction had already cost him his license - a Class A misdemeanor.",
+        "The offense is dated Nov. 14 at Fairbanks. The case was opened Nov. 17 on a citation.",
+        "Case 4FA-26-02310CR; next court date Dec. 22. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "franks-dwlr-1118",
+      "date": "2026-11-13",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02311CR"
+      ],
+      "title": "Driving with a revoked license: Breana Franks",
+      "body": [
+        "Breana Franks is charged with driving with a license canceled, revoked or suspended for a criminal offense - driving after a criminal conviction had cost her her license - a Class A misdemeanor.",
+        "The offense is dated Nov. 13 at Fairbanks. The case was opened Nov. 18 on a citation.",
+        "Case 4FA-26-02311CR; next court date Dec. 1. She is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "huber-permit-1118",
+      "date": "2026-11-13",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02309CR"
+      ],
+      "title": "Instruction permit violation: Brandon James Huber",
+      "body": [
+        "Brandon James Huber is charged with driving in violation of an instruction permit, recorded on the court file as a misdemeanor that is not classified.",
+        "The offense is dated Nov. 13 at Fairbanks. The case was opened Nov. 18 on a trooper charging document.",
+        "Case 4FA-26-02309CR; next court date Dec. 4. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "eureka-assault-1116",
+      "date": "2026-11-16",
+      "time": "23:35",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "26003491"
+      ],
+      "title": "Assault reported on Eureka Avenue",
+      "body": [
+        "Fairbanks Police recorded a report of assault at the 400 block of Eureka Avenue late on Nov. 16, with the offense window opening at 11:35 p.m. The report is logged as simple assault or other.",
+        "Nobody has been arrested or named. Fairbanks Police case 26003491, reported at 11:36 p.m."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 16",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
     {
       "id": "lodge-trespass-assault-1118",
       "date": "2026-11-18",
@@ -20,7 +231,7 @@
       "body": [
         "A man was arrested early Nov. 18 on allegations of criminal trespass and assault in the fourth degree, the charge for recklessly injuring someone. Troopers have not released his name.",
         "Troopers say they were called to Pike's Waterfront Lodge in Fairbanks at about 12:09 a.m. after hotel staff received several complaints of a man shouting in one of the rooms. They say they determined he had been barred from the property since June 30, 2015, and that he had assaulted security staff before troopers arrived. He was taken to the Fairbanks Correctional Center.",
-        "Alaska State Troopers case AK26113591. No case has been filed in court."
+        "Alaska State Troopers case AK26113591."
       ],
       "sources": [
         {
@@ -44,7 +255,7 @@
       "body": [
         "A driver was arrested on a charge of driving under the influence early Nov. 17 and troopers say charges are being forwarded to the District Attorney's Office. The driver has not been named.",
         "Troopers say they saw a vehicle being driven at night during snowfall with no headlights or taillights illuminated near the Mitchell Expressway and South University Avenue at about 4:37 a.m. and stopped it. They say the driver had a medical emergency during breath testing at the trooper post and was taken by Fire-Rescue to Fairbanks Memorial Hospital, that a blood warrant was obtained after consulting prosecutors, and that the driver was then released to medical care.",
-        "Alaska State Troopers case AK26113233. No case has been filed in court."
+        "Alaska State Troopers case AK26113233."
       ],
       "sources": [
         {
@@ -66,17 +277,17 @@
       "title": "Felony DUI charge: George M Goldy Sr",
       "body": [
         "George M Goldy Sr is charged with felony driving under the influence with two or more prior convictions - drunk driving by someone already convicted twice - a Class C felony, punishable by up to five years. He is also charged with driving with a license revoked for a criminal offense, a Class A misdemeanor, and with reckless driving.",
-        "The charges are dated Nov. 13 at North Pole. The case was opened on Nov. 14 with no charging document on file; the counts and their classes appear in the court's weekly filings report for Nov. 11 to Nov. 17.",
+        "The charges are dated Nov. 13 at North Pole.",
         "Case 4FA-26-02286CR; arraignment Nov. 20. He is charged, not convicted."
       ],
       "sources": [
         {
-          "label": "Alaska Court System, Criminal Cases Filed, Nov. 11-17",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
-        },
-        {
           "label": "Alaska CourtView",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Alaska Court System, Criminal Cases Filed, Nov. 11-17",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
         }
       ]
     }
@@ -103,6 +314,42 @@
     ],
     "new": [
       {
+        "case": "4FA-26-02308CR",
+        "defendant": "Geuea, Donald Lawrence",
+        "charges": "Two counts of sexual abuse of a minor in the second degree, sexual contact with a child under 13 (Class B felony each), both recorded domestic violence related. Offenses dated June 1, 2023 at North Pole",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02304CR",
+        "defendant": "Williamson, Ahdalah Panikak",
+        "charges": "Criminal trespass 2, upon premises (Class B misdemeanor). Offense dated Nov. 18 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02305CR",
+        "defendant": "May, Jesse Mae",
+        "charges": "Theft 4, property worth less than $250 (Class B misdemeanor). Offense dated Sept. 16 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02309CR",
+        "defendant": "Huber, Brandon James",
+        "charges": "Driving in violation of an instruction permit (misdemeanor, not classified). Offense dated Nov. 13 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02310CR",
+        "defendant": "Wright, Daniel Jay",
+        "charges": "Driving with license canceled, revoked or suspended after a previous conviction (Class A misdemeanor). Offense dated Nov. 14 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02311CR",
+        "defendant": "Franks, Breana",
+        "charges": "Driving with license canceled, revoked or suspended for a criminal offense (Class A misdemeanor). Offense dated Nov. 13 at Fairbanks",
+        "felony": false
+      },
+      {
         "case": "4FA-26-02286CR",
         "defendant": "Goldy Sr, George M",
         "charges": "Felony DUI, two or more prior convictions (Class C felony); driving with license revoked for a criminal offense (Class A misdemeanor); reckless driving. Offenses dated Nov. 13 at North Pole",
@@ -111,6 +358,66 @@
     ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02308CR",
+      "defendant": "Geuea, Donald Lawrence",
+      "status": "Open",
+      "level": "Class B felony x2",
+      "charges": "Two counts of sexual abuse of a minor 2, sexual contact with a child under 13, both domestic violence related. Offenses dated June 1, 2023 at North Pole",
+      "next": "Next event Nov. 25",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-18"
+    },
+    {
+      "case": "4FA-26-02311CR",
+      "defendant": "Franks, Breana",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with license revoked for a criminal offense. Offense dated Nov. 13 at Fairbanks",
+      "next": "Next event Dec. 1",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-18"
+    },
+    {
+      "case": "4FA-26-02310CR",
+      "defendant": "Wright, Daniel Jay",
+      "status": "Open",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with license revoked after a previous conviction. Offense dated Nov. 14 at Fairbanks",
+      "next": "Next event Dec. 22",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-18"
+    },
+    {
+      "case": "4FA-26-02309CR",
+      "defendant": "Huber, Brandon James",
+      "status": "Open",
+      "level": "Misdemeanor, not classified",
+      "charges": "Driving in violation of an instruction permit. Offense dated Nov. 13 at Fairbanks",
+      "next": "Next event Dec. 4",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-18"
+    },
+    {
+      "case": "4FA-26-02305CR",
+      "defendant": "May, Jesse Mae",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Theft 4, property worth less than $250. Offense dated Sept. 16 at Fairbanks",
+      "next": "Summons requested",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-02304CR",
+      "defendant": "Williamson, Ahdalah Panikak",
+      "status": "Open",
+      "level": "Class B misdemeanor",
+      "charges": "Criminal trespass 2, upon premises. Offense dated Nov. 18 at Fairbanks",
+      "next": "None set",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-18"
+    },
     {
       "case": "4FA-26-02303CR",
       "defendant": "Freling, Hunter Marshall",
@@ -179,7 +486,7 @@
       "charges": "Felony DUI, two or more prior convictions; driving with license revoked for a criminal offense; reckless driving. Offenses dated Nov. 13 at North Pole",
       "next": "Arraignment Nov. 20",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-14"
+      "last_docket": "2026-11-16"
     },
     {
       "case": "4FA-26-01857CR",
@@ -199,7 +506,7 @@
       "charges": "Three counts of misconduct involving a controlled substance 2, manufacture or delivery of methamphetamine, all indicted. Offenses dated April 21, June 24 and July 8",
       "next": "Calendar call Dec. 22; trial week Jan. 11, 2027",
       "judge": "Peterson, Earl A",
-      "last_docket": "2026-11-06"
+      "last_docket": "2026-11-17"
     },
     {
       "case": "4FA-26-01890CR",
@@ -209,7 +516,17 @@
       "charges": "Kidnapping with injury or sexual assault (indicted, North Pole), assault 4 and interfering with a report of a domestic violence crime (Fairbanks). All three flagged domestic violence related, dated Sept. 22",
       "next": "Calendar call Dec. 22; trial week Jan. 11, 2027",
       "judge": "Peterson, Earl A",
-      "last_docket": "2026-10-09"
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4NE-26-00095CR",
+      "defendant": "Hansen, Lillybeth Elyce",
+      "status": "Reopened",
+      "level": "Class C felony",
+      "charges": "Indicted. Offense location Denali National Park",
+      "next": "Next event Dec. 22",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-17"
     },
     {
       "case": "4DJ-26-00058CR",
@@ -219,7 +536,7 @@
       "charges": "DUI, blood alcohol .08 percent or more. Offense dated Sept. 26 at Delta Junction",
       "next": "Rural calendar call Jan. 19, 2027, Delta Junction courthouse",
       "judge": "Young, Yvette",
-      "last_docket": "2026-10-01"
+      "last_docket": "2026-11-17"
     },
     {
       "case": "4FA-24-02118CR",
@@ -250,6 +567,16 @@
       "next": "Omnibus Jan. 28, 2027; trial week Feb. 15, 2027",
       "judge": "Not assigned",
       "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4NE-24-00034CR",
+      "defendant": "Forness, Joseph Trygve",
+      "status": "Reopened",
+      "level": "Unclassified felony",
+      "charges": "Three counts, child victim",
+      "next": "Next event Dec. 3",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-04"
     },
     {
       "case": "4FA-26-01644CR",
