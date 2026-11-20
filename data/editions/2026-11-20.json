@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-20",
+  "compiled": "07:17 AKST",
+  "window": "Nov. 19-20, 2026",
+  "summary": "A woman was charged in a domestic assault at a Fairbanks-area home on Nov. 19 that troopers say took place in front of several children, and a Fairbanks driver arrested early Nov. 19 recorded a breath alcohol reading of .230 and has been charged with DUI. The Fairbanks court opened two criminal files on Nov. 19, and Fairbanks Police arrested two people on Thursday evening. The state's public court case database was unavailable on the morning of Nov. 20, so court dates and open-case records are omitted from this file rather than repeated from an earlier day; the two Nov. 19 court filings below are taken from the court system's weekly filings report. This revision replaces an earlier Nov. 20 file, compiled at 4:46 a.m., which reported that none of the records could be read.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "gallahorn-dv-assault-1119",
+      "date": "2026-11-19",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26114366"
+      ],
+      "title": "Domestic assault charges: Emeline Gallahorn",
+      "body": [
+        "Emeline Gallahorn is charged with assault in the fourth degree and eight counts of assault in the presence of a child, according to the Alaska State Troopers.",
+        "Troopers say they responded on Nov. 19 to a report of a domestic disturbance at a residence in the Fairbanks area, and that Gallahorn, who they say was intoxicated, assaulted an adult family member in the presence of several children under 16. Troopers say she was detained nearby and resisted detention.",
+        "Alaska State Troopers case AK26114366. No court file had been published for the arrest when this file was compiled. She is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 20",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "evon-dui-1119",
+      "date": "2026-11-19",
+      "time": "00:43",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26113894",
+        "4FA-26-02312CR"
+      ],
+      "title": "DUI charge: Raelene Carol Evon",
+      "body": [
+        "Raelene Carol Evon is charged with driving under the influence, a Class A misdemeanor. The court file records a breath alcohol concentration of .230.",
+        "Troopers say they stopped her vehicle in Fairbanks at about 12:43 a.m. on Nov. 19 after seeing it commit several traffic violations, and that she showed signs of alcohol impairment and said she had been drinking before driving.",
+        "Alaska State Troopers case AK26113894. Case 4FA-26-02312CR was opened Nov. 19. She is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 19",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska Court System, Criminal Cases Filed, Nov. 13-19",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cadzow-assault-theft-1119",
+      "date": "2026-11-09",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02313CR"
+      ],
+      "title": "Assault and theft charges: Tyler Jay Cadzow",
+      "body": [
+        "Tyler Jay Cadzow is charged with assault in the fourth degree - placing someone in fear of imminent injury - a Class A misdemeanor recorded as domestic violence related, and with theft in the fourth degree, property worth less than $250, a Class B misdemeanor.",
+        "Both charges are dated Nov. 9 at Fairbanks.",
+        "Case 4FA-26-02313CR was opened Nov. 19. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System, Criminal Cases Filed, Nov. 13-19",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "albert-assault-arrest-1119",
+      "date": "2026-11-19",
+      "time": "19:05",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003515"
+      ],
+      "title": "Assault arrest: Katrina Albert",
+      "body": [
+        "Katrina Albert, 28, was arrested on a charge of assault in the fourth degree - recklessly injuring someone - which police record as a misdemeanor.",
+        "Fairbanks Police say the arrest was made at the 2600 block of Gillam Way in Fairbanks on Nov. 19 at 7:05 p.m. Police case 26003515.",
+        "No court file had been published for the arrest when this file was compiled. She is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 19",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "akpik-disorderly-arrest-1119",
+      "date": "2026-11-19",
+      "time": "18:31",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003514"
+      ],
+      "title": "Disorderly conduct arrest: Ellis Mathew Akpik",
+      "body": [
+        "Ellis Mathew Akpik, 37, was arrested on a charge of disorderly conduct - creating a hazardous condition - which police record as a misdemeanor.",
+        "Fairbanks Police say the arrest was made at the 100 block of College Road in Fairbanks on Nov. 19 at 6:31 p.m. Police case 26003514.",
+        "No court file had been published for the arrest when this file was compiled. He is charged, not convicted."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 19",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Nov. 13-19, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 36
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 0
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 1
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-02312CR",
+        "defendant": "Evon, Raelene Carol",
+        "charges": "DUI (Class A misdemeanor), breath alcohol .230. Offense dated Nov. 19 at Fairbanks",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02313CR",
+        "defendant": "Cadzow, Tyler Jay",
+        "charges": "Assault 4, fear of injury (Class A misdemeanor), recorded domestic violence related; theft 4, property worth less than $250 (Class B misdemeanor). Offenses dated Nov. 9 at Fairbanks",
+        "felony": false
+      }
+    ]
+  },
+  "open_cases": [],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov"
+    },
+    {
+      "name": "Fairbanks Police daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska CourtView",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Court System weekly charges report",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System weekly dispositions report",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney's Office, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / WebCenter Fairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    },
+    {
+      "name": "Alaska's News Source",
+      "url": "https://www.alaskasnewssource.com/"
+    }
+  ]
+}
