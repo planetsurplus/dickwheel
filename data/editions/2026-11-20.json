@@ -1,8 +1,8 @@
 {
   "date": "2026-11-20",
-  "compiled": "07:17 AKST",
-  "window": "Nov. 19-20, 2026",
-  "summary": "A woman was charged in a domestic assault at a Fairbanks-area home on Nov. 19 that troopers say took place in front of several children, and a Fairbanks driver arrested early Nov. 19 recorded a breath alcohol reading of .230 and has been charged with DUI. The Fairbanks court opened two criminal files on Nov. 19, and Fairbanks Police arrested two people on Thursday evening. The state's public court case database was unavailable on the morning of Nov. 20, so court dates and open-case records are omitted from this file rather than repeated from an earlier day; the two Nov. 19 court filings below are taken from the court system's weekly filings report. This revision replaces an earlier Nov. 20 file, compiled at 4:46 a.m., which reported that none of the records could be read.",
+  "compiled": "07:38 AKST",
+  "window": "Nov. 9-20, 2026",
+  "summary": "A woman was charged in a domestic assault at a Fairbanks-area home on Nov. 19 that troopers say took place in front of several children, and a Fairbanks driver arrested early Nov. 19 recorded a breath alcohol reading of .230 and has been charged with DUI. The Fairbanks court opened two criminal files on Nov. 19, Fairbanks Police arrested two people on Thursday evening, and troopers charged a woman with theft over a reported shoplifting at a Fairbanks liquor store on Nov. 18. Wasilla police say they are investigating allegations of kidnapping and sexual assault involving students from two Fairbanks-area high school hockey teams, and both teams' seasons have been suspended.",
   "commentary": null,
   "entries": [
     {
@@ -17,9 +17,32 @@
       ],
       "title": "Domestic assault charges: Emeline Gallahorn",
       "body": [
-        "Emeline Gallahorn is charged with assault in the fourth degree and eight counts of assault in the presence of a child, according to the Alaska State Troopers.",
-        "Troopers say they responded on Nov. 19 to a report of a domestic disturbance at a residence in the Fairbanks area, and that Gallahorn, who they say was intoxicated, assaulted an adult family member in the presence of several children under 16. Troopers say she was detained nearby and resisted detention.",
-        "Alaska State Troopers case AK26114366. No court file had been published for the arrest when this file was compiled. She is charged, not convicted."
+        "Emeline Gallahorn is charged with assault in the fourth degree - recklessly injuring someone - and eight counts of assault committed in the presence of a child under 16, according to the Alaska State Troopers.",
+        "Troopers say they responded on Nov. 19 to a report of a domestic disturbance at a residence in the Fairbanks area, and that Gallahorn, who they say was intoxicated, assaulted an adult family member in the presence of several children. Troopers say she was detained nearby and resisted detention.",
+        "Alaska State Troopers case AK26114366."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 20",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "burgess-stine-theft-1118",
+      "date": "2026-11-18",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26113951"
+      ],
+      "title": "Theft charge: Tajhana Jaydeen Monique Burgess-Stine",
+      "body": [
+        "Tajhana Jaydeen Monique Burgess-Stine is charged with theft in the fourth degree - taking property worth less than $250 - according to the Alaska State Troopers.",
+        "Troopers say they investigated a reported shoplifting at the Oaken Keg in Fairbanks on Nov. 18, and that store management provided surveillance footage and witness statements. Troopers say the footage showed a bottle of vodka valued at $20.99 concealed inside a jacket and carried out of the store without being paid for.",
+        "Alaska State Troopers case AK26113951."
       ],
       "sources": [
         {
@@ -42,9 +65,9 @@
       ],
       "title": "DUI charge: Raelene Carol Evon",
       "body": [
-        "Raelene Carol Evon is charged with driving under the influence, a Class A misdemeanor. The court file records a breath alcohol concentration of .230.",
+        "Raelene Carol Evon is charged with driving under the influence of alcohol, a Class A misdemeanor. The court file records a breath alcohol concentration of .230.",
         "Troopers say they stopped her vehicle in Fairbanks at about 12:43 a.m. on Nov. 19 after seeing it commit several traffic violations, and that she showed signs of alcohol impairment and said she had been drinking before driving.",
-        "Alaska State Troopers case AK26113894. Case 4FA-26-02312CR was opened Nov. 19. She is charged, not convicted."
+        "Alaska State Troopers case AK26113894. Case 4FA-26-02312CR was opened at Fairbanks on Nov. 19."
       ],
       "sources": [
         {
@@ -70,8 +93,8 @@
       "title": "Assault and theft charges: Tyler Jay Cadzow",
       "body": [
         "Tyler Jay Cadzow is charged with assault in the fourth degree - placing someone in fear of imminent injury - a Class A misdemeanor recorded as domestic violence related, and with theft in the fourth degree, property worth less than $250, a Class B misdemeanor.",
-        "Both charges are dated Nov. 9 at Fairbanks.",
-        "Case 4FA-26-02313CR was opened Nov. 19. He is charged, not convicted."
+        "Both charges carry an offense date of Nov. 9 at Fairbanks.",
+        "Case 4FA-26-02313CR was opened Nov. 19."
       ],
       "sources": [
         {
@@ -94,8 +117,7 @@
       "title": "Assault arrest: Katrina Albert",
       "body": [
         "Katrina Albert, 28, was arrested on a charge of assault in the fourth degree - recklessly injuring someone - which police record as a misdemeanor.",
-        "Fairbanks Police say the arrest was made at the 2600 block of Gillam Way in Fairbanks on Nov. 19 at 7:05 p.m. Police case 26003515.",
-        "No court file had been published for the arrest when this file was compiled. She is charged, not convicted."
+        "Fairbanks Police say the arrest was made at the 2600 block of Gillam Way in Fairbanks on Nov. 19 at 7:05 p.m. Police case 26003515."
       ],
       "sources": [
         {
@@ -118,12 +140,56 @@
       "title": "Disorderly conduct arrest: Ellis Mathew Akpik",
       "body": [
         "Ellis Mathew Akpik, 37, was arrested on a charge of disorderly conduct - creating a hazardous condition - which police record as a misdemeanor.",
-        "Fairbanks Police say the arrest was made at the 100 block of College Road in Fairbanks on Nov. 19 at 6:31 p.m. Police case 26003514.",
-        "No court file had been published for the arrest when this file was compiled. He is charged, not convicted."
+        "Fairbanks Police say the arrest was made at the 100 block of College Road in Fairbanks on Nov. 19 at 6:31 p.m. Police case 26003514."
       ],
       "sources": [
         {
           "label": "Fairbanks Police daily bulletin, Nov. 19",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "hockey-investigation-1105",
+      "date": "2026-11-17",
+      "place": "Wasilla",
+      "agency": "Wasilla Police Department",
+      "category": "violent",
+      "severity": "other",
+      "cases": [],
+      "title": "Kidnapping and sexual assault investigation suspends hockey at two Fairbanks-area high schools",
+      "body": [
+        "Wasilla police say they are investigating allegations of kidnapping and sexual assault involving students from two Fairbanks-area high school hockey teams, and that they are looking at charging five people. No charge has been filed and no court file exists.",
+        "Police say the alleged incidents took place at a Wasilla hotel while the teams were in the Mat-Su for the Stars and Stripes tournament, which Palmer High School hosted from Nov. 5 to Nov. 7. A department spokesperson says two Wasilla detectives traveled to Fairbanks to conduct interviews.",
+        "The Fairbanks North Star Borough School District says the students are from North Pole High School and Lathrop High School, that it has begun its own investigation and is coordinating with law enforcement, and that all hockey activities involving the two teams are suspended as an interim safety measure rather than a disciplinary decision. The Alaska School Activities Association says it is aware of the investigation.",
+        "Everyone involved is a minor and no names have been released. The alleged offenses took place outside the Fairbanks area; the schools and the suspended seasons are in it."
+      ],
+      "sources": [
+        {
+          "label": "KTVF / KTUU, Nov. 17, updated Nov. 19",
+          "url": "https://www.webcenterfairbanks.com/news/crime/"
+        }
+      ]
+    },
+    {
+      "id": "merhar-hit-and-run-1116",
+      "date": "2026-11-16",
+      "time": "08:03",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "26003485"
+      ],
+      "title": "Hit and run reported on Merhar Avenue",
+      "body": [
+        "Fairbanks Police recorded a hit-and-run report at the 400 block of Merhar Avenue in Fairbanks, reported at 8:03 a.m. on Nov. 16. The report gives a window for the incident opening at 1 p.m. on Nov. 13.",
+        "Police case 26003485."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 16",
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         }
       ]
