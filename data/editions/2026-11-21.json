@@ -1,8 +1,8 @@
 {
   "date": "2026-11-21",
-  "compiled": "16:53 AKST",
+  "compiled": "17:26 AKST",
   "window": "Nov. 18-21, 2026",
-  "summary": "Alaska State Troopers charged a Fairbanks man with drink-driving and driving on a revoked license after a Nov. 20 traffic stop, and the Fairbanks court opened a Class C felony weapons case against a Fairbanks woman that no police agency has publicly described. Troopers also reported a second drink-driving arrest near Peger and Davis roads, a warrant arrest at Mile 269 of the Parks Highway, and the arrest of a juvenile for drink-driving near North Pole. Seven charges, one of assault in the fourth degree and six of assault when a child is present, were filed against a Fairbanks woman over a Nov. 19 domestic disturbance. The court filing counts below are the weekly charges report's own counts for the week ending Nov. 20; the Fairbanks court has since opened four further files, numbered 4FA-26-02320CR to 4FA-26-02323CR, which that report does not cover.",
+  "summary": "Alaska State Troopers charged a Fairbanks man with drink-driving and driving on a revoked license after a Nov. 20 traffic stop, and the Fairbanks court opened a Class C felony weapons case against a Fairbanks woman that no police agency has publicly described. Troopers also reported a second drink-driving arrest near Peger and Davis roads, a warrant arrest at Mile 269 of the Parks Highway, and the arrest of a juvenile for drink-driving near North Pole. Seven charges, one of assault in the fourth degree and six of assault when a child is present, were filed against a Fairbanks woman over a Nov. 19 domestic disturbance. In an older Fairbanks drug case, prosecutors filed notice on Nov. 20 that they will seek a sentence above the usual range. The court filing counts below are the weekly charges report's own counts for the week ending Nov. 20; the Fairbanks court has since opened four further files, numbered 4FA-26-02320CR to 4FA-26-02323CR, which that report does not cover.",
   "commentary": null,
   "entries": [
     {
@@ -17,8 +17,8 @@
       ],
       "title": "Felony weapons charge: Angela Lynn Kavirran Petrick",
       "body": [
-        "Angela Lynn Kavirran Petrick is charged with misconduct involving weapons in the third degree - possessing a concealable firearm in the home of a known felon - a Class C felony, punishable by up to five years.",
-        "The offense is recorded as having happened at Fairbanks on Nov. 20. No police or trooper account of the arrest has been published.",
+        "Angela Lynn Kavirran Petrick is charged with misconduct involving weapons in the third degree - a convicted felon living in a home where a concealable firearm is kept - a Class C felony, punishable by up to five years.",
+        "The offense is recorded as having happened at Fairbanks on Nov. 20.",
         "Case 4FA-26-02322CR, filed Nov. 21. Next court date Dec. 1."
       ],
       "sources": [
@@ -210,6 +210,29 @@
       ]
     },
     {
+      "id": "burks-aggravators",
+      "date": "2026-11-20",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01826CR"
+      ],
+      "title": "Drug felony case: prosecutors to seek longer sentence against Joshua Jon Burks",
+      "body": [
+        "Joshua Jon Burks is charged with misconduct involving a controlled substance in the third degree - manufacturing or delivering a controlled substance - a Class B felony, punishable by up to 10 years. The offense is recorded as having happened at Fairbanks on Sept. 16. He was indicted on Sept. 24, and a second count of the same charge was dismissed by the prosecution five days later.",
+        "On Nov. 20 the State filed a notice of expert testimony and two notices of aggravating factors - findings that, if made, would allow a sentence above the usual range for the charge. One is to be put to a jury and one to the judge. The file does not state what the factors are.",
+        "Case 4FA-26-01826CR. Omnibus hearing Jan. 21, 2027; trial week Feb. 8, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
       "id": "kunayak-assault",
       "date": "2026-11-19",
       "time": "12:00",
@@ -385,7 +408,7 @@
       {
         "case": "4FA-26-02322CR",
         "defendant": "Petrick, Angela Lynn Kavirran",
-        "charges": "Misconduct involving weapons 3, concealable firearm in the home of a known felon (Class C felony)",
+        "charges": "Misconduct involving weapons 3, a convicted felon living where a concealable firearm is kept (Class C felony)",
         "felony": true
       },
       {
@@ -400,10 +423,10 @@
     {
       "case": "4FA-26-01826CR",
       "defendant": "Burks, Joshua Jon",
-      "level": "",
-      "charges": "",
+      "level": "Class B felony",
+      "charges": "Misconduct involving a controlled substance in the third degree, manufacture or delivery",
       "next": "Jan. 21, 2027",
-      "judge": "",
+      "judge": "Welch",
       "last_docket": "2026-11-20"
     },
     {
@@ -421,25 +444,25 @@
       "level": "",
       "charges": "Fugitive from justice proceedings",
       "next": "Dec. 15, 2026",
-      "judge": "",
+      "judge": "Seekins",
       "last_docket": "2026-11-17"
     },
     {
       "case": "4FA-26-01818CR",
       "defendant": "Ostlund, William Bruce",
-      "level": "",
-      "charges": "",
+      "level": "Class A felony",
+      "charges": "Three counts of misconduct involving a controlled substance in the second degree",
       "next": "Dec. 22, 2026",
-      "judge": "",
+      "judge": "Peterson",
       "last_docket": "2026-11-17"
     },
     {
       "case": "4FA-26-01890CR",
       "defendant": "Claxton, Dante Nathaniel Larry",
       "level": "Unclassified felony",
-      "charges": "Kidnapping",
+      "charges": "Kidnapping, with two domestic violence related misdemeanor counts",
       "next": "Dec. 22, 2026",
-      "judge": "",
+      "judge": "Peterson",
       "last_docket": "2026-11-17"
     },
     {
@@ -448,32 +471,32 @@
       "level": "",
       "charges": "",
       "next": "Dec. 22, 2026",
-      "judge": "",
+      "judge": "Peterson",
       "last_docket": "2026-11-17"
     },
     {
       "case": "4DJ-26-00058CR",
       "defendant": "Parlin, Sara Mae",
-      "level": "",
-      "charges": "",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence",
       "next": "Jan. 19, 2027",
-      "judge": "",
+      "judge": "Young",
       "last_docket": "2026-11-17"
     },
     {
       "case": "4FA-24-02118CR",
       "defendant": "Sarten, Cedar Mae",
-      "level": "",
-      "charges": "",
+      "level": "Unclassified felony",
+      "charges": "Murder counts; sentencing pending",
       "next": "Jan. 29, 2027",
-      "judge": "",
+      "judge": "Bennett",
       "last_docket": "2026-11-09"
     },
     {
       "case": "4FA-26-01896CR",
       "defendant": "Moff, Amanda Elizabeth",
-      "level": "",
-      "charges": "",
+      "level": "Class C felony",
+      "charges": "Tampering with physical evidence",
       "next": "Jan. 28, 2027",
       "judge": "",
       "last_docket": "2026-11-05"
@@ -484,16 +507,16 @@
       "level": "",
       "charges": "",
       "next": "Dec. 3, 2026",
-      "judge": "",
+      "judge": "Schwalm",
       "last_docket": "2026-11-04"
     },
     {
       "case": "4FA-26-01644CR",
       "defendant": "Rudolph-Munro, Cody Steven",
       "level": "",
-      "charges": "",
+      "charges": "Case resolved and closed Oct. 14",
       "next": "",
-      "judge": "",
+      "judge": "Seekins",
       "last_docket": "2026-10-14"
     },
     {
@@ -502,7 +525,7 @@
       "level": "",
       "charges": "Murder charge dismissed on a finding of incompetence to stand trial; case closed",
       "next": "",
-      "judge": "",
+      "judge": "Bennett",
       "last_docket": "2026-10-09"
     }
   ],
