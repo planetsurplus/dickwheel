@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-22",
+  "compiled": "03:34 AKST",
+  "window": "Nov. 21-22, 2026",
+  "summary": "Alaska State Troopers report a domestic violence arrest in the Goldstream area north of Fairbanks on Saturday night and criminal summonses after a traffic stop on the Richardson Highway. Fairbanks Police report two trespass arrests at the same block of South University Avenue on Saturday afternoon. Nothing has been reported for Sunday by either agency. The Alaska Court System's weekly charges report for Nov. 15-21 lists 36 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; two of the Fairbanks case numbers it prints, 4FA-26-02316CR and 4FA-26-02317CR, cannot be retrieved from the court's public case database by number or by name.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "goldstream-dv-nov21",
+      "date": "2026-11-21",
+      "time": "21:03",
+      "place": "Goldstream",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26114935"
+      ],
+      "title": "Domestic violence arrest near Goldstream",
+      "body": [
+        "A man was arrested on domestic violence charges at a residence in the Goldstream area north of Fairbanks on the evening of Nov. 21 and was remanded to the Fairbanks Correctional Center. Troopers have not released his name.",
+        "Troopers say they were called to the residence at about 9:03 p.m. for a report of a domestic violence assault and that their investigation found the man had committed multiple domestic violence crimes. No court file carrying these charges had been opened as of Sunday morning. Trooper case AK26114935."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 21",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=11/21/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "richardson-dwlr-nov21",
+      "date": "2026-11-21",
+      "place": "Richardson Highway, Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26114750"
+      ],
+      "title": "Driving on a revoked license: summonses after Richardson Highway stop",
+      "body": [
+        "A driver was issued criminal summonses for driving while license revoked and for failing to install a court-ordered ignition interlock device after a traffic stop on the Richardson Highway near the Badger Road 1 exit on Nov. 21. Troopers have not released the driver's name. Driving while license revoked means operating a vehicle after a court or the state has taken the license away.",
+        "Troopers say they stopped the vehicle after observing it travel 73 mph in a 60 mph zone, that the license was revoked, that the required interlock device had not been installed, and that no proof of insurance was produced. The vehicle was released to a licensed driver. A summons requires a court appearance; no arrest was made. Trooper case AK26114750."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 21",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=11/21/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "mayo-trespass-nov21",
+      "date": "2026-11-21",
+      "time": "15:30",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003536"
+      ],
+      "title": "Trespass arrest: Frederick Trent Mayo",
+      "body": [
+        "Frederick Trent Mayo, 56, was arrested on charges of criminal trespass in the second degree and violating a condition of release, both recorded by police as misdemeanors. Criminal trespass in the second degree means entering or remaining unlawfully on premises.",
+        "1300 block of South University Avenue, Fairbanks, Nov. 21 at 3:30 p.m.; Fairbanks Police. Case 26003536. No court file carrying these charges had been opened as of Sunday morning."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "bidwell-trespass-nov21",
+      "date": "2026-11-21",
+      "time": "14:01",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003535"
+      ],
+      "title": "Trespass arrest: Timothy Royal Bidwell",
+      "body": [
+        "Timothy Royal Bidwell, 50, was arrested on charges of criminal trespass in the second degree and violating a condition of release, both recorded by police as misdemeanors. Criminal trespass in the second degree means entering or remaining unlawfully on premises.",
+        "1300 block of South University Avenue, Fairbanks, Nov. 21 at 2:01 p.m.; Fairbanks Police. Case 26003535. No court file carrying these charges had been opened as of Sunday morning."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Nov. 15-21, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 36
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 0
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 0
+      }
+    ],
+    "new": []
+  },
+  "open_cases": [
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "Class B felony",
+      "charges": "Misconduct involving a controlled substance in the third degree, manufacture or delivery of methamphetamine; one indicted count.",
+      "next": "Omnibus hearing Jan. 21, 2027; trial week Feb. 8, 2027",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-20"
+    },
+    {
+      "case": "4FA-26-02308CR",
+      "defendant": "Geuea, Donald Lawrence",
+      "level": "Class B felony (two counts)",
+      "charges": "Two counts of sexual abuse of a minor in the second degree, sexual contact with a victim under 13; both flagged domestic violence related. Offense location North Pole.",
+      "next": "Preliminary hearing Nov. 25, 2026",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-18"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "Other",
+      "charges": "Arrest prior to requisition, fugitive from justice; one count. Offense location Fort Wainwright.",
+      "next": "Fugitive from justice hearing Dec. 15, 2026",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "Class A felony (three counts)",
+      "charges": "Three indicted counts of misconduct involving a controlled substance in the second degree, manufacture or delivery of methamphetamine.",
+      "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping, plus further counts.",
+      "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4NE-26-00095CR",
+      "defendant": "Hansen, Lillybeth Elyce",
+      "level": "Felony",
+      "charges": "Driving under the influence with prior convictions; three counts on the file.",
+      "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4DJ-26-00058CR",
+      "defendant": "Parlin, Sara Mae",
+      "level": "Misdemeanor",
+      "charges": "Misdemeanor case at the Delta Junction court.",
+      "next": "Calendar call continued to Jan. 19, 2027",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "Unclassified felony",
+      "charges": "Murder counts indicted in 2024, one of them dismissed by the prosecution in June 2026; all flagged domestic violence related. Convicted and awaiting sentencing.",
+      "next": "Sentencing Jan. 29, 2027",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony",
+      "charges": "One indicted count of tampering with physical evidence to prevent a proceeding.",
+      "next": "Omnibus hearing Jan. 28, 2027; trial week Feb. 15, 2027",
+      "judge": "Not assigned",
+      "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4NE-24-00034CR",
+      "defendant": "Forness, Joseph Trygve",
+      "level": "Felony",
+      "charges": "The court record states counts involving a child complainant; nothing beyond the counts is reproduced.",
+      "next": "Status hearing Dec. 3, 2026",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-11-04"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "Class C felony",
+      "charges": "Assault in the third degree with four further counts, several flagged domestic violence related; offense location North Pole. Resolved by guilty plea Oct. 14, 2026 and the case closed.",
+      "next": "No event set; case closed",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "level": "Unclassified felony",
+      "charges": "Murder in the first degree, indicted. The charge was dismissed and the case closed on Oct. 9, 2026 on a finding that the defendant was incompetent to stand trial.",
+      "next": "No event set; case closed",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-09"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov/"
+    },
+    {
+      "name": "Fairbanks Police Department daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska Court System weekly criminal charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System weekly criminal cases disposed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska CourtView public case records",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / webcenterfairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    }
+  ]
+}
