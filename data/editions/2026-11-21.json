@@ -1,33 +1,511 @@
 {
   "date": "2026-11-21",
-  "compiled": "04:43 AKST",
-  "window": "Nov. 21, 2026",
-  "summary": "The crime and court records that this report is built from could not be read on Nov. 21. The Alaska State Troopers daily dispatch, the Fairbanks Police daily bulletin, Alaska CourtView and the Alaska Court System's weekly charges and dispositions reports were all unreachable, and the Fairbanks Daily News-Miner public safety report could not be retrieved. The U.S. Attorney's Office index for the District of Alaska, the Alaska Department of Law press index and the KTVF crime index were checked and carry no new item from the Fairbanks area. No arrests, charges or court filings are reported for Nov. 21, and no figure from an earlier day is repeated here as though it were Nov. 21's. Court filings and open cases were last read on Nov. 20 and are left empty on this file rather than carried forward.",
+  "compiled": "16:53 AKST",
+  "window": "Nov. 18-21, 2026",
+  "summary": "Alaska State Troopers charged a Fairbanks man with drink-driving and driving on a revoked license after a Nov. 20 traffic stop, and the Fairbanks court opened a Class C felony weapons case against a Fairbanks woman that no police agency has publicly described. Troopers also reported a second drink-driving arrest near Peger and Davis roads, a warrant arrest at Mile 269 of the Parks Highway, and the arrest of a juvenile for drink-driving near North Pole. Seven charges, one of assault in the fourth degree and six of assault when a child is present, were filed against a Fairbanks woman over a Nov. 19 domestic disturbance. The court filing counts below are the weekly charges report's own counts for the week ending Nov. 20; the Fairbanks court has since opened four further files, numbered 4FA-26-02320CR to 4FA-26-02323CR, which that report does not cover.",
   "commentary": null,
   "entries": [
     {
-      "id": "records-unread-1121",
+      "id": "petrick-weapons",
       "date": "2026-11-21",
       "place": "Fairbanks",
-      "agency": "None",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02322CR"
+      ],
+      "title": "Felony weapons charge: Angela Lynn Kavirran Petrick",
+      "body": [
+        "Angela Lynn Kavirran Petrick is charged with misconduct involving weapons in the third degree - possessing a concealable firearm in the home of a known felon - a Class C felony, punishable by up to five years.",
+        "The offense is recorded as having happened at Fairbanks on Nov. 20. No police or trooper account of the arrest has been published.",
+        "Case 4FA-26-02322CR, filed Nov. 21. Next court date Dec. 1."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "kokrine-dui",
+      "date": "2026-11-20",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02323CR"
+      ],
+      "title": "DUI arrest: Jordon Kokrine",
+      "body": [
+        "Jordon Joseph Kokrine is charged with driving under the influence with a breath or blood alcohol level of .08 or more, and with driving after a previous conviction for driving on a revoked license. The court records both as Class A misdemeanors.",
+        "Troopers say they stopped his vehicle in Fairbanks on Nov. 20 for an inoperable taillight, that he showed signs of alcohol impairment and said he had been drinking before driving, that open alcohol containers were found in the vehicle, and that a breath test at the Fairbanks trooper post returned 0.122.",
+        "Case 4FA-26-02323CR, filed Nov. 21. Next court date Jan. 14, 2027."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 21",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "gomez-dui",
+      "date": "2026-11-20",
+      "time": "17:54",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02320CR"
+      ],
+      "title": "DUI arrest: Felipe Gomez",
+      "body": [
+        "Felipe Soto Gomez was arrested on a charge of driving under the influence. The court file carries no charge yet, so no charge class is stated.",
+        "Troopers say they stopped him near Peger Road and Davis Road in Fairbanks at about 5:54 p.m. on Nov. 20 after he nearly struck a trooper vehicle and hit a street sign, that he showed several indicators of alcohol impairment, and that he gave a breath sample of 0.247 at the trooper post.",
+        "Case 4FA-26-02320CR, filed Nov. 21. Next court date Nov. 27."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 20",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "folger-trespass",
+      "date": "2026-11-20",
+      "time": "23:19",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
       "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02321CR",
+        "26003530"
+      ],
+      "title": "Trespass arrest: Florence Delores Folger",
+      "body": [
+        "Florence Delores Folger, 69, was arrested on a charge of criminal trespass in the second degree - entering or remaining unlawfully on another person's premises - a Class B misdemeanor.",
+        "1600 block of East Cowles Street, Fairbanks, Nov. 20 at 11:19 p.m.; Fairbanks Police. Police case 26003530.",
+        "Case 4FA-26-02321CR, filed Nov. 21. Next court date Nov. 27."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Nov. 20",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "pugach-warrant",
+      "date": "2026-11-20",
+      "time": "19:30",
+      "place": "Mile 269 Parks Highway",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [],
+      "title": "Warrant arrest on the Parks Highway: Roman Pugach",
+      "body": [
+        "Roman Pugach, 39, of Wasilla, was arrested on an outstanding $250 misdemeanor warrant for theft in the third degree.",
+        "Troopers say they were conducting a traffic stop at Mile 269 of the Parks Highway at about 7:30 p.m. on Nov. 20 when a second vehicle stopped at the same place because its driver knew the driver of the first, and that the second driver was found to have the warrant.",
+        "He was remanded to Fairbanks Correctional Center. Mile 269 lies between Healy and Nenana."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 20",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "juvenile-dui-north-pole",
+      "date": "2026-11-21",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
       "severity": "other",
       "cases": [],
-      "title": "The day's crime and court records could not be read",
+      "title": "DUI arrest of a juvenile near North Pole",
       "body": [
-        "The records this report draws on could not be read on Nov. 21. The Alaska State Troopers daily dispatch, the Fairbanks Police daily bulletin, Alaska CourtView and the Alaska Court System's weekly charges and dispositions reports were all unreachable, and the Fairbanks Daily News-Miner public safety report could not be retrieved.",
-        "The U.S. Attorney's Office index for the District of Alaska, the Alaska Department of Law press index and the KTVF crime index were checked. None carries an item from the Fairbanks area that this report has not already published.",
-        "No arrests, charges or court filings are reported for Nov. 21. A record that could not be read returns nothing rather than zero, and no count from an earlier day appears on this file as Nov. 21's."
+        "A juvenile was arrested on a charge of driving under the influence. Juveniles are not named in this report.",
+        "Troopers say they responded to the North Pole area on Nov. 21 on a report of a driver suspected of being impaired, that the driver was a juvenile found to be under the influence of alcohol, and that the juvenile was released to a guardian after the arrest."
       ],
-      "sources": []
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 21",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        }
+      ]
+    },
+    {
+      "id": "batten-reckless",
+      "date": "2026-11-18",
+      "time": "08:32",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02306CR"
+      ],
+      "title": "Reckless driving and school bus charges: Dylan Batten",
+      "body": [
+        "Dylan Batten, 18, of Fairbanks is charged with reckless driving, which the court records without a classification, and with failing to stop for a school bus, a Class B misdemeanor.",
+        "Troopers say they took multiple calls in Fairbanks at 8:32 a.m. on Nov. 18 about a vehicle driving into oncoming traffic and passing several school buses whose stop signs were out, and that they located the vehicle and arrested the driver.",
+        "Case 4FA-26-02306CR, filed Nov. 18. Next court date Nov. 24."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 21",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "gallahorn-dv",
+      "date": "2026-11-19",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02319CR"
+      ],
+      "title": "Domestic violence assault charges: Emeline Janice Gallahorn",
+      "body": [
+        "Emeline Janice Gallahorn is charged with assault in the fourth degree - recklessly causing physical injury to another person - and with six counts of assault when a child is present. The court records all seven counts as Class A misdemeanors and flags all seven as domestic violence related.",
+        "Troopers say they responded to a report of a domestic disturbance at a residence in the Fairbanks area on Nov. 19, that she assaulted an adult family member in the presence of several children, and that she was detained nearby.",
+        "Case 4FA-26-02319CR, filed Nov. 20. Next court date Jan. 14, 2027."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 20",
+          "url": "https://dailydispatch.dps.alaska.gov"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "kunayak-assault",
+      "date": "2026-11-19",
+      "time": "12:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003190"
+      ],
+      "title": "Assault arrest: Victor William Kunayak",
+      "body": [
+        "Victor William Kunayak, 18, was arrested on two counts of assault in the fourth degree - one of recklessly causing physical injury, one of placing another person in fear of imminent injury - both recorded by police as misdemeanors.",
+        "100 block of Lacey Street, Fairbanks, Nov. 19 at noon; Fairbanks Police. Police case 26003190.",
+        "No court file has been opened under this name at Fairbanks."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Nov. 19",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "akpik-disorderly",
+      "date": "2026-11-19",
+      "time": "18:31",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02314CR",
+        "26003514"
+      ],
+      "title": "Disorderly conduct charge: Ellis Mathew Akpik",
+      "body": [
+        "Ellis Mathew Akpik, 37, is charged with disorderly conduct - creating a hazardous condition for others - a Class B misdemeanor.",
+        "100 block of College Road, Fairbanks, Nov. 19 at 6:31 p.m.; Fairbanks Police. Police case 26003514.",
+        "Case 4FA-26-02314CR, filed Nov. 20."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Nov. 19",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska Court System weekly charges report",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "quiroga-dui",
+      "date": "2026-11-19",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02315CR"
+      ],
+      "title": "DUI charge: Alfredo Quiroga",
+      "body": [
+        "Alfredo Quiroga is charged with driving under the influence, a Class A misdemeanor. The court file records a breath or blood alcohol level of .101.",
+        "The offense is recorded as having happened at Fairbanks on Nov. 19.",
+        "Case 4FA-26-02315CR, filed Nov. 20."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly charges report",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        },
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "nukapigak-vcor",
+      "date": "2026-11-19",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02318CR"
+      ],
+      "title": "Bail violation charges: Justice Elijah Nukapigak",
+      "body": [
+        "Justice Elijah Nukapigak is charged with three counts of violating conditions of release - breaking a condition of release set in a misdemeanor case - all Class B misdemeanors.",
+        "The offenses are recorded as having happened at Fairbanks on Nov. 19.",
+        "Case 4FA-26-02318CR, filed Nov. 20. Next court date Jan. 7, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
     }
   ],
   "filings": {
-    "window": null,
-    "courts": [],
-    "new": []
+    "window": "Nov. 14-20, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 35
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 0
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 0
+      }
+    ],
+    "new": [
+      {
+        "case": "4FA-26-02314CR",
+        "defendant": "Akpik, Ellis Mathew",
+        "charges": "Disorderly conduct, creating a hazardous condition (Class B misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02315CR",
+        "defendant": "Quiroga, Alfredo",
+        "charges": "Driving under the influence (Class A misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02316CR",
+        "defendant": "Albert, Katrina",
+        "charges": "Charging document pending; no charge stated",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02317CR",
+        "defendant": "Smoke, Arlo Charles Leroy",
+        "charges": "Charging document pending; no charge stated",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02318CR",
+        "defendant": "Nukapigak, Justice Elijah",
+        "charges": "Three counts of violating conditions of release (Class B misdemeanors)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02319CR",
+        "defendant": "Gallahorn, Emeline Janice",
+        "charges": "Assault 4 and six counts of assault when a child is present, all domestic violence related (Class A misdemeanors)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02320CR",
+        "defendant": "Gomez, Felipe Soto",
+        "charges": "Charging document pending; arrested on a DUI charge",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02321CR",
+        "defendant": "Folger, Florence Delores",
+        "charges": "Criminal trespass 2 (Class B misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02322CR",
+        "defendant": "Petrick, Angela Lynn Kavirran",
+        "charges": "Misconduct involving weapons 3, concealable firearm in the home of a known felon (Class C felony)",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02323CR",
+        "defendant": "Kokrine, Jordon Joseph",
+        "charges": "DUI with a breath or blood alcohol level of .08 or more, and driving on a revoked license after a previous conviction (Class A misdemeanors)",
+        "felony": false
+      }
+    ]
   },
-  "open_cases": [],
+  "open_cases": [
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "",
+      "charges": "",
+      "next": "Jan. 21, 2027",
+      "judge": "",
+      "last_docket": "2026-11-20"
+    },
+    {
+      "case": "4FA-26-02308CR",
+      "defendant": "Geuea, Donald Lawrence",
+      "level": "Class B felony",
+      "charges": "Two counts of sexual abuse of a minor in the second degree, domestic violence related",
+      "next": "Nov. 25, 2026",
+      "judge": "Welch",
+      "last_docket": "2026-11-18"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "",
+      "charges": "Fugitive from justice proceedings",
+      "next": "Dec. 15, 2026",
+      "judge": "",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "",
+      "charges": "",
+      "next": "Dec. 22, 2026",
+      "judge": "",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping",
+      "next": "Dec. 22, 2026",
+      "judge": "",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4NE-26-00095CR",
+      "defendant": "Hansen, Lillybeth Elyce",
+      "level": "",
+      "charges": "",
+      "next": "Dec. 22, 2026",
+      "judge": "",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4DJ-26-00058CR",
+      "defendant": "Parlin, Sara Mae",
+      "level": "",
+      "charges": "",
+      "next": "Jan. 19, 2027",
+      "judge": "",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "",
+      "charges": "",
+      "next": "Jan. 29, 2027",
+      "judge": "",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "",
+      "charges": "",
+      "next": "Jan. 28, 2027",
+      "judge": "",
+      "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4NE-24-00034CR",
+      "defendant": "Forness, Joseph Trygve",
+      "level": "",
+      "charges": "",
+      "next": "Dec. 3, 2026",
+      "judge": "",
+      "last_docket": "2026-11-04"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "",
+      "charges": "",
+      "next": "",
+      "judge": "",
+      "last_docket": "2026-10-14"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "level": "",
+      "charges": "Murder charge dismissed on a finding of incompetence to stand trial; case closed",
+      "next": "",
+      "judge": "",
+      "last_docket": "2026-10-09"
+    }
+  ],
   "sources": [
     {
       "name": "Alaska State Troopers daily dispatch",
