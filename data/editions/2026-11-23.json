@@ -1,0 +1,609 @@
+{
+  "date": "2026-11-23",
+  "compiled": "05:11 AKST",
+  "window": "Nov. 16-23, 2026",
+  "summary": "The Alaska Court System's weekly dispositions report, re-run early Monday, records 42 Interior criminal cases closed between Nov. 16 and Nov. 20: a third-degree assault charge dismissed by prosecutors a day after it was filed, a second-degree robbery count dismissed, convictions entered at Fairbanks for felony assault, DUI and reckless driving, and three Fairbanks case numbers closed without any charge ever being filed. Alaska State Troopers report two DUI arrests in the Fairbanks area over the weekend and a vehicle collision on Farmer's Loop Road, and Fairbanks Police report four arrests on Sunday. The court's weekly charges report for Nov. 16-22 lists 39 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "waters-assault3-dismissed",
+      "date": "2026-11-17",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02301CR"
+      ],
+      "title": "Felony assault charge dismissed: Jerald Curtis Waters",
+      "body": [
+        "A charge of assault in the third degree against Jerald Curtis Waters was dismissed by prosecutors on Nov. 17, the day after the case was opened at Fairbanks. The single count alleged placing another person in fear of imminent injury with a weapon. The offense date was Nov. 16 at Fairbanks.",
+        "Case 4FA-26-02301CR. The court record states the dismissal was by the prosecution and gives no further reason."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tritt-robbery2-dismissed",
+      "date": "2026-11-19",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02293CR"
+      ],
+      "title": "Robbery charge dismissed: Michael Aaron Tritt",
+      "body": [
+        "Two charges against Michael Aaron Tritt were dismissed by prosecutors on Nov. 19: robbery in the second degree, taking property by using force to prevent resistance, and assault in the fourth degree, recklessly injuring another person. The offense date was Nov. 14 at Fairbanks.",
+        "Case 4FA-26-02293CR. Both counts were dismissed by the prosecution."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "brower-assault3-convicted",
+      "date": "2026-11-18",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-01519CR"
+      ],
+      "title": "Felony assault conviction: Tupaarnaq Rosing Olsen Brower",
+      "body": [
+        "Tupaarnaq Rosing Olsen Brower was convicted on Nov. 18 after a guilty plea to assault in the third degree, committing a fourth-degree assault having two or more prior convictions. The offense date was Aug. 9 at Fairbanks.",
+        "Two further counts on the same file, disorderly conduct and violating conditions of release, were dismissed by the prosecution. Case 4FA-26-01519CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "copeland-dui-convicted",
+      "date": "2026-11-19",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-01842CR"
+      ],
+      "title": "DUI conviction: Michael R. Copeland",
+      "body": [
+        "Michael R. Copeland was convicted on Nov. 19 after a guilty plea to driving under the influence with a blood alcohol level of .08 or more and to failing to stop at the direction of a police officer. The offense date was Sept. 18 at Fairbanks.",
+        "A reckless driving count on the same file was dismissed by the prosecution. Case 4FA-26-01842CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ruggles-reckless-convicted",
+      "date": "2026-11-18",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-25-02021CR"
+      ],
+      "title": "Reckless driving and weapons conviction: Lori Renae Ruggles",
+      "body": [
+        "Lori Renae Ruggles was convicted on Nov. 18 after a guilty plea to reckless driving and to misconduct involving weapons in the fourth degree, possessing a weapon while intoxicated. The offense date was Oct. 13, 2025 at Fairbanks.",
+        "Case 4FA-25-02021CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "sarten-cases-closed",
+      "date": "2026-11-20",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02009CR",
+        "4FA-26-02029CR",
+        "4FA-26-02036CR",
+        "4FA-26-02072CR",
+        "4FA-26-02106CR"
+      ],
+      "title": "Five cases closed, two convictions: Ishi Santana Sarten",
+      "body": [
+        "Five Fairbanks criminal cases against Ishi Santana Sarten were closed on Nov. 20. Two ended in convictions after guilty pleas: one count of criminal trespass in the second degree, entering or remaining unlawfully on premises, and one count of indecent exposure in the second degree, which the court records as a Class B misdemeanor.",
+        "Three further counts of criminal trespass in the second degree were dismissed under a plea agreement in another case. The five offense dates run from Oct. 3 to Oct. 17 at Fairbanks."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "moore-protective-order-dismissed",
+      "date": "2026-11-19",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-00954CR",
+        "4FA-26-01001CR"
+      ],
+      "title": "Protective order charges dismissed: Brandon Moore",
+      "body": [
+        "Two Fairbanks cases against Brandon Moore were closed on Nov. 19. All three counts of violating a domestic violence protective order were dismissed in the furtherance of justice. The offense dates were April 25 and May 31 at Fairbanks.",
+        "Cases 4FA-26-00954CR and 4FA-26-01001CR. Nothing identifying any protected person appears in the court record published here."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "three-cases-no-charges-filed",
+      "date": "2026-11-20",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02307CR",
+        "4FA-26-02316CR",
+        "4FA-26-02317CR"
+      ],
+      "title": "Three Fairbanks cases closed with no charges filed",
+      "body": [
+        "Three criminal case numbers opened at the Fairbanks court in mid-November were closed without any charging document being filed, so no charge was ever brought in any of them. Each file carries a single entry recording a charging document pending or not filed.",
+        "4FA-26-02307CR, State of Alaska vs. Shay Pitka, offense date Nov. 18, closed Nov. 18. 4FA-26-02316CR, State of Alaska vs. Katrina Albert, offense date Nov. 19, closed Nov. 20. 4FA-26-02317CR, State of Alaska vs. Arlo Charles Leroy Smoke, offense date Nov. 19, closed Nov. 20.",
+        "None of the three is charged with an offense on the face of the court record, and none is convicted of one."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "chisholm-nenana-convicted",
+      "date": "2026-11-19",
+      "place": "Nenana",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4NE-26-00080CR"
+      ],
+      "title": "Disorderly conduct conviction: Adam Jacob Chisholm",
+      "body": [
+        "Adam Jacob Chisholm was convicted at the Nenana court on Nov. 19 after a guilty plea to disorderly conduct, creating a hazardous condition. The offense date was Aug. 15.",
+        "Four further counts on the same file were dismissed by the prosecution: one count of criminal mischief in the fifth degree, damaging property worth less than $250, and three counts of assault when a child is present. Case 4NE-26-00080CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "altamilano-nenana-convicted",
+      "date": "2026-11-19",
+      "place": "Nenana",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4NE-26-00093CR"
+      ],
+      "title": "Conditions of release conviction: Daniel Lee Altamilano",
+      "body": [
+        "Daniel Lee Altamilano was convicted at the Nenana court on Nov. 19 after a guilty plea to violating conditions of release. A count of driving with a license canceled, revoked or suspended for a criminal offense was dismissed by the prosecution. The offense date was Sept. 17.",
+        "Case 4NE-26-00093CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mata-delta-dismissed",
+      "date": "2026-11-19",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4DJ-26-00045CR"
+      ],
+      "title": "Assault charge dismissed: Martha Gloria Mata",
+      "body": [
+        "A charge of assault in the fourth degree, recklessly injuring another person, against Martha Gloria Mata was dismissed by prosecutors at the Delta Junction court on Nov. 19. The offense date was July 24.",
+        "Case 4DJ-26-00045CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "coon-delta-dui-convicted",
+      "date": "2026-11-16",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4DJ-25-00038CR"
+      ],
+      "title": "DUI conviction: Michael Jeffery Coon",
+      "body": [
+        "Michael Jeffery Coon was convicted at the Delta Junction court on Nov. 16 after a guilty plea to driving under the influence of alcohol or a controlled substance. The offense date was Sept. 20, 2025.",
+        "Case 4DJ-25-00038CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "solomon-delta-trespass-dismissed",
+      "date": "2026-11-16",
+      "place": "Delta Junction",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "misdemeanor",
+      "cases": [
+        "4DJ-26-00049CR"
+      ],
+      "title": "Trespass charge dismissed: Talissa Lynn Solomon",
+      "body": [
+        "A charge of criminal trespass in the first degree, entering or remaining unlawfully in a dwelling, against Talissa Lynn Solomon was dismissed at the Delta Junction court on Nov. 16 under a plea agreement in another case. The offense date was June 23.",
+        "Case 4DJ-26-00049CR."
+      ],
+      "sources": [
+        {
+          "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
+          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "rice-dui-nov21",
+      "date": "2026-11-21",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "4FA-26-02324CR",
+        "AK26114924"
+      ],
+      "title": "DUI arrest: Shannon Rice",
+      "body": [
+        "Shannon Rice was arrested on a charge of driving under the influence, operating a vehicle while impaired by alcohol. Near Cushman Street, Fairbanks, Nov. 21; Alaska State Troopers. Case 4FA-26-02324CR; arraignment Nov. 27.",
+        "Troopers say they stopped a Ford F-250 after seeing a non-functioning license plate light, that Rice admitted to recently consuming alcohol and showed signs of impairment, and that a breath test at the Fairbanks trooper post recorded a breath alcohol concentration of 0.085. Rice was taken to the Fairbanks Correctional Center.",
+        "The court file opened behind the arrest records no charge as yet, so no charge class is given here."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02324CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "fuzzard-dui-nov22",
+      "date": "2026-11-22",
+      "time": "14:39",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "AK26115070"
+      ],
+      "title": "DUI arrest: Caryn Fuzzard",
+      "body": [
+        "Caryn Fuzzard, 66, of Homer, was arrested on charges of driving under the influence, operating a vehicle while impaired by alcohol, and refusal to submit to a chemical test. Area of McGrath Road, Fairbanks, Nov. 22 at about 2:39 p.m.; Alaska State Troopers.",
+        "Troopers say they responded to a report of a single vehicle in the ditch and found the driver to be under the influence. Fuzzard was taken to the Fairbanks Correctional Center.",
+        "No court file has been opened behind the arrest, so no charge class is given here."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "lawrence-pailing-trespass-nov22",
+      "date": "2026-11-22",
+      "time": "01:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02325CR",
+        "26003540"
+      ],
+      "title": "Trespass arrest: Nona J. Lawrence-Pailing",
+      "body": [
+        "Nona J. Lawrence-Pailing, 55, was arrested on charges of criminal trespass in the first degree, entering or remaining unlawfully in a dwelling, and criminal mischief in the fifth degree, damaging property worth less than $250, both recorded by police as misdemeanors. 100 block of Rosella Avenue, Fairbanks, Nov. 22 at 1:00 a.m.; Fairbanks Police.",
+        "Police case 26003540; court case 4FA-26-02325CR, opened Nov. 22. Arraignment Nov. 27 before Judge Maria P. Bahr.",
+        "The court file records no charge as yet, so the charges above are as police recorded them."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 22",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02325CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "obrien-trespass-nov22",
+      "date": "2026-11-22",
+      "time": "19:59",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003545"
+      ],
+      "title": "Trespass arrest: Shane Trevor O'Brien",
+      "body": [
+        "Shane Trevor O'Brien, 39, was arrested on a charge of criminal trespass in the second degree, entering or remaining unlawfully on premises, recorded by police as a misdemeanor. 3200 block of Adams Drive, Fairbanks, Nov. 22 at 7:59 p.m.; Fairbanks Police.",
+        "Police case 26003545. No court file has been opened behind the arrest."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 22",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        }
+      ]
+    },
+    {
+      "id": "farmers-loop-collision-nov1",
+      "date": "2026-11-01",
+      "time": "23:20",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26018151"
+      ],
+      "title": "Vehicle collision on Farmer's Loop Road",
+      "body": [
+        "Alaska State Troopers say that at about 11:20 p.m. on Nov. 1 they responded to a report of a possible head-on collision on Farmer's Loop Road in Fairbanks, and that the collision was a sideswipe with no injuries reported. No arrest or charge is stated.",
+        "Incident AK26018151. The report was posted to the trooper dispatch on Nov. 23."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 23",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Nov. 16-22, 2026",
+    "courts": [
+      {
+        "court": "Fairbanks (4FA)",
+        "count": 39
+      },
+      {
+        "court": "Nenana (4NE)",
+        "count": 0
+      },
+      {
+        "court": "Healy (4HE)",
+        "count": 0
+      },
+      {
+        "court": "Delta Junction (4DJ)",
+        "count": 0
+      }
+    ],
+    "new": []
+  },
+  "open_cases": [
+    {
+      "case": "4FA-26-02308CR",
+      "defendant": "Geuea, Donald Lawrence",
+      "level": "Class B felony (two counts)",
+      "charges": "Two counts of sexual abuse of a minor in the second degree, sexual contact with a victim under 13; both flagged domestic violence related. Offense location North Pole.",
+      "next": "Preliminary hearing Nov. 25, 2026",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-18"
+    },
+    {
+      "case": "4FA-26-01826CR",
+      "defendant": "Burks, Joshua Jon",
+      "level": "Class B felony",
+      "charges": "Misconduct involving a controlled substance in the third degree, manufacture or delivery of methamphetamine; one indicted count.",
+      "next": "Omnibus hearing Jan. 21, 2027; trial week Feb. 8, 2027",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-20"
+    },
+    {
+      "case": "4DJ-26-00073CR",
+      "defendant": "Case at the Delta Junction court",
+      "level": "Not stated here",
+      "charges": "Open criminal case at the Delta Junction court.",
+      "next": "Dec. 15, 2026",
+      "judge": "Not stated",
+      "last_docket": "2026-11-20"
+    },
+    {
+      "case": "4FA-26-01857CR",
+      "defendant": "Clarke, Brenden James",
+      "level": "Other",
+      "charges": "Arrest prior to requisition, fugitive from justice; one count. Offense location Fort Wainwright.",
+      "next": "Fugitive from justice hearing Dec. 15, 2026",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01818CR",
+      "defendant": "Ostlund, William Bruce",
+      "level": "Class A felony (three counts)",
+      "charges": "Three indicted counts of misconduct involving a controlled substance in the second degree, manufacture or delivery of methamphetamine.",
+      "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-26-01890CR",
+      "defendant": "Claxton, Dante Nathaniel Larry",
+      "level": "Unclassified felony",
+      "charges": "Kidnapping, plus further counts.",
+      "next": "Calendar call Nov. 23, 2026, recorded continued; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4NE-26-00095CR",
+      "defendant": "Hansen, Lillybeth Elyce",
+      "level": "Felony",
+      "charges": "Driving under the influence with prior convictions; three counts on the file.",
+      "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4DJ-26-00058CR",
+      "defendant": "Parlin, Sara Mae",
+      "level": "Misdemeanor",
+      "charges": "Misdemeanor case at the Delta Junction court.",
+      "next": "Calendar call continued to Jan. 19, 2027",
+      "judge": "Young, Yvette",
+      "last_docket": "2026-11-17"
+    },
+    {
+      "case": "4FA-24-02118CR",
+      "defendant": "Sarten, Cedar Mae",
+      "level": "Unclassified felony",
+      "charges": "Murder counts indicted in 2024, one of them dismissed by the prosecution in June 2026; all flagged domestic violence related. Convicted and awaiting sentencing.",
+      "next": "Sentencing Jan. 29, 2027",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-01896CR",
+      "defendant": "Moff, Amanda Elizabeth",
+      "level": "Class C felony",
+      "charges": "One indicted count of tampering with physical evidence to prevent a proceeding.",
+      "next": "Trial week Nov. 23, 2026, recorded continued; omnibus hearing Dec. 1, 2026",
+      "judge": "Temple, Thomas I",
+      "last_docket": "2026-11-05"
+    },
+    {
+      "case": "4NE-24-00034CR",
+      "defendant": "Forness, Joseph Trygve",
+      "level": "Felony",
+      "charges": "The court record states counts involving a child complainant; nothing beyond the counts is reproduced.",
+      "next": "Status hearing Dec. 3, 2026",
+      "judge": "Schwalm, Kirk F",
+      "last_docket": "2026-11-09"
+    },
+    {
+      "case": "4FA-26-01644CR",
+      "defendant": "Rudolph-Munro, Cody Steven",
+      "level": "Class C felony",
+      "charges": "Assault in the third degree with four further counts, several flagged domestic violence related; offense location North Pole. Resolved by guilty plea Oct. 14, 2026 and the case closed.",
+      "next": "No event set; case closed",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-12"
+    },
+    {
+      "case": "4FA-26-00112CR",
+      "defendant": "Davenport, Brian Jeffery",
+      "level": "Unclassified felony",
+      "charges": "Murder in the first degree, indicted. The charge was dismissed and the case closed on Oct. 9, 2026 on a finding that the defendant was incompetent to stand trial.",
+      "next": "No event set; case closed",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-10-09"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Alaska State Troopers daily dispatch",
+      "url": "https://dailydispatch.dps.alaska.gov/"
+    },
+    {
+      "name": "Fairbanks Police Department daily bulletin",
+      "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+    },
+    {
+      "name": "Alaska Court System weekly criminal charges filed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+    },
+    {
+      "name": "Alaska Court System weekly criminal cases disposed",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+    },
+    {
+      "name": "Alaska CourtView public case records",
+      "url": "https://records.courts.alaska.gov/eaccess/home.page"
+    },
+    {
+      "name": "Alaska Department of Law press releases",
+      "url": "https://law.alaska.gov/press/news.html"
+    },
+    {
+      "name": "U.S. Attorney, District of Alaska",
+      "url": "https://www.justice.gov/usao-ak/pr"
+    },
+    {
+      "name": "Fairbanks Daily News-Miner public safety report",
+      "url": "https://www.newsminer.com/news/public_safety_report/"
+    },
+    {
+      "name": "KTVF / webcenterfairbanks",
+      "url": "https://www.webcenterfairbanks.com/news/crime/"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-11-22",
-  "compiled": "17:13 AKST",
+  "compiled": "03:37 AKST",
   "window": "Nov. 21-22, 2026",
-  "summary": "Alaska State Troopers report four incidents in the Fairbanks area on Sunday: a drink-driving arrest on the Johansen Expressway in which four passengers were cited for minor consuming alcohol, a hotel disturbance ending in harassment and escape charges, a domestic violence assault arrest at North Pole, and an injury collision at mile 8 of the Elliott Highway. The Fairbanks court opened eleven criminal cases during Sunday and heard seven arraignments on its weekend calendar; seven of the eleven carry charges and four record no charging document. Eight of the eleven appear on neither daily police feed. The Alaska Court System's weekly charges report for Nov. 15-21 lists 36 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; its window closes on Nov. 21 and so does not include any of Sunday's eleven filings. Fairbanks Police reported nothing for Sunday.",
+  "summary": "Alaska State Troopers report four incidents in the Fairbanks area on Sunday: a drink-driving arrest on the Johansen Expressway in which four passengers were cited for minor consuming alcohol, a hotel disturbance ending in harassment and escape charges, a domestic violence assault arrest at North Pole, and an injury collision at mile 8 of the Elliott Highway. The Fairbanks court opened eleven criminal cases during Sunday and heard seven arraignments on its weekend calendar; seven of the eleven carry charges and four record no charging document. Four of the eleven appear on neither daily police feed. The Alaska Court System's weekly charges report for Nov. 15-21 lists 36 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; its window closes on Nov. 21 and so does not include any of Sunday's eleven filings. Fairbanks Police reported nothing for Sunday.",
   "commentary": null,
   "entries": [
     {
@@ -127,18 +127,23 @@
       "id": "burgess-protective-order-nov22",
       "date": "2026-11-22",
       "place": "Fairbanks",
-      "agency": "Alaska Court System",
+      "agency": "Fairbanks Police",
       "category": "violent",
       "severity": "misdemeanor",
       "cases": [
-        "4FA-26-02332CR"
+        "4FA-26-02332CR",
+        "26003541"
       ],
       "title": "Violating a protective order: William Doug Burgess",
       "body": [
-        "William Doug Burgess is charged with violating a domestic violence protective order, a Class A misdemeanor, flagged domestic violence related. Fairbanks, offense dated Nov. 22.",
-        "Case 4FA-26-02332CR. Arraignment held Nov. 22; pre-trial conference Jan. 14, 2027 and trial week Jan. 25, 2027."
+        "William Doug Burgess, 29, is charged with violating a domestic violence protective order, a Class A misdemeanor, flagged domestic violence related. 1300 block of Bedrock Street, Fairbanks, Nov. 22 at 1:00 a.m.; Fairbanks Police.",
+        "Police case 26003541; court case 4FA-26-02332CR. Arraignment held Nov. 22; pre-trial conference Jan. 14, 2027 and trial week Jan. 25, 2027."
       ],
       "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 22",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
         {
           "label": "Alaska CourtView, 4FA-26-02332CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
@@ -149,18 +154,23 @@
       "id": "gibbons-assault-nov22",
       "date": "2026-11-22",
       "place": "Fairbanks",
-      "agency": "Alaska Court System",
+      "agency": "Fairbanks Police",
       "category": "violent",
       "severity": "misdemeanor",
       "cases": [
-        "4FA-26-02329CR"
+        "4FA-26-02329CR",
+        "26003543"
       ],
       "title": "Two assault charges: Lyle Gibbons",
       "body": [
-        "Lyle Gibbons is charged with two counts of assault in the fourth degree, recklessly causing injury to another person, both Class A misdemeanors. Neither count is flagged domestic violence related. Fairbanks, offense dated Nov. 22.",
-        "Case 4FA-26-02329CR. Arraignment held Nov. 22; pre-trial conference Jan. 7, 2027 and trial week Jan. 19, 2027 before Judge Ben A. Seekins."
+        "Lyle Gibbons, 36, is charged with two counts of assault in the fourth degree, recklessly causing injury to another person, both Class A misdemeanors. Neither count is flagged domestic violence related. 1600 block of East Cowles Street, Fairbanks, Nov. 22 at 3:23 a.m.; Fairbanks Police.",
+        "Police case 26003543; court case 4FA-26-02329CR. Arraignment held Nov. 22; pre-trial conference Jan. 7, 2027 and trial week Jan. 19, 2027 before Judge Ben A. Seekins."
       ],
       "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 22",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
         {
           "label": "Alaska CourtView, 4FA-26-02329CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
@@ -298,15 +308,13 @@
       "category": "court",
       "severity": "other",
       "cases": [
-        "4FA-26-02324CR",
-        "4FA-26-02325CR",
         "4FA-26-02326CR",
         "4FA-26-02327CR"
       ],
-      "title": "Four Fairbanks cases opened over the weekend with no charges filed",
+      "title": "Two Fairbanks cases opened over the weekend with no charges filed",
       "body": [
-        "Four of the eleven criminal cases opened at the Fairbanks court on Nov. 22 record their only count as a charging document pending or not filed, with no statute and no degree of offense. The four are cases 4FA-26-02324CR, 4FA-26-02325CR, 4FA-26-02326CR and 4FA-26-02327CR, with offense locations of Fairbanks and offense dates of Nov. 21 and Nov. 22.",
-        "All four are set for arraignment on Nov. 27 at 8:30 a.m. at the Fairbanks courthouse. No charge is reported here for any of them because the court record states none, and no one named in the four is identified in this report for that reason."
+        "Two of the eleven criminal cases opened at the Fairbanks court on Nov. 22 record their only count as a charging document pending or not filed, with no statute and no degree of offense. They are cases 4FA-26-02326CR and 4FA-26-02327CR, both with an offense location of Fairbanks and an offense date of Nov. 22.",
+        "Both are set for arraignment on Nov. 27 at 8:30 a.m. at the Fairbanks courthouse. No charge is reported here for either because the court record states none, and no one named in the two is identified in this report for that reason."
       ],
       "sources": [
         {
