@@ -1,10 +1,228 @@
 {
   "date": "2026-11-22",
-  "compiled": "03:34 AKST",
+  "compiled": "17:13 AKST",
   "window": "Nov. 21-22, 2026",
-  "summary": "Alaska State Troopers report a domestic violence arrest in the Goldstream area north of Fairbanks on Saturday night and criminal summonses after a traffic stop on the Richardson Highway. Fairbanks Police report two trespass arrests at the same block of South University Avenue on Saturday afternoon. Nothing has been reported for Sunday by either agency. The Alaska Court System's weekly charges report for Nov. 15-21 lists 36 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; two of the Fairbanks case numbers it prints, 4FA-26-02316CR and 4FA-26-02317CR, cannot be retrieved from the court's public case database by number or by name.",
+  "summary": "Alaska State Troopers report four incidents in the Fairbanks area on Sunday: a drink-driving arrest on the Johansen Expressway in which four passengers were cited for minor consuming alcohol, a hotel disturbance ending in harassment and escape charges, a domestic violence assault arrest at North Pole, and an injury collision at mile 8 of the Elliott Highway. The Fairbanks court opened eleven criminal cases during Sunday and heard seven arraignments on its weekend calendar; seven of the eleven carry charges and four record no charging document. Eight of the eleven appear on neither daily police feed. The Alaska Court System's weekly charges report for Nov. 15-21 lists 36 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; its window closes on Nov. 21 and so does not include any of Sunday's eleven filings. Fairbanks Police reported nothing for Sunday.",
   "commentary": null,
   "entries": [
+    {
+      "id": "wright-assault-nov22",
+      "date": "2026-11-22",
+      "time": "08:30",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02334CR",
+        "AK26114997"
+      ],
+      "title": "Domestic violence assault arrest: Lisa Anne Wright",
+      "body": [
+        "Lisa Anne Wright, 37, of North Pole, is charged with assault in the fourth degree, recklessly causing injury to another person, a Class A misdemeanor flagged domestic violence related, and with violating conditions of release, a Class B misdemeanor. North Pole, Nov. 22 at about 8:30 a.m.; Alaska State Troopers.",
+        "Troopers say they received a report of a domestic violence assault, that their investigation found Wright had assaulted her significant other causing visible injuries, and that she was also in violation of her conditions of release by consuming alcohol. They say she was arrested and taken to the Fairbanks Correctional Center.",
+        "Case 4FA-26-02334CR. Arraignment held Nov. 22; pre-trial conference Jan. 7, 2027 and trial week Jan. 19, 2027 before Judge Ben A. Seekins."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=11/22/2026+12:00:00+AM"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02334CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "woods-burglary-nov22",
+      "date": "2026-11-22",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "property",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02330CR"
+      ],
+      "title": "Burglary charge: Ian Ray Woods",
+      "body": [
+        "Ian Ray Woods is charged with burglary in the second degree, entering or remaining unlawfully in a building intending to commit a crime, a Class C felony, punishable by up to five years. He is also charged with criminal mischief in the fifth degree, damaging property worth less than $250, a Class B misdemeanor. Fairbanks, offense dated Nov. 22.",
+        "Case 4FA-26-02330CR. Arraignment held Nov. 22; preliminary hearings set for Dec. 2 and Dec. 10, 2026."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02330CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bestwestern-harassment-nov22",
+      "date": "2026-11-22",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "AK26114974"
+      ],
+      "title": "Harassment, escape and criminal mischief charges after a hotel disturbance",
+      "body": [
+        "A woman was charged with harassment in the first degree, escape in the fourth degree and criminal mischief in the fourth degree after a disturbance at the Best Western Hotel in Fairbanks on Nov. 22. Troopers have not released her name and no charge class is recorded.",
+        "Troopers say she was intoxicated and had activated a fire alarm without authorization, that she fled from troopers and was detained, that she later spat blood-tinged saliva into a trooper's face, and that while being taken to Fairbanks Memorial Hospital she removed a hand from her handcuffs. Trooper case AK26114974."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=11/22/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "johansen-dui-nov22",
+      "date": "2026-11-22",
+      "time": "01:40",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "AK26114969"
+      ],
+      "title": "Drink-driving arrest and four citations on the Johansen Expressway",
+      "body": [
+        "A driver was charged with driving under the influence, with an offense the dispatch types MOCA, and with driving while license revoked after a stop on the Johansen Expressway just west of College Road on Nov. 22 at about 1:40 a.m. Troopers have not released the driver's name. Four of five passengers were issued citations for minor consuming alcohol.",
+        "Troopers say two vehicles were seen on the shoulder, the front one with a license plate hanging off it that did not belong to that vehicle, and that contact was made with two drivers and five passengers, one driver and all five passengers being under the influence of alcohol. They say the driver was taken to the Fairbanks Correctional Center. Trooper case AK26114969."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=11/22/2026+12:00:00+AM"
+        }
+      ]
+    },
+    {
+      "id": "heller-dv-nov22",
+      "date": "2026-11-21",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02333CR"
+      ],
+      "title": "Domestic violence assault charges: Levi Richard Heller",
+      "body": [
+        "Levi Richard Heller is charged with assault in the fourth degree, recklessly causing injury to another person, and with assault when a child is present, both Class A misdemeanors and both flagged domestic violence related. Fairbanks, offense dated Nov. 21.",
+        "Case 4FA-26-02333CR. Arraignment held Nov. 22; pre-trial conference Jan. 7, 2027 and trial week Jan. 19, 2027 before Judge Ben A. Seekins."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02333CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "burgess-protective-order-nov22",
+      "date": "2026-11-22",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02332CR"
+      ],
+      "title": "Violating a protective order: William Doug Burgess",
+      "body": [
+        "William Doug Burgess is charged with violating a domestic violence protective order, a Class A misdemeanor, flagged domestic violence related. Fairbanks, offense dated Nov. 22.",
+        "Case 4FA-26-02332CR. Arraignment held Nov. 22; pre-trial conference Jan. 14, 2027 and trial week Jan. 25, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02332CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "gibbons-assault-nov22",
+      "date": "2026-11-22",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02329CR"
+      ],
+      "title": "Two assault charges: Lyle Gibbons",
+      "body": [
+        "Lyle Gibbons is charged with two counts of assault in the fourth degree, recklessly causing injury to another person, both Class A misdemeanors. Neither count is flagged domestic violence related. Fairbanks, offense dated Nov. 22.",
+        "Case 4FA-26-02329CR. Arraignment held Nov. 22; pre-trial conference Jan. 7, 2027 and trial week Jan. 19, 2027 before Judge Ben A. Seekins."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02329CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "mayo-trespass-nov21",
+      "date": "2026-11-21",
+      "time": "15:30",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003536",
+        "4FA-26-02328CR"
+      ],
+      "title": "Trespass arrest: Frederick Trent Mayo",
+      "body": [
+        "Frederick Trent Mayo, 56, is charged with criminal trespass in the second degree, entering or remaining unlawfully on premises, and with violating conditions of release, both Class B misdemeanors. 1300 block of South University Avenue, Fairbanks, Nov. 21 at 3:30 p.m.; Fairbanks Police.",
+        "Police case 26003536; court case 4FA-26-02328CR, opened Nov. 22. Arraignment held Nov. 22; pre-trial conference Dec. 31, 2026 and trial week Jan. 11, 2027 before Judge Matthew C. Christian."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02328CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bidwell-trespass-nov21",
+      "date": "2026-11-21",
+      "time": "14:01",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "26003535",
+        "4FA-26-02331CR"
+      ],
+      "title": "Trespass arrest: Timothy Royal Bidwell",
+      "body": [
+        "Timothy Royal Bidwell, 50, is charged with criminal trespass in the second degree, entering or remaining unlawfully on premises, a Class B misdemeanor, and with violating a condition of release for a felony, a Class A misdemeanor. 1300 block of South University Avenue, Fairbanks, Nov. 21 at 2:01 p.m.; Fairbanks Police.",
+        "Police case 26003535; court case 4FA-26-02331CR, opened Nov. 22. Arraignment held Nov. 22; pre-trial conference Jan. 7, 2027 and trial week Jan. 19, 2027 before Judge Ben A. Seekins."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 21",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02331CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "goldstream-dv-nov21",
       "date": "2026-11-21",
@@ -18,8 +236,8 @@
       ],
       "title": "Domestic violence arrest near Goldstream",
       "body": [
-        "A man was arrested on domestic violence charges at a residence in the Goldstream area north of Fairbanks on the evening of Nov. 21 and was remanded to the Fairbanks Correctional Center. Troopers have not released his name.",
-        "Troopers say they were called to the residence at about 9:03 p.m. for a report of a domestic violence assault and that their investigation found the man had committed multiple domestic violence crimes. No court file carrying these charges had been opened as of Sunday morning. Trooper case AK26114935."
+        "A man was arrested on domestic violence charges at a residence in the Goldstream area north of Fairbanks on the evening of Nov. 21 and was taken to the Fairbanks Correctional Center. Troopers have not released his name and no charge class is recorded.",
+        "Troopers say they were called to the residence at about 9:03 p.m. for a report of a domestic violence assault and that their investigation found the man had committed multiple domestic violence crimes. Trooper case AK26114935."
       ],
       "sources": [
         {
@@ -38,10 +256,10 @@
       "cases": [
         "AK26114750"
       ],
-      "title": "Driving on a revoked license: summonses after Richardson Highway stop",
+      "title": "Driving on a revoked license: summonses after a Richardson Highway stop",
       "body": [
-        "A driver was issued criminal summonses for driving while license revoked and for failing to install a court-ordered ignition interlock device after a traffic stop on the Richardson Highway near the Badger Road 1 exit on Nov. 21. Troopers have not released the driver's name. Driving while license revoked means operating a vehicle after a court or the state has taken the license away.",
-        "Troopers say they stopped the vehicle after observing it travel 73 mph in a 60 mph zone, that the license was revoked, that the required interlock device had not been installed, and that no proof of insurance was produced. The vehicle was released to a licensed driver. A summons requires a court appearance; no arrest was made. Trooper case AK26114750."
+        "A driver was issued criminal summonses for driving while license revoked and for failing to install a court-ordered ignition interlock device after a traffic stop on the Richardson Highway near the Badger Road 1 exit on Nov. 21. Troopers have not released the driver's name. Driving while license revoked means driving after a court or the state has taken the license away.",
+        "Troopers say they stopped the vehicle after seeing it travel 73 mph in a 60 mph zone, that the license was revoked, that the required interlock device had not been installed, and that no proof of insurance was produced. The vehicle was released to a licensed driver. A summons requires a court appearance; no arrest was made. Trooper case AK26114750."
       ],
       "sources": [
         {
@@ -51,48 +269,49 @@
       ]
     },
     {
-      "id": "mayo-trespass-nov21",
-      "date": "2026-11-21",
-      "time": "15:30",
-      "place": "Fairbanks",
-      "agency": "Fairbanks Police",
+      "id": "elliott-collision-nov22",
+      "date": "2026-11-22",
+      "time": "11:30",
+      "place": "Elliott Highway",
+      "agency": "Alaska State Troopers",
       "category": "other",
-      "severity": "misdemeanor",
+      "severity": "other",
       "cases": [
-        "26003536"
+        "AK26115040"
       ],
-      "title": "Trespass arrest: Frederick Trent Mayo",
+      "title": "Injury collision at mile 8 of the Elliott Highway",
       "body": [
-        "Frederick Trent Mayo, 56, was arrested on charges of criminal trespass in the second degree and violating a condition of release, both recorded by police as misdemeanors. Criminal trespass in the second degree means entering or remaining unlawfully on premises.",
-        "1300 block of South University Avenue, Fairbanks, Nov. 21 at 3:30 p.m.; Fairbanks Police. Case 26003536. No court file carrying these charges had been opened as of Sunday morning."
+        "Troopers say they received a report of a motor vehicle collision at mile 8 of the Elliott Highway on Nov. 22 at about 11:30 a.m., and that all occupants were taken to Fairbanks Memorial Hospital for treatment of injuries. The investigation is ongoing. No charge has been reported. Trooper case AK26115040."
       ],
       "sources": [
         {
-          "label": "Fairbanks Police daily bulletin, Nov. 21",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/Home/Display?dateReceived=11/22/2026+12:00:00+AM"
         }
       ]
     },
     {
-      "id": "bidwell-trespass-nov21",
-      "date": "2026-11-21",
-      "time": "14:01",
+      "id": "no-charge-filings-nov22",
+      "date": "2026-11-22",
       "place": "Fairbanks",
-      "agency": "Fairbanks Police",
-      "category": "other",
-      "severity": "misdemeanor",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
       "cases": [
-        "26003535"
+        "4FA-26-02324CR",
+        "4FA-26-02325CR",
+        "4FA-26-02326CR",
+        "4FA-26-02327CR"
       ],
-      "title": "Trespass arrest: Timothy Royal Bidwell",
+      "title": "Four Fairbanks cases opened over the weekend with no charges filed",
       "body": [
-        "Timothy Royal Bidwell, 50, was arrested on charges of criminal trespass in the second degree and violating a condition of release, both recorded by police as misdemeanors. Criminal trespass in the second degree means entering or remaining unlawfully on premises.",
-        "1300 block of South University Avenue, Fairbanks, Nov. 21 at 2:01 p.m.; Fairbanks Police. Case 26003535. No court file carrying these charges had been opened as of Sunday morning."
+        "Four of the eleven criminal cases opened at the Fairbanks court on Nov. 22 record their only count as a charging document pending or not filed, with no statute and no degree of offense. The four are cases 4FA-26-02324CR, 4FA-26-02325CR, 4FA-26-02326CR and 4FA-26-02327CR, with offense locations of Fairbanks and offense dates of Nov. 21 and Nov. 22.",
+        "All four are set for arraignment on Nov. 27 at 8:30 a.m. at the Fairbanks courthouse. No charge is reported here for any of them because the court record states none, and no one named in the four is identified in this report for that reason."
       ],
       "sources": [
         {
-          "label": "Fairbanks Police daily bulletin, Nov. 21",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+          "label": "Alaska CourtView",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     }
@@ -117,9 +336,61 @@
         "count": 0
       }
     ],
-    "new": []
+    "new": [
+      {
+        "case": "4FA-26-02330CR",
+        "defendant": "Woods, Ian Ray",
+        "charges": "Burglary 2; criminal mischief 5",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02333CR",
+        "defendant": "Heller, Levi Richard",
+        "charges": "Assault 4; assault when child present, both DV flagged",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02334CR",
+        "defendant": "Wright, Lisa Anne",
+        "charges": "Assault 4, DV flagged; violating conditions of release",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02332CR",
+        "defendant": "Burgess, William Doug",
+        "charges": "Violating a domestic violence protective order",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02329CR",
+        "defendant": "Gibbons, Lyle",
+        "charges": "Assault 4, two counts",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02328CR",
+        "defendant": "Mayo, Frederick",
+        "charges": "Criminal trespass 2; violating conditions of release",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02331CR",
+        "defendant": "Bidwell, Timothy Royal",
+        "charges": "Criminal trespass 2; violating a condition of release for a felony",
+        "felony": false
+      }
+    ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02308CR",
+      "defendant": "Geuea, Donald Lawrence",
+      "level": "Class B felony (two counts)",
+      "charges": "Two counts of sexual abuse of a minor in the second degree, sexual contact with a victim under 13; both flagged domestic violence related. Offense location North Pole.",
+      "next": "Preliminary hearing Nov. 25, 2026",
+      "judge": "Welch, Amy K",
+      "last_docket": "2026-11-18"
+    },
     {
       "case": "4FA-26-01826CR",
       "defendant": "Burks, Joshua Jon",
@@ -130,13 +401,13 @@
       "last_docket": "2026-11-20"
     },
     {
-      "case": "4FA-26-02308CR",
-      "defendant": "Geuea, Donald Lawrence",
-      "level": "Class B felony (two counts)",
-      "charges": "Two counts of sexual abuse of a minor in the second degree, sexual contact with a victim under 13; both flagged domestic violence related. Offense location North Pole.",
-      "next": "Preliminary hearing Nov. 25, 2026",
-      "judge": "Welch, Amy K",
-      "last_docket": "2026-11-18"
+      "case": "4DJ-26-00073CR",
+      "defendant": "Case at the Delta Junction court",
+      "level": "Not stated here",
+      "charges": "Open criminal case at the Delta Junction court.",
+      "next": "Dec. 15, 2026",
+      "judge": "Not stated",
+      "last_docket": "2026-11-20"
     },
     {
       "case": "4FA-26-01857CR",
