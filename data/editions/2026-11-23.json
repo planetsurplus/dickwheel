@@ -1,10 +1,194 @@
 {
   "date": "2026-11-23",
-  "compiled": "05:11 AKST",
+  "compiled": "17:02 AKST",
   "window": "Nov. 16-23, 2026",
-  "summary": "The Alaska Court System's weekly dispositions report, re-run early Monday, records 42 Interior criminal cases closed between Nov. 16 and Nov. 20: a third-degree assault charge dismissed by prosecutors a day after it was filed, a second-degree robbery count dismissed, convictions entered at Fairbanks for felony assault, DUI and reckless driving, and three Fairbanks case numbers closed without any charge ever being filed. Alaska State Troopers report two DUI arrests in the Fairbanks area over the weekend and a vehicle collision on Farmer's Loop Road, and Fairbanks Police report four arrests on Sunday. The court's weekly charges report for Nov. 16-22 lists 39 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction.",
+  "summary": "The Fairbanks court opened five criminal cases on Monday, Nov. 23. The most serious is a second-degree assault charge against a Fairbanks man over an incident the court record dates to Aug. 23, three months before the charge was filed. Alaska State Troopers report a disturbance arrest at a Fairbanks hotel early Monday, and court files have now been opened behind four weekend arrests reported here on Sunday and Monday as carrying none. The court's weekly charges report covers Nov. 16 to Nov. 22 and lists 39 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; the five cases opened on Nov. 23 fall outside that window and are not in its counts.",
   "commentary": null,
   "entries": [
+    {
+      "id": "bouling-assault2-nov23",
+      "date": "2026-11-23",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02339CR"
+      ],
+      "title": "Second-degree assault charge: Roger L. Bouling",
+      "body": [
+        "Roger L. Bouling is charged with assault in the second degree - causing injury with a dangerous instrument, intentionally - a Class B felony, punishable by up to 10 years. A second count charges assault when a child is present, a Class A misdemeanor. Both counts are recorded by the court as domestic violence related.",
+        "Fairbanks; the court record gives the date of the offense as Aug. 23. Case 4FA-26-02339CR, filed Nov. 23. He was arraigned the same day and the Public Defender Agency was appointed to represent him. Preliminary hearings are set for Dec. 3 and Dec. 10 before Judge Brent E. Bennett.",
+        "Nothing beyond the court record is reported here."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02339CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "morry-disorderly-nov23",
+      "date": "2026-11-23",
+      "time": "05:00",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02335CR",
+        "AK26115204"
+      ],
+      "title": "Disorderly conduct charge: Bertha Rose Morry",
+      "body": [
+        "Bertha Rose Morry is charged with disorderly conduct - creating a hazardous condition - a Class B misdemeanor. Best Western on TVSA Way, Fairbanks, Nov. 23 at about 5 a.m.; Alaska State Troopers. Case 4FA-26-02335CR; arraignment Dec. 1 before Judge Maria P. Bahr.",
+        "Troopers say they responded to a disturbance call at the hotel, that Morry was intoxicated and disorderly and had assaulted a hotel security guard, and that she was arrested and taken to the Fairbanks Correctional Center. The charge the State filed carries no assault count."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 23",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02335CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "sarten-assault4-nov23",
+      "date": "2026-11-23",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02338CR"
+      ],
+      "title": "Fourth-degree assault charge: Ishi Santana Sarten",
+      "body": [
+        "Ishi Santana Sarten is charged with assault in the fourth degree - causing another person to fear injury - a Class A misdemeanor. The court records the count as not domestic violence related.",
+        "Fairbanks, offense date Nov. 23. Case 4FA-26-02338CR, filed and arraigned the same day, with the Public Defender Agency appointed to represent him. A pre-trial conference is set for Jan. 7, 2027 and a trial week for Jan. 19, 2027 before Judge Ben A. Seekins."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02338CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "fuzzard-dui-nov22",
+      "date": "2026-11-22",
+      "time": "14:39",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02336CR",
+        "AK26115070"
+      ],
+      "title": "DUI arrest: Caryn Conwell Fuzzard",
+      "body": [
+        "Caryn Conwell Fuzzard, 66, of Homer, is charged with driving under the influence and with refusal to submit to a chemical test, both Class A misdemeanors. Area of McGrath Road, Fairbanks, Nov. 22 at about 2:39 p.m.; Alaska State Troopers. Case 4FA-26-02336CR; arraignment Nov. 27 before Judge Maria P. Bahr.",
+        "Troopers say they responded to a report of a single vehicle in the ditch and found the driver to be under the influence, and that she was taken to the Fairbanks Correctional Center."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02336CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "obrien-trespass-nov22",
+      "date": "2026-11-22",
+      "time": "19:59",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02337CR",
+        "26003545"
+      ],
+      "title": "Trespass arrest: Shane Trevor O'Brien",
+      "body": [
+        "Shane Trevor O'Brien, 39, was arrested on a charge of criminal trespass in the second degree - entering or remaining unlawfully on premises - recorded by police as a misdemeanor. 3200 block of Adams Drive, Fairbanks, Nov. 22 at 7:59 p.m.; Fairbanks Police.",
+        "Police case 26003545; court case 4FA-26-02337CR, opened Nov. 23. Arraignment Nov. 27 before Judge Ben A. Seekins."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 22",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02337CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "rice-dui-nov21",
+      "date": "2026-11-21",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02324CR",
+        "AK26114924"
+      ],
+      "title": "DUI arrest: Shannon Paul Rice",
+      "body": [
+        "Shannon Paul Rice is charged with driving under the influence with a blood alcohol level of .08 or more, a Class A misdemeanor. Near Cushman Street, Fairbanks, Nov. 21; Alaska State Troopers. Case 4FA-26-02324CR; arraignment Nov. 27.",
+        "Troopers say they stopped a Ford F-250 after seeing a non-functioning license plate light, that Rice admitted to recently consuming alcohol and showed signs of impairment, and that a breath test at the Fairbanks trooper post recorded a breath alcohol concentration of 0.085. Rice was taken to the Fairbanks Correctional Center."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02324CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "lawrence-pailing-trespass-nov22",
+      "date": "2026-11-22",
+      "time": "01:00",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police",
+      "category": "property",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02325CR",
+        "26003540"
+      ],
+      "title": "Trespass arrest: Mona Jean Lawrence-Pailing",
+      "body": [
+        "Mona Jean Lawrence-Pailing, 55, is charged with criminal trespass in the first degree - entering or remaining unlawfully in a dwelling - a Class A misdemeanor, and with criminal mischief in the fifth degree, damaging property worth less than $250, a Class B misdemeanor. 100 block of Rosella Avenue, Fairbanks, Nov. 22 at 1 a.m.; Fairbanks Police.",
+        "Police case 26003540; court case 4FA-26-02325CR. Arraignment Nov. 27 before Judge Maria P. Bahr."
+      ],
+      "sources": [
+        {
+          "label": "Fairbanks Police daily bulletin, Nov. 22",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02325CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "waters-assault3-dismissed",
       "date": "2026-11-17",
@@ -155,7 +339,7 @@
       "title": "Protective order charges dismissed: Brandon Moore",
       "body": [
         "Two Fairbanks cases against Brandon Moore were closed on Nov. 19. All three counts of violating a domestic violence protective order were dismissed in the furtherance of justice. The offense dates were April 25 and May 31 at Fairbanks.",
-        "Cases 4FA-26-00954CR and 4FA-26-01001CR. Nothing identifying any protected person appears in the court record published here."
+        "Cases 4FA-26-00954CR and 4FA-26-01001CR."
       ],
       "sources": [
         {
@@ -179,8 +363,7 @@
       "title": "Three Fairbanks cases closed with no charges filed",
       "body": [
         "Three criminal case numbers opened at the Fairbanks court in mid-November were closed without any charging document being filed, so no charge was ever brought in any of them. Each file carries a single entry recording a charging document pending or not filed.",
-        "4FA-26-02307CR, State of Alaska vs. Shay Pitka, offense date Nov. 18, closed Nov. 18. 4FA-26-02316CR, State of Alaska vs. Katrina Albert, offense date Nov. 19, closed Nov. 20. 4FA-26-02317CR, State of Alaska vs. Arlo Charles Leroy Smoke, offense date Nov. 19, closed Nov. 20.",
-        "None of the three is charged with an offense on the face of the court record, and none is convicted of one."
+        "4FA-26-02307CR, State of Alaska vs. Shay Pitka, offense date Nov. 18, closed Nov. 18. 4FA-26-02316CR, State of Alaska vs. Katrina Albert, offense date Nov. 19, closed Nov. 20. 4FA-26-02317CR, State of Alaska vs. Arlo Charles Leroy Smoke, offense date Nov. 19, closed Nov. 20."
       ],
       "sources": [
         {
@@ -300,110 +483,6 @@
       ]
     },
     {
-      "id": "rice-dui-nov21",
-      "date": "2026-11-21",
-      "place": "Fairbanks",
-      "agency": "Alaska State Troopers",
-      "category": "dui",
-      "severity": "other",
-      "cases": [
-        "4FA-26-02324CR",
-        "AK26114924"
-      ],
-      "title": "DUI arrest: Shannon Rice",
-      "body": [
-        "Shannon Rice was arrested on a charge of driving under the influence, operating a vehicle while impaired by alcohol. Near Cushman Street, Fairbanks, Nov. 21; Alaska State Troopers. Case 4FA-26-02324CR; arraignment Nov. 27.",
-        "Troopers say they stopped a Ford F-250 after seeing a non-functioning license plate light, that Rice admitted to recently consuming alcohol and showed signs of impairment, and that a breath test at the Fairbanks trooper post recorded a breath alcohol concentration of 0.085. Rice was taken to the Fairbanks Correctional Center.",
-        "The court file opened behind the arrest records no charge as yet, so no charge class is given here."
-      ],
-      "sources": [
-        {
-          "label": "AST daily dispatch, Nov. 22",
-          "url": "https://dailydispatch.dps.alaska.gov/"
-        },
-        {
-          "label": "Alaska CourtView, 4FA-26-02324CR",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
-      "id": "fuzzard-dui-nov22",
-      "date": "2026-11-22",
-      "time": "14:39",
-      "place": "Fairbanks",
-      "agency": "Alaska State Troopers",
-      "category": "dui",
-      "severity": "other",
-      "cases": [
-        "AK26115070"
-      ],
-      "title": "DUI arrest: Caryn Fuzzard",
-      "body": [
-        "Caryn Fuzzard, 66, of Homer, was arrested on charges of driving under the influence, operating a vehicle while impaired by alcohol, and refusal to submit to a chemical test. Area of McGrath Road, Fairbanks, Nov. 22 at about 2:39 p.m.; Alaska State Troopers.",
-        "Troopers say they responded to a report of a single vehicle in the ditch and found the driver to be under the influence. Fuzzard was taken to the Fairbanks Correctional Center.",
-        "No court file has been opened behind the arrest, so no charge class is given here."
-      ],
-      "sources": [
-        {
-          "label": "AST daily dispatch, Nov. 22",
-          "url": "https://dailydispatch.dps.alaska.gov/"
-        }
-      ]
-    },
-    {
-      "id": "lawrence-pailing-trespass-nov22",
-      "date": "2026-11-22",
-      "time": "01:00",
-      "place": "Fairbanks",
-      "agency": "Fairbanks Police",
-      "category": "property",
-      "severity": "misdemeanor",
-      "cases": [
-        "4FA-26-02325CR",
-        "26003540"
-      ],
-      "title": "Trespass arrest: Nona J. Lawrence-Pailing",
-      "body": [
-        "Nona J. Lawrence-Pailing, 55, was arrested on charges of criminal trespass in the first degree, entering or remaining unlawfully in a dwelling, and criminal mischief in the fifth degree, damaging property worth less than $250, both recorded by police as misdemeanors. 100 block of Rosella Avenue, Fairbanks, Nov. 22 at 1:00 a.m.; Fairbanks Police.",
-        "Police case 26003540; court case 4FA-26-02325CR, opened Nov. 22. Arraignment Nov. 27 before Judge Maria P. Bahr.",
-        "The court file records no charge as yet, so the charges above are as police recorded them."
-      ],
-      "sources": [
-        {
-          "label": "Fairbanks Police daily bulletin, Nov. 22",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
-        },
-        {
-          "label": "Alaska CourtView, 4FA-26-02325CR",
-          "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        }
-      ]
-    },
-    {
-      "id": "obrien-trespass-nov22",
-      "date": "2026-11-22",
-      "time": "19:59",
-      "place": "Fairbanks",
-      "agency": "Fairbanks Police",
-      "category": "property",
-      "severity": "misdemeanor",
-      "cases": [
-        "26003545"
-      ],
-      "title": "Trespass arrest: Shane Trevor O'Brien",
-      "body": [
-        "Shane Trevor O'Brien, 39, was arrested on a charge of criminal trespass in the second degree, entering or remaining unlawfully on premises, recorded by police as a misdemeanor. 3200 block of Adams Drive, Fairbanks, Nov. 22 at 7:59 p.m.; Fairbanks Police.",
-        "Police case 26003545. No court file has been opened behind the arrest."
-      ],
-      "sources": [
-        {
-          "label": "Fairbanks Police daily bulletin, Nov. 22",
-          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
-        }
-      ]
-    },
-    {
       "id": "farmers-loop-collision-nov1",
       "date": "2026-11-01",
       "time": "23:20",
@@ -417,7 +496,7 @@
       "title": "Vehicle collision on Farmer's Loop Road",
       "body": [
         "Alaska State Troopers say that at about 11:20 p.m. on Nov. 1 they responded to a report of a possible head-on collision on Farmer's Loop Road in Fairbanks, and that the collision was a sideswipe with no injuries reported. No arrest or charge is stated.",
-        "Incident AK26018151. The report was posted to the trooper dispatch on Nov. 23."
+        "Incident AK26018151."
       ],
       "sources": [
         {
@@ -447,14 +526,90 @@
         "count": 0
       }
     ],
-    "new": []
+    "new": [
+      {
+        "case": "4FA-26-02339CR",
+        "defendant": "Bouling, Roger L",
+        "charges": "Assault 2 - injury with a weapon, intent (Class B felony); assault when a child is present (Class A misdemeanor). Both domestic violence related.",
+        "felony": true
+      },
+      {
+        "case": "4FA-26-02338CR",
+        "defendant": "Sarten, Ishi Santana",
+        "charges": "Assault 4 - cause fear of injury (Class A misdemeanor)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02337CR",
+        "defendant": "O'Brien, Shane Trevor",
+        "charges": "Charging document pending or not filed",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02336CR",
+        "defendant": "Fuzzard, Caryn Conwell",
+        "charges": "DUI; refusal to submit to a chemical test (both Class A misdemeanors)",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02335CR",
+        "defendant": "Morry, Bertha Rose",
+        "charges": "Disorderly conduct - create hazardous condition (Class B misdemeanor)",
+        "felony": false
+      }
+    ]
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02339CR",
+      "defendant": "Bouling, Roger L",
+      "level": "Class B felony",
+      "charges": "Assault in the second degree, causing injury with a dangerous instrument; assault when a child is present. Both counts domestic violence related. Offense date Aug. 23, 2026.",
+      "next": "Preliminary hearings Dec. 3 and Dec. 10, 2026",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-11-23"
+    },
+    {
+      "case": "4FA-26-02338CR",
+      "defendant": "Sarten, Ishi Santana",
+      "level": "Class A misdemeanor",
+      "charges": "Assault in the fourth degree, causing another person to fear injury.",
+      "next": "Pre-trial conference Jan. 7, 2027; trial week Jan. 19, 2027",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-23"
+    },
+    {
+      "case": "4FA-26-02337CR",
+      "defendant": "O'Brien, Shane Trevor",
+      "level": "Not stated on the file",
+      "charges": "Charging document pending or not filed. Police recorded the arrest as criminal trespass in the second degree.",
+      "next": "Arraignment Nov. 27, 2026",
+      "judge": "Seekins, Ben A",
+      "last_docket": "None on the file"
+    },
+    {
+      "case": "4FA-26-02336CR",
+      "defendant": "Fuzzard, Caryn Conwell",
+      "level": "Class A misdemeanor (two counts)",
+      "charges": "Driving under the influence; refusal to submit to a chemical test.",
+      "next": "Arraignment Nov. 27, 2026",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-23"
+    },
+    {
+      "case": "4FA-26-02335CR",
+      "defendant": "Morry, Bertha Rose",
+      "level": "Class B misdemeanor",
+      "charges": "Disorderly conduct, creating a hazardous condition.",
+      "next": "Arraignment Dec. 1, 2026",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-23"
+    },
     {
       "case": "4FA-26-02308CR",
       "defendant": "Geuea, Donald Lawrence",
       "level": "Class B felony (two counts)",
-      "charges": "Two counts of sexual abuse of a minor in the second degree, sexual contact with a victim under 13; both flagged domestic violence related. Offense location North Pole.",
+      "charges": "Two counts of sexual abuse of a minor in the second degree; both domestic violence related. Offense location North Pole.",
       "next": "Preliminary hearing Nov. 25, 2026",
       "judge": "Welch, Amy K",
       "last_docket": "2026-11-18"
@@ -463,26 +618,17 @@
       "case": "4FA-26-01826CR",
       "defendant": "Burks, Joshua Jon",
       "level": "Class B felony",
-      "charges": "Misconduct involving a controlled substance in the third degree, manufacture or delivery of methamphetamine; one indicted count.",
+      "charges": "Misconduct involving a controlled substance in the third degree, manufacture or delivery.",
       "next": "Omnibus hearing Jan. 21, 2027; trial week Feb. 8, 2027",
       "judge": "Welch, Amy K",
-      "last_docket": "2026-11-20"
-    },
-    {
-      "case": "4DJ-26-00073CR",
-      "defendant": "Case at the Delta Junction court",
-      "level": "Not stated here",
-      "charges": "Open criminal case at the Delta Junction court.",
-      "next": "Dec. 15, 2026",
-      "judge": "Not stated",
       "last_docket": "2026-11-20"
     },
     {
       "case": "4FA-26-01857CR",
       "defendant": "Clarke, Brenden James",
       "level": "Other",
-      "charges": "Arrest prior to requisition, fugitive from justice; one count. Offense location Fort Wainwright.",
-      "next": "Fugitive from justice hearing Dec. 15, 2026",
+      "charges": "Arrest prior to requisition, fugitive from justice. Offense location Fort Wainwright.",
+      "next": "Hearing Dec. 15, 2026",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-11-17"
     },
@@ -490,7 +636,7 @@
       "case": "4FA-26-01818CR",
       "defendant": "Ostlund, William Bruce",
       "level": "Class A felony (three counts)",
-      "charges": "Three indicted counts of misconduct involving a controlled substance in the second degree, manufacture or delivery of methamphetamine.",
+      "charges": "Three counts of misconduct involving a controlled substance in the second degree, manufacture or delivery of methamphetamine.",
       "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-11-17"
@@ -499,8 +645,8 @@
       "case": "4FA-26-01890CR",
       "defendant": "Claxton, Dante Nathaniel Larry",
       "level": "Unclassified felony",
-      "charges": "Kidnapping, plus further counts.",
-      "next": "Calendar call Nov. 23, 2026, recorded continued; trial week Jan. 11, 2027",
+      "charges": "Kidnapping with injury or sexual assault, with assault in the fourth degree and interfering with a report of a domestic violence crime; all three domestic violence related.",
+      "next": "Calendar call Dec. 22, 2026",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-11-17"
     },
@@ -508,8 +654,8 @@
       "case": "4NE-26-00095CR",
       "defendant": "Hansen, Lillybeth Elyce",
       "level": "Felony",
-      "charges": "Driving under the influence with prior convictions; three counts on the file.",
-      "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
+      "charges": "Driving under the influence with prior convictions.",
+      "next": "Calendar call Dec. 22, 2026",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-11-17"
     },
@@ -518,7 +664,7 @@
       "defendant": "Parlin, Sara Mae",
       "level": "Misdemeanor",
       "charges": "Misdemeanor case at the Delta Junction court.",
-      "next": "Calendar call continued to Jan. 19, 2027",
+      "next": "Jan. 19, 2027",
       "judge": "Young, Yvette",
       "last_docket": "2026-11-17"
     },
@@ -526,7 +672,7 @@
       "case": "4FA-24-02118CR",
       "defendant": "Sarten, Cedar Mae",
       "level": "Unclassified felony",
-      "charges": "Murder counts indicted in 2024, one of them dismissed by the prosecution in June 2026; all flagged domestic violence related. Convicted and awaiting sentencing.",
+      "charges": "Murder counts indicted in 2024, one dismissed by the prosecution in June 2026; all domestic violence related. Convicted and awaiting sentencing.",
       "next": "Sentencing Jan. 29, 2027",
       "judge": "Bennett, Brent E",
       "last_docket": "2026-11-09"
@@ -536,8 +682,8 @@
       "defendant": "Moff, Amanda Elizabeth",
       "level": "Class C felony",
       "charges": "One indicted count of tampering with physical evidence to prevent a proceeding.",
-      "next": "Trial week Nov. 23, 2026, recorded continued; omnibus hearing Dec. 1, 2026",
-      "judge": "Temple, Thomas I",
+      "next": "Jan. 28, 2027",
+      "judge": "Not assigned on the file",
       "last_docket": "2026-11-05"
     },
     {
@@ -547,16 +693,16 @@
       "charges": "The court record states counts involving a child complainant; nothing beyond the counts is reproduced.",
       "next": "Status hearing Dec. 3, 2026",
       "judge": "Schwalm, Kirk F",
-      "last_docket": "2026-11-09"
+      "last_docket": "2026-11-04"
     },
     {
       "case": "4FA-26-01644CR",
       "defendant": "Rudolph-Munro, Cody Steven",
       "level": "Class C felony",
-      "charges": "Assault in the third degree with four further counts, several flagged domestic violence related; offense location North Pole. Resolved by guilty plea Oct. 14, 2026 and the case closed.",
+      "charges": "Assault in the third degree with four further counts, several domestic violence related; offense location North Pole. Resolved by guilty plea Oct. 14, 2026 and the case closed.",
       "next": "No event set; case closed",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-11-12"
+      "last_docket": "2026-10-14"
     },
     {
       "case": "4FA-26-00112CR",
