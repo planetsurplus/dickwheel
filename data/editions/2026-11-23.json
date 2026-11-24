@@ -1,8 +1,8 @@
 {
   "date": "2026-11-23",
-  "compiled": "17:02 AKST",
+  "compiled": "17:22 AKST",
   "window": "Nov. 16-23, 2026",
-  "summary": "The Fairbanks court opened five criminal cases on Monday, Nov. 23. The most serious is a second-degree assault charge against a Fairbanks man over an incident the court record dates to Aug. 23, three months before the charge was filed. Alaska State Troopers report a disturbance arrest at a Fairbanks hotel early Monday, and court files have now been opened behind four weekend arrests reported here on Sunday and Monday as carrying none. The court's weekly charges report covers Nov. 16 to Nov. 22 and lists 39 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; the five cases opened on Nov. 23 fall outside that window and are not in its counts.",
+  "summary": "The Fairbanks court opened five criminal cases on Monday, Nov. 23. The most serious is a second-degree assault charge against a Fairbanks man over an incident the court record dates to Aug. 23, three months before the charge was filed. Charges were also filed during Monday in four cases opened over the weekend that had been recorded with no charging document, among them two cases that answer incidents troopers reported without naming anyone: a traffic stop on the Johansen Expressway and a disturbance at a Fairbanks hotel. The court's weekly charges report covers Nov. 16 to Nov. 22 and lists 39 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; the cases opened on Nov. 23 fall outside that window and are not in its counts.",
   "commentary": null,
   "entries": [
     {
@@ -79,6 +79,61 @@
       ]
     },
     {
+      "id": "hughes-dui-nov22",
+      "date": "2026-11-22",
+      "time": "01:40",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "dui",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02326CR",
+        "AK26114969"
+      ],
+      "title": "DUI arrest: Hunter James Hughes",
+      "body": [
+        "Hunter James Hughes is charged with driving under the influence of alcohol or a controlled substance and with driving while his license was canceled, revoked or suspended for a criminal offense, both Class A misdemeanors. Two further counts charge a minor operating a vehicle after consuming alcohol, which the court records as non-criminal, and improper use of registration, title or plates. Johansen Expressway just west of College Road, Fairbanks, Nov. 22 at about 1:40 a.m.; Alaska State Troopers. Case 4FA-26-02326CR; arraignment Nov. 27 before Judge Ben A. Seekins.",
+        "Troopers say they saw two vehicles stopped on the shoulder, the front one with a license plate hanging off it that did not belong to that vehicle; that one driver and all five passengers were under the influence of alcohol; and that the driver was taken to the Fairbanks Correctional Center. They say four of the five passengers were issued citations for minor consuming alcohol. The trooper report names no one and is matched to this case by charge, date and place."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02326CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "coger-harassment-nov22",
+      "date": "2026-11-22",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02327CR",
+        "AK26114974"
+      ],
+      "title": "Harassment and escape charges: Twyanna Titea Coger",
+      "body": [
+        "Twyanna Titea Coger is charged with harassment in the first degree - offensive contact with bodily fluids - and with escape in the fourth degree, removing oneself from police restraint, both Class A misdemeanors. Best Western Hotel, Fairbanks, offense date Nov. 22; Alaska State Troopers. Case 4FA-26-02327CR; arraignment Nov. 27 before Judge Maria P. Bahr.",
+        "Troopers say they responded to a disturbance at the hotel involving an intoxicated woman who is alleged to have set off a fire alarm without authorization, that she ran from troopers and was detained, that she later spat saliva at a trooper, and that while she was being taken to Fairbanks Memorial Hospital she removed a hand from her handcuffs. The trooper report names no one and is matched to this case by charge, date and place. Troopers also listed a criminal mischief charge; no such count appears on the court file."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 22",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02327CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
       "id": "fuzzard-dui-nov22",
       "date": "2026-11-22",
       "time": "14:39",
@@ -121,7 +176,7 @@
       "title": "Trespass arrest: Shane Trevor O'Brien",
       "body": [
         "Shane Trevor O'Brien, 39, was arrested on a charge of criminal trespass in the second degree - entering or remaining unlawfully on premises - recorded by police as a misdemeanor. 3200 block of Adams Drive, Fairbanks, Nov. 22 at 7:59 p.m.; Fairbanks Police.",
-        "Police case 26003545; court case 4FA-26-02337CR, opened Nov. 23. Arraignment Nov. 27 before Judge Ben A. Seekins."
+        "Police case 26003545; court case 4FA-26-02337CR, opened Nov. 23. The court file records a charging document as pending or not filed, so no charge class is stated on it. Arraignment Nov. 27 before Judge Ben A. Seekins."
       ],
       "sources": [
         {
@@ -147,7 +202,7 @@
       ],
       "title": "DUI arrest: Shannon Paul Rice",
       "body": [
-        "Shannon Paul Rice is charged with driving under the influence with a blood alcohol level of .08 or more, a Class A misdemeanor. Near Cushman Street, Fairbanks, Nov. 21; Alaska State Troopers. Case 4FA-26-02324CR; arraignment Nov. 27.",
+        "Shannon Paul Rice is charged with driving under the influence with a blood alcohol level of .08 or more, a Class A misdemeanor. Near Cushman Street, Fairbanks, Nov. 21; Alaska State Troopers. Case 4FA-26-02324CR; arraignment Nov. 27 before Judge Matthew C. Christian.",
         "Troopers say they stopped a Ford F-250 after seeing a non-functioning license plate light, that Rice admitted to recently consuming alcohol and showed signs of impairment, and that a breath test at the Fairbanks trooper post recorded a breath alcohol concentration of 0.085. Rice was taken to the Fairbanks Correctional Center."
       ],
       "sources": [
@@ -176,7 +231,7 @@
       "title": "Trespass arrest: Mona Jean Lawrence-Pailing",
       "body": [
         "Mona Jean Lawrence-Pailing, 55, is charged with criminal trespass in the first degree - entering or remaining unlawfully in a dwelling - a Class A misdemeanor, and with criminal mischief in the fifth degree, damaging property worth less than $250, a Class B misdemeanor. 100 block of Rosella Avenue, Fairbanks, Nov. 22 at 1 a.m.; Fairbanks Police.",
-        "Police case 26003540; court case 4FA-26-02325CR. Arraignment Nov. 27 before Judge Maria P. Bahr."
+        "Police case 26003540; court case 4FA-26-02325CR. The two counts the court filed are the two offenses police recorded, in the same degrees. Arraignment Nov. 27 before Judge Maria P. Bahr."
       ],
       "sources": [
         {
@@ -606,6 +661,42 @@
       "last_docket": "2026-11-23"
     },
     {
+      "case": "4FA-26-02327CR",
+      "defendant": "Coger, Twyanna Titea",
+      "level": "Class A misdemeanor (two counts)",
+      "charges": "Harassment in the first degree, offensive contact with bodily fluids; escape in the fourth degree, removing oneself from police restraint. Charges filed Nov. 23 on a case opened Nov. 22.",
+      "next": "Arraignment Nov. 27, 2026",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-23"
+    },
+    {
+      "case": "4FA-26-02326CR",
+      "defendant": "Hughes, Hunter James",
+      "level": "Class A misdemeanor (two counts), with two further counts",
+      "charges": "Driving under the influence; driving with a license canceled, revoked or suspended for a criminal offense; a minor operating a vehicle after consuming alcohol, recorded non-criminal; improper use of registration, title or plates. Charges filed Nov. 23 on a case opened Nov. 22.",
+      "next": "Arraignment Nov. 27, 2026",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-23"
+    },
+    {
+      "case": "4FA-26-02325CR",
+      "defendant": "Lawrence-Pailing, Mona Jean",
+      "level": "Class A misdemeanor; Class B misdemeanor",
+      "charges": "Criminal trespass in the first degree, in a dwelling; criminal mischief in the fifth degree, damage under $250. Charges filed Nov. 23 on a case opened Nov. 22.",
+      "next": "Arraignment Nov. 27, 2026",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-23"
+    },
+    {
+      "case": "4FA-26-02324CR",
+      "defendant": "Rice, Shannon Paul",
+      "level": "Class A misdemeanor",
+      "charges": "Driving under the influence, blood alcohol .08 or more. Charge filed Nov. 23 on a case opened Nov. 22.",
+      "next": "Arraignment Nov. 27, 2026",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-23"
+    },
+    {
       "case": "4FA-26-02308CR",
       "defendant": "Geuea, Donald Lawrence",
       "level": "Class B felony (two counts)",
@@ -663,7 +754,7 @@
       "case": "4DJ-26-00058CR",
       "defendant": "Parlin, Sara Mae",
       "level": "Misdemeanor",
-      "charges": "Misdemeanor case at the Delta Junction court.",
+      "charges": "Driving under the influence, blood alcohol .08 or more, at the Delta Junction court.",
       "next": "Jan. 19, 2027",
       "judge": "Young, Yvette",
       "last_docket": "2026-11-17"
