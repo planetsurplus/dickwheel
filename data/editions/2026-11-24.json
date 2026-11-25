@@ -1,10 +1,33 @@
 {
   "date": "2026-11-24",
-  "compiled": "03:34 AKST",
-  "window": "Nov. 17-24, 2026",
-  "summary": "Alaska State Troopers reported two Monday arrests late on Monday evening: a Fairbanks woman arrested on a household assault charge and on a warrant a Fairbanks judge had issued four days earlier, and a man arrested on a felony drug warrant at the Tok trooper post and held at the Fairbanks jail. Nothing had been posted for Tuesday on either the trooper dispatch or the Fairbanks police bulletin at the time of reading. The court's weekly charges report now covers Nov. 17 to Nov. 23 and lists 42 criminal cases filed at Fairbanks and none at Nenana, Healy or Delta Junction; five of the 42 were opened with no charging document filed.",
+  "compiled": "17:21 AKST",
+  "window": "Nov. 16-24, 2026",
+  "summary": "The Fairbanks court opened three criminal cases that appeared in its public database during Tuesday, among them a Class C felony assault charge filed on an offense date of the same day. Neither the Alaska State Troopers dispatch nor the Fairbanks police bulletin had reported anything in the Fairbanks area for Tuesday at the time of reading. A charging document was filed in the household assault arrest troopers reported late on Monday, and the court entered a Governor's Warrant of Arrest in a Fort Wainwright extradition case. The 42 Fairbanks filings counted below are the weekly charges report's own count for Nov. 17 to Nov. 23; the court also holds at least one case filed inside that window which the report does not list, 4FA-26-02342CR, filed Nov. 19.",
   "commentary": null,
   "entries": [
+    {
+      "id": "alexander-assault-nov24",
+      "date": "2026-11-24",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02340CR"
+      ],
+      "title": "Felony assault charge: Jeremiah Alexander",
+      "body": [
+        "Jeremiah Alexander is charged with assault in the third degree - causing fear of injury with a weapon - a Class C felony, punishable by up to five years. Fairbanks, offense date Nov. 24; the charge is recorded in the Alaska Court System case record.",
+        "The charge stands on a complaint rather than an indictment, and the court does not record it as domestic violence related.",
+        "Case 4FA-26-02340CR, before Judge Earl A. Peterson. Arraignment was held Nov. 24; preliminary hearings are set for Dec. 3 and Dec. 14."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02340CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "nicholson-assault-nov23",
       "date": "2026-11-23",
@@ -14,13 +37,15 @@
       "severity": "misdemeanor",
       "cases": [
         "AK26115399",
+        "4FA-26-02341CR",
         "4FA-26-01389CR"
       ],
       "title": "Assault arrest: Julianna Nicholson",
       "body": [
         "Julianna Nicholson, 29, of Fairbanks was arrested on charges of assault in the fourth degree, violating conditions of release, and an outstanding warrant. Assault in the fourth degree is recklessly injuring another person. Fairbanks, Nov. 23; Alaska State Troopers.",
         "Troopers say they responded to a residence in Fairbanks for a report of a disturbance and determined that Nicholson had assaulted a household member and had also violated her conditions of release.",
-        "The warrant was issued on Nov. 19 by the Fairbanks court in case 4FA-26-01389CR, an open case in which Nicholson is charged with assault in the fourth degree, a Class A misdemeanor the court records as domestic violence related. Bail on the warrant was set at a $250 performance bond and a $500 unsecured appearance bond."
+        "A charging document was filed on Nov. 24 in case 4FA-26-02341CR: one count of assault in the fourth degree, a Class A misdemeanor the court records as domestic violence related, and one count of violating conditions of release on a misdemeanor, a Class B misdemeanor. Arraignment was held Nov. 24; a pre-trial conference is set for Jan. 14, 2027 and trial week for Jan. 25, 2027.",
+        "The warrant was issued on Nov. 19 by the Fairbanks court in case 4FA-26-01389CR, a separate open case in which Nicholson is charged with assault in the fourth degree, a Class A misdemeanor the court records as domestic violence related. Bail on the warrant was set at a $250 performance bond and a $500 unsecured appearance bond."
       ],
       "sources": [
         {
@@ -28,7 +53,30 @@
           "url": "https://dailydispatch.dps.alaska.gov/"
         },
         {
-          "label": "Alaska CourtView, 4FA-26-01389CR",
+          "label": "Alaska CourtView, 4FA-26-02341CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "clarke-governors-warrant-nov24",
+      "date": "2026-11-24",
+      "place": "Fort Wainwright",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "4FA-26-01857CR"
+      ],
+      "title": "Governor's Warrant of Arrest entered in Fort Wainwright extradition case: Brenden James Clarke",
+      "body": [
+        "The Fairbanks court entered a Governor's Warrant of Arrest and a fugitive-from-justice temporary order on Nov. 24 in the case of Brenden James Clarke. The case is recorded as an arrest prior to requisition, fugitive from justice, offense location Fort Wainwright.",
+        "No charge class is recorded on the file, and the charges that another state may be pursuing are not part of this record.",
+        "Case 4FA-26-01857CR, before Judge Ben A. Seekins; next hearing Dec. 15."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-01857CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
@@ -75,12 +123,39 @@
       "title": "Assault and child-present charges: Emeline Janice Gallahorn",
       "body": [
         "Emeline Janice Gallahorn is charged with assault in the fourth degree - recklessly injuring another person - and with six counts of assault when a child is present, all seven Class A misdemeanors. The court records all seven counts as domestic violence related.",
-        "Fairbanks, offense date Nov. 19. Case 4FA-26-02319CR, before Judge Maria P. Bahr. Nothing beyond the court record is reported here."
+        "Fairbanks, offense date Nov. 19. Case 4FA-26-02319CR, before Judge Maria P. Bahr. Arraignment was held Nov. 20 and the court entered a writ of assistance in a domestic violence matter the same day.",
+        "A pre-trial conference is set for Jan. 14, 2027 and trial week for Jan. 25, 2027. Nothing beyond the court record is reported here."
       ],
       "sources": [
         {
+          "label": "Alaska CourtView, 4FA-26-02319CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
           "label": "Alaska Court System weekly criminal charges filed, run Nov. 23, 2026",
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+        }
+      ]
+    },
+    {
+      "id": "peebles-license-nov16",
+      "date": "2026-11-16",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02342CR"
+      ],
+      "title": "Driving with a revoked license: Akeil Natna Peebles",
+      "body": [
+        "Akeil Natna Peebles is charged with driving while his license was canceled, revoked or suspended, with a previous conviction - a Class A misdemeanor. Fairbanks, offense date Nov. 16.",
+        "Case 4FA-26-02342CR, filed Nov. 19 before Judge Ben A. Seekins. The charge was brought by the prosecutor on an Information rather than on a police complaint, and no hearing is set on the file."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02342CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     },
@@ -102,7 +177,7 @@
       "body": [
         "Five of the 42 criminal cases opened at the Fairbanks court between Nov. 17 and Nov. 23 carry a single entry recording a charging document as pending or not filed, and no charge or degree of offense. No charge has been brought in any of them.",
         "4FA-26-02307CR, State of Alaska vs. Shay Pitka, offense date Nov. 18. 4FA-26-02316CR, State of Alaska vs. Katrina Albert, Nov. 19. 4FA-26-02317CR, State of Alaska vs. Arlo Charles Leroy Smoke, Nov. 19. 4FA-26-02320CR, State of Alaska vs. Felipe Soto Gomez, Nov. 20. 4FA-26-02337CR, State of Alaska vs. Shane Trevor O'Brien, Nov. 22.",
-        "The court's weekly disposed-cases report shows three of the five - the Pitka, Albert and Smoke cases - already closed, with no charge ever filed. The O'Brien case is set for arraignment on Nov. 27."
+        "The court's weekly disposed-cases report shows three of the five - the Pitka, Albert and Smoke cases - already closed, with no charge ever filed. In the O'Brien case the court entered an order and conditions of release on Nov. 24, and arraignment is set for Nov. 27; still no charge is recorded."
       ],
       "sources": [
         {
@@ -112,6 +187,10 @@
         {
           "label": "Alaska Court System weekly criminal cases disposed, run Nov. 23, 2026",
           "url": "https://public.courts.alaska.gov/web/scheduled/docs/crimdisp.pdf"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02337CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
     }
@@ -137,6 +216,12 @@
       }
     ],
     "new": [
+      {
+        "case": "4FA-26-02342CR",
+        "defendant": "Peebles, Akeil Natna",
+        "charges": "Driving with a license canceled, revoked or suspended, with a previous conviction (Class A misdemeanor). Filed Nov. 19, inside the report's window but not listed in it.",
+        "felony": false
+      },
       {
         "case": "4FA-26-02339CR",
         "defendant": "Bouling, Roger L",
@@ -183,13 +268,40 @@
   },
   "open_cases": [
     {
+      "case": "4FA-26-02342CR",
+      "defendant": "Peebles, Akeil Natna",
+      "level": "Class A misdemeanor",
+      "charges": "Driving with a license canceled, revoked or suspended, with a previous conviction. Offense date Nov. 16.",
+      "next": "No event set on the file",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-19"
+    },
+    {
+      "case": "4FA-26-02341CR",
+      "defendant": "Nicholson, Julianna Katherine Faith",
+      "level": "Class A misdemeanor; Class B misdemeanor",
+      "charges": "Assault in the fourth degree, recklessly injuring another person, recorded as domestic violence related; violating conditions of release on a misdemeanor. Offense date Nov. 23.",
+      "next": "Pre-trial conference Jan. 14, 2027; trial week Jan. 25, 2027",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-24"
+    },
+    {
+      "case": "4FA-26-02340CR",
+      "defendant": "Alexander, Jeremiah",
+      "level": "Class C felony",
+      "charges": "Assault in the third degree, causing fear of injury with a weapon. Offense date Nov. 24, Fairbanks. Charged on a complaint.",
+      "next": "Preliminary hearings Dec. 3 and Dec. 14, 2026",
+      "judge": "Peterson, Earl A",
+      "last_docket": "2026-11-24"
+    },
+    {
       "case": "4FA-26-02339CR",
       "defendant": "Bouling, Roger L",
       "level": "Class B felony",
       "charges": "Assault in the second degree, causing injury with a dangerous instrument; assault when a child is present. Both counts domestic violence related. Offense date Aug. 23, 2026.",
       "next": "Preliminary hearings Dec. 3 and Dec. 10, 2026",
       "judge": "Bennett, Brent E",
-      "last_docket": "2026-11-23"
+      "last_docket": "2026-11-24"
     },
     {
       "case": "4FA-26-02338CR",
@@ -207,7 +319,7 @@
       "charges": "Charging document pending or not filed. Police recorded the arrest as criminal trespass in the second degree.",
       "next": "Arraignment Nov. 27, 2026",
       "judge": "Seekins, Ben A",
-      "last_docket": "None on the file"
+      "last_docket": "2026-11-24"
     },
     {
       "case": "4FA-26-02336CR",
@@ -225,7 +337,16 @@
       "charges": "Disorderly conduct, creating a hazardous condition.",
       "next": "Arraignment Dec. 1, 2026",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-23"
+      "last_docket": "2026-11-24"
+    },
+    {
+      "case": "4FA-26-02330CR",
+      "defendant": "Woods, Ian Ray",
+      "level": "Class C felony; Class B misdemeanor",
+      "charges": "Burglary in the second degree; criminal mischief in the fifth degree, damage under $250.",
+      "next": "Not stated on the file",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-11-24"
     },
     {
       "case": "4FA-26-02327CR",
@@ -264,6 +385,15 @@
       "last_docket": "2026-11-23"
     },
     {
+      "case": "4FA-26-02319CR",
+      "defendant": "Gallahorn, Emeline Janice",
+      "level": "Class A misdemeanor (seven counts)",
+      "charges": "Assault in the fourth degree, recklessly injuring another person; six counts of assault when a child is present. All seven domestic violence related. Offense date Nov. 19.",
+      "next": "Pre-trial conference Jan. 14, 2027; trial week Jan. 25, 2027",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-23"
+    },
+    {
       "case": "4FA-26-02308CR",
       "defendant": "Geuea, Donald Lawrence",
       "level": "Class B felony (two counts)",
@@ -284,11 +414,11 @@
     {
       "case": "4FA-26-01857CR",
       "defendant": "Clarke, Brenden James",
-      "level": "Other",
-      "charges": "Arrest prior to requisition, fugitive from justice. Offense location Fort Wainwright.",
+      "level": "Not stated on the file",
+      "charges": "Arrest prior to requisition, fugitive from justice. Offense location Fort Wainwright. A Governor's Warrant of Arrest and a fugitive-from-justice temporary order were entered Nov. 24.",
       "next": "Hearing Dec. 15, 2026",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-11-17"
+      "last_docket": "2026-11-24"
     },
     {
       "case": "4FA-26-01818CR",
@@ -311,18 +441,18 @@
     {
       "case": "4NE-26-00095CR",
       "defendant": "Hansen, Lillybeth Elyce",
-      "level": "Felony",
-      "charges": "Driving under the influence with prior convictions.",
-      "next": "Calendar call Dec. 22, 2026",
+      "level": "Class C felony",
+      "charges": "Driving under the influence with two or more prior convictions, with two misdemeanor counts. Nenana court.",
+      "next": "Calendar call Dec. 22, 2026; trial week Jan. 11, 2027",
       "judge": "Peterson, Earl A",
       "last_docket": "2026-11-17"
     },
     {
       "case": "4DJ-26-00058CR",
       "defendant": "Parlin, Sara Mae",
-      "level": "Misdemeanor",
+      "level": "Class A misdemeanor",
       "charges": "Driving under the influence, blood alcohol .08 or more, at the Delta Junction court.",
-      "next": "Jan. 19, 2027",
+      "next": "Rural calendar call Jan. 19, 2027",
       "judge": "Young, Yvette",
       "last_docket": "2026-11-17"
     },
@@ -340,7 +470,7 @@
       "defendant": "Moff, Amanda Elizabeth",
       "level": "Class C felony",
       "charges": "One indicted count of tampering with physical evidence to prevent a proceeding.",
-      "next": "Jan. 28, 2027",
+      "next": "Omnibus hearing Jan. 28, 2027; trial week Feb. 15, 2027",
       "judge": "Not assigned on the file",
       "last_docket": "2026-11-05"
     },
@@ -349,7 +479,7 @@
       "defendant": "Forness, Joseph Trygve",
       "level": "Felony",
       "charges": "The court record states counts involving a child complainant; nothing beyond the counts is reproduced.",
-      "next": "Status hearing Dec. 3, 2026",
+      "next": "Omnibus hearing Dec. 3, 2026; trial week Dec. 21, 2026",
       "judge": "Schwalm, Kirk F",
       "last_docket": "2026-11-04"
     },
