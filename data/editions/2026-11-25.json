@@ -1,10 +1,85 @@
 {
   "date": "2026-11-25",
-  "compiled": "03:39 AKST",
+  "compiled": "17:16 AKST",
   "window": "Nov. 20-25, 2026",
-  "summary": "Fairbanks police recorded two arrests on Tuesday: a felony assault arrest on Twelfth Avenue and a theft and trespass arrest on South Cushman Street. A Fairbanks case opened last week with no charge against it now carries a drink-driving count. Neither the Alaska State Troopers dispatch nor the Fairbanks police bulletin had reported anything in the Fairbanks area for Wednesday at the time of reading. The 37 Fairbanks filings counted below are the weekly charges report's own count for its window of Nov. 18 to Nov. 24; that report lists no cases at the Nenana, Healy or Delta Junction courts for the week.",
+  "summary": "The Fairbanks court sent two cases to a grand jury on Wednesday: a North Pole sexual abuse of a minor case and a Fairbanks assault case with a child-present count. Five new Fairbanks criminal cases were opened, one of them closed the same afternoon when no charging document was filed behind a felony assault arrest. Troopers reported a pickup taken from a Fairbanks mobile home park. The 37 Fairbanks filings counted below are the weekly charges report's own count for its window of Nov. 18 to Nov. 24, and that report lists no cases at the Nenana, Healy or Delta Junction courts for the week; the court has also filed at least one Fairbanks case inside that window, 4FA-26-02345CR of Nov. 23, that the report does not list.",
   "commentary": null,
   "entries": [
+    {
+      "id": "geuea-indictment-nov25",
+      "date": "2026-11-25",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02308CR"
+      ],
+      "title": "Sexual abuse of a minor indictment: Donald Lawrence Geuea",
+      "body": [
+        "Donald Lawrence Geuea is charged with two counts of sexual abuse of a minor in the second degree - sexual contact with a child under 13 - each a Class B felony. The court records both counts as domestic violence related. The offense location is North Pole and the offense date on the file is June 1, 2023.",
+        "A grand jury indictment was filed on Nov. 25 and the case was transferred to the Superior Court.",
+        "Case 4FA-26-02308CR. Superior Court arraignment Dec. 2 before Judge Brent E. Bennett; omnibus hearing Jan. 21, 2027; trial week Feb. 8, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02308CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "bouling-indictment-nov25",
+      "date": "2026-11-25",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "court",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02339CR"
+      ],
+      "title": "Assault indictment: Roger L Bouling",
+      "body": [
+        "Roger L Bouling is charged with assault in the second degree - intentionally causing injury with a dangerous instrument - a Class B felony, punishable by up to 10 years; and with assault when a child is present, a Class A misdemeanor, which is a fourth-degree assault committed in a child's presence. The court records both counts as domestic violence related. Fairbanks, offense date Aug. 23, 2026.",
+        "A grand jury indictment was filed on Nov. 25, with a further information adding the misdemeanor count to it.",
+        "Case 4FA-26-02339CR. Bail hearing Nov. 30; Superior Court arraignment Dec. 16; trial week Jan. 4, 2027, before Judge Brent E. Bennett."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02339CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "aparezuk-no-charge-nov24",
+      "date": "2026-11-24",
+      "time": "18:22",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "violent",
+      "severity": "other",
+      "cases": [
+        "26003569",
+        "4FA-26-02346CR"
+      ],
+      "title": "Felony assault arrest closed with no charge filed: Isaiah Joseph Aparezuk",
+      "body": [
+        "Isaiah Joseph Aparezuk, 19, was arrested on a charge of assault in the third degree - causing another person to fear injury with a weapon - which Fairbanks Police recorded as a felony. 700 block of Seventh Avenue, Fairbanks, Nov. 24 at 6:22 p.m.; Fairbanks Police.",
+        "The Fairbanks court opened a case in his name on Nov. 25 and closed it the same day, recording that no complaint or citation was filed. No charge was brought and no charge class appears on the court record.",
+        "Police case 26003569; court case 4FA-26-02346CR, closed."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Nov. 24",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02346CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
     {
       "id": "alexander-assault-arrest-nov24",
       "date": "2026-11-24",
@@ -20,8 +95,8 @@
       "title": "Felony assault arrest: Jeremiah Fagan Alexander",
       "body": [
         "Jeremiah Fagan Alexander, 35, was arrested on a charge of assault in the third degree - causing another person to fear injury with a weapon - a Class C felony, punishable by up to five years. 500 block of Twelfth Avenue, Fairbanks, Nov. 24 at 1:41 a.m.; Fairbanks Police.",
-        "The Fairbanks court filed one count the same day. The charge stands on a complaint rather than an indictment, and the court does not record it as domestic violence related.",
-        "Police case 26003560; court case 4FA-26-02340CR, before Judge Earl A. Peterson. Arraignment was held Nov. 24 and counsel was appointed from the bench. Preliminary hearings are set for Dec. 3 and Dec. 14."
+        "The Fairbanks court filed one count the same day. The court does not record the count as domestic violence related.",
+        "Police case 26003560; court case 4FA-26-02340CR, before Judge Earl A. Peterson. Preliminary hearings Dec. 3 and Dec. 14."
       ],
       "sources": [
         {
@@ -31,6 +106,10 @@
         {
           "label": "Alaska CourtView, 4FA-26-02340CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        },
+        {
+          "label": "Fairbanks Daily News-Miner public safety report, Nov. 25",
+          "url": "https://www.newsminer.com/news/public_safety_report/"
         }
       ]
     },
@@ -43,12 +122,13 @@
       "category": "property",
       "severity": "misdemeanor",
       "cases": [
-        "26003568"
+        "26003568",
+        "4FA-26-02344CR"
       ],
-      "title": "Theft and trespass arrest: Oliver L Delp",
+      "title": "Theft and trespass arrest: Oliver Leon Delp",
       "body": [
-        "Oliver L Delp, 36, was arrested on charges of theft in the fourth degree - taking property worth less than $250 - and criminal trespass in the second degree - entering or remaining on premises unlawfully. Both are recorded by police as misdemeanors. 1500 block of South Cushman Street, Fairbanks, Nov. 24 at 3:54 p.m.; Fairbanks Police.",
-        "Police case 26003568. The Alaska Court System case record holds no 2026 case in this name, so no charge class and no court date are stated here."
+        "Oliver Leon Delp, 36, is charged with criminal trespass in the second degree - entering or remaining unlawfully on another's premises - and theft in the fourth degree - taking property worth less than $250. Both are Class B misdemeanors. 1500 block of South Cushman Street, Fairbanks, Nov. 24 at 3:54 p.m.; Fairbanks Police.",
+        "Case 4FA-26-02344CR, filed Nov. 25 before Judge Ben A. Seekins. Arraignment Dec. 1."
       ],
       "sources": [
         {
@@ -56,7 +136,29 @@
           "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
         },
         {
-          "label": "Alaska CourtView name index",
+          "label": "Alaska CourtView, 4FA-26-02344CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "crane-game-charges-nov23",
+      "date": "2026-11-23",
+      "place": "Fairbanks",
+      "agency": "Alaska Court System",
+      "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02345CR"
+      ],
+      "title": "Brown bear and trail camera charges: Michael S Crane",
+      "body": [
+        "Michael S Crane is charged with two counts drawn from the state hunting regulations: brown bear seasons and bag limits for Unit 20B, and an unlawful method of taking game recorded on the file as a wireless trail camera. Both are Class A misdemeanors. Fairbanks, offense date June 20, 2026.",
+        "Case 4FA-26-02345CR, filed Nov. 23 before Judge Maria P. Bahr. A summons was issued to the Alaska State Troopers at Fairbanks on Nov. 25. No court date is set on the file."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02345CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
         }
       ]
@@ -74,17 +176,36 @@
       "title": "DUI charge: Felipe Gomez Soto",
       "body": [
         "Felipe Gomez Soto is charged with driving under the influence of alcohol or a controlled substance, a Class A misdemeanor. Fairbanks, offense date Nov. 20.",
-        "The charge was brought by the prosecutor on an Information rather than on a police complaint, and the court does not record the count as domestic violence related. The case was opened on Nov. 21 with no charge recorded against it, and the charge has been entered since.",
-        "Case 4FA-26-02320CR, before Judge Ben A. Seekins. Arraignment is set for Nov. 27 at 8:30 a.m."
+        "Case 4FA-26-02320CR, before Judge Ben A. Seekins. Arraignment Nov. 27."
       ],
       "sources": [
         {
           "label": "Alaska CourtView, 4FA-26-02320CR",
           "url": "https://records.courts.alaska.gov/eaccess/home.page"
-        },
+        }
+      ]
+    },
+    {
+      "id": "wildwood-vehicle-theft-nov25",
+      "date": "2026-11-25",
+      "time": "07:10",
+      "place": "Fairbanks",
+      "agency": "Alaska State Troopers",
+      "category": "property",
+      "severity": "other",
+      "cases": [
+        "AK26115992"
+      ],
+      "title": "Pickup reported stolen from a Fairbanks mobile home park",
+      "body": [
+        "Troopers say they received a delayed report of a stolen vehicle at about 7:10 a.m. on Nov. 25. The complainant reported that a green 1997 Ford F250 was taken from Wildwood Mobile Home Park between 8 a.m. on Nov. 24 and 7:10 a.m. on Nov. 25.",
+        "Troopers describe the truck as having a plow mount with no plow, rust above the rear wheel wells, an aluminum toolbox, a rectangular hole in the driver's side of the front bumper, circular LED lights on the rear bumper and several bumper stickers. No arrest has been reported and the investigation is continuing.",
+        "Incident AK26115992."
+      ],
+      "sources": [
         {
-          "label": "Alaska Court System weekly criminal charges filed, run Nov. 24, 2026",
-          "url": "https://public.courts.alaska.gov/web/scheduled/docs/crchgfiled.pdf"
+          "label": "AST daily dispatch, Nov. 25",
+          "url": "https://dailydispatch.dps.alaska.gov/"
         }
       ]
     }
@@ -111,15 +232,51 @@
     ],
     "new": [
       {
+        "case": "4FA-26-02347CR",
+        "defendant": "Weeks, Isaiah Joseph",
+        "charges": "Charging document pending or not filed; no charge and no offense date recorded. Opened Nov. 25.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02346CR",
+        "defendant": "Aparezuk, Isaiah Joseph",
+        "charges": "No complaint or citation filed; the case was closed on Nov. 25, the day it was opened.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02345CR",
+        "defendant": "Crane, Michael S",
+        "charges": "Brown bear seasons and bag limits, Unit 20B; unlawful method of taking game, wireless trail camera (two Class A misdemeanors). Filed Nov. 23.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02344CR",
+        "defendant": "Delp, Oliver Leon",
+        "charges": "Criminal trespass in the second degree; theft in the fourth degree, under $250 (two Class B misdemeanors). Filed Nov. 25.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02343CR",
+        "defendant": "Moses Jr, Beattus",
+        "charges": "Charging document pending or not filed. Opened Nov. 25, offense date Nov. 25.",
+        "felony": false
+      },
+      {
         "case": "4FA-26-02320CR",
         "defendant": "Soto, Felipe Gomez",
-        "charges": "Driving under the influence of alcohol or a controlled substance (Class A misdemeanor). Brought on an Information filed Nov. 21; the case was opened with no charge recorded.",
+        "charges": "Driving under the influence of alcohol or a controlled substance (Class A misdemeanor).",
         "felony": false
       },
       {
         "case": "4FA-26-02342CR",
         "defendant": "Peebles, Akeil Natna",
-        "charges": "Driving with a license canceled, revoked or suspended, with a previous conviction (Class A misdemeanor). Filed Nov. 19; listed in the weekly report for the first time in this run.",
+        "charges": "Driving with a license canceled, revoked or suspended, with a previous conviction (Class A misdemeanor). Filed Nov. 19.",
+        "felony": false
+      },
+      {
+        "case": "4FA-26-02341CR",
+        "defendant": "Nicholson, Julianna Katherine Faith",
+        "charges": "Assault in the fourth degree, recklessly injuring another person (Class A misdemeanor), domestic violence related; violating conditions of release on a misdemeanor (Class B misdemeanor)",
         "felony": false
       },
       {
@@ -129,15 +286,9 @@
         "felony": true
       },
       {
-        "case": "4FA-26-02341CR",
-        "defendant": "Nicholson, Julianna Katherine Faith",
-        "charges": "Assault in the fourth degree, recklessly injuring another person (Class A misdemeanor), domestic violence related; violating conditions of release on a misdemeanor (Class B misdemeanor)",
-        "felony": false
-      },
-      {
         "case": "4FA-26-02339CR",
         "defendant": "Bouling, Roger L",
-        "charges": "Assault in the second degree, injury with a weapon, intent (Class B felony); assault when a child is present (Class A misdemeanor). Both domestic violence related.",
+        "charges": "Assault in the second degree, injury with a weapon, intent (Class B felony); assault when a child is present (Class A misdemeanor). Both domestic violence related. Indicted Nov. 25.",
         "felony": true
       },
       {
@@ -155,7 +306,7 @@
       {
         "case": "4FA-26-02308CR",
         "defendant": "Geuea, Donald Lawrence",
-        "charges": "Two counts of sexual abuse of a minor in the second degree (Class B felony), both domestic violence related. Offense location North Pole.",
+        "charges": "Two counts of sexual abuse of a minor in the second degree (Class B felony), both domestic violence related. Offense location North Pole. Indicted Nov. 25.",
         "felony": true
       }
     ]
@@ -200,13 +351,58 @@
   ],
   "open_cases": [
     {
+      "case": "4FA-26-02347CR",
+      "defendant": "Weeks, Isaiah Joseph",
+      "level": "Not stated on the file",
+      "charges": "Charging document pending or not filed. No offense date or location recorded.",
+      "next": "No event set on the file",
+      "judge": "Seekins, Ben A",
+      "last_docket": null
+    },
+    {
+      "case": "4FA-26-02346CR",
+      "defendant": "Aparezuk, Isaiah Joseph",
+      "level": "Not stated on the file",
+      "charges": "No complaint or citation filed. Case closed Nov. 25.",
+      "next": "No event set; case closed",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-25"
+    },
+    {
+      "case": "4FA-26-02345CR",
+      "defendant": "Crane, Michael S",
+      "level": "Class A misdemeanor (two counts)",
+      "charges": "Brown bear seasons and bag limits, Unit 20B; unlawful method of taking game, wireless trail camera. Offense date June 20, 2026.",
+      "next": "No event set on the file",
+      "judge": "Bahr, Maria P",
+      "last_docket": "2026-11-25"
+    },
+    {
+      "case": "4FA-26-02344CR",
+      "defendant": "Delp, Oliver Leon",
+      "level": "Class B misdemeanor (two counts)",
+      "charges": "Criminal trespass in the second degree; theft in the fourth degree, under $250. Offense date Nov. 24.",
+      "next": "Arraignment Dec. 1, 2026",
+      "judge": "Seekins, Ben A",
+      "last_docket": "2026-11-25"
+    },
+    {
+      "case": "4FA-26-02343CR",
+      "defendant": "Moses Jr, Beattus",
+      "level": "Not stated on the file",
+      "charges": "Charging document pending or not filed. Offense date Nov. 25, Fairbanks.",
+      "next": "Arraignment Dec. 1, 2026",
+      "judge": "Bahr, Maria P",
+      "last_docket": null
+    },
+    {
       "case": "4FA-26-02342CR",
       "defendant": "Peebles, Akeil Natna",
       "level": "Class A misdemeanor",
       "charges": "Driving with a license canceled, revoked or suspended, with a previous conviction. Offense date Nov. 16.",
-      "next": "No event set on the file",
+      "next": "No hearing set; a summons was issued Nov. 25",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-11-19"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-02341CR",
@@ -215,25 +411,25 @@
       "charges": "Assault in the fourth degree, recklessly injuring another person, recorded as domestic violence related; violating conditions of release on a misdemeanor. Offense date Nov. 23.",
       "next": "Pre-trial conference Jan. 14, 2027; trial week Jan. 25, 2027",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-24"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-02340CR",
       "defendant": "Alexander, Jeremiah",
       "level": "Class C felony",
-      "charges": "Assault in the third degree, causing fear of injury with a weapon. Offense date Nov. 24, Fairbanks. Charged on a complaint.",
+      "charges": "Assault in the third degree, causing fear of injury with a weapon. Offense date Nov. 24, Fairbanks.",
       "next": "Preliminary hearings Dec. 3 and Dec. 14, 2026",
       "judge": "Peterson, Earl A",
-      "last_docket": "2026-11-24"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-02339CR",
       "defendant": "Bouling, Roger L",
-      "level": "Class B felony",
-      "charges": "Assault in the second degree, causing injury with a weapon; assault when a child is present. Both counts domestic violence related. Offense date Aug. 23, 2026.",
-      "next": "Preliminary hearings Dec. 3 and Dec. 10, 2026",
+      "level": "Class B felony; Class A misdemeanor",
+      "charges": "Assault in the second degree, causing injury with a weapon; assault when a child is present. Both counts domestic violence related. Offense date Aug. 23, 2026. Indicted Nov. 25.",
+      "next": "Bail hearing Nov. 30; Superior Court arraignment Dec. 16, 2026",
       "judge": "Bennett, Brent E",
-      "last_docket": "2026-11-24"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-02338CR",
@@ -242,7 +438,7 @@
       "charges": "Assault in the fourth degree, causing another person to fear injury.",
       "next": "Pre-trial conference Jan. 7, 2027; trial week Jan. 19, 2027",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-11-23"
+      "last_docket": "2026-11-24"
     },
     {
       "case": "4FA-26-02337CR",
@@ -276,9 +472,9 @@
       "defendant": "Wright, Lisa Anne",
       "level": "Class A misdemeanor; Class B misdemeanor",
       "charges": "Assault in the fourth degree, recklessly injuring another person, domestic violence related; violating conditions of release on a misdemeanor. Offense location North Pole, offense date Nov. 22.",
-      "next": "Not stated on the file",
+      "next": "Pre-trial conference Jan. 7, 2027; trial week Jan. 19, 2027",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-11-24"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-02333CR",
@@ -294,9 +490,9 @@
       "defendant": "Burgess, William Doug",
       "level": "Class A misdemeanor",
       "charges": "Violating a domestic violence protective order, recorded as domestic violence related. Offense date Nov. 22.",
-      "next": "Pre-trial conference Jan. 28, 2027; trial week Feb. 8, 2027",
+      "next": "Bail hearing Nov. 27, 2026; pre-trial conference Jan. 28, 2027",
       "judge": "Seekins, Ben A",
-      "last_docket": "2026-11-23"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-02331CR",
@@ -332,7 +528,7 @@
       "charges": "Criminal trespass in the second degree; violating conditions of release on a misdemeanor. Offense date Nov. 21.",
       "next": "Not stated on the file",
       "judge": "Christian, Matthew C",
-      "last_docket": "2026-11-22"
+      "last_docket": "2026-11-24"
     },
     {
       "case": "4FA-26-02327CR",
@@ -374,7 +570,7 @@
       "case": "4FA-26-02320CR",
       "defendant": "Soto, Felipe Gomez",
       "level": "Class A misdemeanor",
-      "charges": "Driving under the influence of alcohol or a controlled substance. Offense date Nov. 20. Brought on an Information.",
+      "charges": "Driving under the influence of alcohol or a controlled substance. Offense date Nov. 20.",
       "next": "Arraignment Nov. 27, 2026",
       "judge": "Seekins, Ben A",
       "last_docket": "2026-11-23"
@@ -384,18 +580,18 @@
       "defendant": "Gallahorn, Emeline Janice",
       "level": "Class A misdemeanor (seven counts)",
       "charges": "Assault in the fourth degree, recklessly injuring another person; six counts of assault when a child is present. All seven domestic violence related. Offense date Nov. 19.",
-      "next": "Pre-trial conference Jan. 14, 2027; trial week Jan. 25, 2027",
+      "next": "Bail hearing Nov. 27, 2026; pre-trial conference Jan. 14, 2027",
       "judge": "Bahr, Maria P",
-      "last_docket": "2026-11-23"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-02308CR",
       "defendant": "Geuea, Donald Lawrence",
       "level": "Class B felony (two counts)",
-      "charges": "Two counts of sexual abuse of a minor in the second degree; both domestic violence related. Offense location North Pole.",
-      "next": "Preliminary hearings Nov. 25 and Dec. 8, 2026",
-      "judge": "Welch, Amy K",
-      "last_docket": "2026-11-18"
+      "charges": "Two counts of sexual abuse of a minor in the second degree; both domestic violence related. Offense location North Pole. Indicted Nov. 25 and transferred to the Superior Court.",
+      "next": "Superior Court arraignment Dec. 2, 2026; trial week Feb. 8, 2027",
+      "judge": "Bennett, Brent E",
+      "last_docket": "2026-11-25"
     },
     {
       "case": "4FA-26-01857CR",
