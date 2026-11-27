@@ -1,8 +1,8 @@
 {
   "date": "2026-11-26",
-  "compiled": "03:55 AKST",
+  "compiled": "17:15 AKST",
   "window": "Nov. 22-26, 2026",
-  "summary": "Troopers report a late-night traffic stop on University Avenue in Fairbanks that ended with a man arrested inside an apartment building on Kathryn Avenue; no court case has been filed behind it. Fairbanks Police posted one arrest for Nov. 25, at the 1900 block of Airport Way. No new criminal case was opened at the Fairbanks court on Nov. 26, which is Thanksgiving, and none of the cases listed below moved. The 36 Fairbanks filings counted here are the weekly charges report's own count for its window of Nov. 19 to Nov. 25, and that report lists no cases at the Nenana, Healy or Delta Junction courts for the week. The report now lists 4FA-26-02345CR, filed Nov. 23, which the previous week's report left out.",
+  "summary": "The Fairbanks court opened four criminal files on Nov. 26, Thanksgiving Day, and arraigned three of them: a felony criminal mischief charge over a Rickert Street dwelling, a felony weapons charge at North Pole on an offense dated Oct. 22, a domestic violence assault charge at North Pole, and the charges filed over a trooper pursuit on University Avenue the night before. Troopers also report a domestic violence arrest at Northway, with the remand to the Fairbanks jail, and an arrest for driving with a revoked license after a collision at Badger and Ladessa roads. The 36 Fairbanks filings counted below are the weekly charges report's own count for its window of Nov. 19 to Nov. 25, and that report lists no cases at the Nenana, Healy or Delta Junction courts for the week; the four cases the court filed on Nov. 26 fall after the report's window.",
   "commentary": null,
   "entries": [
     {
@@ -12,16 +12,138 @@
       "place": "Fairbanks",
       "agency": "Alaska State Troopers",
       "category": "other",
+      "severity": "misdemeanor",
+      "cases": [
+        "AK26116317",
+        "4FA-26-02351CR"
+      ],
+      "title": "Reckless driving and license charges: Daniel Dean Bishop",
+      "body": [
+        "Daniel Dean Bishop, 54, of Fairbanks is charged with reckless driving and with driving while his license was canceled, revoked or suspended for a criminal offense. Reckless driving means driving with a willful disregard for persons or property; the license count is a Class A misdemeanor. A third count, driving in violation of a license limitation, is recorded as a non-criminal infraction. University Avenue near Goldizen Avenue, Fairbanks, Nov. 25 at about 10:11 p.m.; Alaska State Troopers.",
+        "Troopers say they tried to stop a pickup truck for an equipment violation, that the driver did not stop and kept driving, that he later stopped and tried to flee into an apartment building on Kathryn Avenue, and that he physically resisted being taken into custody. Troopers say alcohol and drugs were determined to be a factor and that the investigation is continuing. He was remanded at the Fairbanks Correctional Center.",
+        "Case 4FA-26-02351CR, arraigned Nov. 26, with a pre-trial conference Jan. 21, 2027. The offenses troopers listed at the time of arrest included failure to stop at the direction of a peace officer and resisting arrest; neither appears on the charging document the State filed."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 26",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02351CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "arazo-rickert-nov25",
+      "date": "2026-11-25",
+      "time": "20:45",
+      "place": "Fairbanks",
+      "agency": "Fairbanks Police Department",
+      "category": "property",
+      "severity": "felony",
+      "cases": [
+        "26003585",
+        "4FA-26-02348CR"
+      ],
+      "title": "Felony criminal mischief arrest: Za'quiohn E'Mar Arazo",
+      "body": [
+        "Za'quiohn E'Mar Arazo, 29, is charged with criminal mischief in the third degree, damaging property worth $750 or more, a Class C felony punishable by up to five years, and with criminal trespass in the first degree, entering or remaining unlawfully in a dwelling, a Class A misdemeanor. 2100 block of Rickert Street, Fairbanks, Nov. 25 at 8:45 p.m.; Fairbanks Police.",
+        "Police case 26003585; court case 4FA-26-02348CR, arraigned Nov. 26, with preliminary hearings set for Dec. 3 and Dec. 16."
+      ],
+      "sources": [
+        {
+          "label": "FPD daily bulletin, Nov. 25",
+          "url": "https://fairbanksalaska.policetocitizen.com/DailyBulletin"
+        },
+        {
+          "label": "Alaska CourtView, 4FA-26-02348CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "verbus-north-pole-nov25",
+      "date": "2026-11-25",
+      "place": "North Pole",
+      "agency": "Alaska Court System",
+      "category": "violent",
+      "severity": "misdemeanor",
+      "cases": [
+        "4FA-26-02350CR"
+      ],
+      "title": "Domestic violence assault charge: Adam Dwayne Verbus Jr.",
+      "body": [
+        "Adam Dwayne Verbus Jr. is charged with assault in the fourth degree, recklessly injuring another person, a Class A misdemeanor, and with criminal mischief in the fifth degree, damaging property worth less than $250, a Class B misdemeanor. The court record flags both counts as domestic violence related. North Pole, Nov. 25.",
+        "Case 4FA-26-02350CR, filed and arraigned Nov. 26, with a pre-trial conference Jan. 21, 2027."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02350CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "richardson-weapons-oct22",
+      "date": "2026-10-22",
+      "place": "North Pole",
+      "agency": "State of Alaska",
+      "category": "other",
+      "severity": "felony",
+      "cases": [
+        "4FA-26-02349CR"
+      ],
+      "title": "Weapons charge: Raidyn Richardson",
+      "body": [
+        "Raidyn Richardson is charged with misconduct involving weapons in the third degree, possessing a concealable firearm after a felony conviction, a Class C felony punishable by up to five years. North Pole, Oct. 22; the State filed the charge on Nov. 26.",
+        "Case 4FA-26-02349CR. A warrant was issued to the Alaska State Troopers at Fairbanks with performance bail set at $5,000. No court date is set."
+      ],
+      "sources": [
+        {
+          "label": "Alaska CourtView, 4FA-26-02349CR",
+          "url": "https://records.courts.alaska.gov/eaccess/home.page"
+        }
+      ]
+    },
+    {
+      "id": "northway-dv-nov26",
+      "date": "2026-11-26",
+      "time": "01:06",
+      "place": "Northway",
+      "agency": "Alaska State Troopers",
+      "category": "violent",
       "severity": "other",
       "cases": [
-        "AK26116317"
+        "AK26116366"
       ],
-      "title": "Failure to stop and resisting arrest: Daniel D. Bishop",
+      "title": "Domestic violence and DUI arrest: Eva DeBose",
       "body": [
-        "Daniel D. Bishop, 54, of Fairbanks was arrested on charges troopers list as failure to stop at the direction of a peace officer, reckless driving, resisting arrest, driving while his license was revoked, and driving in violation of a license limitation. University Avenue near Goldizen Avenue, Fairbanks, Nov. 25 at about 10:11 p.m.; Alaska State Troopers.",
-        "Failure to stop at the direction of a peace officer means not pulling over when an officer signals. Resisting arrest means using force to resist being taken into custody.",
-        "Troopers say they tried to stop a pickup truck for an equipment violation, that the driver did not stop and kept driving, that he later stopped and tried to flee into an apartment building on Kathryn Avenue, and that he physically resisted being taken into custody. Troopers say alcohol and drugs were determined to be a factor and that the investigation is continuing.",
-        "He was remanded at the Fairbanks Correctional Center. Incident AK26116317. No court case has been filed."
+        "Eva DeBose, 36, of Northway was arrested on charges of assault in the fourth degree (domestic violence), three counts of assault in the presence of a child, criminal mischief in the fourth degree, driving under the influence, and refusal to submit to a chemical test. Northway, Nov. 26 at 1:06 a.m.; Alaska State Troopers.",
+        "Troopers say they responded to a report of a disturbance at a residence and made the arrest after investigating. She was remanded to the Fairbanks Correctional Center and held without bail. Incident AK26116366. Northway is outside the Fairbanks area; the arrest is listed here because the remand was to the Fairbanks jail."
+      ],
+      "sources": [
+        {
+          "label": "AST daily dispatch, Nov. 26",
+          "url": "https://dailydispatch.dps.alaska.gov/"
+        }
+      ]
+    },
+    {
+      "id": "badger-ladessa-nov26",
+      "date": "2026-11-26",
+      "time": "12:33",
+      "place": "North Pole",
+      "agency": "Alaska State Troopers",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "AK26116411"
+      ],
+      "title": "Driving while license revoked arrest after a North Pole collision",
+      "body": [
+        "A 38-year-old North Pole man was arrested on a charge of driving while his license was revoked, after a single-vehicle collision. Badger Road at Ladessa Road, North Pole, Nov. 26 at about 12:33 p.m.; Alaska State Troopers.",
+        "Troopers say the driver left the roadway, causing disabling damage to his vehicle, and that investigation showed his license was revoked and that he had a prior conviction for driving while license revoked within the past ten years. He was taken to the Fairbanks Correctional Center for remand. Incident AK26116411."
       ],
       "sources": [
         {
@@ -44,9 +166,8 @@
       ],
       "title": "Indecent exposure and trespass arrest: Beattus Moses Jr.",
       "body": [
-        "Beattus Moses Jr., 64, was arrested on a charge of indecent exposure in the second degree with a victim aged 16 or older, and on a charge of criminal trespass in the second degree. Fairbanks Police recorded both as misdemeanors. 1900 block of Airport Way, Fairbanks, Nov. 25 at 3:00 a.m.; Fairbanks Police.",
-        "Indecent exposure in the second degree means exposing one's genitals with reckless disregard for the offense caused. Criminal trespass in the second degree means entering or remaining unlawfully on another person's premises.",
-        "Police case 26003573; court case 4FA-26-02343CR, before Judge Maria P. Bahr, with arraignment set for Dec. 1. The State has not yet filed a charging document in the case, and the court record carries no charge."
+        "Beattus Moses Jr., 64, was arrested on a charge of indecent exposure in the second degree with a victim aged 16 or older, and on a charge of criminal trespass in the second degree. Fairbanks Police recorded both as misdemeanors. Indecent exposure in the second degree means exposing one's genitals with reckless disregard for the offense caused; criminal trespass in the second degree means entering or remaining unlawfully on another person's premises. 1900 block of Airport Way, Fairbanks, Nov. 25 at 3:00 a.m.; Fairbanks Police.",
+        "Police case 26003573; court case 4FA-26-02343CR, with arraignment set for Dec. 1. The State has not yet filed a charging document, so the court record carries no charge."
       ],
       "sources": [
         {
@@ -83,6 +204,42 @@
     "new": []
   },
   "open_cases": [
+    {
+      "case": "4FA-26-02351CR",
+      "defendant": "Bishop, Daniel Dean",
+      "level": "Class A misdemeanor; unclassified misdemeanor; non-criminal infraction",
+      "charges": "Reckless driving; driving with a license canceled, revoked or suspended for a criminal offense; driving in violation of a license limitation, recorded non-criminal. Offense Fairbanks, Nov. 25.",
+      "next": "Pre-trial conference Jan. 21, 2027; trial week Feb. 1, 2027",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-26"
+    },
+    {
+      "case": "4FA-26-02350CR",
+      "defendant": "Verbus, Jr, Adam Dwayne",
+      "level": "Class A misdemeanor; Class B misdemeanor",
+      "charges": "Assault in the fourth degree, recklessly injuring another person; criminal mischief in the fifth degree, damage under $250. Both counts domestic violence related. Offense North Pole, Nov. 25.",
+      "next": "Pre-trial conference Jan. 21, 2027; trial week Feb. 1, 2027",
+      "judge": "Christian, Matthew C",
+      "last_docket": "2026-11-26"
+    },
+    {
+      "case": "4FA-26-02349CR",
+      "defendant": "Richardson, Raidyn",
+      "level": "Class C felony",
+      "charges": "Misconduct involving weapons in the third degree, possessing a concealable firearm after a felony conviction. Offense North Pole, Oct. 22, 2026. Warrant issued, performance bail $5,000.",
+      "next": "No event set on the file",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-11-26"
+    },
+    {
+      "case": "4FA-26-02348CR",
+      "defendant": "Arazo, Za'quiohn E'Mar",
+      "level": "Class C felony; Class A misdemeanor",
+      "charges": "Criminal mischief in the third degree, damage $750 or more; criminal trespass in the first degree, in a dwelling. Offense Fairbanks, Nov. 25.",
+      "next": "Preliminary hearings Dec. 3 and Dec. 16, 2026",
+      "judge": "Not stated on the file",
+      "last_docket": "2026-11-26"
+    },
     {
       "case": "4FA-26-02347CR",
       "defendant": "Weeks, Isaiah Joseph",
